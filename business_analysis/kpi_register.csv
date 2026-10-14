@@ -1,0 +1,7 @@
+﻿kpi_id,name,definition,target,current_status,measurement_method,proposed_owner
+K01,Decision usefulness,Users producing a justified next research question / users completing a scenario,Proposed >=80% in 5-person pilot,Not measured,Moderator scores output against source coverage and caveats,Sponsor/product lead
+K02,Task completion,Users completing a scenario without moderator help / users attempting it,Proposed >=80% per scenario,Not measured,Observe cuisine location and undecided tasks separately,BA/researcher
+K03,Research time,Median elapsed minutes from entry to exported comparison plus research question,Proposed <=5 minutes; compare with manual baseline,Not measured,Same tasks and time rule for manual and prototype conditions,BA/researcher
+K04,Data integrity,Passed deterministic build checks / executed build checks,100% required,12/12 on final rerun,outputs/validation_checks.csv,Data analyst
+K05,Traceable requirements,Essential requirements with feature and acceptance criterion / all essential requirements,100% required,10/10 specified; user acceptance pending,requirements_traceability.csv,BA
+K06,Evidence coverage,Modules showing source period units and scope / analytical modules,5/5 required,5/5 in prototype content review,Supply maps rent delivery market-context review,Data analyst

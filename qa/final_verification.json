@@ -1,0 +1,198 @@
+{
+  "checked_at_utc": "2026-10-14T02:58:03.454340+00:00",
+  "final_data_and_structure_checks": [
+    {
+      "check": "CAMIS total",
+      "passed": true
+    },
+    {
+      "check": "Queens Chinese records",
+      "passed": true
+    },
+    {
+      "check": "Manhattan records",
+      "passed": true
+    },
+    {
+      "check": "All build controls pass",
+      "passed": true
+    },
+    {
+      "check": "14 unique requirement IDs",
+      "passed": true
+    },
+    {
+      "check": "10 essential requirements traced",
+      "passed": true
+    },
+    {
+      "check": "UAT log has no invented observations",
+      "passed": true
+    },
+    {
+      "check": "Delivery headline",
+      "passed": true
+    },
+    {
+      "check": "HTML has embedded data",
+      "passed": true
+    },
+    {
+      "check": "HTML does not load external scripts",
+      "passed": true
+    },
+    {
+      "check": "Review and source dates distinct",
+      "passed": true
+    }
+  ],
+  "data_build_checks": 12,
+  "core_csv_table_count": 17,
+  "browser_rerun": {
+    "status": "blocked",
+    "reason": "Supported browser-control capability unavailable for this map release; prior run also hit socket restrictions",
+    "prior_result": "qa/ui_checks.json; retained from 7 October package, not a new pass"
+  },
+  "map_checks": {
+    "tested_at_utc": "2026-10-14T02:57:19.149Z",
+    "test_type": "Node calculation and JSDOM behavior tests; not browser layout QA",
+    "passed": 32,
+    "checks": [
+      {
+        "check": "262 unique NTA polygons",
+        "passed": true
+      },
+      {
+        "check": "Mapped totals reconcile",
+        "passed": true
+      },
+      {
+        "check": "Chinese count and denominator",
+        "passed": true
+      },
+      {
+        "check": "Share uses known-cuisine denominator",
+        "passed": true
+      },
+      {
+        "check": "Missing denominator stays unavailable",
+        "passed": true
+      },
+      {
+        "check": "Absent cuisine is zero",
+        "passed": true
+      },
+      {
+        "check": "Count zero and missing use different colors",
+        "passed": true
+      },
+      {
+        "check": "Borough filter matches polygons",
+        "passed": true
+      },
+      {
+        "check": "Rent values retain original source",
+        "passed": true
+      },
+      {
+        "check": "Rent anchors limited to Manhattan",
+        "passed": true
+      },
+      {
+        "check": "No initialization errors",
+        "passed": true
+      },
+      {
+        "check": "Map initially visible with all NTAs",
+        "passed": true
+      },
+      {
+        "check": "Selected neighborhood count renders",
+        "passed": true
+      },
+      {
+        "check": "Share display rounds correctly",
+        "passed": true
+      },
+      {
+        "check": "All-cuisine share is disabled",
+        "passed": true
+      },
+      {
+        "check": "Unknown cuisine cannot use known-cuisine share",
+        "passed": true
+      },
+      {
+        "check": "Zoom changes viewBox",
+        "passed": true
+      },
+      {
+        "check": "Fit restores viewBox",
+        "passed": true
+      },
+      {
+        "check": "Cuisine export triggered",
+        "passed": true
+      },
+      {
+        "check": "Rent defaults to Manhattan with 16 markers",
+        "passed": true
+      },
+      {
+        "check": "Rent selection has correct value and scope",
+        "passed": true
+      },
+      {
+        "check": "Uncovered borough has no imputed rent",
+        "passed": true
+      },
+      {
+        "check": "Rent export triggered",
+        "passed": true
+      },
+      {
+        "check": "Cuisine entry links to map",
+        "passed": true
+      },
+      {
+        "check": "Location entry links to map",
+        "passed": true
+      },
+      {
+        "check": "Exploration resets map filters",
+        "passed": true
+      },
+      {
+        "check": "Original supply total retained",
+        "passed": true
+      },
+      {
+        "check": "Original delivery metrics retained",
+        "passed": true
+      },
+      {
+        "check": "Original rent table retained",
+        "passed": true
+      },
+      {
+        "check": "Cuisine export retains geography and definition",
+        "passed": true
+      },
+      {
+        "check": "No DOM runtime errors",
+        "passed": true
+      },
+      {
+        "check": "HTML has no external script dependency",
+        "passed": true
+      }
+    ],
+    "limitations": [
+      "Real browser rendering and responsiveness not executed",
+      "SVG pointer pan not exercised in JSDOM",
+      "Keyboard focus appearance requires browser review"
+    ]
+  },
+  "user_acceptance": "Not executed; blank log supplied",
+  "document_review": "Eight pages rendered and visually reviewed before packaging"
+}

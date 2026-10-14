@@ -1,0 +1,113 @@
+corridor,year,half,period,median_asking_rent_usd_sqft_year,source_id,source_page
+Harlem (125th),2026,1,H1 2026,,S3,24
+Harlem (125th),2025,2,H2 2025,150.0,S3,24
+Harlem (125th),2025,1,H1 2025,155.0,S3,24
+Harlem (125th),2024,2,H2 2024,160.0,S3,24
+Harlem (125th),2024,1,H1 2024,165.0,S3,24
+Harlem (125th),2023,2,H2 2023,165.0,S3,24
+Harlem (125th),2023,1,H1 2023,142.0,S3,24
+Upper West Side (Broadway),2026,1,H1 2026,275.0,S3,24
+Upper West Side (Broadway),2025,2,H2 2025,275.0,S3,24
+Upper West Side (Broadway),2025,1,H1 2025,275.0,S3,24
+Upper West Side (Broadway),2024,2,H2 2024,221.0,S3,24
+Upper West Side (Broadway),2024,1,H1 2024,205.0,S3,24
+Upper West Side (Broadway),2023,2,H2 2023,206.0,S3,24
+Upper West Side (Broadway),2023,1,H1 2023,200.0,S3,24
+Columbus Avenue,2026,1,H1 2026,350.0,S3,24
+Columbus Avenue,2025,2,H2 2025,350.0,S3,24
+Columbus Avenue,2025,1,H1 2025,347.0,S3,24
+Columbus Avenue,2024,2,H2 2024,338.0,S3,24
+Columbus Avenue,2024,1,H1 2024,331.0,S3,24
+Columbus Avenue,2023,2,H2 2023,330.0,S3,24
+Columbus Avenue,2023,1,H1 2023,330.0,S3,24
+Upper East Side (86th Street),2026,1,H1 2026,300.0,S3,24
+Upper East Side (86th Street),2025,2,H2 2025,275.0,S3,24
+Upper East Side (86th Street),2025,1,H1 2025,271.0,S3,24
+Upper East Side (86th Street),2024,2,H2 2024,285.0,S3,24
+Upper East Side (86th Street),2024,1,H1 2024,300.0,S3,24
+Upper East Side (86th Street),2023,2,H2 2023,300.0,S3,24
+Upper East Side (86th Street),2023,1,H1 2023,300.0,S3,24
+Madison Avenue,2026,1,H1 2026,750.0,S3,24
+Madison Avenue,2025,2,H2 2025,800.0,S3,24
+Madison Avenue,2025,1,H1 2025,800.0,S3,24
+Madison Avenue,2024,2,H2 2024,800.0,S3,24
+Madison Avenue,2024,1,H1 2024,853.0,S3,24
+Madison Avenue,2023,2,H2 2023,900.0,S3,24
+Madison Avenue,2023,1,H1 2023,850.0,S3,24
+Third Avenue,2026,1,H1 2026,251.0,S3,24
+Third Avenue,2025,2,H2 2025,232.0,S3,24
+Third Avenue,2025,1,H1 2025,275.0,S3,24
+Third Avenue,2024,2,H2 2024,250.0,S3,24
+Third Avenue,2024,1,H1 2024,250.0,S3,24
+Third Avenue,2023,2,H2 2023,250.0,S3,24
+Third Avenue,2023,1,H1 2023,250.0,S3,24
+Lower Fifth Avenue,2026,1,H1 2026,650.0,S3,24
+Lower Fifth Avenue,2025,2,H2 2025,625.0,S3,24
+Lower Fifth Avenue,2025,1,H1 2025,650.0,S3,24
+Lower Fifth Avenue,2024,2,H2 2024,500.0,S3,24
+Lower Fifth Avenue,2024,1,H1 2024,500.0,S3,24
+Lower Fifth Avenue,2023,2,H2 2023,650.0,S3,24
+Lower Fifth Avenue,2023,1,H1 2023,650.0,S3,24
+Upper Fifth Avenue,2026,1,H1 2026,2500.0,S3,24
+Upper Fifth Avenue,2025,2,H2 2025,2500.0,S3,24
+Upper Fifth Avenue,2025,1,H1 2025,2500.0,S3,24
+Upper Fifth Avenue,2024,2,H2 2024,1800.0,S3,24
+Upper Fifth Avenue,2024,1,H1 2024,2500.0,S3,24
+Upper Fifth Avenue,2023,2,H2 2023,2000.0,S3,24
+Upper Fifth Avenue,2023,1,H1 2023,,S3,24
+Times Square,2026,1,H1 2026,1328.0,S3,24
+Times Square,2025,2,H2 2025,1361.0,S3,24
+Times Square,2025,1,H1 2025,1416.0,S3,24
+Times Square,2024,2,H2 2024,1478.0,S3,24
+Times Square,2024,1,H1 2024,1922.0,S3,24
+Times Square,2023,2,H2 2023,1350.0,S3,24
+Times Square,2023,1,H1 2023,,S3,24
+Herald Square,2026,1,H1 2026,400.0,S3,24
+Herald Square,2025,2,H2 2025,400.0,S3,24
+Herald Square,2025,1,H1 2025,425.0,S3,24
+Herald Square,2024,2,H2 2024,438.0,S3,24
+Herald Square,2024,1,H1 2024,450.0,S3,24
+Herald Square,2023,2,H2 2023,475.0,S3,24
+Herald Square,2023,1,H1 2023,405.0,S3,24
+Flatiron (Fifth Avenue),2026,1,H1 2026,313.0,S3,24
+Flatiron (Fifth Avenue),2025,2,H2 2025,315.0,S3,24
+Flatiron (Fifth Avenue),2025,1,H1 2025,315.0,S3,24
+Flatiron (Fifth Avenue),2024,2,H2 2024,358.0,S3,24
+Flatiron (Fifth Avenue),2024,1,H1 2024,250.0,S3,24
+Flatiron (Fifth Avenue),2023,2,H2 2023,318.0,S3,24
+Flatiron (Fifth Avenue),2023,1,H1 2023,245.0,S3,24
+Flatiron (Broadway),2026,1,H1 2026,310.0,S3,24
+Flatiron (Broadway),2025,2,H2 2025,350.0,S3,24
+Flatiron (Broadway),2025,1,H1 2025,300.0,S3,24
+Flatiron (Broadway),2024,2,H2 2024,358.0,S3,24
+Flatiron (Broadway),2024,1,H1 2024,375.0,S3,24
+Flatiron (Broadway),2023,2,H2 2023,375.0,S3,24
+Flatiron (Broadway),2023,1,H1 2023,350.0,S3,24
+Meatpacking,2026,1,H1 2026,275.0,S3,24
+Meatpacking,2025,2,H2 2025,225.0,S3,24
+Meatpacking,2025,1,H1 2025,225.0,S3,24
+Meatpacking,2024,2,H2 2024,225.0,S3,24
+Meatpacking,2024,1,H1 2024,275.0,S3,24
+Meatpacking,2023,2,H2 2023,275.0,S3,24
+Meatpacking,2023,1,H1 2023,274.0,S3,24
+West Village (Bleecker),2026,1,H1 2026,,S3,24
+West Village (Bleecker),2025,2,H2 2025,,S3,24
+West Village (Bleecker),2025,1,H1 2025,,S3,24
+West Village (Bleecker),2024,2,H2 2024,,S3,24
+West Village (Bleecker),2024,1,H1 2024,300.0,S3,24
+West Village (Bleecker),2023,2,H2 2023,275.0,S3,24
+West Village (Bleecker),2023,1,H1 2023,213.0,S3,24
+SoHo,2026,1,H1 2026,500.0,S3,24
+SoHo,2025,2,H2 2025,750.0,S3,24
+SoHo,2025,1,H1 2025,604.0,S3,24
+SoHo,2024,2,H2 2024,440.0,S3,24
+SoHo,2024,1,H1 2024,400.0,S3,24
+SoHo,2023,2,H2 2023,425.0,S3,24
+SoHo,2023,1,H1 2023,360.0,S3,24
+Financial District,2026,1,H1 2026,200.0,S3,24
+Financial District,2025,2,H2 2025,250.0,S3,24
+Financial District,2025,1,H1 2025,238.0,S3,24
+Financial District,2024,2,H2 2024,238.0,S3,24
+Financial District,2024,1,H1 2024,250.0,S3,24
+Financial District,2023,2,H2 2023,275.0,S3,24
+Financial District,2023,1,H1 2023,250.0,S3,24

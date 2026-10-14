@@ -1,0 +1,13 @@
+﻿verification_id,requirement,status,evidence,coverage
+UI01,R01,Historical pre-map browser evidence; new DOM checks where covered; browser layout unverified,qa/ui_checks.json; qa/map_checks.json; verify_dashboard.cjs,"Cuisine path, Queens Chinese 757, ZIP filter"
+UI02,R02,Historical pre-map browser evidence; new DOM checks where covered; browser layout unverified,qa/ui_checks.json; qa/map_checks.json; verify_dashboard.cjs,"Location path, Manhattan total, empty state"
+UI03,R03,Historical pre-map browser evidence; new DOM checks where covered; browser layout unverified,qa/ui_checks.json; qa/map_checks.json; verify_dashboard.cjs,Exploration reset
+UI04,R04,Historical pre-map browser evidence; new DOM checks where covered; browser layout unverified,qa/ui_checks.json; qa/map_checks.json; verify_dashboard.cjs,Rent calculation and invalid input
+UI05,R05,Historical pre-map browser evidence; new DOM checks where covered; browser layout unverified,qa/ui_checks.json; qa/map_checks.json; verify_dashboard.cjs,Quarter comparison and identical quarter
+UI06,R07,Historical pre-map browser evidence; new DOM checks where covered; browser layout unverified,qa/ui_checks.json; qa/map_checks.json; verify_dashboard.cjs,ZIP export and rent export
+UI07,R08,Historical pre-map browser evidence; new DOM checks where covered; browser layout unverified,qa/ui_checks.json; qa/map_checks.json; verify_dashboard.cjs,Market context values and scope
+UI08,R09,Historical pre-map browser evidence; new DOM checks where covered; browser layout unverified,qa/ui_checks.json; qa/map_checks.json; verify_dashboard.cjs,320/390 px layout and JavaScript errors
+DOC01,R06,Content review complete,NYC_Restaurant_Explorer.html; DATA_GUIDE.md,"Five modules expose source, period, units and coverage"
+DATA01,R07,Final rerun passed,outputs/validation_checks.csv; qa/final_verification.json,12 pipeline controls and 11 final data/structure controls
+MAP01,R13,Calculation and DOM tests passed; browser layout pending,qa/map_checks.json; verify_maps.cjs; outputs/geography_summary.json,"262 areas, mapped count, count/share filters, selection, entry links and export"
+MAP02,R14,Calculation and DOM tests passed; browser layout pending,qa/map_checks.json; verify_maps.cjs,"16 anchors, null prices, no other-borough imputation and export"

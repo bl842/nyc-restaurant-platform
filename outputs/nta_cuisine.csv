@@ -1,0 +1,5464 @@
+nta2020,cuisine,restaurant_count
+BK0101,American,51
+BK0101,Asian/Asian Fusion,5
+BK0101,Bagels/Pretzels,3
+BK0101,Bakery Products/Desserts,6
+BK0101,Bottled Beverages,2
+BK0101,Chicken,2
+BK0101,Chinese,8
+BK0101,Chinese/Japanese,1
+BK0101,Coffee/Tea,39
+BK0101,Continental,1
+BK0101,Donuts,4
+BK0101,Eastern European,1
+BK0101,Ethiopian,1
+BK0101,French,3
+BK0101,Frozen Desserts,5
+BK0101,German,1
+BK0101,Greek,2
+BK0101,Hamburgers,2
+BK0101,Indian,2
+BK0101,Irish,2
+BK0101,Italian,7
+BK0101,Japanese,20
+BK0101,"Juice, Smoothies, Fruit Salads",5
+BK0101,Korean,6
+BK0101,Mediterranean,6
+BK0101,Mexican,12
+BK0101,Middle Eastern,1
+BK0101,New American,4
+BK0101,Other,1
+BK0101,Pancakes/Waffles,1
+BK0101,Pizza,18
+BK0101,Polish,8
+BK0101,Portuguese,1
+BK0101,Sandwiches,5
+BK0101,Sandwiches/Salads/Mixed Buffet,2
+BK0101,Scandinavian,1
+BK0101,Seafood,3
+BK0101,Soups/Salads/Sandwiches,2
+BK0101,Southeast Asian,3
+BK0101,Spanish,3
+BK0101,Steakhouse,1
+BK0101,Tapas,2
+BK0101,Thai,7
+BK0101,Turkish,1
+BK0101,Unknown,43
+BK0101,Vegan,2
+BK0101,Vegetarian,1
+BK0102,American,100
+BK0102,Asian/Asian Fusion,7
+BK0102,Australian,2
+BK0102,Bagels/Pretzels,5
+BK0102,Bakery Products/Desserts,9
+BK0102,Barbecue,1
+BK0102,Brazilian,1
+BK0102,Californian,3
+BK0102,Caribbean,2
+BK0102,Chicken,5
+BK0102,Chinese,13
+BK0102,Chinese/Cuban,1
+BK0102,Chinese/Japanese,2
+BK0102,Coffee/Tea,62
+BK0102,Donuts,3
+BK0102,Eastern European,1
+BK0102,French,10
+BK0102,Frozen Desserts,8
+BK0102,Fusion,3
+BK0102,German,2
+BK0102,Greek,4
+BK0102,Hamburgers,7
+BK0102,Hawaiian,2
+BK0102,Indian,5
+BK0102,Iranian,1
+BK0102,Irish,4
+BK0102,Italian,24
+BK0102,Japanese,25
+BK0102,Jewish/Kosher,5
+BK0102,"Juice, Smoothies, Fruit Salads",10
+BK0102,Korean,5
+BK0102,Latin American,17
+BK0102,Mediterranean,6
+BK0102,Mexican,24
+BK0102,Middle Eastern,9
+BK0102,New American,13
+BK0102,New French,2
+BK0102,Other,5
+BK0102,Peruvian,1
+BK0102,Pizza,19
+BK0102,Polish,1
+BK0102,Salads,2
+BK0102,Sandwiches,8
+BK0102,Sandwiches/Salads/Mixed Buffet,1
+BK0102,Scandinavian,1
+BK0102,Seafood,3
+BK0102,Soul Food,1
+BK0102,Soups,1
+BK0102,Southeast Asian,3
+BK0102,Southwestern,1
+BK0102,Spanish,6
+BK0102,Steakhouse,2
+BK0102,Tapas,2
+BK0102,Tex-Mex,5
+BK0102,Thai,10
+BK0102,Turkish,4
+BK0102,Unknown,92
+BK0102,Vegan,4
+BK0102,Vegetarian,1
+BK0103,Bagels/Pretzels,1
+BK0103,Bakery Products/Desserts,1
+BK0103,Fusion,1
+BK0103,Hamburgers,2
+BK0103,Japanese,1
+BK0103,Jewish/Kosher,10
+BK0103,Latin American,2
+BK0103,Mexican,1
+BK0103,Pizza,1
+BK0103,Spanish,1
+BK0103,Unknown,5
+BK0103,Vegan,1
+BK0104,American,67
+BK0104,Asian/Asian Fusion,5
+BK0104,Bagels/Pretzels,2
+BK0104,Bakery Products/Desserts,3
+BK0104,Bottled Beverages,1
+BK0104,Brazilian,1
+BK0104,Caribbean,5
+BK0104,Chicken,5
+BK0104,Chinese,11
+BK0104,Chinese/Cuban,1
+BK0104,Chinese/Japanese,1
+BK0104,Coffee/Tea,34
+BK0104,Creole,1
+BK0104,Czech,1
+BK0104,Donuts,6
+BK0104,Eastern European,1
+BK0104,French,2
+BK0104,Fusion,2
+BK0104,Greek,1
+BK0104,Hamburgers,3
+BK0104,Hotdogs,1
+BK0104,Indian,4
+BK0104,Iranian,1
+BK0104,Italian,10
+BK0104,Japanese,12
+BK0104,"Juice, Smoothies, Fruit Salads",4
+BK0104,Korean,1
+BK0104,Latin American,12
+BK0104,Lebanese,1
+BK0104,Mediterranean,6
+BK0104,Mexican,16
+BK0104,Middle Eastern,3
+BK0104,New American,1
+BK0104,New French,1
+BK0104,Not Listed/Not Applicable,1
+BK0104,Other,8
+BK0104,Pakistani,1
+BK0104,Pancakes/Waffles,1
+BK0104,Peruvian,3
+BK0104,Pizza,18
+BK0104,Polynesian,1
+BK0104,Sandwiches,5
+BK0104,Sandwiches/Salads/Mixed Buffet,1
+BK0104,Seafood,1
+BK0104,Soul Food,3
+BK0104,Southeast Asian,2
+BK0104,Spanish,5
+BK0104,Steakhouse,1
+BK0104,Tapas,1
+BK0104,Tex-Mex,1
+BK0104,Thai,6
+BK0104,Unknown,54
+BK0104,Vegan,2
+BK0104,Vegetarian,1
+BK0201,American,21
+BK0201,Asian/Asian Fusion,3
+BK0201,Bagels/Pretzels,2
+BK0201,Bakery Products/Desserts,4
+BK0201,Californian,1
+BK0201,Chicken,1
+BK0201,Chinese,5
+BK0201,Coffee/Tea,19
+BK0201,Donuts,1
+BK0201,Eastern European,1
+BK0201,French,2
+BK0201,Frozen Desserts,3
+BK0201,Hamburgers,1
+BK0201,Indian,2
+BK0201,Italian,7
+BK0201,Japanese,9
+BK0201,"Juice, Smoothies, Fruit Salads",3
+BK0201,Mediterranean,4
+BK0201,Mexican,2
+BK0201,Middle Eastern,4
+BK0201,New American,5
+BK0201,Other,2
+BK0201,Pizza,8
+BK0201,Russian,1
+BK0201,Salads,4
+BK0201,Sandwiches,2
+BK0201,Sandwiches/Salads/Mixed Buffet,1
+BK0201,Seafood,1
+BK0201,Soups/Salads/Sandwiches,1
+BK0201,Southeast Asian,2
+BK0201,Tex-Mex,3
+BK0201,Thai,3
+BK0201,Unknown,7
+BK0201,Vegan,1
+BK0202,American,66
+BK0202,Asian/Asian Fusion,8
+BK0202,Australian,1
+BK0202,Bagels/Pretzels,5
+BK0202,Bakery Products/Desserts,9
+BK0202,Barbecue,2
+BK0202,Bottled Beverages,2
+BK0202,Brazilian,1
+BK0202,Californian,2
+BK0202,Caribbean,4
+BK0202,Chicken,6
+BK0202,Chinese,12
+BK0202,Chinese/Japanese,1
+BK0202,Coffee/Tea,40
+BK0202,Donuts,2
+BK0202,Egyptian,1
+BK0202,Filipino,1
+BK0202,French,1
+BK0202,Frozen Desserts,6
+BK0202,Fusion,1
+BK0202,German,3
+BK0202,Hamburgers,10
+BK0202,Hawaiian,3
+BK0202,Hotdogs,1
+BK0202,Hotdogs/Pretzels,2
+BK0202,Indian,3
+BK0202,Italian,8
+BK0202,Japanese,14
+BK0202,Jewish/Kosher,2
+BK0202,"Juice, Smoothies, Fruit Salads",11
+BK0202,Korean,7
+BK0202,Latin American,4
+BK0202,Mediterranean,4
+BK0202,Mexican,8
+BK0202,Middle Eastern,3
+BK0202,New American,3
+BK0202,Other,6
+BK0202,Pakistani,1
+BK0202,Pancakes/Waffles,2
+BK0202,Pizza,21
+BK0202,Polish,1
+BK0202,Salads,5
+BK0202,Sandwiches,5
+BK0202,Sandwiches/Salads/Mixed Buffet,1
+BK0202,Scandinavian,1
+BK0202,Seafood,3
+BK0202,Soul Food,2
+BK0202,Soups,1
+BK0202,Soups/Salads/Sandwiches,1
+BK0202,Southeast Asian,4
+BK0202,Spanish,6
+BK0202,Steakhouse,1
+BK0202,Tex-Mex,4
+BK0202,Thai,7
+BK0202,Unknown,36
+BK0202,Vegan,1
+BK0202,Vegetarian,2
+BK0203,American,30
+BK0203,Asian/Asian Fusion,2
+BK0203,Bagels/Pretzels,2
+BK0203,Bakery Products/Desserts,5
+BK0203,Caribbean,5
+BK0203,Chicken,3
+BK0203,Chinese,9
+BK0203,Coffee/Tea,17
+BK0203,French,1
+BK0203,Frozen Desserts,2
+BK0203,German,2
+BK0203,Hamburgers,2
+BK0203,Hotdogs/Pretzels,1
+BK0203,Indian,2
+BK0203,Italian,9
+BK0203,Japanese,3
+BK0203,"Juice, Smoothies, Fruit Salads",4
+BK0203,Korean,3
+BK0203,Latin American,2
+BK0203,Mediterranean,3
+BK0203,Mexican,5
+BK0203,Middle Eastern,1
+BK0203,New American,5
+BK0203,New French,2
+BK0203,Other,1
+BK0203,Peruvian,1
+BK0203,Pizza,5
+BK0203,Sandwiches,5
+BK0203,Seafood,2
+BK0203,Tapas,2
+BK0203,Tex-Mex,1
+BK0203,Thai,4
+BK0203,Turkish,1
+BK0203,Unknown,15
+BK0203,Vegan,1
+BK0203,Vegetarian,2
+BK0204,American,22
+BK0204,Asian/Asian Fusion,2
+BK0204,Bagels/Pretzels,3
+BK0204,Caribbean,1
+BK0204,Chicken,3
+BK0204,Chinese,3
+BK0204,Coffee/Tea,8
+BK0204,Donuts,1
+BK0204,Eastern European,1
+BK0204,French,1
+BK0204,Hamburgers,1
+BK0204,Hotdogs,1
+BK0204,Indian,3
+BK0204,Indonesian,1
+BK0204,Irish,1
+BK0204,Italian,5
+BK0204,Japanese,3
+BK0204,"Juice, Smoothies, Fruit Salads",1
+BK0204,Korean,1
+BK0204,Latin American,1
+BK0204,Mexican,4
+BK0204,Middle Eastern,1
+BK0204,New American,3
+BK0204,New French,2
+BK0204,Other,2
+BK0204,Pizza,7
+BK0204,Salads,1
+BK0204,Sandwiches,1
+BK0204,Sandwiches/Salads/Mixed Buffet,3
+BK0204,Seafood,2
+BK0204,Southeast Asian,1
+BK0204,Tex-Mex,1
+BK0204,Thai,4
+BK0204,Turkish,1
+BK0204,Unknown,13
+BK0261,American,2
+BK0261,Latin American,1
+BK0261,Unknown,2
+BK0301,African,6
+BK0301,American,41
+BK0301,Asian/Asian Fusion,2
+BK0301,Bagels/Pretzels,3
+BK0301,Bakery Products/Desserts,4
+BK0301,Bangladeshi,1
+BK0301,Bottled Beverages,1
+BK0301,Brazilian,1
+BK0301,Caribbean,13
+BK0301,Chicken,13
+BK0301,Chinese,10
+BK0301,Coffee/Tea,29
+BK0301,Donuts,1
+BK0301,Ethiopian,1
+BK0301,French,2
+BK0301,Frozen Desserts,4
+BK0301,Hamburgers,2
+BK0301,Indian,6
+BK0301,Italian,5
+BK0301,Japanese,6
+BK0301,Jewish/Kosher,6
+BK0301,"Juice, Smoothies, Fruit Salads",5
+BK0301,Korean,1
+BK0301,Latin American,5
+BK0301,Mediterranean,1
+BK0301,Mexican,10
+BK0301,Middle Eastern,2
+BK0301,New American,2
+BK0301,Other,6
+BK0301,Pizza,9
+BK0301,Sandwiches,1
+BK0301,Scandinavian,1
+BK0301,Seafood,3
+BK0301,Soul Food,1
+BK0301,Spanish,2
+BK0301,Tapas,1
+BK0301,Tex-Mex,3
+BK0301,Thai,3
+BK0301,Turkish,1
+BK0301,Unknown,36
+BK0301,Vegan,4
+BK0301,Vegetarian,3
+BK0302,African,1
+BK0302,American,34
+BK0302,Armenian,1
+BK0302,Asian/Asian Fusion,2
+BK0302,Bakery Products/Desserts,6
+BK0302,Bottled Beverages,1
+BK0302,Caribbean,13
+BK0302,Chicken,10
+BK0302,Chinese,14
+BK0302,Coffee/Tea,17
+BK0302,Creole/Cajun,1
+BK0302,Donuts,1
+BK0302,French,5
+BK0302,Fusion,1
+BK0302,Hamburgers,5
+BK0302,Indian,1
+BK0302,Italian,2
+BK0302,Japanese,1
+BK0302,"Juice, Smoothies, Fruit Salads",2
+BK0302,Latin American,7
+BK0302,Mediterranean,2
+BK0302,Mexican,5
+BK0302,Middle Eastern,1
+BK0302,New American,2
+BK0302,Not Listed/Not Applicable,1
+BK0302,Other,5
+BK0302,Pizza,13
+BK0302,Sandwiches,1
+BK0302,Seafood,3
+BK0302,Soul Food,8
+BK0302,Spanish,3
+BK0302,Tex-Mex,2
+BK0302,Thai,3
+BK0302,Unknown,28
+BK0302,Vegan,3
+BK0302,Vegetarian,1
+BK0401,African,1
+BK0401,American,65
+BK0401,Asian/Asian Fusion,5
+BK0401,Bagels/Pretzels,2
+BK0401,Bakery Products/Desserts,7
+BK0401,Bottled Beverages,2
+BK0401,Brazilian,1
+BK0401,Caribbean,1
+BK0401,Chicken,5
+BK0401,Chinese,7
+BK0401,Coffee/Tea,25
+BK0401,Donuts,3
+BK0401,Ethiopian,1
+BK0401,Frozen Desserts,2
+BK0401,Fusion,1
+BK0401,Hamburgers,1
+BK0401,Indian,3
+BK0401,Italian,2
+BK0401,Japanese,6
+BK0401,"Juice, Smoothies, Fruit Salads",3
+BK0401,Korean,4
+BK0401,Latin American,29
+BK0401,Mediterranean,4
+BK0401,Mexican,29
+BK0401,Middle Eastern,3
+BK0401,Other,12
+BK0401,Pancakes/Waffles,1
+BK0401,Pizza,19
+BK0401,Salads,2
+BK0401,Sandwiches,4
+BK0401,Seafood,1
+BK0401,Southeast Asian,1
+BK0401,Spanish,17
+BK0401,Tapas,1
+BK0401,Tex-Mex,2
+BK0401,Thai,5
+BK0401,Turkish,1
+BK0401,Unknown,42
+BK0401,Vegan,1
+BK0402,American,14
+BK0402,Asian/Asian Fusion,2
+BK0402,Bakery Products/Desserts,5
+BK0402,Bangladeshi,1
+BK0402,Bottled Beverages,1
+BK0402,Caribbean,1
+BK0402,Chicken,5
+BK0402,Chinese,8
+BK0402,Chinese/Cuban,1
+BK0402,Coffee/Tea,9
+BK0402,Donuts,2
+BK0402,Frozen Desserts,2
+BK0402,Hamburgers,2
+BK0402,Indian,2
+BK0402,Italian,1
+BK0402,Japanese,3
+BK0402,"Juice, Smoothies, Fruit Salads",2
+BK0402,Latin American,6
+BK0402,Mexican,8
+BK0402,Middle Eastern,1
+BK0402,Other,5
+BK0402,Peruvian,1
+BK0402,Pizza,7
+BK0402,Sandwiches,2
+BK0402,Seafood,1
+BK0402,Soul Food,1
+BK0402,Soups/Salads/Sandwiches,1
+BK0402,Spanish,4
+BK0402,Tex-Mex,3
+BK0402,Thai,4
+BK0402,Unknown,5
+BK0501,American,4
+BK0501,Bakery Products/Desserts,4
+BK0501,Bottled Beverages,1
+BK0501,Caribbean,3
+BK0501,Chicken,3
+BK0501,Chinese,10
+BK0501,Donuts,3
+BK0501,Frozen Desserts,1
+BK0501,Fusion,3
+BK0501,Hamburgers,1
+BK0501,Japanese,1
+BK0501,Latin American,14
+BK0501,Mexican,4
+BK0501,Other,7
+BK0501,Pizza,5
+BK0501,Spanish,5
+BK0501,Unknown,8
+BK0502,African,1
+BK0502,American,3
+BK0502,Caribbean,3
+BK0502,Chicken,2
+BK0502,Chinese,9
+BK0502,Hamburgers,2
+BK0502,Latin American,4
+BK0502,Pizza,3
+BK0502,Sandwiches,1
+BK0502,Spanish,3
+BK0502,Unknown,3
+BK0503,African,1
+BK0503,American,3
+BK0503,Caribbean,12
+BK0503,Chicken,5
+BK0503,Chinese,11
+BK0503,Coffee/Tea,2
+BK0503,Creole,1
+BK0503,Frozen Desserts,1
+BK0503,Hamburgers,4
+BK0503,Latin American,7
+BK0503,Mexican,1
+BK0503,Other,5
+BK0503,Pizza,5
+BK0503,Sandwiches,2
+BK0503,Seafood,1
+BK0503,Spanish,4
+BK0503,Tex-Mex,1
+BK0503,Unknown,7
+BK0504,African,1
+BK0504,American,3
+BK0504,Caribbean,3
+BK0504,Chicken,7
+BK0504,Chinese,2
+BK0504,Chinese/Japanese,1
+BK0504,Coffee/Tea,1
+BK0504,Donuts,2
+BK0504,Hamburgers,1
+BK0504,Italian,1
+BK0504,Japanese,1
+BK0504,Other,1
+BK0504,Pancakes/Waffles,1
+BK0504,Pizza,2
+BK0504,Sandwiches,1
+BK0504,Seafood,2
+BK0504,Spanish,1
+BK0504,Unknown,3
+BK0505,African,1
+BK0505,American,2
+BK0505,Bakery Products/Desserts,1
+BK0505,Bangladeshi,8
+BK0505,Caribbean,3
+BK0505,Chicken,4
+BK0505,Chinese,5
+BK0505,Coffee/Tea,1
+BK0505,Donuts,4
+BK0505,Hamburgers,4
+BK0505,Indian,2
+BK0505,Latin American,4
+BK0505,Mediterranean,1
+BK0505,Middle Eastern,1
+BK0505,Pizza,4
+BK0505,Sandwiches,1
+BK0505,Southeast Asian,1
+BK0505,Unknown,8
+BK0601,American,75
+BK0601,Asian/Asian Fusion,1
+BK0601,Bagels/Pretzels,2
+BK0601,Bakery Products/Desserts,11
+BK0601,Barbecue,3
+BK0601,Caribbean,1
+BK0601,Chicken,4
+BK0601,Chinese,9
+BK0601,Coffee/Tea,37
+BK0601,Donuts,3
+BK0601,Eastern European,2
+BK0601,Ethiopian,1
+BK0601,Filipino,1
+BK0601,French,5
+BK0601,Frozen Desserts,3
+BK0601,Fusion,2
+BK0601,Greek,1
+BK0601,Hamburgers,2
+BK0601,Indian,3
+BK0601,Italian,19
+BK0601,Japanese,8
+BK0601,Jewish/Kosher,2
+BK0601,"Juice, Smoothies, Fruit Salads",3
+BK0601,Korean,2
+BK0601,Latin American,9
+BK0601,Lebanese,2
+BK0601,Mediterranean,1
+BK0601,Mexican,14
+BK0601,Middle Eastern,7
+BK0601,New American,2
+BK0601,New French,2
+BK0601,Other,3
+BK0601,Pizza,15
+BK0601,Sandwiches,3
+BK0601,Sandwiches/Salads/Mixed Buffet,2
+BK0601,Scandinavian,1
+BK0601,Seafood,5
+BK0601,Soul Food,1
+BK0601,Spanish,2
+BK0601,Tapas,2
+BK0601,Tex-Mex,2
+BK0601,Thai,10
+BK0601,Unknown,44
+BK0601,Vegan,1
+BK0602,American,62
+BK0602,Asian/Asian Fusion,4
+BK0602,Bagels/Pretzels,6
+BK0602,Bakery Products/Desserts,11
+BK0602,Barbecue,1
+BK0602,Bottled Beverages,2
+BK0602,Brazilian,1
+BK0602,Caribbean,8
+BK0602,Chicken,9
+BK0602,Chinese,16
+BK0602,Coffee/Tea,34
+BK0602,Donuts,1
+BK0602,Eastern European,1
+BK0602,English,1
+BK0602,French,1
+BK0602,Frozen Desserts,5
+BK0602,Fusion,1
+BK0602,Greek,4
+BK0602,Hamburgers,10
+BK0602,Hawaiian,1
+BK0602,Hotdogs,4
+BK0602,Indian,3
+BK0602,Irish,2
+BK0602,Italian,26
+BK0602,Japanese,24
+BK0602,Jewish/Kosher,1
+BK0602,"Juice, Smoothies, Fruit Salads",9
+BK0602,Korean,2
+BK0602,Latin American,6
+BK0602,Mediterranean,3
+BK0602,Mexican,16
+BK0602,Middle Eastern,5
+BK0602,New American,1
+BK0602,New French,1
+BK0602,Other,2
+BK0602,Peruvian,1
+BK0602,Pizza,24
+BK0602,Salads,3
+BK0602,Sandwiches,4
+BK0602,Sandwiches/Salads/Mixed Buffet,1
+BK0602,Seafood,3
+BK0602,Soups,1
+BK0602,Soups/Salads/Sandwiches,2
+BK0602,Southeast Asian,9
+BK0602,Spanish,1
+BK0602,Steakhouse,1
+BK0602,Tapas,1
+BK0602,Tex-Mex,7
+BK0602,Thai,7
+BK0602,Turkish,2
+BK0602,Unknown,37
+BK0602,Vegan,2
+BK0701,American,18
+BK0701,Asian/Asian Fusion,1
+BK0701,Bagels/Pretzels,1
+BK0701,Bakery Products/Desserts,3
+BK0701,Chinese,3
+BK0701,Chinese/Japanese,1
+BK0701,Coffee/Tea,8
+BK0701,Donuts,1
+BK0701,English,1
+BK0701,French,1
+BK0701,Frozen Desserts,2
+BK0701,Fusion,1
+BK0701,Hamburgers,1
+BK0701,Hotdogs,1
+BK0701,Indian,1
+BK0701,Indonesian,1
+BK0701,Irish,1
+BK0701,Italian,4
+BK0701,Japanese,3
+BK0701,"Juice, Smoothies, Fruit Salads",1
+BK0701,Mediterranean,4
+BK0701,Mexican,3
+BK0701,Middle Eastern,2
+BK0701,Other,4
+BK0701,Peruvian,1
+BK0701,Pizza,7
+BK0701,Sandwiches,1
+BK0701,Soups/Salads/Sandwiches,1
+BK0701,Tex-Mex,1
+BK0701,Thai,2
+BK0701,Unknown,3
+BK0702,American,34
+BK0702,Bagels/Pretzels,3
+BK0702,Bakery Products/Desserts,8
+BK0702,Barbecue,1
+BK0702,Caribbean,3
+BK0702,Chicken,5
+BK0702,Chinese,10
+BK0702,Coffee/Tea,15
+BK0702,Donuts,2
+BK0702,Frozen Desserts,3
+BK0702,German,1
+BK0702,Hamburgers,3
+BK0702,Hotdogs/Pretzels,1
+BK0702,Irish,1
+BK0702,Italian,1
+BK0702,Japanese,7
+BK0702,"Juice, Smoothies, Fruit Salads",3
+BK0702,Latin American,33
+BK0702,Mexican,28
+BK0702,Middle Eastern,2
+BK0702,New American,1
+BK0702,Peruvian,3
+BK0702,Pizza,15
+BK0702,Salads,1
+BK0702,Sandwiches,5
+BK0702,Sandwiches/Salads/Mixed Buffet,1
+BK0702,Seafood,3
+BK0702,Soups,1
+BK0702,Spanish,8
+BK0702,Steakhouse,2
+BK0702,Tex-Mex,4
+BK0702,Thai,1
+BK0702,Unknown,26
+BK0703,American,11
+BK0703,Asian/Asian Fusion,10
+BK0703,Bagels/Pretzels,1
+BK0703,Bakery Products/Desserts,20
+BK0703,Barbecue,2
+BK0703,Bottled Beverages,2
+BK0703,Chicken,7
+BK0703,Chinese,108
+BK0703,Chinese/Japanese,1
+BK0703,Coffee/Tea,15
+BK0703,Donuts,1
+BK0703,Frozen Desserts,4
+BK0703,Hamburgers,1
+BK0703,Hawaiian,1
+BK0703,Irish,1
+BK0703,Italian,2
+BK0703,Japanese,1
+BK0703,"Juice, Smoothies, Fruit Salads",2
+BK0703,Latin American,11
+BK0703,Mexican,13
+BK0703,Middle Eastern,1
+BK0703,Other,6
+BK0703,Pizza,3
+BK0703,Seafood,4
+BK0703,Southeast Asian,4
+BK0703,Spanish,3
+BK0703,Thai,1
+BK0703,Unknown,38
+BK0801,American,30
+BK0801,Asian/Asian Fusion,1
+BK0801,Bakery Products/Desserts,3
+BK0801,Barbecue,1
+BK0801,Bottled Beverages,2
+BK0801,Cajun,1
+BK0801,Caribbean,7
+BK0801,Chicken,1
+BK0801,Chinese,2
+BK0801,Coffee/Tea,14
+BK0801,Creole,1
+BK0801,Donuts,2
+BK0801,Frozen Desserts,3
+BK0801,Greek,2
+BK0801,Hamburgers,1
+BK0801,Hawaiian,1
+BK0801,Indian,5
+BK0801,Iranian,1
+BK0801,Italian,4
+BK0801,Japanese,10
+BK0801,"Juice, Smoothies, Fruit Salads",1
+BK0801,Korean,1
+BK0801,Latin American,2
+BK0801,Mexican,3
+BK0801,Middle Eastern,3
+BK0801,New American,2
+BK0801,Other,3
+BK0801,Pizza,5
+BK0801,Salads,1
+BK0801,Sandwiches,3
+BK0801,Sandwiches/Salads/Mixed Buffet,1
+BK0801,Seafood,1
+BK0801,Soups/Salads/Sandwiches,1
+BK0801,Southeast Asian,1
+BK0801,Tex-Mex,2
+BK0801,Thai,6
+BK0801,Turkish,1
+BK0801,Unknown,11
+BK0801,Vegan,2
+BK0801,Vegetarian,1
+BK0802,African,3
+BK0802,American,30
+BK0802,Asian/Asian Fusion,2
+BK0802,Bakery Products/Desserts,3
+BK0802,Barbecue,1
+BK0802,Cajun,1
+BK0802,Caribbean,25
+BK0802,Chicken,3
+BK0802,Chinese,17
+BK0802,Coffee/Tea,14
+BK0802,Donuts,1
+BK0802,Ethiopian,1
+BK0802,Frozen Desserts,1
+BK0802,Fusion,2
+BK0802,Hamburgers,2
+BK0802,Indian,3
+BK0802,Irish,1
+BK0802,Italian,2
+BK0802,Japanese,6
+BK0802,Jewish/Kosher,5
+BK0802,"Juice, Smoothies, Fruit Salads",6
+BK0802,Latin American,4
+BK0802,Mediterranean,2
+BK0802,Mexican,10
+BK0802,Middle Eastern,1
+BK0802,New American,1
+BK0802,New French,1
+BK0802,Other,8
+BK0802,Pizza,8
+BK0802,Seafood,1
+BK0802,Soul Food,4
+BK0802,Southeast Asian,1
+BK0802,Spanish,4
+BK0802,Tapas,2
+BK0802,Tex-Mex,1
+BK0802,Thai,5
+BK0802,Unknown,17
+BK0802,Vegetarian,1
+BK0901,African,1
+BK0901,American,11
+BK0901,Barbecue,1
+BK0901,Caribbean,19
+BK0901,Chicken,4
+BK0901,Chinese,6
+BK0901,Coffee/Tea,5
+BK0901,Creole,1
+BK0901,Donuts,3
+BK0901,Frozen Desserts,1
+BK0901,Hamburgers,1
+BK0901,Japanese,1
+BK0901,Jewish/Kosher,11
+BK0901,"Juice, Smoothies, Fruit Salads",2
+BK0901,Latin American,1
+BK0901,Mediterranean,2
+BK0901,New American,1
+BK0901,Other,1
+BK0901,Pizza,4
+BK0901,Sandwiches,1
+BK0901,Soul Food,1
+BK0901,Steakhouse,1
+BK0901,Unknown,14
+BK0901,Vegan,1
+BK0901,Vegetarian,3
+BK0902,American,12
+BK0902,Bagels/Pretzels,1
+BK0902,Bakery Products/Desserts,2
+BK0902,Caribbean,15
+BK0902,Chicken,8
+BK0902,Chinese,7
+BK0902,Coffee/Tea,15
+BK0902,Creole,1
+BK0902,Donuts,2
+BK0902,French,1
+BK0902,Frozen Desserts,1
+BK0902,Fusion,1
+BK0902,German,1
+BK0902,Hamburgers,5
+BK0902,Indian,1
+BK0902,Italian,2
+BK0902,Japanese,2
+BK0902,Jewish/Kosher,3
+BK0902,"Juice, Smoothies, Fruit Salads",2
+BK0902,Korean,1
+BK0902,Mediterranean,1
+BK0902,Mexican,5
+BK0902,New American,2
+BK0902,New French,1
+BK0902,Other,1
+BK0902,Pizza,6
+BK0902,Sandwiches/Salads/Mixed Buffet,1
+BK0902,Seafood,1
+BK0902,Soul Food,1
+BK0902,Spanish,4
+BK0902,Tapas,1
+BK0902,Tex-Mex,2
+BK0902,Thai,2
+BK0902,Unknown,16
+BK0902,Vegetarian,1
+BK1001,American,45
+BK1001,Asian/Asian Fusion,5
+BK1001,Bagels/Pretzels,5
+BK1001,Bakery Products/Desserts,14
+BK1001,Brazilian,1
+BK1001,Caribbean,1
+BK1001,Chicken,4
+BK1001,Chinese,20
+BK1001,Coffee/Tea,30
+BK1001,Continental,1
+BK1001,Donuts,8
+BK1001,Eastern European,1
+BK1001,Egyptian,2
+BK1001,Frozen Desserts,4
+BK1001,Fusion,1
+BK1001,Greek,4
+BK1001,Hamburgers,3
+BK1001,Hawaiian,2
+BK1001,Indian,4
+BK1001,Irish,1
+BK1001,Italian,16
+BK1001,Japanese,12
+BK1001,"Juice, Smoothies, Fruit Salads",12
+BK1001,Latin American,5
+BK1001,Mediterranean,9
+BK1001,Mexican,19
+BK1001,Middle Eastern,28
+BK1001,New American,1
+BK1001,Other,7
+BK1001,Peruvian,1
+BK1001,Pizza,19
+BK1001,Polish,1
+BK1001,Sandwiches,5
+BK1001,Sandwiches/Salads/Mixed Buffet,2
+BK1001,Seafood,3
+BK1001,Southeast Asian,3
+BK1001,Spanish,2
+BK1001,Steakhouse,2
+BK1001,Tapas,1
+BK1001,Tex-Mex,3
+BK1001,Thai,2
+BK1001,Turkish,4
+BK1001,Unknown,42
+BK1002,American,8
+BK1002,Asian/Asian Fusion,1
+BK1002,Bagels/Pretzels,1
+BK1002,Bakery Products/Desserts,7
+BK1002,Chicken,5
+BK1002,Chinese,35
+BK1002,Coffee/Tea,4
+BK1002,Donuts,3
+BK1002,Frozen Desserts,1
+BK1002,Greek,1
+BK1002,Hamburgers,1
+BK1002,Italian,5
+BK1002,Japanese,5
+BK1002,"Juice, Smoothies, Fruit Salads",1
+BK1002,Latin American,7
+BK1002,Mediterranean,1
+BK1002,Mexican,6
+BK1002,Other,2
+BK1002,Pizza,5
+BK1002,Sandwiches,1
+BK1002,Sandwiches/Salads/Mixed Buffet,2
+BK1002,Seafood,2
+BK1002,Spanish,1
+BK1002,Unknown,12
+BK1091,American,1
+BK1101,American,10
+BK1101,Asian/Asian Fusion,7
+BK1101,Bakery Products/Desserts,23
+BK1101,Chicken,5
+BK1101,Chinese,65
+BK1101,Chinese/Japanese,1
+BK1101,Coffee/Tea,16
+BK1101,Donuts,5
+BK1101,Eastern European,5
+BK1101,Frozen Desserts,4
+BK1101,Fusion,2
+BK1101,Hamburgers,3
+BK1101,Hawaiian,1
+BK1101,Italian,8
+BK1101,Japanese,10
+BK1101,"Juice, Smoothies, Fruit Salads",6
+BK1101,Latin American,7
+BK1101,Mediterranean,3
+BK1101,Mexican,6
+BK1101,Other,5
+BK1101,Peruvian,1
+BK1101,Pizza,16
+BK1101,Polish,1
+BK1101,Russian,1
+BK1101,Sandwiches,1
+BK1101,Sandwiches/Salads/Mixed Buffet,1
+BK1101,Southeast Asian,3
+BK1101,Spanish,5
+BK1101,Tex-Mex,5
+BK1101,Thai,2
+BK1101,Unknown,26
+BK1102,American,1
+BK1102,Asian/Asian Fusion,1
+BK1102,Bakery Products/Desserts,5
+BK1102,Bottled Beverages,1
+BK1102,Chicken,1
+BK1102,Chinese,9
+BK1102,Chinese/Japanese,1
+BK1102,Coffee/Tea,6
+BK1102,Donuts,1
+BK1102,Eastern European,3
+BK1102,Frozen Desserts,2
+BK1102,Greek,1
+BK1102,Japanese,3
+BK1102,"Juice, Smoothies, Fruit Salads",1
+BK1102,Latin American,3
+BK1102,Mediterranean,1
+BK1102,Mexican,3
+BK1102,Middle Eastern,3
+BK1102,Other,1
+BK1102,Pakistani,4
+BK1102,Peruvian,1
+BK1102,Pizza,6
+BK1102,Salads,1
+BK1102,Southeast Asian,1
+BK1102,Spanish,3
+BK1102,Steakhouse,1
+BK1102,Unknown,11
+BK1103,American,11
+BK1103,Asian/Asian Fusion,3
+BK1103,Bagels/Pretzels,2
+BK1103,Bakery Products/Desserts,7
+BK1103,Chicken,1
+BK1103,Chinese,20
+BK1103,Coffee/Tea,13
+BK1103,Donuts,3
+BK1103,Eastern European,5
+BK1103,Frozen Desserts,1
+BK1103,Hamburgers,3
+BK1103,Italian,3
+BK1103,Japanese,6
+BK1103,Jewish/Kosher,1
+BK1103,"Juice, Smoothies, Fruit Salads",1
+BK1103,Latin American,2
+BK1103,Mediterranean,4
+BK1103,Mexican,8
+BK1103,Middle Eastern,4
+BK1103,Pancakes/Waffles,1
+BK1103,Pizza,12
+BK1103,Russian,1
+BK1103,Sandwiches,2
+BK1103,Southeast Asian,2
+BK1103,Steakhouse,1
+BK1103,Tex-Mex,2
+BK1103,Turkish,1
+BK1103,Unknown,14
+BK1201,American,4
+BK1201,Asian/Asian Fusion,4
+BK1201,Bakery Products/Desserts,10
+BK1201,Barbecue,1
+BK1201,Chicken,4
+BK1201,Chinese,39
+BK1201,Chinese/Japanese,1
+BK1201,Coffee/Tea,6
+BK1201,Donuts,1
+BK1201,"Juice, Smoothies, Fruit Salads",3
+BK1201,Korean,2
+BK1201,Latin American,1
+BK1201,Mexican,3
+BK1201,Other,1
+BK1201,Pizza,4
+BK1201,Tex-Mex,1
+BK1201,Unknown,8
+BK1202,American,3
+BK1202,Bakery Products/Desserts,2
+BK1202,Chinese,8
+BK1202,Coffee/Tea,2
+BK1202,Eastern European,1
+BK1202,Frozen Desserts,3
+BK1202,Jewish/Kosher,38
+BK1202,"Juice, Smoothies, Fruit Salads",1
+BK1202,Latin American,2
+BK1202,Mediterranean,1
+BK1202,Mexican,9
+BK1202,Other,4
+BK1202,Pizza,2
+BK1202,Sandwiches/Salads/Mixed Buffet,1
+BK1202,Southeast Asian,1
+BK1202,Spanish,2
+BK1202,Unknown,9
+BK1203,Afghan,1
+BK1203,American,7
+BK1203,Bangladeshi,7
+BK1203,Caribbean,1
+BK1203,Chicken,1
+BK1203,Chinese,5
+BK1203,Donuts,2
+BK1203,Eastern European,2
+BK1203,Hamburgers,2
+BK1203,Indian,1
+BK1203,Japanese,1
+BK1203,Jewish/Kosher,1
+BK1203,"Juice, Smoothies, Fruit Salads",1
+BK1203,Latin American,1
+BK1203,Mexican,6
+BK1203,Middle Eastern,1
+BK1203,Other,2
+BK1203,Pakistani,1
+BK1203,Pancakes/Waffles,1
+BK1203,Pizza,6
+BK1203,Seafood,1
+BK1203,Spanish,1
+BK1203,Tex-Mex,1
+BK1203,Thai,4
+BK1203,Turkish,1
+BK1203,Unknown,16
+BK1204,American,4
+BK1204,Asian/Asian Fusion,1
+BK1204,Bakery Products/Desserts,1
+BK1204,Chinese,2
+BK1204,Coffee/Tea,2
+BK1204,Donuts,2
+BK1204,Eastern European,1
+BK1204,Japanese,1
+BK1204,Jewish/Kosher,11
+BK1204,"Juice, Smoothies, Fruit Salads",1
+BK1204,Mediterranean,1
+BK1204,Mexican,3
+BK1204,Middle Eastern,1
+BK1204,Other,1
+BK1204,Pizza,2
+BK1204,Russian,1
+BK1204,Unknown,8
+BK1301,American,4
+BK1301,Bakery Products/Desserts,2
+BK1301,Chinese,1
+BK1301,Eastern European,3
+BK1301,Frozen Desserts,1
+BK1301,Jewish/Kosher,1
+BK1301,Pizza,2
+BK1301,Seafood,1
+BK1301,Soups/Salads/Sandwiches,1
+BK1301,Tex-Mex,1
+BK1301,Unknown,3
+BK1302,American,24
+BK1302,Asian/Asian Fusion,2
+BK1302,Bagels/Pretzels,2
+BK1302,Bottled Beverages,3
+BK1302,Caribbean,2
+BK1302,Chicken,5
+BK1302,Chinese,5
+BK1302,Coffee/Tea,4
+BK1302,Donuts,3
+BK1302,Eastern European,2
+BK1302,Frozen Desserts,4
+BK1302,Fusion,1
+BK1302,Hamburgers,3
+BK1302,Hotdogs,3
+BK1302,Italian,1
+BK1302,"Juice, Smoothies, Fruit Salads",1
+BK1302,Korean,1
+BK1302,Latin American,2
+BK1302,Mediterranean,3
+BK1302,Mexican,2
+BK1302,Other,6
+BK1302,Pancakes/Waffles,1
+BK1302,Pizza,9
+BK1302,Russian,2
+BK1302,Sandwiches,1
+BK1302,Seafood,3
+BK1302,Soul Food,1
+BK1302,Spanish,2
+BK1302,Tex-Mex,2
+BK1302,Turkish,2
+BK1302,Unknown,25
+BK1303,American,2
+BK1303,Bakery Products/Desserts,2
+BK1303,Bottled Beverages,1
+BK1303,Chicken,2
+BK1303,Chinese,2
+BK1303,Coffee/Tea,3
+BK1303,Donuts,3
+BK1303,Eastern European,14
+BK1303,Frozen Desserts,1
+BK1303,Hotdogs,1
+BK1303,Indian,1
+BK1303,Japanese,2
+BK1303,Jewish/Kosher,2
+BK1303,Mexican,2
+BK1303,Middle Eastern,4
+BK1303,Other,3
+BK1303,Pakistani,1
+BK1303,Pizza,3
+BK1303,Russian,5
+BK1303,Steakhouse,1
+BK1303,Turkish,5
+BK1303,Unknown,9
+BK1401,American,9
+BK1401,Bakery Products/Desserts,1
+BK1401,Caribbean,27
+BK1401,Chicken,8
+BK1401,Chinese,11
+BK1401,Coffee/Tea,6
+BK1401,Creole,2
+BK1401,Donuts,6
+BK1401,French,1
+BK1401,Hamburgers,5
+BK1401,Indian,1
+BK1401,Japanese,2
+BK1401,"Juice, Smoothies, Fruit Salads",5
+BK1401,Latin American,2
+BK1401,Mediterranean,1
+BK1401,Mexican,7
+BK1401,Middle Eastern,7
+BK1401,Other,6
+BK1401,Pizza,13
+BK1401,Sandwiches,3
+BK1401,Seafood,1
+BK1401,Spanish,3
+BK1401,Tex-Mex,3
+BK1401,Unknown,24
+BK1401,Vegan,1
+BK1401,Vegetarian,4
+BK1402,American,12
+BK1402,Asian/Asian Fusion,3
+BK1402,Bagels/Pretzels,1
+BK1402,Bakery Products/Desserts,3
+BK1402,Caribbean,2
+BK1402,Chicken,1
+BK1402,Chinese,6
+BK1402,Coffee/Tea,5
+BK1402,Continental,1
+BK1402,Donuts,3
+BK1402,Eastern European,1
+BK1402,French,1
+BK1402,Frozen Desserts,1
+BK1402,Fusion,1
+BK1402,Hamburgers,3
+BK1402,Indian,1
+BK1402,Indonesian,1
+BK1402,Irish,1
+BK1402,Italian,2
+BK1402,Japanese,2
+BK1402,Jewish/Kosher,2
+BK1402,"Juice, Smoothies, Fruit Salads",1
+BK1402,Korean,1
+BK1402,Latin American,2
+BK1402,Mediterranean,2
+BK1402,Mexican,8
+BK1402,Middle Eastern,6
+BK1402,Pakistani,6
+BK1402,Pizza,6
+BK1402,Russian,1
+BK1402,Sandwiches,1
+BK1402,Spanish,2
+BK1402,Tex-Mex,2
+BK1402,Thai,3
+BK1402,Unknown,15
+BK1403,American,2
+BK1403,Bagels/Pretzels,1
+BK1403,Chinese,5
+BK1403,Chinese/Japanese,1
+BK1403,Coffee/Tea,5
+BK1403,Donuts,3
+BK1403,Eastern European,2
+BK1403,Frozen Desserts,2
+BK1403,Jewish/Kosher,40
+BK1403,"Juice, Smoothies, Fruit Salads",1
+BK1403,Mediterranean,1
+BK1403,Mexican,3
+BK1403,Middle Eastern,2
+BK1403,Other,2
+BK1403,Pizza,6
+BK1403,Sandwiches,1
+BK1403,Unknown,6
+BK1501,American,5
+BK1501,Asian/Asian Fusion,2
+BK1501,Bagels/Pretzels,2
+BK1501,Bakery Products/Desserts,5
+BK1501,Bottled Beverages,1
+BK1501,Chicken,5
+BK1501,Chinese,8
+BK1501,Chinese/Cuban,1
+BK1501,Coffee/Tea,9
+BK1501,Donuts,3
+BK1501,Eastern European,12
+BK1501,Frozen Desserts,1
+BK1501,Hamburgers,4
+BK1501,Japanese,4
+BK1501,Jewish/Kosher,37
+BK1501,"Juice, Smoothies, Fruit Salads",2
+BK1501,Latin American,3
+BK1501,Mediterranean,3
+BK1501,Mexican,6
+BK1501,Middle Eastern,6
+BK1501,Other,1
+BK1501,Pizza,5
+BK1501,Russian,6
+BK1501,Seafood,1
+BK1501,Soul Food,1
+BK1501,Southeast Asian,3
+BK1501,Spanish,1
+BK1501,Steakhouse,1
+BK1501,Tex-Mex,1
+BK1501,Turkish,4
+BK1501,Unknown,12
+BK1502,American,5
+BK1502,Asian/Asian Fusion,1
+BK1502,Bagels/Pretzels,1
+BK1502,Bakery Products/Desserts,7
+BK1502,Caribbean,1
+BK1502,Chicken,2
+BK1502,Chinese,7
+BK1502,Coffee/Tea,5
+BK1502,Donuts,2
+BK1502,Eastern European,4
+BK1502,Fusion,1
+BK1502,Hamburgers,1
+BK1502,Irish,1
+BK1502,Italian,1
+BK1502,Japanese,6
+BK1502,Jewish/Kosher,4
+BK1502,Mexican,3
+BK1502,Middle Eastern,1
+BK1502,Pancakes/Waffles,1
+BK1502,Pizza,9
+BK1502,Sandwiches,2
+BK1502,Southeast Asian,1
+BK1502,Turkish,4
+BK1502,Unknown,7
+BK1502,Vegan,1
+BK1503,American,24
+BK1503,Asian/Asian Fusion,3
+BK1503,Bagels/Pretzels,2
+BK1503,Bakery Products/Desserts,3
+BK1503,Chicken,1
+BK1503,Chinese,10
+BK1503,Coffee/Tea,8
+BK1503,Continental,1
+BK1503,Donuts,3
+BK1503,Eastern European,12
+BK1503,Frozen Desserts,5
+BK1503,Fusion,1
+BK1503,Greek,1
+BK1503,Hamburgers,1
+BK1503,Irish,1
+BK1503,Italian,1
+BK1503,Japanese,9
+BK1503,Jewish/Kosher,1
+BK1503,"Juice, Smoothies, Fruit Salads",3
+BK1503,Latin American,1
+BK1503,Mediterranean,3
+BK1503,Mexican,2
+BK1503,Middle Eastern,2
+BK1503,New American,1
+BK1503,Pizza,12
+BK1503,Russian,12
+BK1503,Salads,1
+BK1503,Sandwiches,1
+BK1503,Seafood,3
+BK1503,Tex-Mex,2
+BK1503,Thai,1
+BK1503,Turkish,6
+BK1503,Unknown,12
+BK1503,Vegetarian,1
+BK1601,African,3
+BK1601,American,3
+BK1601,Bakery Products/Desserts,1
+BK1601,Caribbean,5
+BK1601,Chicken,6
+BK1601,Chinese,7
+BK1601,Coffee/Tea,2
+BK1601,Donuts,1
+BK1601,Japanese,1
+BK1601,Jewish/Kosher,1
+BK1601,Mexican,5
+BK1601,Middle Eastern,1
+BK1601,New American,1
+BK1601,Other,1
+BK1601,Pizza,1
+BK1601,Unknown,4
+BK1602,African,1
+BK1602,American,6
+BK1602,Caribbean,10
+BK1602,Chicken,7
+BK1602,Chinese,14
+BK1602,Donuts,2
+BK1602,Hamburgers,3
+BK1602,"Juice, Smoothies, Fruit Salads",1
+BK1602,Latin American,2
+BK1602,Mexican,2
+BK1602,Middle Eastern,1
+BK1602,Other,7
+BK1602,Pizza,6
+BK1602,Sandwiches,1
+BK1602,Seafood,2
+BK1602,Soul Food,2
+BK1602,Spanish,3
+BK1602,Tex-Mex,1
+BK1602,Unknown,5
+BK1701,African,2
+BK1701,American,5
+BK1701,Bakery Products/Desserts,6
+BK1701,Caribbean,36
+BK1701,Chicken,8
+BK1701,Chinese,6
+BK1701,Chinese/Japanese,1
+BK1701,Coffee/Tea,7
+BK1701,Creole,4
+BK1701,Donuts,2
+BK1701,Frozen Desserts,2
+BK1701,Hamburgers,3
+BK1701,Japanese,1
+BK1701,Jewish/Kosher,1
+BK1701,"Juice, Smoothies, Fruit Salads",3
+BK1701,Latin American,1
+BK1701,Mexican,2
+BK1701,Middle Eastern,1
+BK1701,Other,5
+BK1701,Pancakes/Waffles,1
+BK1701,Pizza,7
+BK1701,Salads,1
+BK1701,Soul Food,1
+BK1701,Unknown,11
+BK1701,Vegan,1
+BK1701,Vegetarian,1
+BK1702,American,3
+BK1702,Caribbean,13
+BK1702,Chicken,3
+BK1702,Chinese,2
+BK1702,Filipino,1
+BK1702,Other,1
+BK1702,Pizza,2
+BK1702,Sandwiches/Salads/Mixed Buffet,1
+BK1702,Tex-Mex,1
+BK1702,Unknown,3
+BK1702,Vegetarian,1
+BK1703,American,2
+BK1703,Bakery Products/Desserts,3
+BK1703,Caribbean,42
+BK1703,Chicken,5
+BK1703,Chinese,6
+BK1703,Coffee/Tea,1
+BK1703,Creole,2
+BK1703,Donuts,3
+BK1703,Hamburgers,4
+BK1703,Italian,1
+BK1703,"Juice, Smoothies, Fruit Salads",1
+BK1703,Other,4
+BK1703,Pizza,1
+BK1703,Seafood,2
+BK1703,Unknown,6
+BK1703,Vegetarian,1
+BK1704,American,3
+BK1704,Caribbean,16
+BK1704,Chicken,4
+BK1704,Chinese,5
+BK1704,Donuts,1
+BK1704,Hamburgers,1
+BK1704,Japanese,1
+BK1704,Other,6
+BK1704,Pizza,4
+BK1704,Sandwiches,1
+BK1704,Unknown,4
+BK1801,American,7
+BK1801,Asian/Asian Fusion,1
+BK1801,Bagels/Pretzels,2
+BK1801,Bakery Products/Desserts,4
+BK1801,Bottled Beverages,1
+BK1801,Caribbean,15
+BK1801,Chicken,7
+BK1801,Chinese,12
+BK1801,Chinese/Japanese,1
+BK1801,Coffee/Tea,5
+BK1801,Creole,2
+BK1801,Creole/Cajun,1
+BK1801,Donuts,2
+BK1801,Frozen Desserts,1
+BK1801,Fusion,1
+BK1801,Hamburgers,1
+BK1801,Indian,2
+BK1801,Italian,3
+BK1801,Jewish/Kosher,2
+BK1801,"Juice, Smoothies, Fruit Salads",2
+BK1801,Latin American,1
+BK1801,Mexican,2
+BK1801,Middle Eastern,1
+BK1801,Other,5
+BK1801,Pizza,3
+BK1801,Sandwiches,2
+BK1801,Seafood,2
+BK1801,Southeast Asian,1
+BK1801,Tex-Mex,2
+BK1801,Unknown,9
+BK1802,American,16
+BK1802,Bagels/Pretzels,5
+BK1802,Bakery Products/Desserts,2
+BK1802,Chicken,3
+BK1802,Chinese,7
+BK1802,Coffee/Tea,5
+BK1802,Creole,1
+BK1802,Donuts,4
+BK1802,Eastern European,1
+BK1802,Frozen Desserts,5
+BK1802,Hamburgers,2
+BK1802,Hotdogs/Pretzels,2
+BK1802,Italian,4
+BK1802,Japanese,4
+BK1802,Jewish/Kosher,3
+BK1802,"Juice, Smoothies, Fruit Salads",3
+BK1802,Mexican,1
+BK1802,Middle Eastern,1
+BK1802,Other,2
+BK1802,Pancakes/Waffles,1
+BK1802,Pizza,8
+BK1802,Russian,1
+BK1802,Sandwiches,3
+BK1802,Sandwiches/Salads/Mixed Buffet,1
+BK1802,Seafood,2
+BK1802,Tex-Mex,1
+BK1802,Unknown,7
+BK1803,American,7
+BK1803,Bagels/Pretzels,1
+BK1803,Bakery Products/Desserts,2
+BK1803,Caribbean,21
+BK1803,Chicken,6
+BK1803,Chinese,15
+BK1803,Coffee/Tea,1
+BK1803,Creole,1
+BK1803,Donuts,4
+BK1803,Fusion,1
+BK1803,Hamburgers,1
+BK1803,Japanese,2
+BK1803,"Juice, Smoothies, Fruit Salads",5
+BK1803,Other,2
+BK1803,Pizza,8
+BK1803,Sandwiches,1
+BK1803,Sandwiches/Salads/Mixed Buffet,2
+BK1803,Seafood,2
+BK1803,Tex-Mex,2
+BK1803,Unknown,8
+BK1803,Vegan,2
+BK1891,Donuts,1
+BK5591,American,5
+BK5591,Coffee/Tea,1
+BK5591,Sandwiches/Salads/Mixed Buffet,1
+BK5591,Unknown,1
+BK5691,American,1
+BK5691,Seafood,1
+BX0101,African,1
+BX0101,American,23
+BX0101,Bakery Products/Desserts,2
+BX0101,Barbecue,1
+BX0101,Caribbean,1
+BX0101,Chicken,6
+BX0101,Chinese,12
+BX0101,Coffee/Tea,7
+BX0101,Donuts,2
+BX0101,Hamburgers,3
+BX0101,Italian,1
+BX0101,"Juice, Smoothies, Fruit Salads",2
+BX0101,Latin American,8
+BX0101,Mexican,22
+BX0101,Middle Eastern,1
+BX0101,Moroccan,1
+BX0101,Not Listed/Not Applicable,1
+BX0101,Other,2
+BX0101,Peruvian,2
+BX0101,Pizza,13
+BX0101,Spanish,8
+BX0101,Tex-Mex,4
+BX0101,Unknown,11
+BX0101,Vegetarian,1
+BX0102,American,4
+BX0102,Bakery Products/Desserts,7
+BX0102,Bangladeshi,1
+BX0102,Bottled Beverages,1
+BX0102,Caribbean,2
+BX0102,Chicken,10
+BX0102,Chinese,9
+BX0102,Donuts,3
+BX0102,Frozen Desserts,2
+BX0102,Hamburgers,6
+BX0102,Indian,1
+BX0102,Japanese,2
+BX0102,"Juice, Smoothies, Fruit Salads",4
+BX0102,Latin American,10
+BX0102,Mexican,10
+BX0102,Pancakes/Waffles,1
+BX0102,Pizza,13
+BX0102,Sandwiches,3
+BX0102,Sandwiches/Salads/Mixed Buffet,1
+BX0102,Seafood,1
+BX0102,Spanish,2
+BX0102,Tex-Mex,2
+BX0102,Unknown,7
+BX0201,American,8
+BX0201,Bottled Beverages,1
+BX0201,Chicken,1
+BX0201,Chinese,5
+BX0201,Coffee/Tea,3
+BX0201,Donuts,2
+BX0201,Hamburgers,3
+BX0201,Japanese,1
+BX0201,Latin American,4
+BX0201,Mexican,4
+BX0201,Pizza,3
+BX0201,Sandwiches,1
+BX0201,Spanish,4
+BX0201,Unknown,2
+BX0202,American,1
+BX0202,Bakery Products/Desserts,4
+BX0202,Caribbean,2
+BX0202,Chicken,6
+BX0202,Chinese,7
+BX0202,Donuts,3
+BX0202,Hamburgers,2
+BX0202,"Juice, Smoothies, Fruit Salads",2
+BX0202,Latin American,11
+BX0202,Mexican,11
+BX0202,Other,1
+BX0202,Pizza,10
+BX0202,Sandwiches,1
+BX0202,Spanish,7
+BX0202,Steakhouse,1
+BX0202,Tex-Mex,2
+BX0202,Unknown,8
+BX0301,African,5
+BX0301,American,2
+BX0301,Bakery Products/Desserts,2
+BX0301,Caribbean,2
+BX0301,Chicken,5
+BX0301,Chinese,6
+BX0301,Donuts,2
+BX0301,Hamburgers,1
+BX0301,Italian,1
+BX0301,Mexican,2
+BX0301,Pizza,2
+BX0301,Sandwiches,2
+BX0301,Seafood,1
+BX0301,Soul Food,1
+BX0301,Spanish,5
+BX0301,Unknown,2
+BX0302,African,2
+BX0302,American,3
+BX0302,Caribbean,1
+BX0302,Chicken,2
+BX0302,Chinese,3
+BX0302,Hamburgers,1
+BX0302,Latin American,1
+BX0302,Pizza,1
+BX0302,Spanish,2
+BX0302,Tex-Mex,1
+BX0302,Unknown,2
+BX0303,African,1
+BX0303,American,2
+BX0303,Asian/Asian Fusion,1
+BX0303,Bakery Products/Desserts,1
+BX0303,Caribbean,1
+BX0303,Chicken,3
+BX0303,Chinese,4
+BX0303,Donuts,2
+BX0303,Hamburgers,2
+BX0303,Pancakes/Waffles,1
+BX0303,Pizza,3
+BX0303,Spanish,2
+BX0303,Unknown,3
+BX0401,African,4
+BX0401,American,16
+BX0401,Asian/Asian Fusion,1
+BX0401,Bakery Products/Desserts,2
+BX0401,Caribbean,5
+BX0401,Chicken,10
+BX0401,Chinese,10
+BX0401,Coffee/Tea,4
+BX0401,Donuts,5
+BX0401,Frozen Desserts,2
+BX0401,Fusion,3
+BX0401,Greek,1
+BX0401,Hamburgers,6
+BX0401,Indian,1
+BX0401,Italian,2
+BX0401,Japanese,3
+BX0401,"Juice, Smoothies, Fruit Salads",1
+BX0401,Korean,1
+BX0401,Latin American,6
+BX0401,Mexican,5
+BX0401,Other,1
+BX0401,Pizza,11
+BX0401,Sandwiches,2
+BX0401,Sandwiches/Salads/Mixed Buffet,3
+BX0401,Seafood,2
+BX0401,Southwestern,1
+BX0401,Spanish,8
+BX0401,Tex-Mex,2
+BX0401,Unknown,13
+BX0402,American,2
+BX0402,Chicken,2
+BX0402,Chinese,5
+BX0402,Fusion,1
+BX0402,Hamburgers,1
+BX0402,Latin American,2
+BX0402,Mexican,1
+BX0402,Other,2
+BX0402,Pizza,4
+BX0402,Spanish,1
+BX0402,Unknown,6
+BX0403,African,1
+BX0403,American,6
+BX0403,Bakery Products/Desserts,1
+BX0403,Bottled Beverages,1
+BX0403,Chicken,6
+BX0403,Chinese,7
+BX0403,Coffee/Tea,1
+BX0403,Donuts,1
+BX0403,Hamburgers,3
+BX0403,"Juice, Smoothies, Fruit Salads",6
+BX0403,Latin American,11
+BX0403,Mexican,6
+BX0403,Other,3
+BX0403,Pizza,4
+BX0403,Sandwiches,1
+BX0403,Seafood,1
+BX0403,Spanish,7
+BX0403,Tex-Mex,2
+BX0403,Unknown,7
+BX0491,American,41
+BX0491,Bottled Beverages,1
+BX0491,Hotdogs,1
+BX0491,Pizza,1
+BX0491,Sandwiches,1
+BX0491,Unknown,1
+BX0501,African,1
+BX0501,American,3
+BX0501,Bakery Products/Desserts,2
+BX0501,Chicken,5
+BX0501,Chinese,8
+BX0501,Coffee/Tea,1
+BX0501,Donuts,2
+BX0501,Hamburgers,3
+BX0501,"Juice, Smoothies, Fruit Salads",3
+BX0501,Latin American,8
+BX0501,Mexican,3
+BX0501,Pizza,8
+BX0501,Spanish,6
+BX0501,Unknown,13
+BX0502,African,3
+BX0502,American,2
+BX0502,Bakery Products/Desserts,2
+BX0502,Chicken,7
+BX0502,Chinese,5
+BX0502,Coffee/Tea,1
+BX0502,Donuts,1
+BX0502,Hamburgers,2
+BX0502,Latin American,16
+BX0502,Mexican,3
+BX0502,Pizza,4
+BX0502,Sandwiches,1
+BX0502,Seafood,1
+BX0502,Spanish,5
+BX0502,Tex-Mex,2
+BX0502,Unknown,9
+BX0503,African,2
+BX0503,Bakery Products/Desserts,3
+BX0503,Caribbean,1
+BX0503,Chicken,7
+BX0503,Chinese,6
+BX0503,Coffee/Tea,1
+BX0503,Donuts,3
+BX0503,Frozen Desserts,2
+BX0503,Fruits/Vegetables,1
+BX0503,Greek,1
+BX0503,Japanese,1
+BX0503,"Juice, Smoothies, Fruit Salads",6
+BX0503,Latin American,9
+BX0503,Mexican,6
+BX0503,Other,2
+BX0503,Pizza,9
+BX0503,Sandwiches,1
+BX0503,Sandwiches/Salads/Mixed Buffet,1
+BX0503,Seafood,3
+BX0503,Spanish,7
+BX0503,Tex-Mex,2
+BX0503,Unknown,5
+BX0601,American,1
+BX0601,Caribbean,1
+BX0601,Chicken,1
+BX0601,Chinese,4
+BX0601,Donuts,1
+BX0601,Hamburgers,1
+BX0601,Middle Eastern,1
+BX0601,Pizza,4
+BX0601,Sandwiches,1
+BX0601,Soups/Salads/Sandwiches,1
+BX0601,Spanish,1
+BX0601,Unknown,2
+BX0602,African,2
+BX0602,American,8
+BX0602,Bakery Products/Desserts,1
+BX0602,Caribbean,2
+BX0602,Chicken,5
+BX0602,Chinese,4
+BX0602,Coffee/Tea,1
+BX0602,Donuts,1
+BX0602,Hamburgers,1
+BX0602,Latin American,11
+BX0602,Pizza,6
+BX0602,Spanish,4
+BX0602,Unknown,6
+BX0603,African,1
+BX0603,American,19
+BX0603,Asian/Asian Fusion,2
+BX0603,Bakery Products/Desserts,6
+BX0603,Caribbean,2
+BX0603,Chicken,7
+BX0603,Chinese,6
+BX0603,Chinese/Japanese,1
+BX0603,Coffee/Tea,11
+BX0603,Donuts,2
+BX0603,Eastern European,1
+BX0603,Frozen Desserts,1
+BX0603,Fusion,1
+BX0603,Hamburgers,2
+BX0603,Indian,1
+BX0603,Italian,17
+BX0603,Japanese,1
+BX0603,"Juice, Smoothies, Fruit Salads",2
+BX0603,Latin American,6
+BX0603,Mediterranean,2
+BX0603,Mexican,12
+BX0603,Middle Eastern,1
+BX0603,Other,7
+BX0603,Pancakes/Waffles,1
+BX0603,Pizza,11
+BX0603,Sandwiches,3
+BX0603,Sandwiches/Salads/Mixed Buffet,2
+BX0603,Spanish,4
+BX0603,Tex-Mex,2
+BX0603,Unknown,23
+BX0701,American,8
+BX0701,Asian/Asian Fusion,1
+BX0701,Bakery Products/Desserts,5
+BX0701,Chicken,5
+BX0701,Chinese,6
+BX0701,Coffee/Tea,2
+BX0701,Donuts,3
+BX0701,Frozen Desserts,1
+BX0701,Hamburgers,3
+BX0701,Hotdogs/Pretzels,1
+BX0701,Italian,1
+BX0701,Japanese,2
+BX0701,"Juice, Smoothies, Fruit Salads",3
+BX0701,Latin American,3
+BX0701,Mexican,8
+BX0701,Other,1
+BX0701,Pizza,2
+BX0701,Spanish,3
+BX0701,Tex-Mex,3
+BX0701,Unknown,4
+BX0702,African,1
+BX0702,American,9
+BX0702,Bakery Products/Desserts,1
+BX0702,Bottled Beverages,1
+BX0702,Chicken,4
+BX0702,Chinese,6
+BX0702,Coffee/Tea,3
+BX0702,Donuts,1
+BX0702,Latin American,9
+BX0702,Mexican,3
+BX0702,Other,1
+BX0702,Pizza,9
+BX0702,Sandwiches,1
+BX0702,Sandwiches/Salads/Mixed Buffet,1
+BX0702,Seafood,1
+BX0702,Spanish,5
+BX0702,Unknown,3
+BX0703,American,6
+BX0703,Bakery Products/Desserts,3
+BX0703,Caribbean,3
+BX0703,Chicken,5
+BX0703,Chinese,8
+BX0703,Coffee/Tea,2
+BX0703,Donuts,2
+BX0703,Hamburgers,3
+BX0703,Indian,1
+BX0703,Japanese,1
+BX0703,"Juice, Smoothies, Fruit Salads",3
+BX0703,Latin American,7
+BX0703,Mexican,10
+BX0703,Middle Eastern,1
+BX0703,Other,2
+BX0703,Pancakes/Waffles,1
+BX0703,Pizza,12
+BX0703,Sandwiches,3
+BX0703,Sandwiches/Salads/Mixed Buffet,1
+BX0703,Spanish,1
+BX0703,Tex-Mex,2
+BX0703,Unknown,4
+BX0801,American,3
+BX0801,Chicken,3
+BX0801,Chinese,5
+BX0801,Latin American,3
+BX0801,Mexican,3
+BX0801,Pizza,4
+BX0801,Spanish,6
+BX0801,Unknown,3
+BX0802,American,15
+BX0802,Bakery Products/Desserts,4
+BX0802,Chicken,4
+BX0802,Chinese,3
+BX0802,Coffee/Tea,3
+BX0802,Donuts,3
+BX0802,Frozen Desserts,2
+BX0802,Greek,1
+BX0802,Hamburgers,1
+BX0802,Hotdogs/Pretzels,1
+BX0802,Indian,2
+BX0802,Irish,1
+BX0802,Japanese,3
+BX0802,"Juice, Smoothies, Fruit Salads",1
+BX0802,Latin American,6
+BX0802,Mexican,5
+BX0802,Pancakes/Waffles,1
+BX0802,Peruvian,1
+BX0802,Pizza,6
+BX0802,Sandwiches,1
+BX0802,Seafood,2
+BX0802,Spanish,2
+BX0802,Tex-Mex,3
+BX0802,Unknown,5
+BX0803,American,23
+BX0803,Asian/Asian Fusion,1
+BX0803,Bagels/Pretzels,2
+BX0803,Bakery Products/Desserts,1
+BX0803,Barbecue,1
+BX0803,Bottled Beverages,1
+BX0803,Chinese,4
+BX0803,Coffee/Tea,7
+BX0803,Donuts,1
+BX0803,Frozen Desserts,2
+BX0803,Fusion,2
+BX0803,Greek,1
+BX0803,Indian,1
+BX0803,Italian,2
+BX0803,Japanese,3
+BX0803,Jewish/Kosher,8
+BX0803,"Juice, Smoothies, Fruit Salads",1
+BX0803,Latin American,2
+BX0803,Mediterranean,1
+BX0803,Mexican,4
+BX0803,Other,1
+BX0803,Pizza,6
+BX0803,Sandwiches,2
+BX0803,Steakhouse,2
+BX0803,Thai,1
+BX0803,Unknown,4
+BX0901,African,3
+BX0901,American,6
+BX0901,Bakery Products/Desserts,6
+BX0901,Bangladeshi,1
+BX0901,Bottled Beverages,1
+BX0901,Caribbean,2
+BX0901,Chicken,9
+BX0901,Chinese,12
+BX0901,Chinese/Cuban,1
+BX0901,Coffee/Tea,3
+BX0901,Donuts,4
+BX0901,Hamburgers,6
+BX0901,"Juice, Smoothies, Fruit Salads",3
+BX0901,Latin American,12
+BX0901,Mexican,10
+BX0901,Other,1
+BX0901,Pancakes/Waffles,1
+BX0901,Pizza,11
+BX0901,Sandwiches,1
+BX0901,Soul Food,1
+BX0901,Spanish,8
+BX0901,Thai,1
+BX0901,Unknown,6
+BX0902,American,1
+BX0902,Caribbean,1
+BX0902,Chicken,3
+BX0902,Chinese,3
+BX0902,Coffee/Tea,2
+BX0902,Hamburgers,1
+BX0902,Japanese,1
+BX0902,Latin American,2
+BX0902,Pizza,3
+BX0902,Unknown,3
+BX0903,American,6
+BX0903,Asian/Asian Fusion,1
+BX0903,Bakery Products/Desserts,3
+BX0903,Bangladeshi,2
+BX0903,Caribbean,3
+BX0903,Chicken,3
+BX0903,Chinese,8
+BX0903,Coffee/Tea,4
+BX0903,Donuts,1
+BX0903,Frozen Desserts,1
+BX0903,German,1
+BX0903,Hamburgers,2
+BX0903,Japanese,1
+BX0903,"Juice, Smoothies, Fruit Salads",3
+BX0903,Latin American,4
+BX0903,Mexican,6
+BX0903,Middle Eastern,1
+BX0903,Other,1
+BX0903,Pizza,3
+BX0903,Sandwiches,2
+BX0903,Seafood,1
+BX0903,Soul Food,1
+BX0903,Spanish,3
+BX0903,Tex-Mex,1
+BX0903,Unknown,7
+BX0904,Afghan,1
+BX0904,American,4
+BX0904,Asian/Asian Fusion,1
+BX0904,Bakery Products/Desserts,2
+BX0904,Bangladeshi,6
+BX0904,Caribbean,1
+BX0904,Chicken,3
+BX0904,Chinese,7
+BX0904,Coffee/Tea,1
+BX0904,Donuts,1
+BX0904,Frozen Desserts,1
+BX0904,Fusion,1
+BX0904,Hamburgers,1
+BX0904,Indian,2
+BX0904,Italian,1
+BX0904,"Juice, Smoothies, Fruit Salads",1
+BX0904,Latin American,2
+BX0904,Mexican,2
+BX0904,Pakistani,1
+BX0904,Pizza,6
+BX0904,Sandwiches,1
+BX0904,Seafood,3
+BX0904,Spanish,1
+BX0904,Tex-Mex,1
+BX0904,Unknown,3
+BX1001,American,10
+BX1001,Asian/Asian Fusion,1
+BX1001,Bakery Products/Desserts,1
+BX1001,Caribbean,3
+BX1001,Chicken,4
+BX1001,Chinese,4
+BX1001,Coffee/Tea,1
+BX1001,Donuts,2
+BX1001,Hamburgers,2
+BX1001,Indian,1
+BX1001,"Juice, Smoothies, Fruit Salads",1
+BX1001,Latin American,7
+BX1001,Mexican,1
+BX1001,Middle Eastern,1
+BX1001,Other,1
+BX1001,Pizza,5
+BX1001,Sandwiches,1
+BX1001,Seafood,1
+BX1001,Spanish,2
+BX1001,Tex-Mex,4
+BX1001,Unknown,4
+BX1002,American,19
+BX1002,Bakery Products/Desserts,3
+BX1002,Caribbean,1
+BX1002,Chicken,2
+BX1002,Chinese,9
+BX1002,Coffee/Tea,6
+BX1002,Donuts,5
+BX1002,French,2
+BX1002,Frozen Desserts,3
+BX1002,Fusion,2
+BX1002,Hamburgers,2
+BX1002,Indian,1
+BX1002,Italian,2
+BX1002,Japanese,3
+BX1002,"Juice, Smoothies, Fruit Salads",4
+BX1002,Korean,1
+BX1002,Latin American,7
+BX1002,Mexican,5
+BX1002,Other,2
+BX1002,Pizza,10
+BX1002,Sandwiches,2
+BX1002,Seafood,1
+BX1002,Spanish,3
+BX1002,Steakhouse,1
+BX1002,Unknown,13
+BX1003,African,1
+BX1003,American,12
+BX1003,Chicken,3
+BX1003,Chinese,4
+BX1003,Coffee/Tea,4
+BX1003,Donuts,2
+BX1003,Frozen Desserts,1
+BX1003,Greek,2
+BX1003,Hamburgers,1
+BX1003,Irish,1
+BX1003,Italian,4
+BX1003,Japanese,1
+BX1003,"Juice, Smoothies, Fruit Salads",1
+BX1003,Latin American,1
+BX1003,Mediterranean,3
+BX1003,Mexican,3
+BX1003,Not Listed/Not Applicable,1
+BX1003,Pizza,9
+BX1003,Sandwiches,3
+BX1003,Seafood,11
+BX1003,Spanish,1
+BX1003,Unknown,4
+BX1004,American,7
+BX1004,Bagels/Pretzels,1
+BX1004,Bakery Products/Desserts,3
+BX1004,Caribbean,3
+BX1004,Chicken,3
+BX1004,Chinese,7
+BX1004,Coffee/Tea,3
+BX1004,Donuts,1
+BX1004,Frozen Desserts,2
+BX1004,Hamburgers,3
+BX1004,Hotdogs/Pretzels,2
+BX1004,Italian,1
+BX1004,Japanese,3
+BX1004,"Juice, Smoothies, Fruit Salads",1
+BX1004,Korean,1
+BX1004,Latin American,3
+BX1004,Mexican,2
+BX1004,Middle Eastern,1
+BX1004,Other,2
+BX1004,Pancakes/Waffles,1
+BX1004,Pizza,3
+BX1004,Sandwiches,1
+BX1004,Seafood,2
+BX1004,Tex-Mex,2
+BX1004,Thai,1
+BX1004,Unknown,2
+BX1091,American,1
+BX1101,American,4
+BX1101,Bakery Products/Desserts,3
+BX1101,Bangladeshi,1
+BX1101,Chicken,5
+BX1101,Chinese,7
+BX1101,Coffee/Tea,4
+BX1101,Donuts,1
+BX1101,Eastern European,1
+BX1101,Frozen Desserts,1
+BX1101,Hamburgers,1
+BX1101,Japanese,1
+BX1101,"Juice, Smoothies, Fruit Salads",4
+BX1101,Latin American,2
+BX1101,Mediterranean,1
+BX1101,Mexican,1
+BX1101,Middle Eastern,11
+BX1101,Other,1
+BX1101,Pancakes/Waffles,1
+BX1101,Pizza,6
+BX1101,Sandwiches,1
+BX1101,Seafood,1
+BX1101,Spanish,1
+BX1101,Tex-Mex,2
+BX1101,Unknown,8
+BX1102,American,8
+BX1102,Asian/Asian Fusion,2
+BX1102,Bakery Products/Desserts,3
+BX1102,Bottled Beverages,3
+BX1102,Chinese,4
+BX1102,Coffee/Tea,4
+BX1102,Donuts,2
+BX1102,Eastern European,1
+BX1102,Frozen Desserts,2
+BX1102,Fusion,1
+BX1102,Hamburgers,2
+BX1102,Italian,5
+BX1102,Japanese,2
+BX1102,"Juice, Smoothies, Fruit Salads",3
+BX1102,Latin American,1
+BX1102,Mexican,1
+BX1102,Other,1
+BX1102,Pizza,7
+BX1102,Sandwiches,3
+BX1102,Spanish,1
+BX1102,Thai,1
+BX1102,Unknown,2
+BX1103,African,2
+BX1103,American,2
+BX1103,Bakery Products/Desserts,2
+BX1103,Caribbean,4
+BX1103,Chicken,1
+BX1103,Chinese,1
+BX1103,Coffee/Tea,2
+BX1103,Donuts,3
+BX1103,Frozen Desserts,1
+BX1103,Hamburgers,1
+BX1103,Italian,1
+BX1103,Japanese,1
+BX1103,Latin American,1
+BX1103,Other,1
+BX1103,Pakistani,1
+BX1103,Pizza,5
+BX1103,Sandwiches,1
+BX1103,Spanish,1
+BX1103,Unknown,3
+BX1104,American,2
+BX1104,Bakery Products/Desserts,2
+BX1104,Basque,1
+BX1104,Caribbean,3
+BX1104,Chicken,2
+BX1104,Chinese,7
+BX1104,Coffee/Tea,2
+BX1104,Creole/Cajun,1
+BX1104,Donuts,3
+BX1104,Hamburgers,2
+BX1104,"Juice, Smoothies, Fruit Salads",2
+BX1104,Latin American,3
+BX1104,Mexican,6
+BX1104,Middle Eastern,2
+BX1104,Pakistani,2
+BX1104,Pancakes/Waffles,1
+BX1104,Pizza,9
+BX1104,Sandwiches,1
+BX1104,Soul Food,1
+BX1104,Spanish,3
+BX1104,Unknown,2
+BX1161,American,3
+BX1161,Bagels/Pretzels,1
+BX1161,Donuts,2
+BX1161,"Juice, Smoothies, Fruit Salads",1
+BX1161,Tex-Mex,1
+BX1161,Unknown,1
+BX1201,African,3
+BX1201,American,5
+BX1201,Bakery Products/Desserts,1
+BX1201,Caribbean,22
+BX1201,Chicken,5
+BX1201,Chinese,8
+BX1201,Donuts,1
+BX1201,Fusion,1
+BX1201,Hamburgers,1
+BX1201,Indian,1
+BX1201,"Juice, Smoothies, Fruit Salads",1
+BX1201,Other,1
+BX1201,Pizza,8
+BX1201,Sandwiches,1
+BX1201,Sandwiches/Salads/Mixed Buffet,1
+BX1201,Spanish,2
+BX1201,Unknown,6
+BX1201,Vegan,1
+BX1202,African,1
+BX1202,American,8
+BX1202,Bakery Products/Desserts,3
+BX1202,Caribbean,25
+BX1202,Chicken,7
+BX1202,Chinese,7
+BX1202,Coffee/Tea,1
+BX1202,Donuts,2
+BX1202,Hamburgers,5
+BX1202,"Juice, Smoothies, Fruit Salads",1
+BX1202,Latin American,2
+BX1202,Other,1
+BX1202,Pancakes/Waffles,1
+BX1202,Pizza,7
+BX1202,Soul Food,1
+BX1202,Unknown,3
+BX1203,African,1
+BX1203,American,5
+BX1203,Bakery Products/Desserts,3
+BX1203,Caribbean,19
+BX1203,Chicken,5
+BX1203,Chinese,5
+BX1203,Coffee/Tea,2
+BX1203,Donuts,3
+BX1203,Frozen Desserts,2
+BX1203,Hamburgers,5
+BX1203,Indian,1
+BX1203,Irish,11
+BX1203,"Juice, Smoothies, Fruit Salads",1
+BX1203,Latin American,6
+BX1203,Mexican,2
+BX1203,Other,1
+BX1203,Pizza,9
+BX1203,Sandwiches,2
+BX1203,Sandwiches/Salads/Mixed Buffet,1
+BX1203,Seafood,1
+BX1203,Tex-Mex,1
+BX1203,Unknown,6
+BX1203,Vegetarian,1
+BX2691,American,1
+BX2691,Coffee/Tea,1
+BX2691,Donuts,1
+BX2691,Hamburgers,1
+BX2691,Mexican,2
+BX2691,Middle Eastern,1
+BX2691,Peruvian,1
+BX2691,Pizza,1
+BX2791,American,10
+BX2791,Coffee/Tea,1
+BX2791,Frozen Desserts,1
+BX2791,Other,1
+BX2791,Unknown,3
+BX2891,American,3
+BX2891,Unknown,2
+MN0101,American,147
+MN0101,Asian/Asian Fusion,10
+MN0101,Australian,3
+MN0101,Bagels/Pretzels,12
+MN0101,Bakery Products/Desserts,9
+MN0101,Barbecue,1
+MN0101,Bottled Beverages,1
+MN0101,Brazilian,3
+MN0101,Californian,2
+MN0101,Caribbean,1
+MN0101,Chicken,2
+MN0101,Chinese,16
+MN0101,Coffee/Tea,61
+MN0101,Continental,4
+MN0101,Creole,1
+MN0101,Donuts,17
+MN0101,Eastern European,1
+MN0101,French,10
+MN0101,Frozen Desserts,5
+MN0101,Fusion,1
+MN0101,German,1
+MN0101,Greek,4
+MN0101,Hamburgers,11
+MN0101,Hawaiian,2
+MN0101,Hotdogs/Pretzels,2
+MN0101,Indian,6
+MN0101,Irish,7
+MN0101,Italian,19
+MN0101,Japanese,13
+MN0101,Jewish/Kosher,7
+MN0101,"Juice, Smoothies, Fruit Salads",13
+MN0101,Korean,3
+MN0101,Latin American,3
+MN0101,Lebanese,1
+MN0101,Mediterranean,10
+MN0101,Mexican,12
+MN0101,Middle Eastern,2
+MN0101,New American,4
+MN0101,New French,1
+MN0101,Other,6
+MN0101,Pakistani,1
+MN0101,Peruvian,1
+MN0101,Pizza,16
+MN0101,Russian,2
+MN0101,Salads,8
+MN0101,Sandwiches,10
+MN0101,Sandwiches/Salads/Mixed Buffet,3
+MN0101,Seafood,7
+MN0101,Soups,2
+MN0101,Soups/Salads/Sandwiches,4
+MN0101,Southeast Asian,1
+MN0101,Southwestern,1
+MN0101,Spanish,1
+MN0101,Steakhouse,3
+MN0101,Tex-Mex,7
+MN0101,Thai,6
+MN0101,Unknown,108
+MN0102,American,63
+MN0102,Asian/Asian Fusion,4
+MN0102,Australian,2
+MN0102,Bagels/Pretzels,5
+MN0102,Bakery Products/Desserts,7
+MN0102,Bangladeshi,1
+MN0102,Brazilian,1
+MN0102,Cajun,1
+MN0102,Chicken,2
+MN0102,Chinese,5
+MN0102,Coffee/Tea,31
+MN0102,Creole/Cajun,1
+MN0102,Donuts,4
+MN0102,French,8
+MN0102,Frozen Desserts,3
+MN0102,Fusion,1
+MN0102,Greek,3
+MN0102,Hamburgers,3
+MN0102,Haute Cuisine,1
+MN0102,Hawaiian,1
+MN0102,Indian,6
+MN0102,Italian,15
+MN0102,Japanese,11
+MN0102,Jewish/Kosher,1
+MN0102,"Juice, Smoothies, Fruit Salads",6
+MN0102,Korean,2
+MN0102,Latin American,2
+MN0102,Mediterranean,4
+MN0102,Mexican,4
+MN0102,Moroccan,1
+MN0102,New American,9
+MN0102,New French,1
+MN0102,Nuts/Confectionary,1
+MN0102,Other,1
+MN0102,Peruvian,1
+MN0102,Pizza,8
+MN0102,Portuguese,1
+MN0102,Salads,4
+MN0102,Sandwiches,8
+MN0102,Sandwiches/Salads/Mixed Buffet,5
+MN0102,Seafood,2
+MN0102,Southeast Asian,1
+MN0102,Steakhouse,4
+MN0102,Tex-Mex,5
+MN0102,Thai,1
+MN0102,Unknown,39
+MN0102,Vegetarian,1
+MN0191,Coffee/Tea,1
+MN0191,Other,1
+MN0191,Unknown,9
+MN0201,American,62
+MN0201,Asian/Asian Fusion,11
+MN0201,Australian,1
+MN0201,Bagels/Pretzels,4
+MN0201,Bakery Products/Desserts,16
+MN0201,Barbecue,1
+MN0201,Bottled Beverages,1
+MN0201,Brazilian,1
+MN0201,Californian,2
+MN0201,Chinese,31
+MN0201,Chinese/Japanese,1
+MN0201,Coffee/Tea,74
+MN0201,Continental,1
+MN0201,Donuts,2
+MN0201,Eastern European,3
+MN0201,French,16
+MN0201,Frozen Desserts,9
+MN0201,Fusion,1
+MN0201,Greek,2
+MN0201,Hamburgers,3
+MN0201,Hawaiian,1
+MN0201,Indian,1
+MN0201,Indonesian,2
+MN0201,Italian,62
+MN0201,Japanese,31
+MN0201,"Juice, Smoothies, Fruit Salads",9
+MN0201,Korean,4
+MN0201,Latin American,3
+MN0201,Mediterranean,13
+MN0201,Mexican,5
+MN0201,Middle Eastern,5
+MN0201,Moroccan,2
+MN0201,New American,8
+MN0201,New French,2
+MN0201,Other,11
+MN0201,Peruvian,1
+MN0201,Pizza,17
+MN0201,Salads,5
+MN0201,Sandwiches,5
+MN0201,Sandwiches/Salads/Mixed Buffet,2
+MN0201,Seafood,3
+MN0201,Soups/Salads/Sandwiches,2
+MN0201,Southeast Asian,6
+MN0201,Spanish,4
+MN0201,Steakhouse,2
+MN0201,Tapas,2
+MN0201,Tex-Mex,3
+MN0201,Thai,5
+MN0201,Turkish,2
+MN0201,Unknown,81
+MN0201,Vegan,4
+MN0201,Vegetarian,2
+MN0202,American,92
+MN0202,Asian/Asian Fusion,5
+MN0202,Australian,3
+MN0202,Bagels/Pretzels,8
+MN0202,Bakery Products/Desserts,10
+MN0202,Bottled Beverages,2
+MN0202,Californian,1
+MN0202,Caribbean,1
+MN0202,Chicken,4
+MN0202,Chinese,14
+MN0202,Coffee/Tea,60
+MN0202,Continental,1
+MN0202,Donuts,5
+MN0202,Eastern European,1
+MN0202,English,2
+MN0202,Ethiopian,2
+MN0202,French,10
+MN0202,Frozen Desserts,7
+MN0202,Greek,2
+MN0202,Hamburgers,4
+MN0202,Indian,8
+MN0202,Irish,3
+MN0202,Italian,35
+MN0202,Japanese,22
+MN0202,"Juice, Smoothies, Fruit Salads",5
+MN0202,Korean,3
+MN0202,Latin American,1
+MN0202,Mediterranean,8
+MN0202,Mexican,9
+MN0202,Middle Eastern,5
+MN0202,New American,8
+MN0202,New French,4
+MN0202,Other,4
+MN0202,Pizza,12
+MN0202,Portuguese,1
+MN0202,Salads,3
+MN0202,Sandwiches,11
+MN0202,Sandwiches/Salads/Mixed Buffet,2
+MN0202,Seafood,9
+MN0202,Soups,1
+MN0202,Soups/Salads/Sandwiches,1
+MN0202,Southeast Asian,4
+MN0202,Spanish,2
+MN0202,Steakhouse,4
+MN0202,Tex-Mex,6
+MN0202,Thai,5
+MN0202,Turkish,1
+MN0202,Unknown,59
+MN0202,Vegan,4
+MN0202,Vegetarian,1
+MN0203,American,105
+MN0203,Asian/Asian Fusion,3
+MN0203,Australian,3
+MN0203,Bagels/Pretzels,3
+MN0203,Bakery Products/Desserts,17
+MN0203,Barbecue,1
+MN0203,Bottled Beverages,1
+MN0203,Brazilian,1
+MN0203,Chicken,2
+MN0203,Chinese,5
+MN0203,Coffee/Tea,43
+MN0203,Continental,2
+MN0203,Donuts,3
+MN0203,Eastern European,5
+MN0203,Egyptian,1
+MN0203,English,4
+MN0203,French,23
+MN0203,Frozen Desserts,12
+MN0203,Fusion,1
+MN0203,Greek,1
+MN0203,Hamburgers,5
+MN0203,Hawaiian,1
+MN0203,Indian,3
+MN0203,Irish,6
+MN0203,Italian,52
+MN0203,Japanese,24
+MN0203,"Juice, Smoothies, Fruit Salads",8
+MN0203,Korean,3
+MN0203,Latin American,2
+MN0203,Mediterranean,10
+MN0203,Mexican,10
+MN0203,Middle Eastern,4
+MN0203,Moroccan,2
+MN0203,New American,18
+MN0203,New French,4
+MN0203,Other,4
+MN0203,Peruvian,2
+MN0203,Pizza,24
+MN0203,Portuguese,2
+MN0203,Russian,1
+MN0203,Salads,1
+MN0203,Sandwiches,6
+MN0203,Seafood,8
+MN0203,Southeast Asian,1
+MN0203,Spanish,3
+MN0203,Steakhouse,3
+MN0203,Tapas,2
+MN0203,Tex-Mex,5
+MN0203,Thai,5
+MN0203,Unknown,74
+MN0203,Vegan,2
+MN0203,Vegetarian,1
+MN0301,African,1
+MN0301,American,25
+MN0301,Armenian,1
+MN0301,Asian/Asian Fusion,15
+MN0301,Bakery Products/Desserts,20
+MN0301,Bottled Beverages,1
+MN0301,Californian,2
+MN0301,Caribbean,1
+MN0301,Chicken,4
+MN0301,Chilean,1
+MN0301,Chinese,112
+MN0301,Coffee/Tea,34
+MN0301,Donuts,2
+MN0301,French,2
+MN0301,Frozen Desserts,4
+MN0301,Greek,2
+MN0301,Hamburgers,2
+MN0301,Italian,3
+MN0301,Japanese,12
+MN0301,Jewish/Kosher,1
+MN0301,"Juice, Smoothies, Fruit Salads",3
+MN0301,Korean,7
+MN0301,Latin American,2
+MN0301,Mediterranean,2
+MN0301,Mexican,6
+MN0301,Middle Eastern,1
+MN0301,New American,7
+MN0301,New French,1
+MN0301,Other,7
+MN0301,Pizza,10
+MN0301,Sandwiches,3
+MN0301,Seafood,2
+MN0301,Southeast Asian,7
+MN0301,Spanish,1
+MN0301,Tapas,2
+MN0301,Tex-Mex,1
+MN0301,Thai,5
+MN0301,Unknown,38
+MN0301,Vegan,1
+MN0301,Vegetarian,2
+MN0302,American,88
+MN0302,Asian/Asian Fusion,7
+MN0302,Australian,5
+MN0302,Bagels/Pretzels,2
+MN0302,Bakery Products/Desserts,15
+MN0302,Basque,1
+MN0302,Caribbean,4
+MN0302,Chicken,6
+MN0302,Chinese,16
+MN0302,Coffee/Tea,28
+MN0302,Donuts,2
+MN0302,Eastern European,2
+MN0302,Filipino,3
+MN0302,French,7
+MN0302,Frozen Desserts,6
+MN0302,Fusion,3
+MN0302,German,2
+MN0302,Greek,1
+MN0302,Hamburgers,7
+MN0302,Indian,3
+MN0302,Irish,2
+MN0302,Italian,12
+MN0302,Japanese,30
+MN0302,Jewish/Kosher,3
+MN0302,"Juice, Smoothies, Fruit Salads",5
+MN0302,Korean,7
+MN0302,Latin American,9
+MN0302,Mediterranean,1
+MN0302,Mexican,9
+MN0302,Middle Eastern,4
+MN0302,Moroccan,1
+MN0302,New American,16
+MN0302,New French,1
+MN0302,Other,5
+MN0302,Peruvian,1
+MN0302,Pizza,21
+MN0302,Portuguese,1
+MN0302,Salads,2
+MN0302,Sandwiches,7
+MN0302,Seafood,1
+MN0302,Southeast Asian,3
+MN0302,Spanish,3
+MN0302,Steakhouse,1
+MN0302,Tapas,1
+MN0302,Thai,5
+MN0302,Turkish,1
+MN0302,Unknown,63
+MN0302,Vegan,1
+MN0302,Vegetarian,1
+MN0303,American,155
+MN0303,Asian/Asian Fusion,31
+MN0303,Australian,2
+MN0303,Bagels/Pretzels,4
+MN0303,Bakery Products/Desserts,15
+MN0303,Bangladeshi,1
+MN0303,Bottled Beverages,9
+MN0303,Californian,1
+MN0303,Caribbean,3
+MN0303,Chicken,8
+MN0303,Chinese,38
+MN0303,Chinese/Japanese,3
+MN0303,Coffee/Tea,65
+MN0303,Continental,1
+MN0303,Donuts,1
+MN0303,Eastern European,2
+MN0303,Egyptian,1
+MN0303,Ethiopian,2
+MN0303,Filipino,2
+MN0303,French,7
+MN0303,Frozen Desserts,7
+MN0303,Fusion,1
+MN0303,German,1
+MN0303,Greek,1
+MN0303,Hamburgers,7
+MN0303,Hotdogs,1
+MN0303,Hotdogs/Pretzels,1
+MN0303,Indian,14
+MN0303,Irish,8
+MN0303,Italian,30
+MN0303,Japanese,59
+MN0303,Jewish/Kosher,2
+MN0303,"Juice, Smoothies, Fruit Salads",9
+MN0303,Korean,10
+MN0303,Latin American,10
+MN0303,Lebanese,1
+MN0303,Mediterranean,9
+MN0303,Mexican,19
+MN0303,Middle Eastern,11
+MN0303,Moroccan,1
+MN0303,New American,8
+MN0303,Not Listed/Not Applicable,2
+MN0303,Other,10
+MN0303,Pakistani,1
+MN0303,Pizza,34
+MN0303,Polish,2
+MN0303,Polynesian,1
+MN0303,Portuguese,1
+MN0303,Russian,1
+MN0303,Salads,3
+MN0303,Sandwiches,7
+MN0303,Sandwiches/Salads/Mixed Buffet,2
+MN0303,Scandinavian,1
+MN0303,Seafood,4
+MN0303,Soul Food,1
+MN0303,Southeast Asian,5
+MN0303,Spanish,5
+MN0303,Steakhouse,1
+MN0303,Tapas,3
+MN0303,Tex-Mex,3
+MN0303,Thai,12
+MN0303,Unknown,122
+MN0303,Vegan,5
+MN0303,Vegetarian,6
+MN0401,American,165
+MN0401,Asian/Asian Fusion,7
+MN0401,Australian,3
+MN0401,Bagels/Pretzels,7
+MN0401,Bakery Products/Desserts,14
+MN0401,Bangladeshi,1
+MN0401,Barbecue,1
+MN0401,Bottled Beverages,3
+MN0401,Californian,1
+MN0401,Caribbean,1
+MN0401,Chicken,5
+MN0401,Chinese,16
+MN0401,Coffee/Tea,76
+MN0401,Continental,2
+MN0401,Donuts,11
+MN0401,Filipino,1
+MN0401,French,9
+MN0401,Frozen Desserts,10
+MN0401,Fusion,7
+MN0401,German,2
+MN0401,Greek,3
+MN0401,Hamburgers,6
+MN0401,Hawaiian,1
+MN0401,Hotdogs,2
+MN0401,Indian,5
+MN0401,Irish,4
+MN0401,Italian,36
+MN0401,Japanese,28
+MN0401,"Juice, Smoothies, Fruit Salads",11
+MN0401,Korean,4
+MN0401,Latin American,5
+MN0401,Mediterranean,9
+MN0401,Mexican,12
+MN0401,Middle Eastern,7
+MN0401,New American,4
+MN0401,Other,22
+MN0401,Pakistani,1
+MN0401,Pancakes/Waffles,1
+MN0401,Peruvian,1
+MN0401,Pizza,26
+MN0401,Portuguese,1
+MN0401,Salads,5
+MN0401,Sandwiches,15
+MN0401,Sandwiches/Salads/Mixed Buffet,5
+MN0401,Seafood,8
+MN0401,Soups/Salads/Sandwiches,4
+MN0401,Southeast Asian,1
+MN0401,Spanish,14
+MN0401,Steakhouse,4
+MN0401,Tex-Mex,9
+MN0401,Thai,10
+MN0401,Turkish,1
+MN0401,Unknown,97
+MN0401,Vegan,2
+MN0401,Vegetarian,1
+MN0402,Afghan,1
+MN0402,African,1
+MN0402,American,132
+MN0402,Armenian,1
+MN0402,Asian/Asian Fusion,6
+MN0402,Bagels/Pretzels,4
+MN0402,Bakery Products/Desserts,14
+MN0402,Bottled Beverages,4
+MN0402,Brazilian,2
+MN0402,Californian,1
+MN0402,Caribbean,4
+MN0402,Chicken,6
+MN0402,Chinese,23
+MN0402,Coffee/Tea,44
+MN0402,Continental,3
+MN0402,Donuts,7
+MN0402,Eastern European,1
+MN0402,Egyptian,1
+MN0402,Filipino,1
+MN0402,French,6
+MN0402,Frozen Desserts,3
+MN0402,German,1
+MN0402,Greek,2
+MN0402,Hamburgers,6
+MN0402,Hawaiian,3
+MN0402,Hotdogs,1
+MN0402,Hotdogs/Pretzels,1
+MN0402,Indian,10
+MN0402,Irish,13
+MN0402,Italian,32
+MN0402,Japanese,39
+MN0402,"Juice, Smoothies, Fruit Salads",11
+MN0402,Korean,9
+MN0402,Latin American,7
+MN0402,Mediterranean,11
+MN0402,Mexican,25
+MN0402,Middle Eastern,2
+MN0402,New American,3
+MN0402,Nuts/Confectionary,2
+MN0402,Other,4
+MN0402,Peruvian,4
+MN0402,Pizza,35
+MN0402,Portuguese,1
+MN0402,Salads,2
+MN0402,Sandwiches,9
+MN0402,Sandwiches/Salads/Mixed Buffet,6
+MN0402,Seafood,2
+MN0402,Southeast Asian,1
+MN0402,Spanish,3
+MN0402,Steakhouse,3
+MN0402,Tex-Mex,6
+MN0402,Thai,15
+MN0402,Turkish,6
+MN0402,Unknown,56
+MN0402,Vegan,1
+MN0501,African,2
+MN0501,American,201
+MN0501,Asian/Asian Fusion,7
+MN0501,Australian,1
+MN0501,Bagels/Pretzels,9
+MN0501,Bakery Products/Desserts,22
+MN0501,Barbecue,5
+MN0501,Bottled Beverages,4
+MN0501,Californian,2
+MN0501,Caribbean,2
+MN0501,Chicken,13
+MN0501,Chinese,19
+MN0501,Chinese/Cuban,2
+MN0501,Chinese/Japanese,2
+MN0501,Coffee/Tea,87
+MN0501,Continental,3
+MN0501,Donuts,11
+MN0501,English,1
+MN0501,French,11
+MN0501,Frozen Desserts,8
+MN0501,Fruits/Vegetables,1
+MN0501,Fusion,6
+MN0501,Greek,2
+MN0501,Hamburgers,9
+MN0501,Hawaiian,4
+MN0501,Hotdogs,5
+MN0501,Hotdogs/Pretzels,10
+MN0501,Indian,12
+MN0501,Iranian,1
+MN0501,Irish,5
+MN0501,Italian,30
+MN0501,Japanese,46
+MN0501,Jewish/Kosher,3
+MN0501,"Juice, Smoothies, Fruit Salads",13
+MN0501,Korean,91
+MN0501,Latin American,7
+MN0501,Mediterranean,20
+MN0501,Mexican,14
+MN0501,Middle Eastern,7
+MN0501,New American,11
+MN0501,Nuts/Confectionary,3
+MN0501,Other,18
+MN0501,Pancakes/Waffles,1
+MN0501,Peruvian,1
+MN0501,Pizza,19
+MN0501,Russian,1
+MN0501,Salads,11
+MN0501,Sandwiches,13
+MN0501,Sandwiches/Salads/Mixed Buffet,6
+MN0501,Scandinavian,1
+MN0501,Seafood,6
+MN0501,Soul Food,1
+MN0501,Soups,2
+MN0501,Soups/Salads/Sandwiches,4
+MN0501,Southeast Asian,1
+MN0501,Spanish,4
+MN0501,Steakhouse,6
+MN0501,Tapas,2
+MN0501,Tex-Mex,8
+MN0501,Thai,6
+MN0501,Turkish,1
+MN0501,Unknown,142
+MN0501,Vegan,4
+MN0502,African,3
+MN0502,American,501
+MN0502,Armenian,1
+MN0502,Asian/Asian Fusion,26
+MN0502,Australian,5
+MN0502,Bagels/Pretzels,15
+MN0502,Bakery Products/Desserts,39
+MN0502,Barbecue,3
+MN0502,Bottled Beverages,4
+MN0502,Brazilian,3
+MN0502,Californian,3
+MN0502,Caribbean,2
+MN0502,Chicken,16
+MN0502,Chinese,47
+MN0502,Coffee/Tea,142
+MN0502,Continental,2
+MN0502,Donuts,30
+MN0502,Eastern European,1
+MN0502,Filipino,2
+MN0502,French,31
+MN0502,Frozen Desserts,9
+MN0502,Fusion,6
+MN0502,German,1
+MN0502,Greek,11
+MN0502,Hamburgers,23
+MN0502,Haute Cuisine,1
+MN0502,Hawaiian,3
+MN0502,Hotdogs/Pretzels,3
+MN0502,Indian,15
+MN0502,Irish,28
+MN0502,Italian,73
+MN0502,Japanese,57
+MN0502,Jewish/Kosher,13
+MN0502,"Juice, Smoothies, Fruit Salads",14
+MN0502,Korean,17
+MN0502,Latin American,14
+MN0502,Mediterranean,21
+MN0502,Mexican,24
+MN0502,Middle Eastern,10
+MN0502,New American,15
+MN0502,New French,1
+MN0502,Nuts/Confectionary,3
+MN0502,Other,51
+MN0502,Pizza,48
+MN0502,Polish,1
+MN0502,Russian,3
+MN0502,Salads,24
+MN0502,Sandwiches,31
+MN0502,Sandwiches/Salads/Mixed Buffet,20
+MN0502,Scandinavian,2
+MN0502,Seafood,7
+MN0502,Soups,4
+MN0502,Soups/Salads/Sandwiches,9
+MN0502,Southeast Asian,2
+MN0502,Spanish,6
+MN0502,Steakhouse,20
+MN0502,Tapas,1
+MN0502,Tex-Mex,15
+MN0502,Thai,12
+MN0502,Turkish,4
+MN0502,Unknown,317
+MN0502,Vegan,4
+MN0502,Vegetarian,3
+MN0601,American,2
+MN0601,Bakery Products/Desserts,1
+MN0601,Coffee/Tea,2
+MN0601,Italian,1
+MN0601,Japanese,1
+MN0601,"Juice, Smoothies, Fruit Salads",1
+MN0601,Sandwiches,2
+MN0601,Tex-Mex,1
+MN0602,American,61
+MN0602,Asian/Asian Fusion,1
+MN0602,Bagels/Pretzels,3
+MN0602,Bakery Products/Desserts,2
+MN0602,Bangladeshi,2
+MN0602,Bottled Beverages,1
+MN0602,Chicken,2
+MN0602,Chinese,11
+MN0602,Coffee/Tea,21
+MN0602,Donuts,1
+MN0602,Eastern European,2
+MN0602,English,1
+MN0602,Filipino,1
+MN0602,French,2
+MN0602,Frozen Desserts,1
+MN0602,German,1
+MN0602,Greek,2
+MN0602,Hamburgers,3
+MN0602,Indian,13
+MN0602,Irish,5
+MN0602,Italian,8
+MN0602,Japanese,12
+MN0602,Jewish/Kosher,1
+MN0602,"Juice, Smoothies, Fruit Salads",4
+MN0602,Korean,2
+MN0602,Latin American,4
+MN0602,Mediterranean,5
+MN0602,Mexican,2
+MN0602,Middle Eastern,1
+MN0602,New American,3
+MN0602,Not Listed/Not Applicable,1
+MN0602,Other,3
+MN0602,Pakistani,1
+MN0602,Pancakes/Waffles,1
+MN0602,Pizza,17
+MN0602,Salads,1
+MN0602,Sandwiches,2
+MN0602,Sandwiches/Salads/Mixed Buffet,2
+MN0602,Seafood,1
+MN0602,Southeast Asian,1
+MN0602,Southwestern,1
+MN0602,Spanish,2
+MN0602,Steakhouse,1
+MN0602,Tex-Mex,6
+MN0602,Thai,7
+MN0602,Unknown,25
+MN0602,Vegan,1
+MN0603,African,1
+MN0603,American,46
+MN0603,Asian/Asian Fusion,4
+MN0603,Australian,3
+MN0603,Bagels/Pretzels,5
+MN0603,Bakery Products/Desserts,5
+MN0603,Bottled Beverages,2
+MN0603,Brazilian,1
+MN0603,Caribbean,1
+MN0603,Chicken,2
+MN0603,Chinese,14
+MN0603,Chinese/Japanese,2
+MN0603,Coffee/Tea,33
+MN0603,Continental,2
+MN0603,Donuts,6
+MN0603,Eastern European,2
+MN0603,Filipino,1
+MN0603,French,3
+MN0603,Frozen Desserts,5
+MN0603,Fusion,1
+MN0603,Greek,4
+MN0603,Hamburgers,4
+MN0603,Hawaiian,1
+MN0603,Indian,9
+MN0603,Irish,5
+MN0603,Italian,12
+MN0603,Japanese,20
+MN0603,Jewish/Kosher,5
+MN0603,"Juice, Smoothies, Fruit Salads",6
+MN0603,Korean,8
+MN0603,Latin American,2
+MN0603,Mediterranean,5
+MN0603,Mexican,4
+MN0603,New American,4
+MN0603,Other,5
+MN0603,Peruvian,3
+MN0603,Pizza,13
+MN0603,Salads,3
+MN0603,Sandwiches,5
+MN0603,Sandwiches/Salads/Mixed Buffet,3
+MN0603,Seafood,3
+MN0603,Soul Food,1
+MN0603,Soups/Salads/Sandwiches,2
+MN0603,Southeast Asian,1
+MN0603,Spanish,3
+MN0603,Steakhouse,2
+MN0603,Tex-Mex,3
+MN0603,Thai,4
+MN0603,Turkish,3
+MN0603,Unknown,32
+MN0603,Vegan,1
+MN0604,Afghan,1
+MN0604,African,1
+MN0604,American,116
+MN0604,Armenian,1
+MN0604,Asian/Asian Fusion,13
+MN0604,Australian,1
+MN0604,Bagels/Pretzels,5
+MN0604,Bakery Products/Desserts,14
+MN0604,Bottled Beverages,1
+MN0604,Caribbean,3
+MN0604,Chicken,3
+MN0604,Chinese,18
+MN0604,Coffee/Tea,49
+MN0604,Continental,3
+MN0604,Donuts,8
+MN0604,Eastern European,1
+MN0604,French,15
+MN0604,Frozen Desserts,6
+MN0604,Fruits/Vegetables,1
+MN0604,Fusion,1
+MN0604,German,1
+MN0604,Greek,5
+MN0604,Hamburgers,6
+MN0604,Hawaiian,1
+MN0604,Hotdogs,1
+MN0604,Indian,13
+MN0604,Irish,7
+MN0604,Italian,21
+MN0604,Japanese,38
+MN0604,Jewish/Kosher,6
+MN0604,"Juice, Smoothies, Fruit Salads",9
+MN0604,Korean,5
+MN0604,Latin American,2
+MN0604,Lebanese,1
+MN0604,Mediterranean,7
+MN0604,Mexican,8
+MN0604,Middle Eastern,8
+MN0604,Other,12
+MN0604,Pakistani,1
+MN0604,Peruvian,1
+MN0604,Pizza,19
+MN0604,Salads,8
+MN0604,Sandwiches,13
+MN0604,Sandwiches/Salads/Mixed Buffet,4
+MN0604,Seafood,5
+MN0604,Soups/Salads/Sandwiches,4
+MN0604,Southeast Asian,1
+MN0604,Spanish,2
+MN0604,Steakhouse,9
+MN0604,Tapas,1
+MN0604,Tex-Mex,6
+MN0604,Thai,7
+MN0604,Turkish,2
+MN0604,Unknown,70
+MN0661,Jewish/Kosher,1
+MN0701,American,37
+MN0701,Armenian,1
+MN0701,Asian/Asian Fusion,3
+MN0701,Bagels/Pretzels,1
+MN0701,Bakery Products/Desserts,11
+MN0701,Chicken,1
+MN0701,Chinese,5
+MN0701,Chinese/Cuban,2
+MN0701,Chinese/Japanese,1
+MN0701,Coffee/Tea,26
+MN0701,Donuts,1
+MN0701,French,11
+MN0701,Frozen Desserts,3
+MN0701,Greek,1
+MN0701,Hamburgers,1
+MN0701,Hotdogs,1
+MN0701,Indian,2
+MN0701,Irish,1
+MN0701,Italian,18
+MN0701,Japanese,12
+MN0701,Jewish/Kosher,3
+MN0701,"Juice, Smoothies, Fruit Salads",9
+MN0701,Latin American,2
+MN0701,Mediterranean,6
+MN0701,Mexican,3
+MN0701,New American,3
+MN0701,New French,1
+MN0701,Other,5
+MN0701,Pizza,9
+MN0701,Salads,1
+MN0701,Sandwiches,2
+MN0701,Sandwiches/Salads/Mixed Buffet,2
+MN0701,Seafood,2
+MN0701,Soups/Salads/Sandwiches,1
+MN0701,Southwestern,1
+MN0701,Tex-Mex,1
+MN0701,Thai,3
+MN0701,Unknown,21
+MN0701,Vegan,1
+MN0702,American,48
+MN0702,Asian/Asian Fusion,6
+MN0702,Australian,1
+MN0702,Bagels/Pretzels,5
+MN0702,Bakery Products/Desserts,14
+MN0702,Bottled Beverages,2
+MN0702,Californian,1
+MN0702,Chicken,4
+MN0702,Chinese,15
+MN0702,Chinese/Cuban,1
+MN0702,Chinese/Japanese,1
+MN0702,Coffee/Tea,28
+MN0702,Donuts,5
+MN0702,Eastern European,3
+MN0702,French,11
+MN0702,Frozen Desserts,10
+MN0702,German,1
+MN0702,Greek,2
+MN0702,Hamburgers,4
+MN0702,Indian,6
+MN0702,Irish,2
+MN0702,Italian,24
+MN0702,Japanese,15
+MN0702,Jewish/Kosher,13
+MN0702,"Juice, Smoothies, Fruit Salads",8
+MN0702,Latin American,5
+MN0702,Mediterranean,9
+MN0702,Mexican,9
+MN0702,Middle Eastern,4
+MN0702,New American,4
+MN0702,Other,3
+MN0702,Peruvian,1
+MN0702,Pizza,19
+MN0702,Salads,4
+MN0702,Sandwiches,5
+MN0702,Sandwiches/Salads/Mixed Buffet,1
+MN0702,Seafood,2
+MN0702,Soups,1
+MN0702,Southeast Asian,2
+MN0702,Spanish,2
+MN0702,Tex-Mex,2
+MN0702,Thai,4
+MN0702,Unknown,32
+MN0702,Vegan,1
+MN0702,Vegetarian,2
+MN0703,American,17
+MN0703,Asian/Asian Fusion,1
+MN0703,Bagels/Pretzels,3
+MN0703,Bakery Products/Desserts,2
+MN0703,Chicken,6
+MN0703,Chinese,17
+MN0703,Chinese/Cuban,1
+MN0703,Coffee/Tea,14
+MN0703,Donuts,2
+MN0703,Ethiopian,2
+MN0703,French,2
+MN0703,Frozen Desserts,2
+MN0703,Greek,1
+MN0703,Hamburgers,1
+MN0703,Hawaiian,2
+MN0703,Indian,6
+MN0703,Italian,6
+MN0703,Japanese,8
+MN0703,"Juice, Smoothies, Fruit Salads",3
+MN0703,Latin American,3
+MN0703,Mediterranean,5
+MN0703,Mexican,6
+MN0703,Middle Eastern,4
+MN0703,New American,1
+MN0703,Other,2
+MN0703,Pakistani,1
+MN0703,Pizza,8
+MN0703,Sandwiches,1
+MN0703,Sandwiches/Salads/Mixed Buffet,1
+MN0703,Soul Food,1
+MN0703,Southeast Asian,1
+MN0703,Steakhouse,1
+MN0703,Tex-Mex,1
+MN0703,Thai,3
+MN0703,Unknown,18
+MN0801,Afghan,1
+MN0801,American,52
+MN0801,Asian/Asian Fusion,5
+MN0801,Bagels/Pretzels,7
+MN0801,Bakery Products/Desserts,6
+MN0801,Barbecue,1
+MN0801,Californian,1
+MN0801,Caribbean,1
+MN0801,Chicken,2
+MN0801,Chinese,13
+MN0801,Coffee/Tea,32
+MN0801,Czech,1
+MN0801,Donuts,3
+MN0801,Eastern European,1
+MN0801,English,1
+MN0801,French,4
+MN0801,Frozen Desserts,5
+MN0801,Greek,2
+MN0801,Hamburgers,2
+MN0801,Indian,3
+MN0801,Irish,4
+MN0801,Italian,28
+MN0801,Japanese,26
+MN0801,Jewish/Kosher,1
+MN0801,"Juice, Smoothies, Fruit Salads",9
+MN0801,Korean,1
+MN0801,Latin American,3
+MN0801,Lebanese,1
+MN0801,Mediterranean,6
+MN0801,Mexican,10
+MN0801,Middle Eastern,2
+MN0801,New American,2
+MN0801,Other,1
+MN0801,Peruvian,1
+MN0801,Pizza,16
+MN0801,Salads,4
+MN0801,Sandwiches,8
+MN0801,Sandwiches/Salads/Mixed Buffet,2
+MN0801,Seafood,1
+MN0801,Soups/Salads/Sandwiches,1
+MN0801,Southeast Asian,1
+MN0801,Tapas,2
+MN0801,Tex-Mex,5
+MN0801,Thai,5
+MN0801,Turkish,2
+MN0801,Unknown,36
+MN0801,Vegan,2
+MN0801,Vegetarian,1
+MN0802,American,67
+MN0802,Asian/Asian Fusion,5
+MN0802,Australian,1
+MN0802,Bagels/Pretzels,3
+MN0802,Bakery Products/Desserts,10
+MN0802,Bottled Beverages,1
+MN0802,Chicken,4
+MN0802,Chinese,7
+MN0802,Coffee/Tea,29
+MN0802,Continental,3
+MN0802,Donuts,6
+MN0802,French,26
+MN0802,Frozen Desserts,4
+MN0802,Fusion,2
+MN0802,Greek,5
+MN0802,Hamburgers,4
+MN0802,Indian,3
+MN0802,Italian,38
+MN0802,Japanese,15
+MN0802,Jewish/Kosher,6
+MN0802,"Juice, Smoothies, Fruit Salads",11
+MN0802,Korean,1
+MN0802,Mediterranean,9
+MN0802,Mexican,3
+MN0802,Middle Eastern,1
+MN0802,New American,2
+MN0802,Other,5
+MN0802,Pizza,13
+MN0802,Salads,3
+MN0802,Sandwiches,7
+MN0802,Sandwiches/Salads/Mixed Buffet,7
+MN0802,Seafood,3
+MN0802,Soups/Salads/Sandwiches,3
+MN0802,Steakhouse,1
+MN0802,Tex-Mex,1
+MN0802,Thai,3
+MN0802,Turkish,1
+MN0802,Unknown,39
+MN0802,Vegan,2
+MN0803,American,37
+MN0803,Asian/Asian Fusion,5
+MN0803,Bagels/Pretzels,4
+MN0803,Bakery Products/Desserts,8
+MN0803,Californian,1
+MN0803,Chicken,4
+MN0803,Chinese,10
+MN0803,Coffee/Tea,24
+MN0803,Donuts,5
+MN0803,Eastern European,3
+MN0803,French,7
+MN0803,Frozen Desserts,6
+MN0803,German,2
+MN0803,Greek,1
+MN0803,Hamburgers,1
+MN0803,Indian,3
+MN0803,Irish,9
+MN0803,Italian,21
+MN0803,Japanese,16
+MN0803,Jewish/Kosher,6
+MN0803,"Juice, Smoothies, Fruit Salads",2
+MN0803,Latin American,1
+MN0803,Mediterranean,3
+MN0803,Mexican,9
+MN0803,Middle Eastern,1
+MN0803,New American,1
+MN0803,Other,2
+MN0803,Peruvian,1
+MN0803,Pizza,12
+MN0803,Salads,1
+MN0803,Sandwiches,3
+MN0803,Sandwiches/Salads/Mixed Buffet,1
+MN0803,Seafood,1
+MN0803,Soups,1
+MN0803,Southeast Asian,3
+MN0803,Tex-Mex,2
+MN0803,Thai,5
+MN0803,Unknown,21
+MN0901,American,20
+MN0901,Asian/Asian Fusion,3
+MN0901,Bakery Products/Desserts,1
+MN0901,Caribbean,1
+MN0901,Chicken,2
+MN0901,Chinese,6
+MN0901,Coffee/Tea,20
+MN0901,Donuts,1
+MN0901,Eastern European,1
+MN0901,Ethiopian,2
+MN0901,French,1
+MN0901,Frozen Desserts,2
+MN0901,Fusion,3
+MN0901,Greek,1
+MN0901,Hamburgers,5
+MN0901,Hawaiian,1
+MN0901,Italian,5
+MN0901,Japanese,4
+MN0901,Jewish/Kosher,1
+MN0901,"Juice, Smoothies, Fruit Salads",2
+MN0901,Mexican,3
+MN0901,Middle Eastern,1
+MN0901,Other,4
+MN0901,Pizza,8
+MN0901,Salads,2
+MN0901,Sandwiches,3
+MN0901,Sandwiches/Salads/Mixed Buffet,3
+MN0901,Seafood,1
+MN0901,Soups/Salads/Sandwiches,1
+MN0901,Southeast Asian,1
+MN0901,Tex-Mex,1
+MN0901,Unknown,12
+MN0901,Vegan,1
+MN0902,American,9
+MN0902,Armenian,1
+MN0902,Asian/Asian Fusion,2
+MN0902,Barbecue,1
+MN0902,Chicken,3
+MN0902,Chinese,3
+MN0902,Coffee/Tea,1
+MN0902,Donuts,2
+MN0902,French,1
+MN0902,Japanese,2
+MN0902,"Juice, Smoothies, Fruit Salads",3
+MN0902,Latin American,4
+MN0902,Mexican,4
+MN0902,Other,2
+MN0902,Peruvian,1
+MN0902,Pizza,2
+MN0902,Sandwiches/Salads/Mixed Buffet,1
+MN0902,Seafood,1
+MN0902,Soul Food,1
+MN0902,Spanish,1
+MN0902,Thai,1
+MN0902,Unknown,3
+MN0903,American,20
+MN0903,Asian/Asian Fusion,3
+MN0903,Bakery Products/Desserts,2
+MN0903,Caribbean,4
+MN0903,Chicken,3
+MN0903,Chinese,6
+MN0903,Coffee/Tea,9
+MN0903,Donuts,3
+MN0903,Ethiopian,1
+MN0903,Frozen Desserts,2
+MN0903,Fruits/Vegetables,1
+MN0903,Hamburgers,3
+MN0903,Indian,2
+MN0903,Italian,5
+MN0903,Japanese,3
+MN0903,"Juice, Smoothies, Fruit Salads",4
+MN0903,Latin American,9
+MN0903,Mexican,9
+MN0903,Middle Eastern,1
+MN0903,Other,2
+MN0903,Peruvian,1
+MN0903,Pizza,5
+MN0903,Sandwiches,2
+MN0903,Sandwiches/Salads/Mixed Buffet,2
+MN0903,Seafood,3
+MN0903,Soul Food,2
+MN0903,Soups/Salads/Sandwiches,1
+MN0903,Spanish,3
+MN0903,Tex-Mex,2
+MN0903,Thai,2
+MN0903,Unknown,9
+MN1001,African,5
+MN1001,American,16
+MN1001,Asian/Asian Fusion,1
+MN1001,Bagels/Pretzels,1
+MN1001,Bakery Products/Desserts,3
+MN1001,Bottled Beverages,1
+MN1001,Cajun,1
+MN1001,Caribbean,2
+MN1001,Chicken,9
+MN1001,Chinese,9
+MN1001,Coffee/Tea,10
+MN1001,Donuts,3
+MN1001,Egyptian,1
+MN1001,French,1
+MN1001,Frozen Desserts,1
+MN1001,Hamburgers,7
+MN1001,Indian,1
+MN1001,Italian,3
+MN1001,Japanese,1
+MN1001,Latin American,2
+MN1001,Mediterranean,1
+MN1001,Mexican,4
+MN1001,New American,1
+MN1001,Other,4
+MN1001,Pakistani,1
+MN1001,Peruvian,1
+MN1001,Pizza,2
+MN1001,Salads,1
+MN1001,Sandwiches,1
+MN1001,Seafood,4
+MN1001,Soul Food,3
+MN1001,Steakhouse,2
+MN1001,Tex-Mex,2
+MN1001,Thai,1
+MN1001,Unknown,6
+MN1002,African,3
+MN1002,American,10
+MN1002,Bagels/Pretzels,1
+MN1002,Barbecue,1
+MN1002,Caribbean,7
+MN1002,Chicken,8
+MN1002,Chinese,10
+MN1002,Coffee/Tea,7
+MN1002,Donuts,2
+MN1002,French,2
+MN1002,Fusion,1
+MN1002,Hamburgers,3
+MN1002,Italian,1
+MN1002,Japanese,1
+MN1002,"Juice, Smoothies, Fruit Salads",2
+MN1002,Latin American,1
+MN1002,Mexican,3
+MN1002,Other,1
+MN1002,Pizza,4
+MN1002,Sandwiches,1
+MN1002,Seafood,2
+MN1002,Soul Food,5
+MN1002,Spanish,4
+MN1002,Unknown,10
+MN1101,American,17
+MN1101,Asian/Asian Fusion,2
+MN1101,Bakery Products/Desserts,7
+MN1101,Brazilian,1
+MN1101,Caribbean,4
+MN1101,Chicken,5
+MN1101,Chinese,14
+MN1101,Coffee/Tea,8
+MN1101,Donuts,5
+MN1101,French,3
+MN1101,Frozen Desserts,2
+MN1101,Fusion,1
+MN1101,Hamburgers,5
+MN1101,Indian,2
+MN1101,Italian,1
+MN1101,Japanese,2
+MN1101,"Juice, Smoothies, Fruit Salads",5
+MN1101,Korean,1
+MN1101,Latin American,8
+MN1101,Mexican,14
+MN1101,Other,1
+MN1101,Peruvian,1
+MN1101,Pizza,14
+MN1101,Sandwiches,3
+MN1101,Seafood,1
+MN1101,Spanish,1
+MN1101,Tex-Mex,3
+MN1101,Thai,5
+MN1101,Unknown,13
+MN1102,African,4
+MN1102,American,13
+MN1102,Bagels/Pretzels,1
+MN1102,Bakery Products/Desserts,5
+MN1102,Caribbean,5
+MN1102,Chicken,10
+MN1102,Chinese,15
+MN1102,Coffee/Tea,10
+MN1102,Donuts,6
+MN1102,Greek,1
+MN1102,Hamburgers,4
+MN1102,Hawaiian,2
+MN1102,Indian,1
+MN1102,Italian,4
+MN1102,Japanese,2
+MN1102,"Juice, Smoothies, Fruit Salads",5
+MN1102,Latin American,8
+MN1102,Mexican,22
+MN1102,Other,7
+MN1102,Pakistani,1
+MN1102,Pancakes/Waffles,1
+MN1102,Pizza,11
+MN1102,Sandwiches,3
+MN1102,Seafood,1
+MN1102,Soul Food,2
+MN1102,Spanish,6
+MN1102,Tapas,1
+MN1102,Tex-Mex,3
+MN1102,Thai,1
+MN1102,Unknown,23
+MN1102,Vegan,1
+MN1191,American,2
+MN1191,Greek,1
+MN1191,Unknown,5
+MN1201,American,14
+MN1201,Armenian,1
+MN1201,Asian/Asian Fusion,3
+MN1201,Bagels/Pretzels,1
+MN1201,Bakery Products/Desserts,11
+MN1201,Barbecue,1
+MN1201,Caribbean,1
+MN1201,Chicken,7
+MN1201,Chinese,8
+MN1201,Chinese/Cuban,1
+MN1201,Coffee/Tea,6
+MN1201,Donuts,4
+MN1201,Hamburgers,2
+MN1201,Italian,1
+MN1201,Japanese,1
+MN1201,"Juice, Smoothies, Fruit Salads",5
+MN1201,Korean,1
+MN1201,Latin American,25
+MN1201,Mexican,12
+MN1201,Other,5
+MN1201,Pizza,10
+MN1201,Sandwiches,2
+MN1201,Sandwiches/Salads/Mixed Buffet,1
+MN1201,Seafood,1
+MN1201,Spanish,9
+MN1201,Tapas,1
+MN1201,Tex-Mex,4
+MN1201,Thai,5
+MN1201,Unknown,22
+MN1202,American,21
+MN1202,Bakery Products/Desserts,8
+MN1202,Caribbean,1
+MN1202,Chicken,7
+MN1202,Chinese,7
+MN1202,Chinese/Cuban,1
+MN1202,Coffee/Tea,11
+MN1202,Donuts,5
+MN1202,Ethiopian,1
+MN1202,Frozen Desserts,3
+MN1202,Hamburgers,1
+MN1202,Indian,1
+MN1202,Irish,1
+MN1202,Italian,1
+MN1202,Japanese,1
+MN1202,Jewish/Kosher,6
+MN1202,"Juice, Smoothies, Fruit Salads",6
+MN1202,Latin American,31
+MN1202,Mexican,7
+MN1202,Other,4
+MN1202,Pancakes/Waffles,1
+MN1202,Pizza,11
+MN1202,Sandwiches,5
+MN1202,Sandwiches/Salads/Mixed Buffet,4
+MN1202,Seafood,2
+MN1202,Spanish,18
+MN1202,Tex-Mex,1
+MN1202,Thai,1
+MN1202,Unknown,28
+MN1203,American,12
+MN1203,Bakery Products/Desserts,4
+MN1203,Chicken,3
+MN1203,Chinese,4
+MN1203,Coffee/Tea,6
+MN1203,Donuts,3
+MN1203,Eastern European,1
+MN1203,Filipino,1
+MN1203,Frozen Desserts,1
+MN1203,Hamburgers,4
+MN1203,Irish,1
+MN1203,Italian,1
+MN1203,Japanese,1
+MN1203,"Juice, Smoothies, Fruit Salads",2
+MN1203,Latin American,30
+MN1203,Mexican,12
+MN1203,Middle Eastern,1
+MN1203,Other,1
+MN1203,Pancakes/Waffles,2
+MN1203,Pizza,6
+MN1203,Sandwiches,1
+MN1203,Seafood,3
+MN1203,Spanish,7
+MN1203,Steakhouse,1
+MN1203,Tex-Mex,3
+MN1203,Thai,2
+MN1203,Unknown,18
+MN1292,Coffee/Tea,1
+MN1292,Hotdogs,2
+MN6491,American,4
+MN6491,Coffee/Tea,1
+MN6491,Italian,1
+MN6491,Unknown,3
+QN0101,Afghan,1
+QN0101,American,21
+QN0101,Asian/Asian Fusion,1
+QN0101,Bagels/Pretzels,2
+QN0101,Bakery Products/Desserts,8
+QN0101,Brazilian,1
+QN0101,Caribbean,2
+QN0101,Chicken,2
+QN0101,Chinese,4
+QN0101,Coffee/Tea,13
+QN0101,Czech,2
+QN0101,Donuts,8
+QN0101,Eastern European,2
+QN0101,Frozen Desserts,5
+QN0101,Greek,17
+QN0101,Hamburgers,3
+QN0101,Hawaiian,1
+QN0101,Indian,1
+QN0101,Irish,4
+QN0101,Italian,7
+QN0101,Japanese,7
+QN0101,"Juice, Smoothies, Fruit Salads",1
+QN0101,Latin American,5
+QN0101,Mediterranean,2
+QN0101,Mexican,5
+QN0101,Middle Eastern,2
+QN0101,New American,5
+QN0101,Peruvian,1
+QN0101,Pizza,11
+QN0101,Salads,1
+QN0101,Sandwiches,4
+QN0101,Seafood,2
+QN0101,Soups/Salads/Sandwiches,1
+QN0101,Steakhouse,2
+QN0101,Tapas,1
+QN0101,Tex-Mex,2
+QN0101,Thai,2
+QN0101,Turkish,1
+QN0101,Unknown,19
+QN0102,American,7
+QN0102,Chinese,2
+QN0102,Donuts,1
+QN0102,Fusion,1
+QN0102,Greek,1
+QN0102,Italian,2
+QN0102,Japanese,1
+QN0102,"Juice, Smoothies, Fruit Salads",2
+QN0102,Latin American,2
+QN0102,Mexican,4
+QN0102,Pizza,5
+QN0102,Sandwiches,1
+QN0102,Southwestern,1
+QN0102,Unknown,3
+QN0103,American,37
+QN0103,Asian/Asian Fusion,7
+QN0103,Bagels/Pretzels,5
+QN0103,Bakery Products/Desserts,10
+QN0103,Bangladeshi,1
+QN0103,Barbecue,2
+QN0103,Brazilian,5
+QN0103,Caribbean,2
+QN0103,Chicken,3
+QN0103,Chinese,12
+QN0103,Chinese/Cuban,1
+QN0103,Coffee/Tea,20
+QN0103,Donuts,3
+QN0103,Eastern European,3
+QN0103,English,1
+QN0103,Filipino,1
+QN0103,French,3
+QN0103,Frozen Desserts,4
+QN0103,Fusion,2
+QN0103,German,1
+QN0103,Greek,15
+QN0103,Hamburgers,5
+QN0103,Hawaiian,2
+QN0103,Indian,3
+QN0103,Irish,6
+QN0103,Italian,9
+QN0103,Japanese,9
+QN0103,Jewish/Kosher,1
+QN0103,"Juice, Smoothies, Fruit Salads",4
+QN0103,Korean,4
+QN0103,Latin American,16
+QN0103,Mediterranean,5
+QN0103,Mexican,18
+QN0103,Middle Eastern,2
+QN0103,Moroccan,1
+QN0103,New American,5
+QN0103,Other,2
+QN0103,Pakistani,1
+QN0103,Pancakes/Waffles,2
+QN0103,Peruvian,4
+QN0103,Pizza,16
+QN0103,Sandwiches,3
+QN0103,Seafood,2
+QN0103,Southeast Asian,3
+QN0103,Spanish,3
+QN0103,Tex-Mex,1
+QN0103,Thai,8
+QN0103,Unknown,32
+QN0104,American,22
+QN0104,Asian/Asian Fusion,1
+QN0104,Bagels/Pretzels,1
+QN0104,Bakery Products/Desserts,8
+QN0104,Bottled Beverages,1
+QN0104,Brazilian,1
+QN0104,Caribbean,2
+QN0104,Chicken,10
+QN0104,Chinese,5
+QN0104,Coffee/Tea,19
+QN0104,Donuts,4
+QN0104,Eastern European,2
+QN0104,Egyptian,4
+QN0104,French,1
+QN0104,Frozen Desserts,4
+QN0104,Fruits/Vegetables,1
+QN0104,Fusion,3
+QN0104,German,1
+QN0104,Greek,2
+QN0104,Hamburgers,2
+QN0104,Indian,1
+QN0104,Irish,7
+QN0104,Italian,1
+QN0104,Japanese,5
+QN0104,"Juice, Smoothies, Fruit Salads",2
+QN0104,Korean,3
+QN0104,Latin American,18
+QN0104,Mediterranean,7
+QN0104,Mexican,15
+QN0104,Middle Eastern,21
+QN0104,Moroccan,4
+QN0104,New American,4
+QN0104,New French,1
+QN0104,Other,2
+QN0104,Pizza,14
+QN0104,Sandwiches/Salads/Mixed Buffet,2
+QN0104,Seafood,4
+QN0104,Southeast Asian,1
+QN0104,Spanish,2
+QN0104,Steakhouse,1
+QN0104,Thai,5
+QN0104,Unknown,43
+QN0105,Afghan,2
+QN0105,American,22
+QN0105,Asian/Asian Fusion,4
+QN0105,Bakery Products/Desserts,4
+QN0105,Bangladeshi,3
+QN0105,Barbecue,1
+QN0105,Brazilian,1
+QN0105,Caribbean,2
+QN0105,Chicken,4
+QN0105,Chinese,7
+QN0105,Coffee/Tea,5
+QN0105,Continental,1
+QN0105,Donuts,3
+QN0105,French,1
+QN0105,Fusion,1
+QN0105,Greek,3
+QN0105,Hamburgers,2
+QN0105,Irish,1
+QN0105,Japanese,2
+QN0105,"Juice, Smoothies, Fruit Salads",1
+QN0105,Korean,1
+QN0105,Latin American,10
+QN0105,Mexican,5
+QN0105,Other,1
+QN0105,Pizza,4
+QN0105,Sandwiches,4
+QN0105,Sandwiches/Salads/Mixed Buffet,3
+QN0105,Southeast Asian,1
+QN0105,Tex-Mex,2
+QN0105,Thai,2
+QN0105,Unknown,7
+QN0161,American,2
+QN0161,Chicken,2
+QN0161,Chinese,1
+QN0161,Chinese/Japanese,1
+QN0161,Coffee/Tea,1
+QN0161,Korean,8
+QN0161,Pizza,2
+QN0161,Sandwiches,1
+QN0161,Unknown,2
+QN0201,American,43
+QN0201,Asian/Asian Fusion,8
+QN0201,Bagels/Pretzels,2
+QN0201,Bakery Products/Desserts,12
+QN0201,Californian,1
+QN0201,Chicken,4
+QN0201,Chinese,23
+QN0201,Coffee/Tea,24
+QN0201,Donuts,2
+QN0201,Eastern European,1
+QN0201,French,4
+QN0201,Frozen Desserts,2
+QN0201,Fruits/Vegetables,1
+QN0201,Fusion,2
+QN0201,Greek,1
+QN0201,Hamburgers,3
+QN0201,Hawaiian,1
+QN0201,Indian,4
+QN0201,Irish,3
+QN0201,Italian,10
+QN0201,Japanese,19
+QN0201,"Juice, Smoothies, Fruit Salads",1
+QN0201,Korean,4
+QN0201,Latin American,5
+QN0201,Mexican,5
+QN0201,Middle Eastern,1
+QN0201,New American,4
+QN0201,Other,2
+QN0201,Peruvian,2
+QN0201,Pizza,7
+QN0201,Salads,1
+QN0201,Sandwiches,2
+QN0201,Sandwiches/Salads/Mixed Buffet,2
+QN0201,Soups/Salads/Sandwiches,1
+QN0201,Southeast Asian,3
+QN0201,Tex-Mex,1
+QN0201,Thai,7
+QN0201,Turkish,1
+QN0201,Unknown,44
+QN0201,Vegan,1
+QN0202,American,39
+QN0202,Asian/Asian Fusion,6
+QN0202,Bagels/Pretzels,2
+QN0202,Bakery Products/Desserts,9
+QN0202,Brazilian,1
+QN0202,Chicken,5
+QN0202,Chinese,8
+QN0202,Coffee/Tea,12
+QN0202,Donuts,3
+QN0202,Eastern European,2
+QN0202,Ethiopian,1
+QN0202,Filipino,2
+QN0202,French,1
+QN0202,Frozen Desserts,3
+QN0202,Fusion,3
+QN0202,German,1
+QN0202,Hamburgers,5
+QN0202,Indian,1
+QN0202,Irish,7
+QN0202,Italian,3
+QN0202,Japanese,7
+QN0202,"Juice, Smoothies, Fruit Salads",7
+QN0202,Korean,6
+QN0202,Latin American,22
+QN0202,Mediterranean,2
+QN0202,Mexican,14
+QN0202,Middle Eastern,1
+QN0202,New American,2
+QN0202,Other,1
+QN0202,Peruvian,4
+QN0202,Pizza,13
+QN0202,Sandwiches,4
+QN0202,Sandwiches/Salads/Mixed Buffet,3
+QN0202,Seafood,1
+QN0202,Spanish,1
+QN0202,Steakhouse,1
+QN0202,Tex-Mex,2
+QN0202,Thai,5
+QN0202,Turkish,1
+QN0202,Unknown,22
+QN0203,American,14
+QN0203,Asian/Asian Fusion,14
+QN0203,Bakery Products/Desserts,3
+QN0203,Bangladeshi,3
+QN0203,Bottled Beverages,1
+QN0203,Chicken,4
+QN0203,Chinese,10
+QN0203,Coffee/Tea,8
+QN0203,Continental,1
+QN0203,Donuts,2
+QN0203,Filipino,12
+QN0203,Frozen Desserts,1
+QN0203,Fusion,1
+QN0203,Hamburgers,2
+QN0203,Irish,6
+QN0203,Italian,2
+QN0203,Japanese,3
+QN0203,Latin American,24
+QN0203,Mediterranean,1
+QN0203,Mexican,14
+QN0203,Other,2
+QN0203,Peruvian,2
+QN0203,Pizza,5
+QN0203,Sandwiches,2
+QN0203,Tex-Mex,1
+QN0203,Thai,3
+QN0203,Unknown,10
+QN0261,Asian/Asian Fusion,1
+QN0261,Chinese,1
+QN0261,Continental,1
+QN0261,Southwestern,1
+QN0261,Unknown,11
+QN0301,American,24
+QN0301,Asian/Asian Fusion,15
+QN0301,Bakery Products/Desserts,20
+QN0301,Bangladeshi,14
+QN0301,Bottled Beverages,1
+QN0301,Brazilian,1
+QN0301,Chicken,9
+QN0301,Chinese,15
+QN0301,Coffee/Tea,7
+QN0301,Continental,1
+QN0301,Donuts,1
+QN0301,French,3
+QN0301,Frozen Desserts,5
+QN0301,Fruits/Vegetables,1
+QN0301,Fusion,1
+QN0301,Greek,1
+QN0301,Hamburgers,6
+QN0301,Indian,6
+QN0301,Irish,2
+QN0301,Italian,2
+QN0301,Japanese,3
+QN0301,"Juice, Smoothies, Fruit Salads",9
+QN0301,Korean,1
+QN0301,Latin American,82
+QN0301,Mexican,22
+QN0301,Middle Eastern,2
+QN0301,Other,2
+QN0301,Pakistani,4
+QN0301,Pancakes/Waffles,1
+QN0301,Peruvian,11
+QN0301,Pizza,13
+QN0301,Sandwiches,2
+QN0301,Seafood,2
+QN0301,Spanish,11
+QN0301,Steakhouse,2
+QN0301,Tapas,1
+QN0301,Tex-Mex,3
+QN0301,Thai,3
+QN0301,Unknown,20
+QN0302,American,6
+QN0302,Bakery Products/Desserts,4
+QN0302,Brazilian,1
+QN0302,Caribbean,1
+QN0302,Chinese,4
+QN0302,Continental,2
+QN0302,Donuts,4
+QN0302,Hamburgers,3
+QN0302,Japanese,1
+QN0302,Latin American,11
+QN0302,Mexican,4
+QN0302,Other,1
+QN0302,Pizza,2
+QN0302,Sandwiches,1
+QN0302,Spanish,1
+QN0302,Tex-Mex,1
+QN0302,Unknown,7
+QN0303,American,3
+QN0303,Bakery Products/Desserts,5
+QN0303,Caribbean,1
+QN0303,Chicken,1
+QN0303,Chinese,6
+QN0303,Chinese/Cuban,1
+QN0303,Coffee/Tea,1
+QN0303,Donuts,1
+QN0303,Frozen Desserts,1
+QN0303,Fusion,1
+QN0303,Hamburgers,2
+QN0303,Japanese,3
+QN0303,"Juice, Smoothies, Fruit Salads",8
+QN0303,Latin American,36
+QN0303,Mexican,15
+QN0303,Other,1
+QN0303,Pizza,5
+QN0303,Sandwiches,1
+QN0303,Spanish,10
+QN0303,Tex-Mex,3
+QN0303,Unknown,11
+QN0401,American,16
+QN0401,Asian/Asian Fusion,20
+QN0401,Bagels/Pretzels,3
+QN0401,Bakery Products/Desserts,28
+QN0401,Bangladeshi,2
+QN0401,Bottled Beverages,2
+QN0401,Brazilian,2
+QN0401,Caribbean,1
+QN0401,Chicken,9
+QN0401,Chinese,39
+QN0401,Chinese/Japanese,3
+QN0401,Coffee/Tea,23
+QN0401,Donuts,1
+QN0401,Filipino,3
+QN0401,Frozen Desserts,5
+QN0401,Hamburgers,6
+QN0401,Hawaiian,1
+QN0401,Hotdogs/Pretzels,2
+QN0401,Indian,3
+QN0401,Indonesian,3
+QN0401,Irish,1
+QN0401,Italian,1
+QN0401,Japanese,13
+QN0401,"Juice, Smoothies, Fruit Salads",8
+QN0401,Korean,2
+QN0401,Latin American,54
+QN0401,Mexican,22
+QN0401,Middle Eastern,1
+QN0401,Other,3
+QN0401,Pakistani,1
+QN0401,Pancakes/Waffles,1
+QN0401,Peruvian,8
+QN0401,Pizza,11
+QN0401,Sandwiches,1
+QN0401,Sandwiches/Salads/Mixed Buffet,1
+QN0401,Seafood,1
+QN0401,Southeast Asian,7
+QN0401,Spanish,4
+QN0401,Steakhouse,2
+QN0401,Tex-Mex,6
+QN0401,Thai,19
+QN0401,Turkish,1
+QN0401,Unknown,18
+QN0402,American,2
+QN0402,Bakery Products/Desserts,6
+QN0402,Caribbean,1
+QN0402,Chicken,6
+QN0402,Chimichurri,1
+QN0402,Chinese,10
+QN0402,Coffee/Tea,3
+QN0402,Donuts,3
+QN0402,Frozen Desserts,5
+QN0402,Hamburgers,2
+QN0402,Italian,1
+QN0402,Japanese,1
+QN0402,Jewish/Kosher,1
+QN0402,"Juice, Smoothies, Fruit Salads",8
+QN0402,Latin American,42
+QN0402,Mexican,20
+QN0402,Other,1
+QN0402,Peruvian,6
+QN0402,Pizza,8
+QN0402,Sandwiches,1
+QN0402,Spanish,3
+QN0402,Tex-Mex,2
+QN0402,Thai,2
+QN0402,Unknown,16
+QN0501,American,21
+QN0501,Asian/Asian Fusion,2
+QN0501,Bakery Products/Desserts,6
+QN0501,Chicken,1
+QN0501,Chinese,10
+QN0501,Coffee/Tea,3
+QN0501,Continental,1
+QN0501,Donuts,1
+QN0501,Frozen Desserts,2
+QN0501,Hamburgers,3
+QN0501,Irish,3
+QN0501,Italian,1
+QN0501,Japanese,5
+QN0501,Korean,1
+QN0501,Latin American,10
+QN0501,Mexican,6
+QN0501,Pancakes/Waffles,1
+QN0501,Peruvian,2
+QN0501,Pizza,10
+QN0501,Polish,1
+QN0501,Sandwiches,3
+QN0501,Tex-Mex,2
+QN0501,Thai,1
+QN0501,Unknown,9
+QN0502,American,43
+QN0502,Asian/Asian Fusion,4
+QN0502,Bagels/Pretzels,2
+QN0502,Bakery Products/Desserts,7
+QN0502,Chicken,3
+QN0502,Chinese,12
+QN0502,Coffee/Tea,25
+QN0502,Donuts,2
+QN0502,Eastern European,4
+QN0502,Egyptian,1
+QN0502,Frozen Desserts,7
+QN0502,German,1
+QN0502,Greek,2
+QN0502,Hamburgers,4
+QN0502,Indian,3
+QN0502,Irish,1
+QN0502,Italian,9
+QN0502,Japanese,10
+QN0502,"Juice, Smoothies, Fruit Salads",7
+QN0502,Korean,1
+QN0502,Latin American,30
+QN0502,Mediterranean,3
+QN0502,Mexican,21
+QN0502,New American,2
+QN0502,Other,3
+QN0502,Pancakes/Waffles,1
+QN0502,Peruvian,2
+QN0502,Pizza,25
+QN0502,Sandwiches,1
+QN0502,Sandwiches/Salads/Mixed Buffet,1
+QN0502,Seafood,1
+QN0502,Soups/Salads/Sandwiches,1
+QN0502,Southeast Asian,1
+QN0502,Spanish,4
+QN0502,Tapas,1
+QN0502,Tex-Mex,3
+QN0502,Thai,4
+QN0502,Unknown,27
+QN0502,Vegan,1
+QN0503,American,12
+QN0503,Asian/Asian Fusion,1
+QN0503,Bagels/Pretzels,2
+QN0503,Bakery Products/Desserts,3
+QN0503,Chicken,1
+QN0503,Chinese,5
+QN0503,Chinese/Japanese,1
+QN0503,Coffee/Tea,5
+QN0503,Donuts,2
+QN0503,Eastern European,2
+QN0503,Frozen Desserts,2
+QN0503,German,1
+QN0503,Hamburgers,3
+QN0503,Hotdogs,1
+QN0503,Irish,2
+QN0503,Japanese,1
+QN0503,Mediterranean,1
+QN0503,Mexican,1
+QN0503,Other,1
+QN0503,Pizza,5
+QN0503,Sandwiches,2
+QN0503,Spanish,2
+QN0503,Tex-Mex,1
+QN0503,Unknown,7
+QN0504,American,5
+QN0504,Asian/Asian Fusion,1
+QN0504,Bagels/Pretzels,1
+QN0504,Bakery Products/Desserts,2
+QN0504,Chicken,1
+QN0504,Chinese,4
+QN0504,Coffee/Tea,3
+QN0504,Donuts,1
+QN0504,Filipino,1
+QN0504,Frozen Desserts,1
+QN0504,Fusion,1
+QN0504,Indian,2
+QN0504,Italian,2
+QN0504,Japanese,2
+QN0504,Jewish/Kosher,1
+QN0504,Latin American,3
+QN0504,Mediterranean,1
+QN0504,Mexican,2
+QN0504,Other,1
+QN0504,Pizza,8
+QN0504,Seafood,1
+QN0504,Thai,2
+QN0504,Unknown,5
+QN0572,Sandwiches,1
+QN0601,American,8
+QN0601,Asian/Asian Fusion,1
+QN0601,Bagels/Pretzels,1
+QN0601,Bakery Products/Desserts,2
+QN0601,Barbecue,1
+QN0601,Chicken,2
+QN0601,Chinese,2
+QN0601,Chinese/Japanese,1
+QN0601,Coffee/Tea,6
+QN0601,Eastern European,1
+QN0601,Fusion,1
+QN0601,Hamburgers,2
+QN0601,Indian,1
+QN0601,Italian,2
+QN0601,Japanese,4
+QN0601,Jewish/Kosher,10
+QN0601,"Juice, Smoothies, Fruit Salads",3
+QN0601,Korean,1
+QN0601,Other,1
+QN0601,Peruvian,1
+QN0601,Pizza,5
+QN0601,Russian,1
+QN0601,Seafood,1
+QN0601,Soups/Salads/Sandwiches,1
+QN0601,Tex-Mex,3
+QN0601,Thai,3
+QN0601,Turkish,1
+QN0601,Unknown,6
+QN0602,American,26
+QN0602,Asian/Asian Fusion,7
+QN0602,Bagels/Pretzels,4
+QN0602,Bakery Products/Desserts,10
+QN0602,Barbecue,1
+QN0602,Bottled Beverages,1
+QN0602,Caribbean,1
+QN0602,Chicken,6
+QN0602,Chinese,18
+QN0602,Chinese/Cuban,1
+QN0602,Coffee/Tea,14
+QN0602,Donuts,4
+QN0602,French,1
+QN0602,Frozen Desserts,5
+QN0602,German,1
+QN0602,Greek,3
+QN0602,Hamburgers,6
+QN0602,Hawaiian,1
+QN0602,Indian,4
+QN0602,Irish,2
+QN0602,Italian,7
+QN0602,Japanese,17
+QN0602,Jewish/Kosher,16
+QN0602,"Juice, Smoothies, Fruit Salads",1
+QN0602,Korean,5
+QN0602,Latin American,5
+QN0602,Mediterranean,1
+QN0602,Mexican,7
+QN0602,Middle Eastern,3
+QN0602,New American,2
+QN0602,New French,1
+QN0602,Other,1
+QN0602,Pancakes/Waffles,1
+QN0602,Peruvian,5
+QN0602,Pizza,13
+QN0602,Salads,2
+QN0602,Sandwiches,4
+QN0602,Sandwiches/Salads/Mixed Buffet,1
+QN0602,Seafood,1
+QN0602,Steakhouse,1
+QN0602,Tex-Mex,3
+QN0602,Thai,3
+QN0602,Turkish,2
+QN0602,Unknown,25
+QN0701,American,16
+QN0701,Asian/Asian Fusion,2
+QN0701,Bakery Products/Desserts,2
+QN0701,Chicken,1
+QN0701,Chilean,1
+QN0701,Chinese,8
+QN0701,Chinese/Japanese,1
+QN0701,Coffee/Tea,5
+QN0701,Donuts,1
+QN0701,Frozen Desserts,1
+QN0701,Hamburgers,1
+QN0701,Japanese,1
+QN0701,"Juice, Smoothies, Fruit Salads",2
+QN0701,Korean,1
+QN0701,Latin American,10
+QN0701,Mexican,2
+QN0701,Other,1
+QN0701,Pizza,4
+QN0701,Sandwiches,1
+QN0701,Spanish,3
+QN0701,Steakhouse,1
+QN0701,Unknown,11
+QN0702,American,7
+QN0702,Bakery Products/Desserts,1
+QN0702,Chinese,3
+QN0702,Chinese/Japanese,1
+QN0702,Coffee/Tea,2
+QN0702,Donuts,1
+QN0702,French,2
+QN0702,Frozen Desserts,3
+QN0702,German,1
+QN0702,Italian,8
+QN0702,Japanese,1
+QN0702,"Juice, Smoothies, Fruit Salads",2
+QN0702,Korean,1
+QN0702,Latin American,1
+QN0702,Mediterranean,1
+QN0702,Mexican,2
+QN0702,Pizza,5
+QN0702,Sandwiches,3
+QN0702,Thai,1
+QN0702,Unknown,4
+QN0703,American,7
+QN0703,Armenian,1
+QN0703,Asian/Asian Fusion,1
+QN0703,Bagels/Pretzels,2
+QN0703,Bakery Products/Desserts,2
+QN0703,Chinese,5
+QN0703,Coffee/Tea,2
+QN0703,Donuts,1
+QN0703,Frozen Desserts,1
+QN0703,Greek,1
+QN0703,Hamburgers,2
+QN0703,Italian,3
+QN0703,Japanese,1
+QN0703,Jewish/Kosher,1
+QN0703,Latin American,2
+QN0703,Mediterranean,1
+QN0703,Pizza,4
+QN0703,Salads,1
+QN0703,Seafood,1
+QN0703,Steakhouse,1
+QN0703,Tex-Mex,2
+QN0703,Thai,1
+QN0703,Unknown,6
+QN0704,American,5
+QN0704,Asian/Asian Fusion,8
+QN0704,Bakery Products/Desserts,13
+QN0704,Barbecue,1
+QN0704,Bottled Beverages,1
+QN0704,Brazilian,1
+QN0704,Chicken,5
+QN0704,Chinese,29
+QN0704,Coffee/Tea,10
+QN0704,Donuts,2
+QN0704,Frozen Desserts,3
+QN0704,Greek,1
+QN0704,Italian,1
+QN0704,Japanese,4
+QN0704,"Juice, Smoothies, Fruit Salads",3
+QN0704,Korean,91
+QN0704,Latin American,5
+QN0704,Mexican,2
+QN0704,Other,2
+QN0704,Pancakes/Waffles,1
+QN0704,Pizza,5
+QN0704,Sandwiches,2
+QN0704,Sandwiches/Salads/Mixed Buffet,1
+QN0704,Thai,3
+QN0704,Unknown,25
+QN0705,American,2
+QN0705,Asian/Asian Fusion,4
+QN0705,Bakery Products/Desserts,5
+QN0705,Barbecue,2
+QN0705,Chicken,1
+QN0705,Chinese,15
+QN0705,Coffee/Tea,3
+QN0705,Donuts,1
+QN0705,Frozen Desserts,1
+QN0705,Indian,2
+QN0705,Irish,1
+QN0705,Japanese,1
+QN0705,Korean,5
+QN0705,Latin American,3
+QN0705,Mexican,1
+QN0705,Pizza,3
+QN0705,Southeast Asian,1
+QN0705,Unknown,3
+QN0706,American,2
+QN0706,Bakery Products/Desserts,2
+QN0706,Brazilian,1
+QN0706,Chinese,17
+QN0706,Chinese/Japanese,2
+QN0706,Donuts,1
+QN0706,Irish,1
+QN0706,Japanese,1
+QN0706,"Juice, Smoothies, Fruit Salads",1
+QN0706,Pizza,1
+QN0706,Unknown,3
+QN0706,Vegetarian,1
+QN0707,American,15
+QN0707,Asian/Asian Fusion,16
+QN0707,Bagels/Pretzels,1
+QN0707,Bakery Products/Desserts,40
+QN0707,Barbecue,3
+QN0707,Bottled Beverages,6
+QN0707,Cajun,1
+QN0707,Chicken,11
+QN0707,Chinese,266
+QN0707,Chinese/Japanese,1
+QN0707,Coffee/Tea,47
+QN0707,Donuts,6
+QN0707,Frozen Desserts,6
+QN0707,Fruits/Vegetables,1
+QN0707,Fusion,1
+QN0707,Hamburgers,3
+QN0707,Hotdogs,1
+QN0707,Hotdogs/Pretzels,2
+QN0707,Indian,1
+QN0707,Japanese,21
+QN0707,"Juice, Smoothies, Fruit Salads",3
+QN0707,Korean,18
+QN0707,Latin American,4
+QN0707,Mexican,3
+QN0707,Middle Eastern,1
+QN0707,Other,7
+QN0707,Pancakes/Waffles,1
+QN0707,Pizza,6
+QN0707,Sandwiches,7
+QN0707,Sandwiches/Salads/Mixed Buffet,1
+QN0707,Seafood,4
+QN0707,Southeast Asian,2
+QN0707,Spanish,1
+QN0707,Steakhouse,1
+QN0707,Tapas,1
+QN0707,Unknown,109
+QN0791,American,1
+QN0801,Afghan,1
+QN0801,American,5
+QN0801,Asian/Asian Fusion,2
+QN0801,Chicken,2
+QN0801,Chinese,4
+QN0801,Donuts,1
+QN0801,Hamburgers,1
+QN0801,Japanese,3
+QN0801,Jewish/Kosher,16
+QN0801,Latin American,1
+QN0801,Mediterranean,1
+QN0801,Other,2
+QN0801,Pizza,3
+QN0801,Sandwiches,1
+QN0801,Spanish,1
+QN0801,Unknown,8
+QN0802,Afghan,1
+QN0802,American,9
+QN0802,Asian/Asian Fusion,2
+QN0802,Bakery Products/Desserts,1
+QN0802,Chicken,1
+QN0802,Chinese,3
+QN0802,Coffee/Tea,3
+QN0802,Donuts,2
+QN0802,Filipino,1
+QN0802,Frozen Desserts,1
+QN0802,Hamburgers,2
+QN0802,Italian,1
+QN0802,Japanese,2
+QN0802,Mediterranean,1
+QN0802,Mexican,1
+QN0802,Other,1
+QN0802,Pizza,4
+QN0802,Sandwiches,1
+QN0802,Sandwiches/Salads/Mixed Buffet,1
+QN0802,Tex-Mex,1
+QN0802,Thai,2
+QN0802,Unknown,1
+QN0803,Afghan,2
+QN0803,American,9
+QN0803,Asian/Asian Fusion,1
+QN0803,Bagels/Pretzels,1
+QN0803,Bakery Products/Desserts,2
+QN0803,Chicken,1
+QN0803,Chinese,4
+QN0803,Coffee/Tea,6
+QN0803,Donuts,2
+QN0803,Frozen Desserts,2
+QN0803,Hamburgers,1
+QN0803,Hawaiian,1
+QN0803,Indian,1
+QN0803,Japanese,2
+QN0803,Jewish/Kosher,6
+QN0803,"Juice, Smoothies, Fruit Salads",1
+QN0803,Mediterranean,3
+QN0803,Mexican,2
+QN0803,Other,1
+QN0803,Pizza,4
+QN0803,Sandwiches,3
+QN0803,Steakhouse,1
+QN0803,Tex-Mex,1
+QN0803,Thai,2
+QN0803,Unknown,5
+QN0804,American,5
+QN0804,Asian/Asian Fusion,1
+QN0804,Bagels/Pretzels,1
+QN0804,Bakery Products/Desserts,1
+QN0804,Bangladeshi,1
+QN0804,Barbecue,1
+QN0804,Bottled Beverages,1
+QN0804,Chinese,4
+QN0804,Coffee/Tea,1
+QN0804,Donuts,2
+QN0804,Frozen Desserts,3
+QN0804,Hamburgers,1
+QN0804,Japanese,2
+QN0804,Jewish/Kosher,3
+QN0804,"Juice, Smoothies, Fruit Salads",3
+QN0804,Korean,1
+QN0804,Latin American,1
+QN0804,Other,1
+QN0804,Pizza,3
+QN0804,Sandwiches,1
+QN0804,Seafood,1
+QN0804,Tex-Mex,1
+QN0804,Unknown,3
+QN0805,Afghan,1
+QN0805,American,3
+QN0805,Bagels/Pretzels,1
+QN0805,Bangladeshi,10
+QN0805,Bottled Beverages,1
+QN0805,Chicken,2
+QN0805,Chinese,4
+QN0805,Coffee/Tea,2
+QN0805,Donuts,2
+QN0805,Filipino,1
+QN0805,Hamburgers,1
+QN0805,Indian,1
+QN0805,Italian,1
+QN0805,Jewish/Kosher,1
+QN0805,Mexican,2
+QN0805,Other,3
+QN0805,Pizza,2
+QN0805,Sandwiches/Salads/Mixed Buffet,1
+QN0805,Spanish,3
+QN0805,Unknown,6
+QN0901,American,7
+QN0901,Bagels/Pretzels,1
+QN0901,Bakery Products/Desserts,3
+QN0901,Chicken,3
+QN0901,Chinese,5
+QN0901,Coffee/Tea,3
+QN0901,Donuts,3
+QN0901,Hamburgers,1
+QN0901,Indian,2
+QN0901,Italian,1
+QN0901,Japanese,2
+QN0901,Latin American,2
+QN0901,Mexican,3
+QN0901,Middle Eastern,2
+QN0901,Peruvian,1
+QN0901,Pizza,4
+QN0901,Tex-Mex,2
+QN0901,Thai,1
+QN0901,Unknown,2
+QN0902,American,13
+QN0902,Bakery Products/Desserts,5
+QN0902,Caribbean,7
+QN0902,Chicken,3
+QN0902,Chinese,8
+QN0902,Coffee/Tea,3
+QN0902,Donuts,4
+QN0902,Fusion,1
+QN0902,Indian,5
+QN0902,Jewish/Kosher,1
+QN0902,Latin American,11
+QN0902,Mexican,4
+QN0902,Other,2
+QN0902,Peruvian,3
+QN0902,Pizza,9
+QN0902,Sandwiches,3
+QN0902,Seafood,2
+QN0902,Spanish,5
+QN0902,Unknown,8
+QN0903,Caribbean,10
+QN0903,Chinese,3
+QN0903,Indian,15
+QN0903,Italian,1
+QN0903,"Juice, Smoothies, Fruit Salads",1
+QN0903,Middle Eastern,1
+QN0903,Pizza,3
+QN0903,Tex-Mex,1
+QN0903,Unknown,6
+QN0904,American,3
+QN0904,Asian/Asian Fusion,1
+QN0904,Bagels/Pretzels,1
+QN0904,Bakery Products/Desserts,1
+QN0904,Bangladeshi,2
+QN0904,Chicken,3
+QN0904,Chinese,5
+QN0904,Chinese/Japanese,1
+QN0904,Coffee/Tea,2
+QN0904,Frozen Desserts,1
+QN0904,"Juice, Smoothies, Fruit Salads",1
+QN0904,Latin American,2
+QN0904,Mexican,2
+QN0904,Pakistani,1
+QN0904,Peruvian,2
+QN0904,Pizza,5
+QN0904,Spanish,1
+QN0904,Unknown,2
+QN0904,Vegetarian,1
+QN0905,American,7
+QN0905,Bakery Products/Desserts,4
+QN0905,Chicken,3
+QN0905,Chinese,7
+QN0905,Donuts,1
+QN0905,Fusion,1
+QN0905,Hamburgers,1
+QN0905,Irish,1
+QN0905,Italian,1
+QN0905,Japanese,2
+QN0905,"Juice, Smoothies, Fruit Salads",2
+QN0905,Latin American,9
+QN0905,Mexican,7
+QN0905,Other,1
+QN0905,Peruvian,3
+QN0905,Pizza,7
+QN0905,Sandwiches,1
+QN0905,Sandwiches/Salads/Mixed Buffet,1
+QN0905,Seafood,2
+QN0905,Spanish,11
+QN0905,Unknown,11
+QN1001,American,28
+QN1001,Asian/Asian Fusion,2
+QN1001,Bakery Products/Desserts,5
+QN1001,Barbecue,1
+QN1001,Bottled Beverages,5
+QN1001,Caribbean,56
+QN1001,Chicken,6
+QN1001,Chinese,16
+QN1001,Coffee/Tea,1
+QN1001,Continental,1
+QN1001,Donuts,5
+QN1001,Frozen Desserts,3
+QN1001,Fusion,4
+QN1001,Hamburgers,3
+QN1001,Indian,8
+QN1001,Italian,4
+QN1001,"Juice, Smoothies, Fruit Salads",1
+QN1001,Latin American,2
+QN1001,Mexican,1
+QN1001,Middle Eastern,3
+QN1001,Other,2
+QN1001,Pizza,4
+QN1001,Salads,1
+QN1001,Sandwiches,4
+QN1001,Seafood,1
+QN1001,Spanish,4
+QN1001,Steakhouse,1
+QN1001,Tapas,1
+QN1001,Tex-Mex,1
+QN1001,Unknown,7
+QN1001,Vegetarian,1
+QN1002,American,7
+QN1002,Asian/Asian Fusion,1
+QN1002,Bakery Products/Desserts,1
+QN1002,Caribbean,2
+QN1002,Chicken,4
+QN1002,Chinese,6
+QN1002,Coffee/Tea,1
+QN1002,Donuts,3
+QN1002,Frozen Desserts,1
+QN1002,Hamburgers,2
+QN1002,Italian,1
+QN1002,Latin American,3
+QN1002,Mexican,3
+QN1002,Middle Eastern,3
+QN1002,Other,1
+QN1002,Pancakes/Waffles,1
+QN1002,Peruvian,2
+QN1002,Pizza,5
+QN1002,Sandwiches,3
+QN1002,Spanish,1
+QN1002,Unknown,11
+QN1003,American,8
+QN1003,Asian/Asian Fusion,1
+QN1003,Bagels/Pretzels,2
+QN1003,Bakery Products/Desserts,2
+QN1003,Chicken,1
+QN1003,Chinese,7
+QN1003,Coffee/Tea,3
+QN1003,Donuts,3
+QN1003,Frozen Desserts,3
+QN1003,Hamburgers,2
+QN1003,Hawaiian,1
+QN1003,Italian,6
+QN1003,Japanese,3
+QN1003,"Juice, Smoothies, Fruit Salads",4
+QN1003,Korean,1
+QN1003,Mexican,2
+QN1003,Other,3
+QN1003,Pizza,4
+QN1003,Seafood,2
+QN1003,Tex-Mex,1
+QN1003,Unknown,5
+QN1101,American,8
+QN1101,Asian/Asian Fusion,1
+QN1101,Bagels/Pretzels,1
+QN1101,Bakery Products/Desserts,3
+QN1101,Chicken,1
+QN1101,Chinese,6
+QN1101,Coffee/Tea,7
+QN1101,Donuts,3
+QN1101,Frozen Desserts,1
+QN1101,Greek,3
+QN1101,Hamburgers,1
+QN1101,Irish,2
+QN1101,Italian,2
+QN1101,Japanese,3
+QN1101,"Juice, Smoothies, Fruit Salads",2
+QN1101,Korean,12
+QN1101,Mediterranean,1
+QN1101,Middle Eastern,2
+QN1101,Other,1
+QN1101,Pizza,7
+QN1101,Sandwiches,2
+QN1101,Southeast Asian,1
+QN1101,Tex-Mex,1
+QN1101,Thai,2
+QN1101,Unknown,4
+QN1102,American,12
+QN1102,Armenian,1
+QN1102,Asian/Asian Fusion,5
+QN1102,Bagels/Pretzels,3
+QN1102,Bakery Products/Desserts,6
+QN1102,Bottled Beverages,1
+QN1102,Cajun,1
+QN1102,Chicken,3
+QN1102,Chinese,18
+QN1102,Coffee/Tea,14
+QN1102,Donuts,2
+QN1102,Frozen Desserts,2
+QN1102,German,1
+QN1102,Greek,4
+QN1102,Hamburgers,6
+QN1102,Indian,2
+QN1102,Irish,2
+QN1102,Italian,5
+QN1102,Japanese,6
+QN1102,"Juice, Smoothies, Fruit Salads",3
+QN1102,Korean,18
+QN1102,Latin American,2
+QN1102,Mediterranean,1
+QN1102,Mexican,5
+QN1102,Middle Eastern,1
+QN1102,Other,3
+QN1102,Pancakes/Waffles,1
+QN1102,Pizza,5
+QN1102,Salads,1
+QN1102,Sandwiches,2
+QN1102,Sandwiches/Salads/Mixed Buffet,1
+QN1102,Southeast Asian,2
+QN1102,Spanish,1
+QN1102,Steakhouse,1
+QN1102,Tapas,1
+QN1102,Tex-Mex,1
+QN1102,Thai,2
+QN1102,Unknown,12
+QN1103,American,6
+QN1103,Bagels/Pretzels,1
+QN1103,Bakery Products/Desserts,3
+QN1103,Chicken,2
+QN1103,Chinese,16
+QN1103,Coffee/Tea,5
+QN1103,Donuts,2
+QN1103,French,1
+QN1103,Frozen Desserts,1
+QN1103,Hamburgers,2
+QN1103,Italian,2
+QN1103,Japanese,5
+QN1103,Korean,6
+QN1103,Mexican,2
+QN1103,Other,1
+QN1103,Peruvian,1
+QN1103,Pizza,5
+QN1103,Sandwiches,1
+QN1103,Southeast Asian,1
+QN1103,Tex-Mex,1
+QN1103,Thai,2
+QN1103,Turkish,1
+QN1103,Unknown,9
+QN1104,American,4
+QN1104,Bagels/Pretzels,1
+QN1104,Bakery Products/Desserts,2
+QN1104,Barbecue,1
+QN1104,Chicken,1
+QN1104,Chinese,8
+QN1104,Coffee/Tea,2
+QN1104,Donuts,3
+QN1104,Greek,1
+QN1104,Hamburgers,1
+QN1104,Iranian,1
+QN1104,Italian,1
+QN1104,Japanese,3
+QN1104,Korean,4
+QN1104,Mediterranean,1
+QN1104,Mexican,1
+QN1104,Other,2
+QN1104,Pizza,2
+QN1104,Spanish,1
+QN1104,Thai,2
+QN1104,Unknown,6
+QN1201,African,1
+QN1201,American,24
+QN1201,Asian/Asian Fusion,2
+QN1201,Bakery Products/Desserts,4
+QN1201,Bangladeshi,12
+QN1201,Barbecue,1
+QN1201,Bottled Beverages,3
+QN1201,Caribbean,19
+QN1201,Chicken,16
+QN1201,Chinese,17
+QN1201,Coffee/Tea,8
+QN1201,Donuts,8
+QN1201,Frozen Desserts,1
+QN1201,Hamburgers,6
+QN1201,Japanese,3
+QN1201,"Juice, Smoothies, Fruit Salads",5
+QN1201,Korean,1
+QN1201,Latin American,27
+QN1201,Mediterranean,1
+QN1201,Mexican,6
+QN1201,Other,6
+QN1201,Pakistani,2
+QN1201,Peruvian,1
+QN1201,Pizza,8
+QN1201,Portuguese,3
+QN1201,Sandwiches,4
+QN1201,Sandwiches/Salads/Mixed Buffet,2
+QN1201,Seafood,1
+QN1201,Spanish,21
+QN1201,Tapas,1
+QN1201,Tex-Mex,6
+QN1201,Unknown,25
+QN1201,Vegan,1
+QN1201,Vegetarian,1
+QN1202,African,1
+QN1202,American,1
+QN1202,Caribbean,8
+QN1202,Chinese,6
+QN1202,"Juice, Smoothies, Fruit Salads",1
+QN1202,Latin American,2
+QN1202,Not Listed/Not Applicable,1
+QN1202,Other,2
+QN1202,Pizza,4
+QN1202,Soul Food,1
+QN1202,Tex-Mex,1
+QN1202,Unknown,3
+QN1203,African,2
+QN1203,American,6
+QN1203,Bagels/Pretzels,1
+QN1203,Bakery Products/Desserts,1
+QN1203,Bottled Beverages,1
+QN1203,Caribbean,12
+QN1203,Chicken,5
+QN1203,Chinese,6
+QN1203,Continental,1
+QN1203,Donuts,3
+QN1203,Frozen Desserts,1
+QN1203,Hamburgers,2
+QN1203,"Juice, Smoothies, Fruit Salads",2
+QN1203,Latin American,1
+QN1203,Middle Eastern,1
+QN1203,Other,4
+QN1203,Pizza,3
+QN1203,Sandwiches,1
+QN1203,Soul Food,2
+QN1203,Spanish,1
+QN1203,Tex-Mex,1
+QN1203,Unknown,4
+QN1204,African,1
+QN1204,American,2
+QN1204,Caribbean,6
+QN1204,Chicken,2
+QN1204,Chinese,4
+QN1204,Coffee/Tea,1
+QN1204,Donuts,1
+QN1204,Hamburgers,2
+QN1204,Indian,1
+QN1204,Pizza,1
+QN1204,Sandwiches,2
+QN1204,Unknown,5
+QN1205,African,1
+QN1205,American,5
+QN1205,Barbecue,1
+QN1205,Caribbean,18
+QN1205,Chicken,5
+QN1205,Chinese,7
+QN1205,Coffee/Tea,1
+QN1205,Creole,1
+QN1205,Donuts,3
+QN1205,Fusion,1
+QN1205,Hamburgers,2
+QN1205,"Juice, Smoothies, Fruit Salads",3
+QN1205,Mediterranean,1
+QN1205,Other,1
+QN1205,Pancakes/Waffles,1
+QN1205,Pizza,5
+QN1205,Seafood,2
+QN1205,Soul Food,1
+QN1205,Spanish,1
+QN1205,Tex-Mex,1
+QN1205,Unknown,11
+QN1206,American,1
+QN1206,Bakery Products/Desserts,1
+QN1206,Caribbean,9
+QN1206,Chicken,6
+QN1206,Chinese,5
+QN1206,Donuts,2
+QN1206,Hamburgers,1
+QN1206,Korean,1
+QN1206,Latin American,2
+QN1206,Mexican,2
+QN1206,Middle Eastern,1
+QN1206,Pizza,3
+QN1206,Sandwiches,2
+QN1206,Spanish,3
+QN1206,Unknown,3
+QN1301,Afghan,1
+QN1301,American,6
+QN1301,Bagels/Pretzels,1
+QN1301,Bakery Products/Desserts,3
+QN1301,Chicken,1
+QN1301,Chinese,4
+QN1301,Coffee/Tea,1
+QN1301,Donuts,1
+QN1301,Frozen Desserts,2
+QN1301,Fusion,1
+QN1301,Greek,1
+QN1301,Hamburgers,1
+QN1301,Indian,10
+QN1301,Italian,1
+QN1301,"Juice, Smoothies, Fruit Salads",1
+QN1301,Mediterranean,2
+QN1301,Mexican,2
+QN1301,Middle Eastern,2
+QN1301,Other,1
+QN1301,Pakistani,1
+QN1301,Pizza,3
+QN1301,Sandwiches,2
+QN1301,Sandwiches/Salads/Mixed Buffet,1
+QN1301,Soups/Salads/Sandwiches,1
+QN1301,Southeast Asian,1
+QN1301,Spanish,1
+QN1301,Unknown,11
+QN1301,Vegetarian,1
+QN1302,American,4
+QN1302,Chicken,1
+QN1302,Chinese,4
+QN1302,Coffee/Tea,1
+QN1302,Fusion,1
+QN1302,Indian,4
+QN1302,"Juice, Smoothies, Fruit Salads",1
+QN1302,Latin American,1
+QN1302,Mediterranean,1
+QN1302,Mexican,2
+QN1302,Middle Eastern,1
+QN1302,Other,1
+QN1302,Pizza,4
+QN1302,Portuguese,1
+QN1302,Sandwiches,1
+QN1302,Seafood,1
+QN1302,Tex-Mex,1
+QN1302,Unknown,1
+QN1302,Vegetarian,2
+QN1303,American,7
+QN1303,Bakery Products/Desserts,2
+QN1303,Caribbean,14
+QN1303,Chicken,7
+QN1303,Chinese,10
+QN1303,Coffee/Tea,1
+QN1303,Creole,2
+QN1303,Donuts,3
+QN1303,Filipino,1
+QN1303,French,1
+QN1303,Hamburgers,3
+QN1303,Indian,2
+QN1303,"Juice, Smoothies, Fruit Salads",1
+QN1303,Latin American,3
+QN1303,Pizza,4
+QN1303,Portuguese,1
+QN1303,Soul Food,1
+QN1303,Spanish,2
+QN1303,Tex-Mex,1
+QN1303,Unknown,5
+QN1304,American,1
+QN1304,Bakery Products/Desserts,1
+QN1304,Caribbean,6
+QN1304,Chicken,1
+QN1304,Chinese,4
+QN1304,Coffee/Tea,1
+QN1304,Creole,1
+QN1304,Hamburgers,1
+QN1304,"Juice, Smoothies, Fruit Salads",1
+QN1304,Other,1
+QN1304,Pizza,1
+QN1304,Unknown,3
+QN1305,American,3
+QN1305,Bakery Products/Desserts,1
+QN1305,Caribbean,20
+QN1305,Chicken,3
+QN1305,Chinese,3
+QN1305,Coffee/Tea,1
+QN1305,Donuts,2
+QN1305,Frozen Desserts,1
+QN1305,Fusion,1
+QN1305,Mexican,1
+QN1305,Seafood,1
+QN1305,Tex-Mex,1
+QN1305,Unknown,5
+QN1306,American,1
+QN1306,Caribbean,9
+QN1306,Chicken,1
+QN1306,Chinese,5
+QN1306,Donuts,1
+QN1306,Hamburgers,2
+QN1306,Other,2
+QN1306,Pizza,2
+QN1306,Spanish,1
+QN1307,American,8
+QN1307,Caribbean,8
+QN1307,Chicken,3
+QN1307,Chinese,3
+QN1307,Donuts,1
+QN1307,Hamburgers,2
+QN1307,"Juice, Smoothies, Fruit Salads",1
+QN1307,Mediterranean,1
+QN1307,Middle Eastern,1
+QN1307,Pancakes/Waffles,1
+QN1307,Pizza,1
+QN1307,Spanish,2
+QN1307,Tex-Mex,1
+QN1307,Unknown,3
+QN1307,Vegetarian,1
+QN1401,American,1
+QN1401,Caribbean,6
+QN1401,Chicken,2
+QN1401,Chinese,4
+QN1401,Donuts,2
+QN1401,Frozen Desserts,1
+QN1401,Hamburgers,1
+QN1401,Latin American,6
+QN1401,Mexican,1
+QN1401,Middle Eastern,1
+QN1401,Other,1
+QN1401,Pizza,6
+QN1401,Sandwiches,2
+QN1401,Seafood,1
+QN1401,Spanish,5
+QN1401,Tex-Mex,3
+QN1401,Unknown,3
+QN1402,American,13
+QN1402,Asian/Asian Fusion,1
+QN1402,Caribbean,3
+QN1402,Chinese,5
+QN1402,Coffee/Tea,3
+QN1402,Donuts,3
+QN1402,Hamburgers,1
+QN1402,Japanese,1
+QN1402,Latin American,4
+QN1402,Mediterranean,1
+QN1402,Mexican,1
+QN1402,Not Listed/Not Applicable,1
+QN1402,Other,1
+QN1402,Pizza,4
+QN1402,Russian,1
+QN1402,Sandwiches,1
+QN1402,Sandwiches/Salads/Mixed Buffet,1
+QN1402,Tex-Mex,1
+QN1402,Thai,1
+QN1402,Unknown,10
+QN1403,American,19
+QN1403,Bagels/Pretzels,3
+QN1403,Bakery Products/Desserts,1
+QN1403,Bottled Beverages,1
+QN1403,Brazilian,1
+QN1403,Caribbean,1
+QN1403,Chinese,3
+QN1403,Coffee/Tea,1
+QN1403,Donuts,1
+QN1403,Frozen Desserts,1
+QN1403,Italian,2
+QN1403,Japanese,1
+QN1403,"Juice, Smoothies, Fruit Salads",1
+QN1403,Latin American,1
+QN1403,Other,3
+QN1403,Pizza,5
+QN1403,Sandwiches,1
+QN1403,Spanish,1
+QN1403,Tex-Mex,1
+QN1403,Unknown,10
+QN8081,American,1
+QN8081,Bottled Beverages,1
+QN8081,Mexican,1
+QN8081,Other,1
+QN8081,Sandwiches/Salads/Mixed Buffet,1
+QN8191,American,8
+QN8191,Bakery Products/Desserts,1
+QN8191,Indian,1
+QN8191,Unknown,3
+QN8291,American,1
+QN8291,Pizza,1
+QN8381,American,22
+QN8381,Asian/Asian Fusion,1
+QN8381,Bakery Products/Desserts,1
+QN8381,Caribbean,1
+QN8381,Chinese,1
+QN8381,Coffee/Tea,1
+QN8381,Donuts,2
+QN8381,Fusion,1
+QN8381,Hamburgers,3
+QN8381,Italian,1
+QN8381,Japanese,1
+QN8381,Korean,1
+QN8381,Other,1
+QN8381,Pizza,2
+QN8381,Sandwiches,3
+QN8381,Sandwiches/Salads/Mixed Buffet,4
+QN8381,Soups/Salads/Sandwiches,1
+QN8381,Tex-Mex,1
+QN8381,Turkish,1
+QN8381,Unknown,14
+SI0101,African,1
+SI0101,American,10
+SI0101,Asian/Asian Fusion,1
+SI0101,Bagels/Pretzels,2
+SI0101,Bakery Products/Desserts,3
+SI0101,Chicken,1
+SI0101,Chinese,2
+SI0101,Coffee/Tea,3
+SI0101,Donuts,2
+SI0101,Frozen Desserts,1
+SI0101,Fusion,1
+SI0101,Hamburgers,1
+SI0101,Japanese,2
+SI0101,Latin American,3
+SI0101,Mediterranean,1
+SI0101,Mexican,2
+SI0101,Other,8
+SI0101,Pizza,5
+SI0101,Sandwiches,1
+SI0101,Soul Food,1
+SI0101,Spanish,4
+SI0101,Thai,2
+SI0101,Unknown,10
+SI0102,American,4
+SI0102,Barbecue,1
+SI0102,Bottled Beverages,1
+SI0102,Caribbean,2
+SI0102,Chicken,2
+SI0102,Chinese,5
+SI0102,Coffee/Tea,2
+SI0102,Donuts,1
+SI0102,Frozen Desserts,1
+SI0102,Hamburgers,2
+SI0102,Indian,3
+SI0102,Italian,1
+SI0102,Latin American,2
+SI0102,Mexican,6
+SI0102,Other,1
+SI0102,Pizza,4
+SI0102,Sandwiches,1
+SI0102,Seafood,1
+SI0102,Spanish,3
+SI0102,Tapas,1
+SI0102,Tex-Mex,1
+SI0102,Unknown,6
+SI0103,African,1
+SI0103,American,2
+SI0103,Bakery Products/Desserts,1
+SI0103,Bangladeshi,1
+SI0103,Chinese,5
+SI0103,Coffee/Tea,2
+SI0103,Frozen Desserts,1
+SI0103,Italian,2
+SI0103,Japanese,1
+SI0103,"Juice, Smoothies, Fruit Salads",1
+SI0103,Mediterranean,1
+SI0103,Mexican,6
+SI0103,Middle Eastern,1
+SI0103,Other,2
+SI0103,Pizza,4
+SI0103,Spanish,1
+SI0103,Tex-Mex,1
+SI0103,Unknown,5
+SI0104,American,15
+SI0104,Bakery Products/Desserts,2
+SI0104,Barbecue,1
+SI0104,Chicken,1
+SI0104,Chinese,5
+SI0104,Coffee/Tea,8
+SI0104,Donuts,1
+SI0104,Frozen Desserts,1
+SI0104,Hamburgers,2
+SI0104,Indian,1
+SI0104,Italian,7
+SI0104,Japanese,3
+SI0104,"Juice, Smoothies, Fruit Salads",2
+SI0104,Mediterranean,1
+SI0104,Mexican,3
+SI0104,Middle Eastern,1
+SI0104,Other,1
+SI0104,Pizza,3
+SI0104,Spanish,2
+SI0104,Tex-Mex,1
+SI0104,Unknown,10
+SI0105,American,11
+SI0105,Asian/Asian Fusion,3
+SI0105,Bakery Products/Desserts,5
+SI0105,Barbecue,1
+SI0105,Cajun,1
+SI0105,Chicken,2
+SI0105,Chinese,7
+SI0105,Coffee/Tea,8
+SI0105,Donuts,3
+SI0105,Frozen Desserts,2
+SI0105,Hamburgers,3
+SI0105,Hawaiian,1
+SI0105,Irish,1
+SI0105,Italian,3
+SI0105,Japanese,6
+SI0105,Jewish/Kosher,2
+SI0105,"Juice, Smoothies, Fruit Salads",2
+SI0105,Latin American,1
+SI0105,Mediterranean,3
+SI0105,Mexican,6
+SI0105,Middle Eastern,1
+SI0105,Pizza,13
+SI0105,Sandwiches,3
+SI0105,Spanish,1
+SI0105,Tex-Mex,1
+SI0105,Thai,1
+SI0105,Turkish,2
+SI0105,Unknown,13
+SI0106,American,5
+SI0106,Bakery Products/Desserts,1
+SI0106,Caribbean,1
+SI0106,Chicken,2
+SI0106,Chinese,7
+SI0106,Irish,1
+SI0106,Italian,1
+SI0106,"Juice, Smoothies, Fruit Salads",1
+SI0106,Latin American,2
+SI0106,Mexican,17
+SI0106,Peruvian,1
+SI0106,Pizza,4
+SI0106,Sandwiches,3
+SI0106,Spanish,5
+SI0106,Thai,1
+SI0106,Unknown,9
+SI0107,American,7
+SI0107,Asian/Asian Fusion,2
+SI0107,Bakery Products/Desserts,1
+SI0107,Chicken,2
+SI0107,Chinese,3
+SI0107,Coffee/Tea,1
+SI0107,Donuts,1
+SI0107,Frozen Desserts,1
+SI0107,Hamburgers,2
+SI0107,Indian,1
+SI0107,Italian,1
+SI0107,Japanese,1
+SI0107,Korean,2
+SI0107,Latin American,3
+SI0107,Middle Eastern,1
+SI0107,Other,1
+SI0107,Pakistani,1
+SI0107,Peruvian,3
+SI0107,Pizza,5
+SI0107,Polish,1
+SI0107,Sandwiches,1
+SI0107,Sandwiches/Salads/Mixed Buffet,1
+SI0107,Soul Food,2
+SI0107,Spanish,1
+SI0107,Turkish,1
+SI0107,Unknown,4
+SI0191,American,2
+SI0201,American,6
+SI0201,Asian/Asian Fusion,5
+SI0201,Bagels/Pretzels,1
+SI0201,Bakery Products/Desserts,4
+SI0201,Chicken,1
+SI0201,Chinese,7
+SI0201,Coffee/Tea,3
+SI0201,Donuts,1
+SI0201,Frozen Desserts,2
+SI0201,Greek,1
+SI0201,Hamburgers,1
+SI0201,Indian,1
+SI0201,Italian,11
+SI0201,Japanese,2
+SI0201,Latin American,1
+SI0201,Mediterranean,2
+SI0201,Mexican,3
+SI0201,Middle Eastern,1
+SI0201,Pizza,8
+SI0201,Polish,1
+SI0201,Russian,1
+SI0201,Sandwiches/Salads/Mixed Buffet,1
+SI0201,Soul Food,1
+SI0201,Turkish,2
+SI0201,Unknown,9
+SI0202,American,14
+SI0202,Asian/Asian Fusion,2
+SI0202,Bakery Products/Desserts,2
+SI0202,Chicken,2
+SI0202,Chinese,15
+SI0202,Coffee/Tea,7
+SI0202,Donuts,2
+SI0202,Eastern European,2
+SI0202,Frozen Desserts,6
+SI0202,Greek,1
+SI0202,Hamburgers,4
+SI0202,Hawaiian,1
+SI0202,Italian,5
+SI0202,Japanese,6
+SI0202,"Juice, Smoothies, Fruit Salads",4
+SI0202,Korean,3
+SI0202,Latin American,1
+SI0202,Mediterranean,4
+SI0202,Mexican,3
+SI0202,Middle Eastern,2
+SI0202,Other,1
+SI0202,Peruvian,1
+SI0202,Pizza,11
+SI0202,Sandwiches,1
+SI0202,Tex-Mex,3
+SI0202,Thai,1
+SI0202,Turkish,1
+SI0202,Unknown,12
+SI0203,American,10
+SI0203,Bakery Products/Desserts,1
+SI0203,Chicken,1
+SI0203,Chinese,6
+SI0203,Coffee/Tea,2
+SI0203,Donuts,4
+SI0203,Frozen Desserts,1
+SI0203,Indian,1
+SI0203,Italian,2
+SI0203,Japanese,2
+SI0203,Jewish/Kosher,2
+SI0203,Other,1
+SI0203,Pizza,4
+SI0203,Steakhouse,1
+SI0203,Unknown,5
+SI0204,American,28
+SI0204,Asian/Asian Fusion,4
+SI0204,Bagels/Pretzels,3
+SI0204,Bakery Products/Desserts,1
+SI0204,Chicken,3
+SI0204,Chinese,11
+SI0204,Coffee/Tea,8
+SI0204,Continental,2
+SI0204,Donuts,8
+SI0204,Filipino,1
+SI0204,Frozen Desserts,4
+SI0204,Hamburgers,3
+SI0204,Hotdogs/Pretzels,1
+SI0204,Indian,1
+SI0204,Italian,2
+SI0204,Japanese,5
+SI0204,Jewish/Kosher,1
+SI0204,"Juice, Smoothies, Fruit Salads",2
+SI0204,Korean,1
+SI0204,Mexican,2
+SI0204,Middle Eastern,1
+SI0204,Other,4
+SI0204,Pizza,11
+SI0204,Sandwiches,5
+SI0204,Sandwiches/Salads/Mixed Buffet,1
+SI0204,Seafood,1
+SI0204,Spanish,2
+SI0204,Steakhouse,1
+SI0204,Tex-Mex,5
+SI0204,Thai,2
+SI0204,Unknown,9
+SI0301,American,1
+SI0301,Bakery Products/Desserts,2
+SI0301,Chicken,1
+SI0301,Chinese,2
+SI0301,Coffee/Tea,1
+SI0301,Donuts,1
+SI0301,Frozen Desserts,1
+SI0301,Italian,3
+SI0301,Mexican,1
+SI0301,Other,1
+SI0301,Pizza,1
+SI0301,Sandwiches,2
+SI0301,Unknown,3
+SI0302,American,16
+SI0302,Asian/Asian Fusion,2
+SI0302,Bakery Products/Desserts,1
+SI0302,Bottled Beverages,1
+SI0302,Chicken,1
+SI0302,Chinese,7
+SI0302,Coffee/Tea,3
+SI0302,Donuts,6
+SI0302,Frozen Desserts,6
+SI0302,Hamburgers,2
+SI0302,Indian,1
+SI0302,Irish,1
+SI0302,Italian,11
+SI0302,Japanese,10
+SI0302,"Juice, Smoothies, Fruit Salads",4
+SI0302,Mediterranean,1
+SI0302,Mexican,3
+SI0302,Middle Eastern,1
+SI0302,Other,3
+SI0302,Pizza,12
+SI0302,Sandwiches,4
+SI0302,Spanish,1
+SI0302,Turkish,1
+SI0302,Unknown,8
+SI0303,American,5
+SI0303,Bagels/Pretzels,2
+SI0303,Bakery Products/Desserts,1
+SI0303,Chicken,1
+SI0303,Chinese,3
+SI0303,Donuts,1
+SI0303,Frozen Desserts,2
+SI0303,Italian,1
+SI0303,Japanese,2
+SI0303,Pizza,3
+SI0303,Sandwiches,1
+SI0303,Unknown,5
+SI0304,American,8
+SI0304,Bagels/Pretzels,1
+SI0304,Bakery Products/Desserts,1
+SI0304,Chinese,2
+SI0304,Coffee/Tea,3
+SI0304,Donuts,2
+SI0304,Frozen Desserts,1
+SI0304,Greek,2
+SI0304,Italian,7
+SI0304,Japanese,3
+SI0304,"Juice, Smoothies, Fruit Salads",1
+SI0304,Mexican,1
+SI0304,Middle Eastern,1
+SI0304,Other,1
+SI0304,Pizza,7
+SI0304,Sandwiches/Salads/Mixed Buffet,2
+SI0304,Tex-Mex,1
+SI0304,Unknown,2
+SI0305,American,16
+SI0305,Asian/Asian Fusion,1
+SI0305,Bakery Products/Desserts,5
+SI0305,Chicken,1
+SI0305,Chinese,4
+SI0305,Coffee/Tea,6
+SI0305,Donuts,4
+SI0305,Frozen Desserts,1
+SI0305,German,1
+SI0305,Hamburgers,1
+SI0305,Italian,8
+SI0305,Japanese,3
+SI0305,"Juice, Smoothies, Fruit Salads",6
+SI0305,Mediterranean,1
+SI0305,Mexican,3
+SI0305,New American,1
+SI0305,Other,1
+SI0305,Pizza,7
+SI0305,Sandwiches,2
+SI0305,Seafood,1
+SI0305,Spanish,1
+SI0305,Tex-Mex,1
+SI0305,Unknown,16
+SI0391,Chinese,1
+SI0391,Donuts,1
+SI0391,Irish,1
+SI0391,Pizza,1

@@ -1,0 +1,16 @@
+<section id="maps" role="tabpanel" aria-labelledby="tab-maps" hidden>
+<div class="map-intro"><div><div class="eyebrow">Explore the city spatially</div><h2>Neighborhood heat maps</h2><p class="note">See where cuisines cluster and where published retail rent benchmarks are available. Select an area to inspect its evidence.</p></div><div class="map-badge">262 official NTA areas<span>NYC Department of City Planning</span></div></div>
+<div class="controls map-controls">
+<label for="map-layer">Map layer<select id="map-layer"><option value="cuisine">Cuisine concentration</option><option value="rent">Retail asking-rent hotspots</option></select></label>
+<label for="map-borough">Borough<select id="map-borough"><option value="">All five boroughs</option></select></label>
+<label for="map-cuisine" id="map-cuisine-label">Cuisine<select id="map-cuisine"><option value="">All cuisines</option></select></label>
+<label for="map-metric" id="map-metric-label">Heat measure<select id="map-metric"><option value="count">Restaurant record count</option><option value="share">Share of local known cuisines</option></select></label>
+</div>
+<p id="map-scope" class="hint"></p>
+<div class="map-layout"><div class="map-card"><div class="map-toolbar"><div id="map-caption"></div><div class="map-buttons"><button type="button" id="map-out" aria-label="Zoom out">−</button><button type="button" id="map-in" aria-label="Zoom in">+</button><button type="button" id="map-home">Fit area</button></div></div>
+<div class="map-stage"><svg id="neighborhood-map" viewBox="0 0 800 800" aria-label="Interactive NYC neighborhood map" role="group"><title>New York City neighborhoods</title><desc>Neighborhood polygons and rent corridor anchors. Use the area selector or table for a text alternative.</desc></svg><div class="map-compass" aria-hidden="true">↑ N</div></div>
+<div id="map-legend" class="map-legend" aria-label="Map color legend"></div><p class="map-help">Drag to pan. Use + and − to zoom. Select a polygon or hotspot for details. Grey rent areas have no area-wide estimate.</p></div>
+<aside class="map-sidebar"><label class="map-find" for="map-area">Find a neighborhood<select id="map-area"><option value="">Select an area</option></select></label><div id="map-detail" aria-live="polite" class="map-detail"></div><div id="map-coverage" class="map-coverage"></div><button type="button" id="export-map" class="map-export">Download this map's data</button></aside></div>
+<div class="map-ranking"><div class="toolbar"><h3 id="map-ranking-title">Neighborhood comparison</h3><p class="subtle" id="map-ranking-note"></p></div><div class="table-scroll"><table><thead id="map-rank-head"></thead><tbody id="map-rank-body"></tbody></table></div></div>
+<p class="source">Boundaries: <a href="https://data.cityofnewyork.us/City-Government/2020-Neighborhood-Tabulation-Areas-NTAs-/9nt8-h7nd" target="_blank" rel="noopener">NYC DCP 2020 Neighborhood Tabulation Areas</a>, retrieved 13 October 2026. These are statistical areas, including parks and airports, and approximate familiar neighborhoods. Supply: DOHMH, record date 6 October 2026. Rents: REBNY H1 2026, median annual ground-floor retail asking rent in USD per sq ft. Rent points are illustrative corridor anchors; their locations do not define corridor boundaries or neighborhood-wide rent.</p>
+</section>

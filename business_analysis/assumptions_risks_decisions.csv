@@ -1,0 +1,12 @@
+﻿id,type,item,status,response,proposed_owner
+A01,Assumption,Users benefit from area/concept comparisons before a feasibility study,Unvalidated,Run pilot with owners and expansion analysts,Sponsor
+A02,Assumption,Current manual research requires reconciling separate reports,Unvalidated workflow hypothesis,Observe a user completing one manual research task,BA
+D01,Decision,Accept exploratory comparison scope without opportunity ranking,Pending stakeholder confirmation,Confirm at final review,Sponsor
+D02,Decision,Choose Tableau or Power BI and website hosting expectation,Pending stakeholder confirmation,Agree whether offline prototype satisfies current milestone,Sponsor
+D03,Decision,Choose next demand source and geographic unit,Pending stakeholder confirmation,Assess resident population versus transit activity and join coverage,Data lead
+R01,Risk,Permit counts may be mistaken for open restaurants or sales share,Mitigated in labels; residual interpretation risk,Keep source population and denominator notes beside supply,Data analyst
+R02,Risk,Incompatible dates and geography create false local comparisons,Mitigated through separate modules,Do not join corridor rents or citywide delivery to individual restaurants,Data analyst
+R03,Risk,Small or changing samples bias asking-rent comparisons,Residual source risk,Retain missing values and ask for actual property quotes,User / analyst
+R04,Risk,Frozen values are used as live current estimates,Mitigated through date labels,Refresh in a separate release; revalidate narrative and regression checks,Data maintainer
+R05,Risk,Mixed app orders are interpreted as restaurant profitability,Mitigated through metric definitions,Retain non-restaurant coverage note and exclude other costs explicitly,Data analyst
+R06,Dependency,Native BI desktop software and an agreed publishing environment,Not provisioned,Use prepared CSVs and build guide after tool selection,Implementation lead

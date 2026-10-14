@@ -1,0 +1,16 @@
+{
+  "source_violation_rows": 296270,
+  "restaurant_records": 31469,
+  "missing_borough": 95,
+  "missing_cuisine": 3860,
+  "missing_zipcode": 494,
+  "never_inspected": 3858,
+  "implausible_or_missing_coordinates": 802,
+  "record_date": "2026-10-06",
+  "delivery_volume_yoy_pct": 18.279759970951904,
+  "delivery_after_fee_yoy_pct": 0.7632815381795499,
+  "delivery_after_fee_2024q4": 24.07980670528853,
+  "delivery_after_fee_2025q4": 24.26360342429932,
+  "fee_increment_share_pct": 80.63331824268822,
+  "real_sales_vs_2019_pct": -3.640312771503048
+}

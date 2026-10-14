@@ -1,0 +1,13 @@
+check,passed,details
+DOHMH query completeness,True,31469 downloaded profiles; 31469 source CAMIS IDs
+one row per CAMIS after source aggregation,True,Source GROUP BY removes repeated violation rows; a conflict aborts this build
+single source snapshot day,True,['2026-10-06']
+reviewed DOHMH snapshot date,True,A newer snapshot requires review of the frozen narrative and dashboard labels before updating this guard
+capture integrity delivery_quarterly,True,Numerical capture SHA256 matches the reviewed snapshot
+capture integrity rent_corridor,True,Numerical capture SHA256 matches the reviewed snapshot
+capture integrity citywide_sales,True,Numerical capture SHA256 matches the reviewed snapshot
+capture integrity storefront_vacancy,True,Numerical capture SHA256 matches the reviewed snapshot
+capture integrity pedestrian_context,True,Numerical capture SHA256 matches the reviewed snapshot
+borough totals reconcile,True,Located plus unknown borough equals all records
+known cuisine totals reconcile,True,All cuisine and borough aggregates reconcile
+headline delivery independent arithmetic,True,SQL compared with independent raw-field calculation

@@ -1,0 +1,26 @@
+{
+  "created": "2026-10-07",
+  "method": "Selected numerical tables extracted by build_analysis.py from the publisher sources; see raw/download_manifest.json for original document hashes and URLs.",
+  "captures": {
+    "delivery_quarterly.csv": {
+      "sha256": "1c0237de24496004f8cef4954c03a23b82ce41c1390b338e476b0ee3f0c6a5c7",
+      "parent_source_file": "dcwp_delivery.xlsx"
+    },
+    "rent_corridor.csv": {
+      "sha256": "3caa1c3248d14c92b86dfff9c4b27ff55725016498958562cd321a29e0ea3c2b",
+      "parent_source_file": "rebny_manhattan_h1_2026.pdf"
+    },
+    "citywide_sales.csv": {
+      "sha256": "920b91e0da91c92cec3a93242b0a0cca02e7160f116cde56956e38e671fd0618",
+      "parent_source_file": "comptroller_economy_2025.html"
+    },
+    "storefront_vacancy.csv": {
+      "sha256": "f343a8d1952789262d3ba34b9953cae17a4cf6c941136b23886ab2267618655b",
+      "parent_source_file": "comptroller_storefronts_2026.html"
+    },
+    "pedestrian_context.csv": {
+      "sha256": "4026e38a8e4640196f832e4b6a7b3e73b75aa7710301ea6a3ef6943a6306e3d6",
+      "parent_source_file": "times_square_aug_2026.pdf"
+    }
+  }
+}

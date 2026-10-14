@@ -1,0 +1,20 @@
+{
+  "source_records": 31469,
+  "mapped_records": 30655,
+  "mapped_pct": 97.41332740156979,
+  "excluded_records": 814,
+  "exclusion_reasons": {
+    "invalid_or_missing_coordinates": 707,
+    "unknown_borough": 95,
+    "outside_nta_boundaries": 11,
+    "borough_mismatch": 1
+  },
+  "nta_count": 262,
+  "residential_nta_count": 197,
+  "boundary_source": "S7",
+  "boundary_download": "2026-10-14T02:42:44.923228+00:00",
+  "restaurant_record_date": "2026-10-06",
+  "rent_marker_count": 16,
+  "rent_with_value": 14,
+  "rent_missing_value": 2
+}

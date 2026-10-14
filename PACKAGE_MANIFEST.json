@@ -1,0 +1,502 @@
+{
+  "purpose": "GitHub-ready local preparation; not uploaded or deployed",
+  "base_release": "2026-10-13-map-extension",
+  "prepared_date": "2026-10-14",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 113,
+      "sha256": "f93d40c422899bbec056ad1ec593edf49790424caa8316568b83b4aeb885f519"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "BI_BUILD_GUIDE.md",
+      "bytes": 7230,
+      "sha256": "cefdfdbe029af756809a9f7bba4fb74bc9bf2e3463bc37114277f9d0d8041f42"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 2007,
+      "sha256": "282fd27d5e2fe363c9a9ed938bf5650607e2560c74910043db97acf51a8cb338"
+    },
+    {
+      "path": "DATA_GUIDE.md",
+      "bytes": 10573,
+      "sha256": "ab2b9de9f60457f0f5d86ca39eb5f10e582bd6697b2eddf36d63412d52efa579"
+    },
+    {
+      "path": "FINAL_HANDOFF.md",
+      "bytes": 16650,
+      "sha256": "7f9709c48ae5f444f67ce81be0461f23996582714d55c36a20c128273340d40f"
+    },
+    {
+      "path": "GITHUB_DEPLOYMENT.md",
+      "bytes": 1309,
+      "sha256": "42e61b3ef16f2058c1e68b88f27fa47711becd4b00c411c2c0c047325dc9e89d"
+    },
+    {
+      "path": "MAP_GUIDE.md",
+      "bytes": 5564,
+      "sha256": "c3f1cfa19a97361400e1e822b31993ff8c54a82e0bc23a6e97f184ef1ef4c7ae"
+    },
+    {
+      "path": "NYC_Restaurant_Explorer.html",
+      "bytes": 1278116,
+      "sha256": "fd0173617eede9b53a12468d2881cbb7e7b8207b563a64ef96fff315cb912028"
+    },
+    {
+      "path": "NYC_Restaurant_Final_Handoff.docx",
+      "bytes": 517319,
+      "sha256": "385b2fbd8545103e310bb1d58e02a28b6b3fb7401395eaa8c2362f18caa5087d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6724,
+      "sha256": "29cad3a50aed03a73fd6f81ecf9efc44122faa99ac50145190cd78e479eba242"
+    },
+    {
+      "path": "START_HERE_ZH.md",
+      "bytes": 3390,
+      "sha256": "13aa99726ca8ceebbf749df9a8e98582782bb028b0d47da5afda30be95d9d6d6"
+    },
+    {
+      "path": "analysis.sql",
+      "bytes": 3848,
+      "sha256": "c3da4fa414ccf9c4d3ce3637cb9411bc1bd2c2551b44975ef5123295c8a20a40"
+    },
+    {
+      "path": "archive/MEETING_NOTES_ZH.md",
+      "bytes": 3843,
+      "sha256": "9e7ebbfcf8ffe151bcfbdc5e4a401b12d978c5da28501dbe09a85b530e4212c5"
+    },
+    {
+      "path": "archive/NYC_Restaurant_Project_Brief.docx",
+      "bytes": 214505,
+      "sha256": "abff1c769072248a5b5e782080c9a4188aea3f1f9733bf63730c0e0c5361046c"
+    },
+    {
+      "path": "build_analysis.py",
+      "bytes": 14146,
+      "sha256": "3f329120d755788f3876eeb96d898f88c39da75128bb01147fd665434fc6d59a"
+    },
+    {
+      "path": "build_dashboard.py",
+      "bytes": 934,
+      "sha256": "19c9b83aa64ba673b4ae5258a3ec9ac51907fba0511b663252725a96303190e8"
+    },
+    {
+      "path": "build_final_handoff.py",
+      "bytes": 29500,
+      "sha256": "ae19b08e40426e407710f98b5883ec8005ff5c4a41c3787822d81b2869dd2303"
+    },
+    {
+      "path": "build_geography.py",
+      "bytes": 7274,
+      "sha256": "55462624f544a5541fe2f8680c376d293f8c4ec8706190dba2f3ad5e7fe63b1c"
+    },
+    {
+      "path": "business_analysis/acceptance_evidence.csv",
+      "bytes": 2318,
+      "sha256": "487e61251434f4859cf8f3c7ee7b63e0434ec74ed585a30046131bc0ca772dcc"
+    },
+    {
+      "path": "business_analysis/assumptions_risks_decisions.csv",
+      "bytes": 1947,
+      "sha256": "ccfa1b7186f9eee472ec63c408b3679955a5eb65053ea5e65a287427734eabc0"
+    },
+    {
+      "path": "business_analysis/kpi_register.csv",
+      "bytes": 1317,
+      "sha256": "9d3b6fcb72292be8e8d00ddcb05fe25d404565cea0c3ca613e5adee4060c5078"
+    },
+    {
+      "path": "business_analysis/requirements_traceability.csv",
+      "bytes": 3345,
+      "sha256": "0fa7f333b873cdfe62296f5df4ddd2d34fa4c9adb227f74ed0067b4a14a97bba"
+    },
+    {
+      "path": "business_analysis/user_acceptance_log.csv",
+      "bytes": 151,
+      "sha256": "6c0429d2a4251005810a6950b23199906a09e219b8aa9b44fe731a9d73f2c2c9"
+    },
+    {
+      "path": "business_analysis/user_stories.csv",
+      "bytes": 2431,
+      "sha256": "529dea141c478154de63496ce136f94da22b8780ddc4c145cc0bfbe2fb512c68"
+    },
+    {
+      "path": "business_analysis/user_workflow.png",
+      "bytes": 92408,
+      "sha256": "f6b923b622b81d0aee14f013bbb6550a67ac2ece3690470743d68225dab8a4c7"
+    },
+    {
+      "path": "business_analysis/user_workflow.svg",
+      "bytes": 39385,
+      "sha256": "b74d19c52454e94d2ae7776b389c903b984eeb27bf67e24b3a64a7b21e85d465"
+    },
+    {
+      "path": "charts/cuisine_neighborhood_map.png",
+      "bytes": 222080,
+      "sha256": "c188c380a11f450b74a3e14b781f9ef5d80cfcd42a109da3cfec083ab672654f"
+    },
+    {
+      "path": "charts/cuisine_neighborhood_map.svg",
+      "bytes": 721412,
+      "sha256": "499b2627ff4ed0be190e78ffb3b5f36dcd89ceb541cb7c4b1e08f76dd6716bf1"
+    },
+    {
+      "path": "charts/delivery_order_economics.png",
+      "bytes": 90112,
+      "sha256": "70ea70c50a52915ef2a6f23426eb0aabbd9e45c5edbed4dde4d7fabf973db9cb"
+    },
+    {
+      "path": "charts/delivery_order_economics.svg",
+      "bytes": 61369,
+      "sha256": "4cbe0ac062400d34c30e27fef33b0a8cbcb3c8e01535d7f517d3b9d9af10a40d"
+    },
+    {
+      "path": "charts/rent_all_corridors.png",
+      "bytes": 163181,
+      "sha256": "2f66047520a036e44c22c9aaa30ec634f6bce4fea2b43ea87bd3535e7232b1b1"
+    },
+    {
+      "path": "charts/rent_all_corridors.svg",
+      "bytes": 81634,
+      "sha256": "753b39c004b99155152d6ca5b5163004515045acef71dc279b39457d721241e4"
+    },
+    {
+      "path": "charts/rent_hotspot_map.png",
+      "bytes": 205869,
+      "sha256": "98637c1b906a6cc9d2190fad57af578e0d1d67c25ff030c82656ec78d7b39dd5"
+    },
+    {
+      "path": "charts/rent_hotspot_map.svg",
+      "bytes": 150748,
+      "sha256": "9e8be181bcc22e63d66eeec3da540e3bfb583504d99560c50841abe4c12d752d"
+    },
+    {
+      "path": "charts/rent_selected_corridors.png",
+      "bytes": 99897,
+      "sha256": "1938d5956b3d486b70ac83f26e4956611310cb2aa62358cb1c75967f1000d2c6"
+    },
+    {
+      "path": "charts/rent_selected_corridors.svg",
+      "bytes": 63956,
+      "sha256": "5eb0bea46ece6dbb628817d41275557a0bc17df8a1b2ff1bbe2fa621ef33ed3f"
+    },
+    {
+      "path": "charts/restaurant_sales_nominal_real.png",
+      "bytes": 108013,
+      "sha256": "a78bd207413a2d7cfeb9f21ee73fb4e45a0b5e868697131900a72853d24da72c"
+    },
+    {
+      "path": "charts/restaurant_sales_nominal_real.svg",
+      "bytes": 64219,
+      "sha256": "f53a5143b35f589398899f57a25e4fee61cdaa9d95972a691c5655e2d2937284"
+    },
+    {
+      "path": "charts/restaurant_supply_borough.png",
+      "bytes": 97837,
+      "sha256": "004db4f62ae34920b430e7af855d1ef78f865bf32d838fe4b107df4eba1290e5"
+    },
+    {
+      "path": "charts/restaurant_supply_borough.svg",
+      "bytes": 65231,
+      "sha256": "479ca603f52d85c71a972a6e270669b505b731f42229a338ec21659817fb3c97"
+    },
+    {
+      "path": "charts/storefront_vacancy.png",
+      "bytes": 78428,
+      "sha256": "daca7f80bc125821444c65684f098787fe7ea8466793c6625ea4765a02ceb272"
+    },
+    {
+      "path": "charts/storefront_vacancy.svg",
+      "bytes": 54611,
+      "sha256": "a881fac23745491285e3edb2cfff216a6566e791cc97f8901dd6eab9ca377e35"
+    },
+    {
+      "path": "dashboard_template.html",
+      "bytes": 30118,
+      "sha256": "8b49d368b7c15101e3cef6d3f4578ff83986ddcb7d590a0144f025ef0a9c257c"
+    },
+    {
+      "path": "data/clean/citywide_sales.csv",
+      "bytes": 488,
+      "sha256": "920b91e0da91c92cec3a93242b0a0cca02e7160f116cde56956e38e671fd0618"
+    },
+    {
+      "path": "data/clean/delivery_quarterly.csv",
+      "bytes": 2906,
+      "sha256": "1c0237de24496004f8cef4954c03a23b82ce41c1390b338e476b0ee3f0c6a5c7"
+    },
+    {
+      "path": "data/clean/nta2020_display.geojson",
+      "bytes": 1053266,
+      "sha256": "f875426c70ec9336a7c8b67b1f75eef5eb7ad532c88934279b7395a8f5bf16cd"
+    },
+    {
+      "path": "data/clean/pedestrian_context.csv",
+      "bytes": 121,
+      "sha256": "4026e38a8e4640196f832e4b6a7b3e73b75aa7710301ea6a3ef6943a6306e3d6"
+    },
+    {
+      "path": "data/clean/rent_corridor.csv",
+      "bytes": 5077,
+      "sha256": "3caa1c3248d14c92b86dfff9c4b27ff55725016498958562cd321a29e0ea3c2b"
+    },
+    {
+      "path": "data/clean/rent_map_anchors.csv",
+      "bytes": 3500,
+      "sha256": "35bc75ddd9ca1adbc109f30a7c621c244137294c74c5ba0d73bccb08e60e296e"
+    },
+    {
+      "path": "data/clean/restaurant_nta_assignment.csv",
+      "bytes": 798247,
+      "sha256": "341a9a2769e5cf882a22386077f8ca8f52d11b4f72f97a3cf3a2070a71673df4"
+    },
+    {
+      "path": "data/clean/restaurants.csv",
+      "bytes": 3477450,
+      "sha256": "3a9e7961770779d07a12992ff4d52dec8141a13d851432c8093536d38f0e81cb"
+    },
+    {
+      "path": "data/clean/storefront_vacancy.csv",
+      "bytes": 174,
+      "sha256": "f343a8d1952789262d3ba34b9953cae17a4cf6c941136b23886ab2267618655b"
+    },
+    {
+      "path": "data/raw/dohmh_counts.json",
+      "bytes": 56,
+      "sha256": "1e045002b03cb20e079abd0a60d7d238055265bf24dcaeeb21705b2c93c3c368"
+    },
+    {
+      "path": "data/raw/dohmh_restaurants.csv",
+      "bytes": 4639265,
+      "sha256": "83218f6b647a0d41492efc6985a63ce346be3264e49abc0e45ac7ea64d0b8d6b"
+    },
+    {
+      "path": "data/raw/download_manifest.json",
+      "bytes": 4679,
+      "sha256": "68da8fcc983275c7f433f67818e012ce82d7bab66ae3b37d40329b7774773334"
+    },
+    {
+      "path": "data/raw/geography_download_manifest.json",
+      "bytes": 259,
+      "sha256": "5cd8723db44c651922f4b2a617e3fdd9b3bf92b04a0993f85f747afe0502db06"
+    },
+    {
+      "path": "data/raw/nyc_nta2020.geojson",
+      "bytes": 4589305,
+      "sha256": "4a036c53ce665a73954f260ef4f3a8c49f33d75fb2fc859fe0baf92f4b7f8af8"
+    },
+    {
+      "path": "data/source_extracts/capture_manifest.json",
+      "bytes": 1112,
+      "sha256": "2f6f22691b459eb8fb9723e124e6aa7dd2aab0134b0d50211a869c196fb1b1c3"
+    },
+    {
+      "path": "data/source_extracts/citywide_sales.csv",
+      "bytes": 488,
+      "sha256": "920b91e0da91c92cec3a93242b0a0cca02e7160f116cde56956e38e671fd0618"
+    },
+    {
+      "path": "data/source_extracts/delivery_quarterly.csv",
+      "bytes": 2906,
+      "sha256": "1c0237de24496004f8cef4954c03a23b82ce41c1390b338e476b0ee3f0c6a5c7"
+    },
+    {
+      "path": "data/source_extracts/pedestrian_context.csv",
+      "bytes": 121,
+      "sha256": "4026e38a8e4640196f832e4b6a7b3e73b75aa7710301ea6a3ef6943a6306e3d6"
+    },
+    {
+      "path": "data/source_extracts/rent_corridor.csv",
+      "bytes": 5077,
+      "sha256": "3caa1c3248d14c92b86dfff9c4b27ff55725016498958562cd321a29e0ea3c2b"
+    },
+    {
+      "path": "data/source_extracts/storefront_vacancy.csv",
+      "bytes": 174,
+      "sha256": "f343a8d1952789262d3ba34b9953cae17a4cf6c941136b23886ab2267618655b"
+    },
+    {
+      "path": "fetch_sources.py",
+      "bytes": 3376,
+      "sha256": "f05ac5dd7efba9024e7be0548bfc633e5ba69cede89693ae6c490f069083243c"
+    },
+    {
+      "path": "geography_queries.sql",
+      "bytes": 905,
+      "sha256": "b71b0333f82d48a050afad279f5c2327b7062d29dcd39d2d60dc6cc319a91f21"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1278116,
+      "sha256": "fd0173617eede9b53a12468d2881cbb7e7b8207b563a64ef96fff315cb912028"
+    },
+    {
+      "path": "make_charts.py",
+      "bytes": 6250,
+      "sha256": "752647a8889a47b23d80133326ab7081af1a6a488697c8fe681d1eca77e4aeb6"
+    },
+    {
+      "path": "make_map_charts.py",
+      "bytes": 3342,
+      "sha256": "66e87a900e5a8fb609fce46f9a062139d3957a1165d16f82f4451406f03ae06f"
+    },
+    {
+      "path": "make_materials.py",
+      "bytes": 29011,
+      "sha256": "1294082232690d7d0541af090a6ab99934ea90f3c3eb06bec8041f5519bab580"
+    },
+    {
+      "path": "map_core.js",
+      "bytes": 1560,
+      "sha256": "964846870ba6d8ed58be6a1c9a665b389e938c46faae9d2c33d291a1abd47eab"
+    },
+    {
+      "path": "map_panel.html",
+      "bytes": 3340,
+      "sha256": "6b1a93f0f7a70fcde7ab082a0c2e65f303965dc781ad62dd4486dca5129b3784"
+    },
+    {
+      "path": "map_style.css",
+      "bytes": 4112,
+      "sha256": "1d07b7bb29a55a36b376b2e5bdbb991b48d8b0f9ee50144dd5589b2e1891bdbd"
+    },
+    {
+      "path": "map_ui.js",
+      "bytes": 12541,
+      "sha256": "21d0f6e0ddc27830c6bf470df20610ce06dd79e2bd170f52078a740dfa2ff22a"
+    },
+    {
+      "path": "nyc_restaurants.sqlite",
+      "bytes": 5984256,
+      "sha256": "443911a9db07bdadeb1d7cdac5d10700d992ccd7aa0a08b5f4e5d1b617adf8be"
+    },
+    {
+      "path": "outputs/borough_supply.csv",
+      "bytes": 357,
+      "sha256": "1afeae24d1aa4ea8a2beda0c15a160e7a7df0f891e13d74403b31892518b6ff8"
+    },
+    {
+      "path": "outputs/citywide_cuisine.csv",
+      "bytes": 1340,
+      "sha256": "113296673e84f3aaadd4988b3767a6f7efd5d436b82e584e7d8a0a7fe6d3a4b2"
+    },
+    {
+      "path": "outputs/cuisine_borough.csv",
+      "bytes": 23535,
+      "sha256": "a4cccf50e7c00ed183092bb956f4f77cb8f4556829be2d018da379d2dcd7d63f"
+    },
+    {
+      "path": "outputs/dashboard_data.json",
+      "bytes": 720629,
+      "sha256": "101d7c9404d478372393cb0a1dce4b0ac703d0463155afccf5aff3eb8c8751d5"
+    },
+    {
+      "path": "outputs/delivery_analysis.csv",
+      "bytes": 5055,
+      "sha256": "e1f70b3360f02539b45bc99a97257b157a7726ad6ed40e4f06acd9943fa0af6d"
+    },
+    {
+      "path": "outputs/geography_summary.json",
+      "bytes": 537,
+      "sha256": "6e692bc3e62bcaab3f942507fe5e2b24180c6e7486f5ca65f734868447c2f349"
+    },
+    {
+      "path": "outputs/map_data.json",
+      "bytes": 505851,
+      "sha256": "8e87c74adf50c4448eee9930beaf3ca587067919b99813fa6aadcbdb1b901b01"
+    },
+    {
+      "path": "outputs/nta_cuisine.csv",
+      "bytes": 111684,
+      "sha256": "5a3687edacad37ddc1fb9e5f0be6422f55929914e56360b255a70769f0544052"
+    },
+    {
+      "path": "outputs/nta_summary.csv",
+      "bytes": 13170,
+      "sha256": "073a2f121cd64a28a401ab8aae49384cf135b7e420ee8b63cb92af1be89a26d9"
+    },
+    {
+      "path": "outputs/rent_comparison.csv",
+      "bytes": 6118,
+      "sha256": "2a5111fe1fabee2ee96a0db1e923cf52cae14531c93478871fea5adaec551464"
+    },
+    {
+      "path": "outputs/sales_analysis.csv",
+      "bytes": 883,
+      "sha256": "f729526303f33ff8e676156c736d9b2290c611e837f11abe731ac16f12730424"
+    },
+    {
+      "path": "outputs/summary.json",
+      "bytes": 546,
+      "sha256": "25ced03712ede207f20ae1c39088be40ba87e1eb0bca49674770199339ac5288"
+    },
+    {
+      "path": "outputs/validation_checks.csv",
+      "bytes": 1146,
+      "sha256": "fc077e6a05af59e31e3cfc9caffaef6d42577d1e10c5fd043b734912183c5762"
+    },
+    {
+      "path": "outputs/zip_cuisine.csv",
+      "bytes": 163289,
+      "sha256": "c2980000065734f392968ae584b109e816b20e43f1e4aff9a24307105a06ef37"
+    },
+    {
+      "path": "qa/final_verification.json",
+      "bytes": 4764,
+      "sha256": "da3e5485153110b66cf853df525769d43d05355eaeb896750df1ec672104fc12"
+    },
+    {
+      "path": "qa/map_checks.json",
+      "bytes": 3047,
+      "sha256": "d88eae76aa0fa3171ea000c9355ff11ca3a300d9294607255ea8411ff0814d3d"
+    },
+    {
+      "path": "qa/offline_reproduction.json",
+      "bytes": 148,
+      "sha256": "97c69e6bf807340502a40d87dadecff231160c3285b881e1b8b0dde1ea63bcad"
+    },
+    {
+      "path": "qa/offline_validation_checks.csv",
+      "bytes": 1146,
+      "sha256": "fc077e6a05af59e31e3cfc9caffaef6d42577d1e10c5fd043b734912183c5762"
+    },
+    {
+      "path": "qa/ui_checks.json",
+      "bytes": 712,
+      "sha256": "0331ddc9430ae5f76c99da520368465d154145f8da3b8fa6db885054e3a56a60"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 122,
+      "sha256": "f29800529f174bb69c7082aec0c65ad4ec3f3020adec1922937085242ec1c545"
+    },
+    {
+      "path": "source_catalog.csv",
+      "bytes": 3251,
+      "sha256": "8c728e6c59a89e50ad4413cf01b5262857954384fbd5d69a586f8ea2759cdb84"
+    },
+    {
+      "path": "verify_dashboard.cjs",
+      "bytes": 6497,
+      "sha256": "0b4330c098917777a1792458276d7db6ae98c768a14fd2862b9dd1e9f1d39686"
+    },
+    {
+      "path": "verify_final_release.py",
+      "bytes": 2648,
+      "sha256": "78ff2f89709527b4f81e5c30ea9fc3735ec0aac87c40116502755bd58e4165f5"
+    },
+    {
+      "path": "verify_maps.cjs",
+      "bytes": 6088,
+      "sha256": "19245462a07ce2e86340f16c0295762d49b80de75804a6d5bd00601cc298e884"
+    }
+  ]
+}

@@ -1,0 +1,5398 @@
+borough,zipcode,cuisine,restaurant_count,never_inspected_records
+Bronx,10462,Afghan,1,0
+Bronx,10451,African,2,0
+Bronx,10452,African,1,0
+Bronx,10453,African,3,0
+Bronx,10455,African,1,0
+Bronx,10456,African,8,0
+Bronx,10457,African,3,0
+Bronx,10458,African,3,0
+Bronx,10460,African,2,0
+Bronx,10461,African,1,0
+Bronx,10466,African,1,0
+Bronx,10467,African,3,0
+Bronx,10468,African,1,0
+Bronx,10469,African,3,0
+Bronx,10472,African,3,0
+Bronx,10451,American,58,0
+Bronx,10452,American,9,0
+Bronx,10453,American,4,0
+Bronx,10454,American,18,0
+Bronx,10455,American,6,0
+Bronx,10456,American,3,0
+Bronx,10457,American,10,0
+Bronx,10458,American,26,0
+Bronx,10459,American,3,0
+Bronx,10460,American,12,0
+Bronx,10461,American,24,0
+Bronx,10462,American,12,0
+Bronx,10463,American,22,0
+Bronx,10464,American,12,0
+Bronx,10465,American,22,0
+Bronx,10466,American,5,0
+Bronx,10467,American,12,0
+Bronx,10468,American,14,0
+Bronx,10469,American,6,0
+Bronx,10470,American,3,0
+Bronx,10471,American,18,0
+Bronx,10472,American,5,0
+Bronx,10473,American,2,0
+Bronx,10474,American,8,0
+Bronx,10475,American,9,0
+Bronx,10451,Asian/Asian Fusion,1,0
+Bronx,10458,Asian/Asian Fusion,2,0
+Bronx,10460,Asian/Asian Fusion,1,0
+Bronx,10461,Asian/Asian Fusion,2,0
+Bronx,10462,Asian/Asian Fusion,3,0
+Bronx,10463,Asian/Asian Fusion,1,0
+Bronx,10468,Asian/Asian Fusion,1,0
+Bronx,10461,Bagels/Pretzels,1,0
+Bronx,10463,Bagels/Pretzels,2,0
+Bronx,10475,Bagels/Pretzels,1,0
+Bronx,10451,Bakery Products/Desserts,3,0
+Bronx,10452,Bakery Products/Desserts,2,0
+Bronx,10453,Bakery Products/Desserts,3,0
+Bronx,10454,Bakery Products/Desserts,2,0
+Bronx,10455,Bakery Products/Desserts,4,0
+Bronx,10456,Bakery Products/Desserts,1,0
+Bronx,10457,Bakery Products/Desserts,2,0
+Bronx,10458,Bakery Products/Desserts,7,0
+Bronx,10459,Bakery Products/Desserts,7,0
+Bronx,10460,Bakery Products/Desserts,1,0
+Bronx,10461,Bakery Products/Desserts,4,0
+Bronx,10462,Bakery Products/Desserts,9,0
+Bronx,10463,Bakery Products/Desserts,5,0
+Bronx,10465,Bakery Products/Desserts,1,0
+Bronx,10466,Bakery Products/Desserts,4,0
+Bronx,10467,Bakery Products/Desserts,6,0
+Bronx,10468,Bakery Products/Desserts,8,0
+Bronx,10469,Bakery Products/Desserts,4,0
+Bronx,10472,Bakery Products/Desserts,6,0
+Bronx,10475,Bakery Products/Desserts,3,0
+Bronx,10451,Bangladeshi,1,0
+Bronx,10462,Bangladeshi,8,0
+Bronx,10472,Bangladeshi,2,0
+Bronx,10454,Barbecue,1,0
+Bronx,10471,Barbecue,1,0
+Bronx,10467,Basque,1,0
+Bronx,10451,Bottled Beverages,1,0
+Bronx,10452,Bottled Beverages,1,0
+Bronx,10455,Bottled Beverages,1,0
+Bronx,10461,Bottled Beverages,3,0
+Bronx,10468,Bottled Beverages,1,0
+Bronx,10471,Bottled Beverages,1,0
+Bronx,10472,Bottled Beverages,1,0
+Bronx,10474,Bottled Beverages,1,0
+Bronx,10451,Caribbean,4,0
+Bronx,10452,Caribbean,2,0
+Bronx,10455,Caribbean,1,0
+Bronx,10456,Caribbean,3,0
+Bronx,10457,Caribbean,2,0
+Bronx,10458,Caribbean,3,0
+Bronx,10459,Caribbean,2,0
+Bronx,10460,Caribbean,3,0
+Bronx,10461,Caribbean,3,0
+Bronx,10462,Caribbean,3,0
+Bronx,10465,Caribbean,1,0
+Bronx,10466,Caribbean,23,0
+Bronx,10467,Caribbean,17,0
+Bronx,10469,Caribbean,26,0
+Bronx,10470,Caribbean,8,0
+Bronx,10472,Caribbean,3,0
+Bronx,10473,Caribbean,1,0
+Bronx,10475,Caribbean,5,0
+Bronx,10451,Chicken,12,0
+Bronx,10452,Chicken,7,0
+Bronx,10453,Chicken,11,0
+Bronx,10454,Chicken,3,0
+Bronx,10455,Chicken,10,0
+Bronx,10456,Chicken,9,0
+Bronx,10457,Chicken,7,0
+Bronx,10458,Chicken,14,0
+Bronx,10459,Chicken,6,0
+Bronx,10460,Chicken,7,0
+Bronx,10461,Chicken,6,0
+Bronx,10462,Chicken,10,0
+Bronx,10463,Chicken,4,0
+Bronx,10465,Chicken,3,0
+Bronx,10466,Chicken,9,0
+Bronx,10467,Chicken,7,0
+Bronx,10468,Chicken,9,0
+Bronx,10469,Chicken,7,0
+Bronx,10470,Chicken,2,0
+Bronx,10472,Chicken,8,0
+Bronx,10473,Chicken,4,0
+Bronx,10474,Chicken,1,0
+Bronx,10475,Chicken,3,0
+Bronx,10451,Chinese,11,0
+Bronx,10452,Chinese,13,0
+Bronx,10453,Chinese,9,0
+Bronx,10454,Chinese,10,0
+Bronx,10455,Chinese,7,0
+Bronx,10456,Chinese,13,0
+Bronx,10457,Chinese,10,0
+Bronx,10458,Chinese,11,0
+Bronx,10459,Chinese,11,0
+Bronx,10460,Chinese,7,0
+Bronx,10461,Chinese,15,0
+Bronx,10462,Chinese,16,0
+Bronx,10463,Chinese,8,0
+Bronx,10464,Chinese,1,0
+Bronx,10465,Chinese,5,0
+Bronx,10466,Chinese,8,0
+Bronx,10467,Chinese,19,0
+Bronx,10468,Chinese,11,0
+Bronx,10469,Chinese,6,0
+Bronx,10470,Chinese,2,0
+Bronx,10471,Chinese,2,0
+Bronx,10472,Chinese,14,0
+Bronx,10473,Chinese,6,0
+Bronx,10474,Chinese,3,0
+Bronx,10475,Chinese,8,0
+Bronx,10472,Chinese/Cuban,1,0
+Bronx,10458,Chinese/Japanese,1,0
+Bronx,10451,Coffee/Tea,7,0
+Bronx,10453,Coffee/Tea,1,0
+Bronx,10454,Coffee/Tea,3,0
+Bronx,10455,Coffee/Tea,1,0
+Bronx,10456,Coffee/Tea,1,0
+Bronx,10457,Coffee/Tea,1,0
+Bronx,10458,Coffee/Tea,13,0
+Bronx,10460,Coffee/Tea,3,0
+Bronx,10461,Coffee/Tea,7,0
+Bronx,10462,Coffee/Tea,9,0
+Bronx,10463,Coffee/Tea,5,0
+Bronx,10464,Coffee/Tea,1,0
+Bronx,10465,Coffee/Tea,6,0
+Bronx,10467,Coffee/Tea,2,0
+Bronx,10468,Coffee/Tea,4,0
+Bronx,10469,Coffee/Tea,4,0
+Bronx,10470,Coffee/Tea,2,0
+Bronx,10471,Coffee/Tea,6,0
+Bronx,10472,Coffee/Tea,3,0
+Bronx,10473,Coffee/Tea,2,0
+Bronx,10474,Coffee/Tea,3,0
+Bronx,10475,Coffee/Tea,4,0
+Bronx,10467,Creole/Cajun,1,0
+Bronx,10451,Donuts,6,0
+Bronx,10452,Donuts,2,0
+Bronx,10453,Donuts,2,0
+Bronx,10454,Donuts,2,0
+Bronx,10455,Donuts,2,0
+Bronx,10456,Donuts,1,0
+Bronx,10457,Donuts,2,0
+Bronx,10458,Donuts,4,0
+Bronx,10459,Donuts,4,0
+Bronx,10460,Donuts,4,0
+Bronx,10461,Donuts,9,0
+Bronx,10462,Donuts,2,0
+Bronx,10463,Donuts,4,0
+Bronx,10464,Donuts,1,0
+Bronx,10465,Donuts,3,0
+Bronx,10466,Donuts,1,0
+Bronx,10467,Donuts,6,0
+Bronx,10468,Donuts,4,0
+Bronx,10469,Donuts,4,0
+Bronx,10470,Donuts,2,0
+Bronx,10471,Donuts,1,0
+Bronx,10472,Donuts,4,0
+Bronx,10473,Donuts,1,0
+Bronx,10474,Donuts,1,0
+Bronx,10475,Donuts,2,0
+Bronx,10458,Eastern European,1,0
+Bronx,10461,Eastern European,1,0
+Bronx,10462,Eastern European,1,0
+Bronx,10461,French,1,0
+Bronx,10465,French,1,0
+Bronx,10451,Frozen Desserts,3,0
+Bronx,10453,Frozen Desserts,1,0
+Bronx,10455,Frozen Desserts,1,0
+Bronx,10458,Frozen Desserts,3,0
+Bronx,10460,Frozen Desserts,1,0
+Bronx,10461,Frozen Desserts,3,0
+Bronx,10462,Frozen Desserts,3,0
+Bronx,10463,Frozen Desserts,4,0
+Bronx,10465,Frozen Desserts,3,0
+Bronx,10466,Frozen Desserts,2,0
+Bronx,10469,Frozen Desserts,1,0
+Bronx,10475,Frozen Desserts,2,0
+Bronx,10458,Fruits/Vegetables,1,0
+Bronx,10451,Fusion,1,0
+Bronx,10452,Fusion,1,0
+Bronx,10456,Fusion,2,0
+Bronx,10458,Fusion,1,0
+Bronx,10461,Fusion,2,0
+Bronx,10462,Fusion,1,0
+Bronx,10463,Fusion,1,0
+Bronx,10465,Fusion,1,0
+Bronx,10467,Fusion,1,0
+Bronx,10471,Fusion,1,0
+Bronx,10472,German,1,0
+Bronx,10451,Greek,1,0
+Bronx,10461,Greek,2,0
+Bronx,10463,Greek,2,0
+Bronx,10468,Greek,1,0
+Bronx,10451,Hamburgers,6,0
+Bronx,10452,Hamburgers,5,0
+Bronx,10453,Hamburgers,3,0
+Bronx,10454,Hamburgers,3,0
+Bronx,10455,Hamburgers,5,0
+Bronx,10456,Hamburgers,1,0
+Bronx,10457,Hamburgers,4,0
+Bronx,10458,Hamburgers,4,0
+Bronx,10459,Hamburgers,4,0
+Bronx,10460,Hamburgers,3,0
+Bronx,10461,Hamburgers,6,0
+Bronx,10462,Hamburgers,4,0
+Bronx,10463,Hamburgers,1,0
+Bronx,10465,Hamburgers,1,0
+Bronx,10466,Hamburgers,5,0
+Bronx,10467,Hamburgers,6,0
+Bronx,10468,Hamburgers,1,0
+Bronx,10469,Hamburgers,3,0
+Bronx,10470,Hamburgers,2,0
+Bronx,10471,Hamburgers,1,0
+Bronx,10472,Hamburgers,5,0
+Bronx,10473,Hamburgers,2,0
+Bronx,10474,Hamburgers,1,0
+Bronx,10475,Hamburgers,4,0
+Bronx,10451,Hotdogs,1,0
+Bronx,10458,Hotdogs/Pretzels,1,0
+Bronx,10463,Hotdogs/Pretzels,1,0
+Bronx,10475,Hotdogs/Pretzels,2,0
+Bronx,10455,Indian,1,0
+Bronx,10456,Indian,1,0
+Bronx,10458,Indian,1,0
+Bronx,10462,Indian,3,0
+Bronx,10463,Indian,3,0
+Bronx,10465,Indian,1,0
+Bronx,10467,Indian,2,0
+Bronx,10470,Indian,1,0
+Bronx,10461,Irish,1,0
+Bronx,10463,Irish,1,0
+Bronx,10470,Irish,11,0
+Bronx,10451,Italian,3,0
+Bronx,10455,Italian,1,0
+Bronx,10458,Italian,18,0
+Bronx,10461,Italian,6,0
+Bronx,10462,Italian,2,0
+Bronx,10463,Italian,1,0
+Bronx,10464,Italian,1,0
+Bronx,10465,Italian,3,0
+Bronx,10468,Italian,1,0
+Bronx,10469,Italian,1,0
+Bronx,10471,Italian,1,0
+Bronx,10475,Italian,1,0
+Bronx,10451,Japanese,4,0
+Bronx,10455,Japanese,1,0
+Bronx,10458,Japanese,2,0
+Bronx,10459,Japanese,1,0
+Bronx,10461,Japanese,3,0
+Bronx,10462,Japanese,1,0
+Bronx,10463,Japanese,5,0
+Bronx,10465,Japanese,4,0
+Bronx,10467,Japanese,1,0
+Bronx,10468,Japanese,2,0
+Bronx,10469,Japanese,1,0
+Bronx,10471,Japanese,1,0
+Bronx,10473,Japanese,1,0
+Bronx,10475,Japanese,3,0
+Bronx,10463,Jewish/Kosher,5,0
+Bronx,10471,Jewish/Kosher,3,0
+Bronx,10452,"Juice, Smoothies, Fruit Salads",5,0
+Bronx,10453,"Juice, Smoothies, Fruit Salads",6,0
+Bronx,10454,"Juice, Smoothies, Fruit Salads",2,0
+Bronx,10455,"Juice, Smoothies, Fruit Salads",5,0
+Bronx,10456,"Juice, Smoothies, Fruit Salads",1,0
+Bronx,10457,"Juice, Smoothies, Fruit Salads",1,0
+Bronx,10458,"Juice, Smoothies, Fruit Salads",3,0
+Bronx,10459,"Juice, Smoothies, Fruit Salads",1,0
+Bronx,10460,"Juice, Smoothies, Fruit Salads",2,0
+Bronx,10461,"Juice, Smoothies, Fruit Salads",6,0
+Bronx,10462,"Juice, Smoothies, Fruit Salads",6,0
+Bronx,10463,"Juice, Smoothies, Fruit Salads",1,0
+Bronx,10465,"Juice, Smoothies, Fruit Salads",4,0
+Bronx,10466,"Juice, Smoothies, Fruit Salads",2,0
+Bronx,10467,"Juice, Smoothies, Fruit Salads",6,0
+Bronx,10468,"Juice, Smoothies, Fruit Salads",5,0
+Bronx,10471,"Juice, Smoothies, Fruit Salads",1,0
+Bronx,10472,"Juice, Smoothies, Fruit Salads",3,0
+Bronx,10475,"Juice, Smoothies, Fruit Salads",1,0
+Bronx,10451,Korean,1,0
+Bronx,10465,Korean,1,0
+Bronx,10475,Korean,1,0
+Bronx,10451,Latin American,3,0
+Bronx,10452,Latin American,12,0
+Bronx,10453,Latin American,19,0
+Bronx,10454,Latin American,7,0
+Bronx,10455,Latin American,12,0
+Bronx,10456,Latin American,7,0
+Bronx,10457,Latin American,20,0
+Bronx,10458,Latin American,13,0
+Bronx,10459,Latin American,9,0
+Bronx,10460,Latin American,3,0
+Bronx,10461,Latin American,9,0
+Bronx,10462,Latin American,10,0
+Bronx,10463,Latin American,7,0
+Bronx,10465,Latin American,4,0
+Bronx,10466,Latin American,4,0
+Bronx,10467,Latin American,10,0
+Bronx,10468,Latin American,11,0
+Bronx,10469,Latin American,3,0
+Bronx,10470,Latin American,2,0
+Bronx,10471,Latin American,1,0
+Bronx,10472,Latin American,12,0
+Bronx,10473,Latin American,2,0
+Bronx,10474,Latin American,3,0
+Bronx,10475,Latin American,3,0
+Bronx,10458,Mediterranean,2,0
+Bronx,10461,Mediterranean,1,0
+Bronx,10462,Mediterranean,1,0
+Bronx,10463,Mediterranean,1,0
+Bronx,10464,Mediterranean,2,0
+Bronx,10451,Mexican,8,0
+Bronx,10452,Mexican,9,0
+Bronx,10453,Mexican,7,0
+Bronx,10454,Mexican,16,0
+Bronx,10455,Mexican,16,0
+Bronx,10456,Mexican,1,0
+Bronx,10457,Mexican,1,0
+Bronx,10458,Mexican,17,0
+Bronx,10459,Mexican,8,0
+Bronx,10461,Mexican,5,0
+Bronx,10462,Mexican,7,0
+Bronx,10463,Mexican,10,0
+Bronx,10464,Mexican,1,0
+Bronx,10465,Mexican,4,0
+Bronx,10466,Mexican,2,0
+Bronx,10467,Mexican,15,0
+Bronx,10468,Mexican,11,0
+Bronx,10469,Mexican,1,0
+Bronx,10471,Mexican,3,0
+Bronx,10472,Mexican,12,0
+Bronx,10474,Mexican,4,0
+Bronx,10475,Mexican,2,0
+Bronx,10454,Middle Eastern,1,0
+Bronx,10458,Middle Eastern,1,0
+Bronx,10460,Middle Eastern,2,0
+Bronx,10461,Middle Eastern,1,0
+Bronx,10462,Middle Eastern,11,0
+Bronx,10467,Middle Eastern,3,0
+Bronx,10471,Middle Eastern,1,0
+Bronx,10475,Middle Eastern,1,0
+Bronx,10454,Moroccan,1,0
+Bronx,10454,Not Listed/Not Applicable,1,0
+Bronx,10461,Not Listed/Not Applicable,1,0
+Bronx,10451,Other,2,0
+Bronx,10452,Other,4,0
+Bronx,10453,Other,2,0
+Bronx,10455,Other,1,0
+Bronx,10457,Other,2,0
+Bronx,10458,Other,8,0
+Bronx,10459,Other,1,0
+Bronx,10461,Other,2,0
+Bronx,10462,Other,3,0
+Bronx,10465,Other,1,0
+Bronx,10466,Other,1,0
+Bronx,10467,Other,3,0
+Bronx,10468,Other,1,0
+Bronx,10469,Other,2,0
+Bronx,10471,Other,1,0
+Bronx,10472,Other,2,0
+Bronx,10475,Other,2,0
+Bronx,10462,Pakistani,1,0
+Bronx,10467,Pakistani,1,0
+Bronx,10469,Pakistani,2,0
+Bronx,10451,Pancakes/Waffles,1,0
+Bronx,10458,Pancakes/Waffles,1,0
+Bronx,10460,Pancakes/Waffles,1,0
+Bronx,10462,Pancakes/Waffles,1,0
+Bronx,10463,Pancakes/Waffles,1,0
+Bronx,10467,Pancakes/Waffles,2,0
+Bronx,10472,Pancakes/Waffles,1,0
+Bronx,10475,Pancakes/Waffles,2,0
+Bronx,10454,Peruvian,1,0
+Bronx,10455,Peruvian,1,0
+Bronx,10471,Peruvian,2,0
+Bronx,10451,Pizza,14,0
+Bronx,10452,Pizza,12,0
+Bronx,10453,Pizza,12,0
+Bronx,10454,Pizza,7,0
+Bronx,10455,Pizza,14,0
+Bronx,10456,Pizza,5,0
+Bronx,10457,Pizza,6,0
+Bronx,10458,Pizza,22,0
+Bronx,10459,Pizza,10,0
+Bronx,10460,Pizza,8,0
+Bronx,10461,Pizza,15,0
+Bronx,10462,Pizza,16,0
+Bronx,10463,Pizza,12,0
+Bronx,10464,Pizza,1,0
+Bronx,10465,Pizza,12,0
+Bronx,10466,Pizza,7,0
+Bronx,10467,Pizza,22,0
+Bronx,10468,Pizza,7,0
+Bronx,10469,Pizza,13,0
+Bronx,10470,Pizza,7,0
+Bronx,10471,Pizza,4,0
+Bronx,10472,Pizza,11,0
+Bronx,10473,Pizza,4,0
+Bronx,10474,Pizza,3,0
+Bronx,10475,Pizza,4,0
+Bronx,10451,Sandwiches,5,0
+Bronx,10452,Sandwiches,1,0
+Bronx,10453,Sandwiches,1,0
+Bronx,10455,Sandwiches,1,0
+Bronx,10456,Sandwiches,1,0
+Bronx,10458,Sandwiches,4,0
+Bronx,10459,Sandwiches,2,0
+Bronx,10460,Sandwiches,1,0
+Bronx,10461,Sandwiches,5,0
+Bronx,10462,Sandwiches,4,0
+Bronx,10463,Sandwiches,3,0
+Bronx,10464,Sandwiches,2,0
+Bronx,10465,Sandwiches,2,0
+Bronx,10466,Sandwiches,2,0
+Bronx,10467,Sandwiches,4,0
+Bronx,10468,Sandwiches,1,0
+Bronx,10469,Sandwiches,1,0
+Bronx,10470,Sandwiches,1,0
+Bronx,10473,Sandwiches,1,0
+Bronx,10474,Sandwiches,1,0
+Bronx,10475,Sandwiches,1,0
+Bronx,10451,Sandwiches/Salads/Mixed Buffet,3,0
+Bronx,10452,Sandwiches/Salads/Mixed Buffet,1,0
+Bronx,10458,Sandwiches/Salads/Mixed Buffet,3,0
+Bronx,10466,Sandwiches/Salads/Mixed Buffet,1,0
+Bronx,10467,Sandwiches/Salads/Mixed Buffet,2,0
+Bronx,10468,Sandwiches/Salads/Mixed Buffet,1,0
+Bronx,10451,Seafood,3,0
+Bronx,10452,Seafood,1,0
+Bronx,10453,Seafood,1,0
+Bronx,10457,Seafood,1,0
+Bronx,10458,Seafood,1,0
+Bronx,10459,Seafood,1,0
+Bronx,10461,Seafood,1,0
+Bronx,10462,Seafood,4,0
+Bronx,10463,Seafood,2,0
+Bronx,10464,Seafood,11,0
+Bronx,10465,Seafood,2,0
+Bronx,10466,Seafood,1,0
+Bronx,10468,Seafood,2,0
+Bronx,10475,Seafood,2,0
+Bronx,10456,Soul Food,1,0
+Bronx,10467,Soul Food,1,0
+Bronx,10469,Soul Food,1,0
+Bronx,10472,Soul Food,2,0
+Bronx,10460,Soups/Salads/Sandwiches,1,0
+Bronx,10451,Southwestern,1,0
+Bronx,10451,Spanish,4,0
+Bronx,10452,Spanish,12,0
+Bronx,10453,Spanish,6,0
+Bronx,10454,Spanish,5,0
+Bronx,10455,Spanish,7,0
+Bronx,10456,Spanish,8,0
+Bronx,10457,Spanish,12,0
+Bronx,10458,Spanish,10,0
+Bronx,10459,Spanish,5,0
+Bronx,10460,Spanish,3,0
+Bronx,10461,Spanish,4,0
+Bronx,10462,Spanish,6,0
+Bronx,10463,Spanish,8,0
+Bronx,10464,Spanish,1,0
+Bronx,10465,Spanish,1,0
+Bronx,10467,Spanish,6,0
+Bronx,10468,Spanish,6,0
+Bronx,10469,Spanish,1,0
+Bronx,10472,Spanish,7,0
+Bronx,10474,Spanish,4,0
+Bronx,10455,Steakhouse,1,0
+Bronx,10465,Steakhouse,1,0
+Bronx,10471,Steakhouse,2,0
+Bronx,10451,Tex-Mex,2,0
+Bronx,10452,Tex-Mex,3,0
+Bronx,10453,Tex-Mex,3,0
+Bronx,10454,Tex-Mex,3,0
+Bronx,10455,Tex-Mex,2,0
+Bronx,10457,Tex-Mex,1,0
+Bronx,10458,Tex-Mex,4,0
+Bronx,10459,Tex-Mex,2,0
+Bronx,10461,Tex-Mex,3,0
+Bronx,10462,Tex-Mex,5,0
+Bronx,10463,Tex-Mex,3,0
+Bronx,10465,Tex-Mex,1,0
+Bronx,10466,Tex-Mex,1,0
+Bronx,10467,Tex-Mex,2,0
+Bronx,10468,Tex-Mex,2,0
+Bronx,10475,Tex-Mex,2,0
+Bronx,10461,Thai,1,0
+Bronx,10462,Thai,1,0
+Bronx,10463,Thai,1,0
+Bronx,10475,Thai,1,0
+Bronx,10451,Unknown,16,16
+Bronx,10452,Unknown,8,8
+Bronx,10453,Unknown,16,16
+Bronx,10454,Unknown,7,7
+Bronx,10455,Unknown,8,8
+Bronx,10456,Unknown,10,10
+Bronx,10457,Unknown,11,11
+Bronx,10458,Unknown,29,29
+Bronx,10459,Unknown,7,7
+Bronx,10460,Unknown,10,10
+Bronx,10461,Unknown,14,14
+Bronx,10462,Unknown,14,14
+Bronx,10463,Unknown,10,10
+Bronx,10464,Unknown,5,5
+Bronx,10465,Unknown,7,7
+Bronx,10466,Unknown,5,5
+Bronx,10467,Unknown,11,11
+Bronx,10468,Unknown,8,8
+Bronx,10469,Unknown,5,5
+Bronx,10470,Unknown,3,3
+Bronx,10471,Unknown,2,2
+Bronx,10472,Unknown,6,6
+Bronx,10473,Unknown,5,5
+Bronx,10474,Unknown,2,1
+Bronx,10475,Unknown,2,2
+Bronx,10466,Vegan,1,0
+Bronx,10451,Vegetarian,1,0
+Bronx,10466,Vegetarian,1,0
+Brooklyn,11218,Afghan,1,0
+Brooklyn,11206,African,1,0
+Brooklyn,11207,African,3,0
+Brooklyn,11208,African,1,0
+Brooklyn,11212,African,1,0
+Brooklyn,11213,African,1,0
+Brooklyn,11216,African,5,0
+Brooklyn,11225,African,1,0
+Brooklyn,11226,African,2,0
+Brooklyn,11233,African,4,0
+Brooklyn,11238,African,3,0
+Brooklyn,11201,American,85,0
+Brooklyn,11203,American,4,0
+Brooklyn,11204,American,5,0
+Brooklyn,11205,American,31,0
+Brooklyn,11206,American,41,0
+Brooklyn,11207,American,15,0
+Brooklyn,11208,American,4,0
+Brooklyn,11209,American,42,0
+Brooklyn,11210,American,3,0
+Brooklyn,11211,American,74,0
+Brooklyn,11212,American,9,0
+Brooklyn,11213,American,12,0
+Brooklyn,11214,American,11,0
+Brooklyn,11215,American,71,0
+Brooklyn,11216,American,27,0
+Brooklyn,11217,American,63,0
+Brooklyn,11218,American,17,0
+Brooklyn,11219,American,5,0
+Brooklyn,11220,American,21,0
+Brooklyn,11221,American,36,0
+Brooklyn,11222,American,53,0
+Brooklyn,11223,American,16,0
+Brooklyn,11224,American,24,0
+Brooklyn,11225,American,22,0
+Brooklyn,11226,American,17,0
+Brooklyn,11228,American,7,0
+Brooklyn,11229,American,15,0
+Brooklyn,11230,American,8,0
+Brooklyn,11231,American,45,0
+Brooklyn,11232,American,23,0
+Brooklyn,11233,American,13,0
+Brooklyn,11234,American,25,0
+Brooklyn,11235,American,17,0
+Brooklyn,11236,American,7,0
+Brooklyn,11237,American,60,0
+Brooklyn,11238,American,66,0
+Brooklyn,11239,American,3,0
+Brooklyn,11249,American,54,0
+Brooklyn,11221,Armenian,1,0
+Brooklyn,11201,Asian/Asian Fusion,12,0
+Brooklyn,11204,Asian/Asian Fusion,2,0
+Brooklyn,11205,Asian/Asian Fusion,1,0
+Brooklyn,11206,Asian/Asian Fusion,3,0
+Brooklyn,11207,Asian/Asian Fusion,1,0
+Brooklyn,11209,Asian/Asian Fusion,5,0
+Brooklyn,11211,Asian/Asian Fusion,7,0
+Brooklyn,11214,Asian/Asian Fusion,9,0
+Brooklyn,11215,Asian/Asian Fusion,2,0
+Brooklyn,11216,Asian/Asian Fusion,4,0
+Brooklyn,11217,Asian/Asian Fusion,6,0
+Brooklyn,11218,Asian/Asian Fusion,1,0
+Brooklyn,11220,Asian/Asian Fusion,11,0
+Brooklyn,11222,Asian/Asian Fusion,5,0
+Brooklyn,11223,Asian/Asian Fusion,1,0
+Brooklyn,11224,Asian/Asian Fusion,2,0
+Brooklyn,11226,Asian/Asian Fusion,2,0
+Brooklyn,11228,Asian/Asian Fusion,1,0
+Brooklyn,11229,Asian/Asian Fusion,1,0
+Brooklyn,11230,Asian/Asian Fusion,1,0
+Brooklyn,11232,Asian/Asian Fusion,3,0
+Brooklyn,11233,Asian/Asian Fusion,2,0
+Brooklyn,11234,Asian/Asian Fusion,1,0
+Brooklyn,11235,Asian/Asian Fusion,4,0
+Brooklyn,11237,Asian/Asian Fusion,6,0
+Brooklyn,11238,Asian/Asian Fusion,1,0
+Brooklyn,11249,Asian/Asian Fusion,2,0
+Brooklyn,11201,Australian,1,0
+Brooklyn,11249,Australian,2,0
+Brooklyn,11201,Bagels/Pretzels,6,0
+Brooklyn,11205,Bagels/Pretzels,3,0
+Brooklyn,11206,Bagels/Pretzels,1,0
+Brooklyn,11209,Bagels/Pretzels,5,0
+Brooklyn,11211,Bagels/Pretzels,4,0
+Brooklyn,11214,Bagels/Pretzels,1,0
+Brooklyn,11215,Bagels/Pretzels,6,0
+Brooklyn,11216,Bagels/Pretzels,3,0
+Brooklyn,11217,Bagels/Pretzels,4,0
+Brooklyn,11220,Bagels/Pretzels,1,0
+Brooklyn,11222,Bagels/Pretzels,3,0
+Brooklyn,11223,Bagels/Pretzels,3,0
+Brooklyn,11224,Bagels/Pretzels,2,0
+Brooklyn,11225,Bagels/Pretzels,1,0
+Brooklyn,11226,Bagels/Pretzels,1,0
+Brooklyn,11228,Bagels/Pretzels,1,0
+Brooklyn,11229,Bagels/Pretzels,1,0
+Brooklyn,11230,Bagels/Pretzels,1,0
+Brooklyn,11231,Bagels/Pretzels,2,0
+Brooklyn,11232,Bagels/Pretzels,2,0
+Brooklyn,11234,Bagels/Pretzels,7,0
+Brooklyn,11235,Bagels/Pretzels,2,0
+Brooklyn,11236,Bagels/Pretzels,1,0
+Brooklyn,11237,Bagels/Pretzels,2,0
+Brooklyn,11238,Bagels/Pretzels,1,0
+Brooklyn,11249,Bagels/Pretzels,3,0
+Brooklyn,11201,Bakery Products/Desserts,13,0
+Brooklyn,11203,Bakery Products/Desserts,4,0
+Brooklyn,11204,Bakery Products/Desserts,14,0
+Brooklyn,11205,Bakery Products/Desserts,3,0
+Brooklyn,11206,Bakery Products/Desserts,4,0
+Brooklyn,11207,Bakery Products/Desserts,1,0
+Brooklyn,11208,Bakery Products/Desserts,4,0
+Brooklyn,11209,Bakery Products/Desserts,11,0
+Brooklyn,11211,Bakery Products/Desserts,8,0
+Brooklyn,11213,Bakery Products/Desserts,1,0
+Brooklyn,11214,Bakery Products/Desserts,19,0
+Brooklyn,11215,Bakery Products/Desserts,12,0
+Brooklyn,11216,Bakery Products/Desserts,5,0
+Brooklyn,11217,Bakery Products/Desserts,9,0
+Brooklyn,11218,Bakery Products/Desserts,2,0
+Brooklyn,11219,Bakery Products/Desserts,10,0
+Brooklyn,11220,Bakery Products/Desserts,33,0
+Brooklyn,11221,Bakery Products/Desserts,4,0
+Brooklyn,11222,Bakery Products/Desserts,6,0
+Brooklyn,11223,Bakery Products/Desserts,3,0
+Brooklyn,11225,Bakery Products/Desserts,2,0
+Brooklyn,11226,Bakery Products/Desserts,7,0
+Brooklyn,11228,Bakery Products/Desserts,3,0
+Brooklyn,11229,Bakery Products/Desserts,11,0
+Brooklyn,11230,Bakery Products/Desserts,2,0
+Brooklyn,11231,Bakery Products/Desserts,7,0
+Brooklyn,11232,Bakery Products/Desserts,4,0
+Brooklyn,11233,Bakery Products/Desserts,3,0
+Brooklyn,11234,Bakery Products/Desserts,6,0
+Brooklyn,11235,Bakery Products/Desserts,5,0
+Brooklyn,11236,Bakery Products/Desserts,2,0
+Brooklyn,11237,Bakery Products/Desserts,10,0
+Brooklyn,11238,Bakery Products/Desserts,5,0
+Brooklyn,11249,Bakery Products/Desserts,2,0
+Brooklyn,11208,Bangladeshi,8,0
+Brooklyn,11216,Bangladeshi,1,0
+Brooklyn,11218,Bangladeshi,7,0
+Brooklyn,11221,Bangladeshi,1,0
+Brooklyn,11201,Barbecue,2,0
+Brooklyn,11213,Barbecue,1,0
+Brooklyn,11215,Barbecue,2,0
+Brooklyn,11216,Barbecue,1,0
+Brooklyn,11217,Barbecue,2,0
+Brooklyn,11219,Barbecue,1,0
+Brooklyn,11220,Barbecue,2,0
+Brooklyn,11231,Barbecue,1,0
+Brooklyn,11232,Barbecue,1,0
+Brooklyn,11249,Barbecue,1,0
+Brooklyn,11201,Bottled Beverages,1,0
+Brooklyn,11207,Bottled Beverages,2,0
+Brooklyn,11211,Bottled Beverages,1,0
+Brooklyn,11214,Bottled Beverages,1,0
+Brooklyn,11216,Bottled Beverages,2,0
+Brooklyn,11217,Bottled Beverages,3,0
+Brooklyn,11220,Bottled Beverages,2,0
+Brooklyn,11221,Bottled Beverages,1,0
+Brooklyn,11222,Bottled Beverages,2,0
+Brooklyn,11223,Bottled Beverages,1,0
+Brooklyn,11224,Bottled Beverages,3,0
+Brooklyn,11234,Bottled Beverages,1,0
+Brooklyn,11235,Bottled Beverages,1,0
+Brooklyn,11237,Bottled Beverages,1,0
+Brooklyn,11238,Bottled Beverages,2,0
+Brooklyn,11201,Brazilian,1,0
+Brooklyn,11211,Brazilian,2,0
+Brooklyn,11215,Brazilian,1,0
+Brooklyn,11220,Brazilian,1,0
+Brooklyn,11221,Brazilian,1,0
+Brooklyn,11237,Brazilian,1,0
+Brooklyn,11216,Cajun,1,0
+Brooklyn,11238,Cajun,1,0
+Brooklyn,11201,Californian,3,0
+Brooklyn,11211,Californian,3,0
+Brooklyn,11201,Caribbean,3,0
+Brooklyn,11203,Caribbean,61,0
+Brooklyn,11205,Caribbean,2,0
+Brooklyn,11206,Caribbean,6,0
+Brooklyn,11207,Caribbean,11,0
+Brooklyn,11208,Caribbean,8,0
+Brooklyn,11210,Caribbean,15,0
+Brooklyn,11211,Caribbean,3,0
+Brooklyn,11212,Caribbean,26,0
+Brooklyn,11213,Caribbean,22,0
+Brooklyn,11215,Caribbean,4,0
+Brooklyn,11216,Caribbean,25,0
+Brooklyn,11217,Caribbean,10,0
+Brooklyn,11218,Caribbean,2,0
+Brooklyn,11220,Caribbean,3,0
+Brooklyn,11221,Caribbean,4,0
+Brooklyn,11224,Caribbean,2,0
+Brooklyn,11225,Caribbean,21,0
+Brooklyn,11226,Caribbean,47,0
+Brooklyn,11229,Caribbean,1,0
+Brooklyn,11231,Caribbean,1,0
+Brooklyn,11232,Caribbean,1,0
+Brooklyn,11233,Caribbean,10,0
+Brooklyn,11234,Caribbean,10,0
+Brooklyn,11236,Caribbean,28,0
+Brooklyn,11237,Caribbean,1,0
+Brooklyn,11238,Caribbean,7,0
+Brooklyn,11239,Caribbean,3,0
+Brooklyn,11249,Caribbean,2,0
+Brooklyn,11201,Chicken,8,0
+Brooklyn,11203,Chicken,11,0
+Brooklyn,11204,Chicken,2,0
+Brooklyn,11205,Chicken,4,0
+Brooklyn,11206,Chicken,5,0
+Brooklyn,11207,Chicken,11,0
+Brooklyn,11208,Chicken,7,0
+Brooklyn,11209,Chicken,4,0
+Brooklyn,11210,Chicken,5,0
+Brooklyn,11211,Chicken,6,0
+Brooklyn,11212,Chicken,11,0
+Brooklyn,11213,Chicken,5,0
+Brooklyn,11214,Chicken,4,0
+Brooklyn,11215,Chicken,3,0
+Brooklyn,11216,Chicken,10,0
+Brooklyn,11217,Chicken,8,0
+Brooklyn,11218,Chicken,1,0
+Brooklyn,11219,Chicken,1,0
+Brooklyn,11220,Chicken,13,0
+Brooklyn,11221,Chicken,9,0
+Brooklyn,11222,Chicken,2,0
+Brooklyn,11223,Chicken,6,0
+Brooklyn,11224,Chicken,5,0
+Brooklyn,11225,Chicken,5,0
+Brooklyn,11226,Chicken,13,0
+Brooklyn,11228,Chicken,3,0
+Brooklyn,11229,Chicken,2,0
+Brooklyn,11230,Chicken,1,0
+Brooklyn,11231,Chicken,3,0
+Brooklyn,11232,Chicken,4,0
+Brooklyn,11233,Chicken,5,0
+Brooklyn,11234,Chicken,8,0
+Brooklyn,11235,Chicken,3,0
+Brooklyn,11236,Chicken,8,0
+Brooklyn,11237,Chicken,6,0
+Brooklyn,11238,Chicken,5,0
+Brooklyn,11239,Chicken,6,0
+Brooklyn,11249,Chicken,1,0
+Brooklyn,11201,Chinese,17,0
+Brooklyn,11203,Chinese,10,0
+Brooklyn,11204,Chinese,29,0
+Brooklyn,11205,Chinese,8,0
+Brooklyn,11206,Chinese,9,0
+Brooklyn,11207,Chinese,21,0
+Brooklyn,11208,Chinese,17,0
+Brooklyn,11209,Chinese,18,0
+Brooklyn,11210,Chinese,8,0
+Brooklyn,11211,Chinese,14,0
+Brooklyn,11212,Chinese,20,0
+Brooklyn,11213,Chinese,11,0
+Brooklyn,11214,Chinese,55,0
+Brooklyn,11215,Chinese,14,0
+Brooklyn,11216,Chinese,10,0
+Brooklyn,11217,Chinese,11,0
+Brooklyn,11218,Chinese,10,0
+Brooklyn,11219,Chinese,30,0
+Brooklyn,11220,Chinese,148,0
+Brooklyn,11221,Chinese,12,0
+Brooklyn,11222,Chinese,8,0
+Brooklyn,11223,Chinese,13,0
+Brooklyn,11224,Chinese,5,0
+Brooklyn,11225,Chinese,11,0
+Brooklyn,11226,Chinese,16,0
+Brooklyn,11228,Chinese,11,0
+Brooklyn,11229,Chinese,17,0
+Brooklyn,11230,Chinese,6,0
+Brooklyn,11231,Chinese,7,0
+Brooklyn,11232,Chinese,13,0
+Brooklyn,11233,Chinese,9,0
+Brooklyn,11234,Chinese,14,0
+Brooklyn,11235,Chinese,6,0
+Brooklyn,11236,Chinese,17,0
+Brooklyn,11237,Chinese,8,0
+Brooklyn,11238,Chinese,8,0
+Brooklyn,11239,Chinese,1,0
+Brooklyn,11249,Chinese,5,0
+Brooklyn,11206,Chinese/Cuban,1,0
+Brooklyn,11211,Chinese/Cuban,1,0
+Brooklyn,11223,Chinese/Cuban,1,0
+Brooklyn,11237,Chinese/Cuban,1,0
+Brooklyn,11201,Chinese/Japanese,1,0
+Brooklyn,11204,Chinese/Japanese,1,0
+Brooklyn,11206,Chinese/Japanese,1,0
+Brooklyn,11207,Chinese/Japanese,1,0
+Brooklyn,11211,Chinese/Japanese,1,0
+Brooklyn,11214,Chinese/Japanese,1,0
+Brooklyn,11215,Chinese/Japanese,1,0
+Brooklyn,11220,Chinese/Japanese,2,0
+Brooklyn,11222,Chinese/Japanese,1,0
+Brooklyn,11226,Chinese/Japanese,1,0
+Brooklyn,11230,Chinese/Japanese,1,0
+Brooklyn,11234,Chinese/Japanese,1,0
+Brooklyn,11249,Chinese/Japanese,1,0
+Brooklyn,11201,Coffee/Tea,60,0
+Brooklyn,11203,Coffee/Tea,2,0
+Brooklyn,11204,Coffee/Tea,7,0
+Brooklyn,11205,Coffee/Tea,12,0
+Brooklyn,11206,Coffee/Tea,26,0
+Brooklyn,11207,Coffee/Tea,4,0
+Brooklyn,11208,Coffee/Tea,1,0
+Brooklyn,11209,Coffee/Tea,25,0
+Brooklyn,11210,Coffee/Tea,6,0
+Brooklyn,11211,Coffee/Tea,43,0
+Brooklyn,11213,Coffee/Tea,4,0
+Brooklyn,11214,Coffee/Tea,20,0
+Brooklyn,11215,Coffee/Tea,45,0
+Brooklyn,11216,Coffee/Tea,25,0
+Brooklyn,11217,Coffee/Tea,27,0
+Brooklyn,11218,Coffee/Tea,7,0
+Brooklyn,11219,Coffee/Tea,4,0
+Brooklyn,11220,Coffee/Tea,27,0
+Brooklyn,11221,Coffee/Tea,16,0
+Brooklyn,11222,Coffee/Tea,40,0
+Brooklyn,11223,Coffee/Tea,13,0
+Brooklyn,11224,Coffee/Tea,4,0
+Brooklyn,11225,Coffee/Tea,18,0
+Brooklyn,11226,Coffee/Tea,11,0
+Brooklyn,11228,Coffee/Tea,2,0
+Brooklyn,11229,Coffee/Tea,9,0
+Brooklyn,11230,Coffee/Tea,8,0
+Brooklyn,11231,Coffee/Tea,19,0
+Brooklyn,11232,Coffee/Tea,10,0
+Brooklyn,11233,Coffee/Tea,5,0
+Brooklyn,11234,Coffee/Tea,7,0
+Brooklyn,11235,Coffee/Tea,11,0
+Brooklyn,11236,Coffee/Tea,2,0
+Brooklyn,11237,Coffee/Tea,21,0
+Brooklyn,11238,Coffee/Tea,28,0
+Brooklyn,11239,Coffee/Tea,1,0
+Brooklyn,11241,Coffee/Tea,1,0
+Brooklyn,11249,Coffee/Tea,35,0
+Brooklyn,11209,Continental,1,0
+Brooklyn,11218,Continental,1,0
+Brooklyn,11222,Continental,1,0
+Brooklyn,11235,Continental,1,0
+Brooklyn,11203,Creole,3,0
+Brooklyn,11206,Creole,1,0
+Brooklyn,11207,Creole,1,0
+Brooklyn,11225,Creole,2,0
+Brooklyn,11226,Creole,5,0
+Brooklyn,11234,Creole,3,0
+Brooklyn,11236,Creole,1,0
+Brooklyn,11238,Creole,1,0
+Brooklyn,11210,Creole/Cajun,1,0
+Brooklyn,11221,Creole/Cajun,1,0
+Brooklyn,11237,Czech,1,0
+Brooklyn,11201,Donuts,3,0
+Brooklyn,11203,Donuts,4,0
+Brooklyn,11204,Donuts,2,0
+Brooklyn,11205,Donuts,1,0
+Brooklyn,11206,Donuts,3,0
+Brooklyn,11207,Donuts,1,0
+Brooklyn,11208,Donuts,6,0
+Brooklyn,11209,Donuts,6,0
+Brooklyn,11210,Donuts,5,0
+Brooklyn,11211,Donuts,5,0
+Brooklyn,11212,Donuts,3,0
+Brooklyn,11213,Donuts,2,0
+Brooklyn,11214,Donuts,5,0
+Brooklyn,11215,Donuts,3,0
+Brooklyn,11216,Donuts,1,0
+Brooklyn,11218,Donuts,3,0
+Brooklyn,11219,Donuts,2,0
+Brooklyn,11220,Donuts,4,0
+Brooklyn,11221,Donuts,1,0
+Brooklyn,11222,Donuts,4,0
+Brooklyn,11223,Donuts,4,0
+Brooklyn,11224,Donuts,2,0
+Brooklyn,11225,Donuts,4,0
+Brooklyn,11226,Donuts,6,0
+Brooklyn,11228,Donuts,2,0
+Brooklyn,11229,Donuts,4,0
+Brooklyn,11230,Donuts,4,0
+Brooklyn,11231,Donuts,2,0
+Brooklyn,11232,Donuts,2,0
+Brooklyn,11233,Donuts,1,0
+Brooklyn,11234,Donuts,6,0
+Brooklyn,11235,Donuts,5,0
+Brooklyn,11236,Donuts,4,0
+Brooklyn,11237,Donuts,4,0
+Brooklyn,11238,Donuts,2,0
+Brooklyn,11239,Donuts,2,0
+Brooklyn,11249,Donuts,2,0
+Brooklyn,11201,Eastern European,1,0
+Brooklyn,11204,Eastern European,2,0
+Brooklyn,11209,Eastern European,1,0
+Brooklyn,11211,Eastern European,1,0
+Brooklyn,11214,Eastern European,9,0
+Brooklyn,11215,Eastern European,1,0
+Brooklyn,11217,Eastern European,1,0
+Brooklyn,11218,Eastern European,2,0
+Brooklyn,11219,Eastern European,1,0
+Brooklyn,11222,Eastern European,1,0
+Brooklyn,11223,Eastern European,9,0
+Brooklyn,11224,Eastern European,2,0
+Brooklyn,11229,Eastern European,11,0
+Brooklyn,11230,Eastern European,4,0
+Brooklyn,11231,Eastern European,1,0
+Brooklyn,11234,Eastern European,1,0
+Brooklyn,11235,Eastern European,27,0
+Brooklyn,11238,Eastern European,1,0
+Brooklyn,11249,Eastern European,1,0
+Brooklyn,11209,Egyptian,1,0
+Brooklyn,11217,Egyptian,1,0
+Brooklyn,11220,Egyptian,1,0
+Brooklyn,11215,English,2,0
+Brooklyn,11201,Ethiopian,1,0
+Brooklyn,11222,Ethiopian,1,0
+Brooklyn,11237,Ethiopian,1,0
+Brooklyn,11238,Ethiopian,2,0
+Brooklyn,11201,Filipino,1,0
+Brooklyn,11231,Filipino,1,0
+Brooklyn,11234,Filipino,1,0
+Brooklyn,11201,French,3,0
+Brooklyn,11206,French,2,0
+Brooklyn,11211,French,6,0
+Brooklyn,11215,French,1,0
+Brooklyn,11216,French,3,0
+Brooklyn,11217,French,1,0
+Brooklyn,11218,French,2,0
+Brooklyn,11222,French,3,0
+Brooklyn,11225,French,1,0
+Brooklyn,11226,French,1,0
+Brooklyn,11231,French,5,0
+Brooklyn,11233,French,4,0
+Brooklyn,11238,French,1,0
+Brooklyn,11249,French,4,0
+Brooklyn,11201,Frozen Desserts,9,0
+Brooklyn,11204,Frozen Desserts,3,0
+Brooklyn,11206,Frozen Desserts,1,0
+Brooklyn,11207,Frozen Desserts,2,0
+Brooklyn,11208,Frozen Desserts,1,0
+Brooklyn,11209,Frozen Desserts,4,0
+Brooklyn,11211,Frozen Desserts,2,0
+Brooklyn,11213,Frozen Desserts,1,0
+Brooklyn,11214,Frozen Desserts,5,0
+Brooklyn,11215,Frozen Desserts,5,0
+Brooklyn,11216,Frozen Desserts,3,0
+Brooklyn,11217,Frozen Desserts,3,0
+Brooklyn,11218,Frozen Desserts,1,0
+Brooklyn,11219,Frozen Desserts,2,0
+Brooklyn,11220,Frozen Desserts,7,0
+Brooklyn,11222,Frozen Desserts,5,0
+Brooklyn,11224,Frozen Desserts,4,0
+Brooklyn,11226,Frozen Desserts,3,0
+Brooklyn,11228,Frozen Desserts,1,0
+Brooklyn,11229,Frozen Desserts,3,0
+Brooklyn,11230,Frozen Desserts,3,0
+Brooklyn,11231,Frozen Desserts,3,0
+Brooklyn,11234,Frozen Desserts,6,0
+Brooklyn,11235,Frozen Desserts,5,0
+Brooklyn,11237,Frozen Desserts,3,0
+Brooklyn,11238,Frozen Desserts,4,0
+Brooklyn,11249,Frozen Desserts,6,0
+Brooklyn,11204,Fusion,2,0
+Brooklyn,11206,Fusion,1,0
+Brooklyn,11208,Fusion,3,0
+Brooklyn,11209,Fusion,1,0
+Brooklyn,11211,Fusion,5,0
+Brooklyn,11215,Fusion,4,0
+Brooklyn,11216,Fusion,1,0
+Brooklyn,11217,Fusion,1,0
+Brooklyn,11225,Fusion,1,0
+Brooklyn,11229,Fusion,1,0
+Brooklyn,11230,Fusion,1,0
+Brooklyn,11233,Fusion,1,0
+Brooklyn,11234,Fusion,1,0
+Brooklyn,11235,Fusion,2,0
+Brooklyn,11236,Fusion,1,0
+Brooklyn,11237,Fusion,1,0
+Brooklyn,11238,Fusion,1,0
+Brooklyn,11201,German,3,0
+Brooklyn,11217,German,2,0
+Brooklyn,11222,German,1,0
+Brooklyn,11225,German,1,0
+Brooklyn,11232,German,1,0
+Brooklyn,11249,German,2,0
+Brooklyn,11209,Greek,4,0
+Brooklyn,11211,Greek,3,0
+Brooklyn,11215,Greek,2,0
+Brooklyn,11217,Greek,3,0
+Brooklyn,11219,Greek,1,0
+Brooklyn,11222,Greek,2,0
+Brooklyn,11228,Greek,1,0
+Brooklyn,11231,Greek,1,0
+Brooklyn,11235,Greek,1,0
+Brooklyn,11237,Greek,1,0
+Brooklyn,11238,Greek,1,0
+Brooklyn,11249,Greek,1,0
+Brooklyn,11201,Hamburgers,11,0
+Brooklyn,11203,Hamburgers,4,0
+Brooklyn,11204,Hamburgers,1,0
+Brooklyn,11206,Hamburgers,3,0
+Brooklyn,11207,Hamburgers,6,0
+Brooklyn,11208,Hamburgers,5,0
+Brooklyn,11209,Hamburgers,3,0
+Brooklyn,11210,Hamburgers,1,0
+Brooklyn,11211,Hamburgers,6,0
+Brooklyn,11212,Hamburgers,3,0
+Brooklyn,11213,Hamburgers,2,0
+Brooklyn,11214,Hamburgers,3,0
+Brooklyn,11215,Hamburgers,6,0
+Brooklyn,11216,Hamburgers,4,0
+Brooklyn,11217,Hamburgers,8,0
+Brooklyn,11218,Hamburgers,4,0
+Brooklyn,11219,Hamburgers,1,0
+Brooklyn,11220,Hamburgers,2,0
+Brooklyn,11221,Hamburgers,2,0
+Brooklyn,11222,Hamburgers,3,0
+Brooklyn,11223,Hamburgers,4,0
+Brooklyn,11224,Hamburgers,3,0
+Brooklyn,11225,Hamburgers,5,0
+Brooklyn,11226,Hamburgers,8,0
+Brooklyn,11229,Hamburgers,4,0
+Brooklyn,11231,Hamburgers,1,0
+Brooklyn,11232,Hamburgers,2,0
+Brooklyn,11233,Hamburgers,1,0
+Brooklyn,11234,Hamburgers,3,0
+Brooklyn,11236,Hamburgers,2,0
+Brooklyn,11237,Hamburgers,3,0
+Brooklyn,11238,Hamburgers,2,0
+Brooklyn,11239,Hamburgers,1,0
+Brooklyn,11249,Hamburgers,3,0
+Brooklyn,11201,Hawaiian,3,0
+Brooklyn,11209,Hawaiian,2,0
+Brooklyn,11211,Hawaiian,2,0
+Brooklyn,11214,Hawaiian,1,0
+Brooklyn,11217,Hawaiian,1,0
+Brooklyn,11220,Hawaiian,1,0
+Brooklyn,11238,Hawaiian,1,0
+Brooklyn,11201,Hotdogs,1,0
+Brooklyn,11205,Hotdogs,1,0
+Brooklyn,11211,Hotdogs,1,0
+Brooklyn,11215,Hotdogs,1,0
+Brooklyn,11217,Hotdogs,4,0
+Brooklyn,11224,Hotdogs,3,0
+Brooklyn,11235,Hotdogs,1,0
+Brooklyn,11201,Hotdogs/Pretzels,2,0
+Brooklyn,11217,Hotdogs/Pretzels,1,0
+Brooklyn,11232,Hotdogs/Pretzels,1,0
+Brooklyn,11234,Hotdogs/Pretzels,2,0
+Brooklyn,11201,Indian,5,0
+Brooklyn,11205,Indian,3,0
+Brooklyn,11206,Indian,3,0
+Brooklyn,11207,Indian,1,0
+Brooklyn,11208,Indian,2,0
+Brooklyn,11209,Indian,4,0
+Brooklyn,11210,Indian,1,0
+Brooklyn,11211,Indian,6,0
+Brooklyn,11213,Indian,1,0
+Brooklyn,11215,Indian,3,0
+Brooklyn,11216,Indian,7,0
+Brooklyn,11217,Indian,5,0
+Brooklyn,11218,Indian,2,0
+Brooklyn,11221,Indian,2,0
+Brooklyn,11222,Indian,2,0
+Brooklyn,11225,Indian,1,0
+Brooklyn,11231,Indian,1,0
+Brooklyn,11234,Indian,2,0
+Brooklyn,11235,Indian,1,0
+Brooklyn,11237,Indian,2,0
+Brooklyn,11238,Indian,6,0
+Brooklyn,11249,Indian,1,0
+Brooklyn,11215,Indonesian,1,0
+Brooklyn,11226,Indonesian,1,0
+Brooklyn,11238,Indonesian,1,0
+Brooklyn,11206,Iranian,1,0
+Brooklyn,11211,Iranian,1,0
+Brooklyn,11217,Iranian,1,0
+Brooklyn,11205,Irish,1,0
+Brooklyn,11211,Irish,4,0
+Brooklyn,11215,Irish,2,0
+Brooklyn,11217,Irish,1,0
+Brooklyn,11218,Irish,1,0
+Brooklyn,11220,Irish,3,0
+Brooklyn,11222,Irish,2,0
+Brooklyn,11229,Irish,2,0
+Brooklyn,11238,Irish,1,0
+Brooklyn,11201,Italian,15,0
+Brooklyn,11203,Italian,1,0
+Brooklyn,11204,Italian,4,0
+Brooklyn,11205,Italian,9,0
+Brooklyn,11206,Italian,2,0
+Brooklyn,11207,Italian,1,0
+Brooklyn,11209,Italian,16,0
+Brooklyn,11211,Italian,19,0
+Brooklyn,11214,Italian,5,0
+Brooklyn,11215,Italian,20,0
+Brooklyn,11216,Italian,4,0
+Brooklyn,11217,Italian,10,0
+Brooklyn,11218,Italian,2,0
+Brooklyn,11219,Italian,2,0
+Brooklyn,11221,Italian,2,0
+Brooklyn,11222,Italian,8,0
+Brooklyn,11223,Italian,2,0
+Brooklyn,11224,Italian,1,0
+Brooklyn,11225,Italian,2,0
+Brooklyn,11226,Italian,1,0
+Brooklyn,11228,Italian,3,0
+Brooklyn,11229,Italian,1,0
+Brooklyn,11230,Italian,1,0
+Brooklyn,11231,Italian,17,0
+Brooklyn,11232,Italian,3,0
+Brooklyn,11233,Italian,2,0
+Brooklyn,11234,Italian,7,0
+Brooklyn,11235,Italian,1,0
+Brooklyn,11238,Italian,12,0
+Brooklyn,11239,Italian,1,0
+Brooklyn,11249,Italian,12,0
+Brooklyn,11201,Japanese,22,0
+Brooklyn,11204,Japanese,7,0
+Brooklyn,11205,Japanese,4,0
+Brooklyn,11206,Japanese,8,0
+Brooklyn,11207,Japanese,2,0
+Brooklyn,11208,Japanese,1,0
+Brooklyn,11209,Japanese,10,0
+Brooklyn,11210,Japanese,1,0
+Brooklyn,11211,Japanese,22,0
+Brooklyn,11212,Japanese,1,0
+Brooklyn,11213,Japanese,1,0
+Brooklyn,11214,Japanese,12,0
+Brooklyn,11215,Japanese,19,0
+Brooklyn,11216,Japanese,8,0
+Brooklyn,11217,Japanese,20,0
+Brooklyn,11218,Japanese,2,0
+Brooklyn,11219,Japanese,3,0
+Brooklyn,11220,Japanese,5,0
+Brooklyn,11222,Japanese,20,0
+Brooklyn,11223,Japanese,3,0
+Brooklyn,11225,Japanese,2,0
+Brooklyn,11226,Japanese,3,0
+Brooklyn,11228,Japanese,2,0
+Brooklyn,11229,Japanese,10,0
+Brooklyn,11231,Japanese,5,0
+Brooklyn,11232,Japanese,4,0
+Brooklyn,11233,Japanese,2,0
+Brooklyn,11234,Japanese,4,0
+Brooklyn,11235,Japanese,9,0
+Brooklyn,11236,Japanese,2,0
+Brooklyn,11237,Japanese,7,0
+Brooklyn,11238,Japanese,9,0
+Brooklyn,11249,Japanese,9,0
+Brooklyn,11201,Jewish/Kosher,2,0
+Brooklyn,11203,Jewish/Kosher,2,0
+Brooklyn,11204,Jewish/Kosher,12,0
+Brooklyn,11205,Jewish/Kosher,6,0
+Brooklyn,11206,Jewish/Kosher,4,0
+Brooklyn,11210,Jewish/Kosher,6,0
+Brooklyn,11211,Jewish/Kosher,8,0
+Brooklyn,11213,Jewish/Kosher,13,0
+Brooklyn,11215,Jewish/Kosher,1,0
+Brooklyn,11217,Jewish/Kosher,1,0
+Brooklyn,11218,Jewish/Kosher,8,0
+Brooklyn,11219,Jewish/Kosher,21,0
+Brooklyn,11223,Jewish/Kosher,37,0
+Brooklyn,11225,Jewish/Kosher,4,0
+Brooklyn,11226,Jewish/Kosher,1,0
+Brooklyn,11229,Jewish/Kosher,5,0
+Brooklyn,11230,Jewish/Kosher,47,0
+Brooklyn,11231,Jewish/Kosher,1,0
+Brooklyn,11233,Jewish/Kosher,1,0
+Brooklyn,11234,Jewish/Kosher,4,0
+Brooklyn,11235,Jewish/Kosher,3,0
+Brooklyn,11249,Jewish/Kosher,3,0
+Brooklyn,11201,"Juice, Smoothies, Fruit Salads",15,0
+Brooklyn,11203,"Juice, Smoothies, Fruit Salads",2,0
+Brooklyn,11204,"Juice, Smoothies, Fruit Salads",2,0
+Brooklyn,11205,"Juice, Smoothies, Fruit Salads",3,0
+Brooklyn,11206,"Juice, Smoothies, Fruit Salads",3,0
+Brooklyn,11209,"Juice, Smoothies, Fruit Salads",10,0
+Brooklyn,11210,"Juice, Smoothies, Fruit Salads",6,0
+Brooklyn,11211,"Juice, Smoothies, Fruit Salads",7,0
+Brooklyn,11212,"Juice, Smoothies, Fruit Salads",1,0
+Brooklyn,11213,"Juice, Smoothies, Fruit Salads",2,0
+Brooklyn,11214,"Juice, Smoothies, Fruit Salads",8,0
+Brooklyn,11215,"Juice, Smoothies, Fruit Salads",10,0
+Brooklyn,11216,"Juice, Smoothies, Fruit Salads",5,0
+Brooklyn,11217,"Juice, Smoothies, Fruit Salads",5,0
+Brooklyn,11218,"Juice, Smoothies, Fruit Salads",1,0
+Brooklyn,11219,"Juice, Smoothies, Fruit Salads",1,0
+Brooklyn,11220,"Juice, Smoothies, Fruit Salads",6,0
+Brooklyn,11221,"Juice, Smoothies, Fruit Salads",2,0
+Brooklyn,11222,"Juice, Smoothies, Fruit Salads",5,0
+Brooklyn,11223,"Juice, Smoothies, Fruit Salads",2,0
+Brooklyn,11224,"Juice, Smoothies, Fruit Salads",1,0
+Brooklyn,11225,"Juice, Smoothies, Fruit Salads",4,0
+Brooklyn,11226,"Juice, Smoothies, Fruit Salads",2,0
+Brooklyn,11228,"Juice, Smoothies, Fruit Salads",1,0
+Brooklyn,11230,"Juice, Smoothies, Fruit Salads",2,0
+Brooklyn,11231,"Juice, Smoothies, Fruit Salads",1,0
+Brooklyn,11232,"Juice, Smoothies, Fruit Salads",1,0
+Brooklyn,11233,"Juice, Smoothies, Fruit Salads",1,0
+Brooklyn,11234,"Juice, Smoothies, Fruit Salads",4,0
+Brooklyn,11235,"Juice, Smoothies, Fruit Salads",3,0
+Brooklyn,11236,"Juice, Smoothies, Fruit Salads",5,0
+Brooklyn,11237,"Juice, Smoothies, Fruit Salads",4,0
+Brooklyn,11238,"Juice, Smoothies, Fruit Salads",4,0
+Brooklyn,11249,"Juice, Smoothies, Fruit Salads",5,0
+Brooklyn,11201,Korean,5,0
+Brooklyn,11205,Korean,3,0
+Brooklyn,11211,Korean,4,0
+Brooklyn,11215,Korean,1,0
+Brooklyn,11217,Korean,4,0
+Brooklyn,11218,Korean,1,0
+Brooklyn,11220,Korean,1,0
+Brooklyn,11221,Korean,1,0
+Brooklyn,11222,Korean,6,0
+Brooklyn,11224,Korean,1,0
+Brooklyn,11225,Korean,1,0
+Brooklyn,11231,Korean,1,0
+Brooklyn,11232,Korean,1,0
+Brooklyn,11237,Korean,4,0
+Brooklyn,11238,Korean,2,0
+Brooklyn,11249,Korean,2,0
+Brooklyn,11201,Latin American,6,0
+Brooklyn,11204,Latin American,2,0
+Brooklyn,11205,Latin American,6,0
+Brooklyn,11206,Latin American,13,0
+Brooklyn,11207,Latin American,12,0
+Brooklyn,11208,Latin American,17,0
+Brooklyn,11209,Latin American,4,0
+Brooklyn,11211,Latin American,17,0
+Brooklyn,11212,Latin American,2,0
+Brooklyn,11213,Latin American,1,0
+Brooklyn,11214,Latin American,6,0
+Brooklyn,11215,Latin American,10,0
+Brooklyn,11216,Latin American,4,0
+Brooklyn,11217,Latin American,2,0
+Brooklyn,11218,Latin American,3,0
+Brooklyn,11219,Latin American,7,0
+Brooklyn,11220,Latin American,28,0
+Brooklyn,11221,Latin American,13,0
+Brooklyn,11223,Latin American,4,0
+Brooklyn,11224,Latin American,2,0
+Brooklyn,11225,Latin American,1,0
+Brooklyn,11226,Latin American,4,0
+Brooklyn,11228,Latin American,4,0
+Brooklyn,11230,Latin American,1,0
+Brooklyn,11231,Latin American,3,0
+Brooklyn,11232,Latin American,15,0
+Brooklyn,11233,Latin American,1,0
+Brooklyn,11234,Latin American,1,0
+Brooklyn,11235,Latin American,1,0
+Brooklyn,11236,Latin American,1,0
+Brooklyn,11237,Latin American,25,0
+Brooklyn,11238,Latin American,2,0
+Brooklyn,11249,Latin American,5,0
+Brooklyn,11201,Lebanese,2,0
+Brooklyn,11211,Lebanese,1,0
+Brooklyn,11201,Mediterranean,9,0
+Brooklyn,11204,Mediterranean,3,0
+Brooklyn,11205,Mediterranean,2,0
+Brooklyn,11208,Mediterranean,1,0
+Brooklyn,11209,Mediterranean,6,0
+Brooklyn,11210,Mediterranean,1,0
+Brooklyn,11211,Mediterranean,8,0
+Brooklyn,11213,Mediterranean,1,0
+Brooklyn,11214,Mediterranean,1,0
+Brooklyn,11215,Mediterranean,4,0
+Brooklyn,11216,Mediterranean,2,0
+Brooklyn,11217,Mediterranean,2,0
+Brooklyn,11218,Mediterranean,3,0
+Brooklyn,11219,Mediterranean,1,0
+Brooklyn,11220,Mediterranean,3,0
+Brooklyn,11221,Mediterranean,3,0
+Brooklyn,11222,Mediterranean,7,0
+Brooklyn,11223,Mediterranean,5,0
+Brooklyn,11224,Mediterranean,3,0
+Brooklyn,11225,Mediterranean,2,0
+Brooklyn,11226,Mediterranean,1,0
+Brooklyn,11228,Mediterranean,1,0
+Brooklyn,11230,Mediterranean,1,0
+Brooklyn,11233,Mediterranean,1,0
+Brooklyn,11235,Mediterranean,5,0
+Brooklyn,11237,Mediterranean,4,0
+Brooklyn,11238,Mediterranean,2,0
+Brooklyn,11249,Mediterranean,1,0
+Brooklyn,11201,Mexican,11,0
+Brooklyn,11203,Mexican,1,0
+Brooklyn,11204,Mexican,5,0
+Brooklyn,11205,Mexican,8,0
+Brooklyn,11206,Mexican,10,0
+Brooklyn,11207,Mexican,5,0
+Brooklyn,11208,Mexican,3,0
+Brooklyn,11209,Mexican,18,0
+Brooklyn,11210,Mexican,2,0
+Brooklyn,11211,Mexican,24,0
+Brooklyn,11212,Mexican,2,0
+Brooklyn,11213,Mexican,1,0
+Brooklyn,11214,Mexican,3,0
+Brooklyn,11215,Mexican,24,0
+Brooklyn,11216,Mexican,9,0
+Brooklyn,11217,Mexican,10,0
+Brooklyn,11218,Mexican,14,0
+Brooklyn,11219,Mexican,9,0
+Brooklyn,11220,Mexican,22,0
+Brooklyn,11221,Mexican,8,0
+Brooklyn,11222,Mexican,12,0
+Brooklyn,11223,Mexican,11,0
+Brooklyn,11224,Mexican,2,0
+Brooklyn,11225,Mexican,6,0
+Brooklyn,11226,Mexican,9,0
+Brooklyn,11228,Mexican,4,0
+Brooklyn,11229,Mexican,5,0
+Brooklyn,11230,Mexican,9,0
+Brooklyn,11231,Mexican,6,0
+Brooklyn,11232,Mexican,16,0
+Brooklyn,11233,Mexican,4,0
+Brooklyn,11234,Mexican,3,0
+Brooklyn,11235,Mexican,4,0
+Brooklyn,11237,Mexican,32,0
+Brooklyn,11238,Mexican,11,0
+Brooklyn,11249,Mexican,7,0
+Brooklyn,11201,Middle Eastern,10,0
+Brooklyn,11205,Middle Eastern,1,0
+Brooklyn,11206,Middle Eastern,2,0
+Brooklyn,11207,Middle Eastern,1,0
+Brooklyn,11208,Middle Eastern,1,0
+Brooklyn,11209,Middle Eastern,22,0
+Brooklyn,11210,Middle Eastern,3,0
+Brooklyn,11211,Middle Eastern,6,0
+Brooklyn,11212,Middle Eastern,1,0
+Brooklyn,11213,Middle Eastern,1,0
+Brooklyn,11214,Middle Eastern,3,0
+Brooklyn,11215,Middle Eastern,4,0
+Brooklyn,11216,Middle Eastern,2,0
+Brooklyn,11217,Middle Eastern,4,0
+Brooklyn,11218,Middle Eastern,3,0
+Brooklyn,11220,Middle Eastern,7,0
+Brooklyn,11221,Middle Eastern,1,0
+Brooklyn,11222,Middle Eastern,1,0
+Brooklyn,11223,Middle Eastern,9,0
+Brooklyn,11226,Middle Eastern,5,0
+Brooklyn,11229,Middle Eastern,2,0
+Brooklyn,11230,Middle Eastern,7,0
+Brooklyn,11231,Middle Eastern,3,0
+Brooklyn,11232,Middle Eastern,2,0
+Brooklyn,11233,Middle Eastern,2,0
+Brooklyn,11234,Middle Eastern,2,0
+Brooklyn,11235,Middle Eastern,6,0
+Brooklyn,11237,Middle Eastern,2,0
+Brooklyn,11238,Middle Eastern,4,0
+Brooklyn,11249,Middle Eastern,4,0
+Brooklyn,11201,New American,8,0
+Brooklyn,11205,New American,3,0
+Brooklyn,11206,New American,2,0
+Brooklyn,11209,New American,1,0
+Brooklyn,11211,New American,10,0
+Brooklyn,11215,New American,2,0
+Brooklyn,11216,New American,1,0
+Brooklyn,11217,New American,3,0
+Brooklyn,11221,New American,1,0
+Brooklyn,11222,New American,4,0
+Brooklyn,11225,New American,3,0
+Brooklyn,11231,New American,1,0
+Brooklyn,11232,New American,1,0
+Brooklyn,11233,New American,1,0
+Brooklyn,11235,New American,1,0
+Brooklyn,11238,New American,5,0
+Brooklyn,11249,New American,4,0
+Brooklyn,11201,New French,1,0
+Brooklyn,11205,New French,2,0
+Brooklyn,11211,New French,1,0
+Brooklyn,11215,New French,1,0
+Brooklyn,11217,New French,1,0
+Brooklyn,11225,New French,1,0
+Brooklyn,11231,New French,1,0
+Brooklyn,11238,New French,2,0
+Brooklyn,11249,New French,2,0
+Brooklyn,11206,Not Listed/Not Applicable,1,0
+Brooklyn,11233,Not Listed/Not Applicable,1,0
+Brooklyn,11201,Other,9,0
+Brooklyn,11203,Other,6,0
+Brooklyn,11204,Other,6,0
+Brooklyn,11206,Other,4,0
+Brooklyn,11207,Other,11,0
+Brooklyn,11208,Other,4,0
+Brooklyn,11209,Other,6,0
+Brooklyn,11210,Other,3,0
+Brooklyn,11211,Other,10,0
+Brooklyn,11212,Other,10,0
+Brooklyn,11213,Other,6,0
+Brooklyn,11214,Other,1,0
+Brooklyn,11215,Other,6,0
+Brooklyn,11216,Other,9,0
+Brooklyn,11217,Other,2,0
+Brooklyn,11218,Other,4,0
+Brooklyn,11219,Other,4,0
+Brooklyn,11220,Other,5,0
+Brooklyn,11221,Other,3,0
+Brooklyn,11222,Other,1,0
+Brooklyn,11223,Other,1,0
+Brooklyn,11224,Other,6,0
+Brooklyn,11226,Other,10,0
+Brooklyn,11228,Other,1,0
+Brooklyn,11230,Other,2,0
+Brooklyn,11232,Other,2,0
+Brooklyn,11233,Other,3,0
+Brooklyn,11234,Other,6,0
+Brooklyn,11235,Other,3,0
+Brooklyn,11236,Other,6,0
+Brooklyn,11237,Other,12,0
+Brooklyn,11238,Other,5,0
+Brooklyn,11249,Other,1,0
+Brooklyn,11201,Pakistani,1,0
+Brooklyn,11211,Pakistani,1,0
+Brooklyn,11214,Pakistani,4,0
+Brooklyn,11218,Pakistani,3,0
+Brooklyn,11230,Pakistani,4,0
+Brooklyn,11235,Pakistani,1,0
+Brooklyn,11201,Pancakes/Waffles,2,0
+Brooklyn,11206,Pancakes/Waffles,1,0
+Brooklyn,11207,Pancakes/Waffles,1,0
+Brooklyn,11218,Pancakes/Waffles,1,0
+Brooklyn,11222,Pancakes/Waffles,1,0
+Brooklyn,11223,Pancakes/Waffles,1,0
+Brooklyn,11224,Pancakes/Waffles,1,0
+Brooklyn,11226,Pancakes/Waffles,1,0
+Brooklyn,11229,Pancakes/Waffles,1,0
+Brooklyn,11234,Pancakes/Waffles,1,0
+Brooklyn,11237,Pancakes/Waffles,1,0
+Brooklyn,11205,Peruvian,1,0
+Brooklyn,11206,Peruvian,1,0
+Brooklyn,11211,Peruvian,3,0
+Brooklyn,11214,Peruvian,1,0
+Brooklyn,11215,Peruvian,1,0
+Brooklyn,11217,Peruvian,1,0
+Brooklyn,11220,Peruvian,2,0
+Brooklyn,11228,Peruvian,1,0
+Brooklyn,11232,Peruvian,2,0
+Brooklyn,11237,Peruvian,1,0
+Brooklyn,11201,Pizza,28,0
+Brooklyn,11203,Pizza,2,0
+Brooklyn,11204,Pizza,11,0
+Brooklyn,11205,Pizza,7,0
+Brooklyn,11206,Pizza,15,0
+Brooklyn,11207,Pizza,11,0
+Brooklyn,11208,Pizza,10,0
+Brooklyn,11209,Pizza,17,0
+Brooklyn,11210,Pizza,5,0
+Brooklyn,11211,Pizza,24,0
+Brooklyn,11212,Pizza,10,0
+Brooklyn,11213,Pizza,4,0
+Brooklyn,11214,Pizza,15,0
+Brooklyn,11215,Pizza,25,0
+Brooklyn,11216,Pizza,7,0
+Brooklyn,11217,Pizza,19,0
+Brooklyn,11218,Pizza,12,0
+Brooklyn,11219,Pizza,5,0
+Brooklyn,11220,Pizza,12,0
+Brooklyn,11221,Pizza,10,0
+Brooklyn,11222,Pizza,18,0
+Brooklyn,11223,Pizza,12,0
+Brooklyn,11224,Pizza,9,0
+Brooklyn,11225,Pizza,9,0
+Brooklyn,11226,Pizza,20,0
+Brooklyn,11228,Pizza,7,0
+Brooklyn,11229,Pizza,17,0
+Brooklyn,11230,Pizza,7,0
+Brooklyn,11231,Pizza,8,0
+Brooklyn,11232,Pizza,6,0
+Brooklyn,11233,Pizza,5,0
+Brooklyn,11234,Pizza,9,0
+Brooklyn,11235,Pizza,10,0
+Brooklyn,11236,Pizza,9,0
+Brooklyn,11237,Pizza,16,0
+Brooklyn,11238,Pizza,11,0
+Brooklyn,11239,Pizza,2,0
+Brooklyn,11249,Pizza,5,0
+Brooklyn,11201,Polish,1,0
+Brooklyn,11209,Polish,1,0
+Brooklyn,11214,Polish,1,0
+Brooklyn,11222,Polish,8,0
+Brooklyn,11249,Polish,1,0
+Brooklyn,11222,Polynesian,1,0
+Brooklyn,11222,Portuguese,1,0
+Brooklyn,11201,Russian,1,0
+Brooklyn,11219,Russian,1,0
+Brooklyn,11223,Russian,5,0
+Brooklyn,11224,Russian,1,0
+Brooklyn,11229,Russian,1,0
+Brooklyn,11230,Russian,2,0
+Brooklyn,11234,Russian,1,0
+Brooklyn,11235,Russian,19,0
+Brooklyn,11201,Salads,9,0
+Brooklyn,11203,Salads,1,0
+Brooklyn,11205,Salads,1,0
+Brooklyn,11206,Salads,1,0
+Brooklyn,11211,Salads,2,0
+Brooklyn,11215,Salads,2,0
+Brooklyn,11217,Salads,2,0
+Brooklyn,11228,Salads,1,0
+Brooklyn,11229,Salads,1,0
+Brooklyn,11232,Salads,1,0
+Brooklyn,11237,Salads,1,0
+Brooklyn,11201,Sandwiches,7,0
+Brooklyn,11205,Sandwiches,3,0
+Brooklyn,11206,Sandwiches,2,0
+Brooklyn,11207,Sandwiches,5,0
+Brooklyn,11208,Sandwiches,1,0
+Brooklyn,11209,Sandwiches,4,0
+Brooklyn,11210,Sandwiches,3,0
+Brooklyn,11211,Sandwiches,9,0
+Brooklyn,11212,Sandwiches,2,0
+Brooklyn,11214,Sandwiches,1,0
+Brooklyn,11215,Sandwiches,2,0
+Brooklyn,11216,Sandwiches,1,0
+Brooklyn,11217,Sandwiches,5,0
+Brooklyn,11218,Sandwiches,1,0
+Brooklyn,11220,Sandwiches,3,0
+Brooklyn,11221,Sandwiches,1,0
+Brooklyn,11222,Sandwiches,6,0
+Brooklyn,11223,Sandwiches,2,0
+Brooklyn,11224,Sandwiches,1,0
+Brooklyn,11225,Sandwiches,1,0
+Brooklyn,11226,Sandwiches,1,0
+Brooklyn,11228,Sandwiches,1,0
+Brooklyn,11229,Sandwiches,2,0
+Brooklyn,11230,Sandwiches,1,0
+Brooklyn,11231,Sandwiches,3,0
+Brooklyn,11232,Sandwiches,3,0
+Brooklyn,11234,Sandwiches,5,0
+Brooklyn,11235,Sandwiches,1,0
+Brooklyn,11236,Sandwiches,1,0
+Brooklyn,11237,Sandwiches,4,0
+Brooklyn,11238,Sandwiches,3,0
+Brooklyn,11249,Sandwiches,2,0
+Brooklyn,11201,Sandwiches/Salads/Mixed Buffet,3,0
+Brooklyn,11204,Sandwiches/Salads/Mixed Buffet,1,0
+Brooklyn,11205,Sandwiches/Salads/Mixed Buffet,2,0
+Brooklyn,11209,Sandwiches/Salads/Mixed Buffet,2,0
+Brooklyn,11211,Sandwiches/Salads/Mixed Buffet,1,0
+Brooklyn,11217,Sandwiches/Salads/Mixed Buffet,1,0
+Brooklyn,11218,Sandwiches/Salads/Mixed Buffet,1,0
+Brooklyn,11222,Sandwiches/Salads/Mixed Buffet,2,0
+Brooklyn,11225,Sandwiches/Salads/Mixed Buffet,1,0
+Brooklyn,11226,Sandwiches/Salads/Mixed Buffet,1,0
+Brooklyn,11228,Sandwiches/Salads/Mixed Buffet,2,0
+Brooklyn,11231,Sandwiches/Salads/Mixed Buffet,1,0
+Brooklyn,11232,Sandwiches/Salads/Mixed Buffet,1,0
+Brooklyn,11234,Sandwiches/Salads/Mixed Buffet,1,0
+Brooklyn,11236,Sandwiches/Salads/Mixed Buffet,2,0
+Brooklyn,11238,Sandwiches/Salads/Mixed Buffet,3,0
+Brooklyn,11249,Sandwiches/Salads/Mixed Buffet,1,0
+Brooklyn,11201,Scandinavian,1,0
+Brooklyn,11222,Scandinavian,1,0
+Brooklyn,11231,Scandinavian,1,0
+Brooklyn,11238,Scandinavian,1,0
+Brooklyn,11249,Scandinavian,1,0
+Brooklyn,11201,Seafood,4,0
+Brooklyn,11203,Seafood,2,0
+Brooklyn,11205,Seafood,3,0
+Brooklyn,11206,Seafood,1,0
+Brooklyn,11207,Seafood,1,0
+Brooklyn,11209,Seafood,3,0
+Brooklyn,11212,Seafood,2,0
+Brooklyn,11215,Seafood,2,0
+Brooklyn,11216,Seafood,3,0
+Brooklyn,11217,Seafood,5,0
+Brooklyn,11218,Seafood,1,0
+Brooklyn,11219,Seafood,1,0
+Brooklyn,11220,Seafood,5,0
+Brooklyn,11221,Seafood,2,0
+Brooklyn,11222,Seafood,3,0
+Brooklyn,11223,Seafood,2,0
+Brooklyn,11224,Seafood,3,0
+Brooklyn,11225,Seafood,1,0
+Brooklyn,11226,Seafood,1,0
+Brooklyn,11229,Seafood,1,0
+Brooklyn,11231,Seafood,4,0
+Brooklyn,11232,Seafood,2,0
+Brooklyn,11233,Seafood,1,0
+Brooklyn,11234,Seafood,5,0
+Brooklyn,11235,Seafood,2,0
+Brooklyn,11236,Seafood,2,0
+Brooklyn,11237,Seafood,2,0
+Brooklyn,11238,Seafood,1,0
+Brooklyn,11239,Seafood,2,0
+Brooklyn,11249,Seafood,3,0
+Brooklyn,11201,Soul Food,2,0
+Brooklyn,11206,Soul Food,3,0
+Brooklyn,11207,Soul Food,1,0
+Brooklyn,11211,Soul Food,2,0
+Brooklyn,11212,Soul Food,2,0
+Brooklyn,11213,Soul Food,1,0
+Brooklyn,11216,Soul Food,2,0
+Brooklyn,11217,Soul Food,1,0
+Brooklyn,11221,Soul Food,4,0
+Brooklyn,11223,Soul Food,1,0
+Brooklyn,11224,Soul Food,1,0
+Brooklyn,11225,Soul Food,2,0
+Brooklyn,11226,Soul Food,1,0
+Brooklyn,11233,Soul Food,4,0
+Brooklyn,11238,Soul Food,1,0
+Brooklyn,11201,Soups,1,0
+Brooklyn,11211,Soups,1,0
+Brooklyn,11215,Soups,1,0
+Brooklyn,11217,Soups,1,0
+Brooklyn,11201,Soups/Salads/Sandwiches,2,0
+Brooklyn,11215,Soups/Salads/Sandwiches,3,0
+Brooklyn,11222,Soups/Salads/Sandwiches,2,0
+Brooklyn,11223,Soups/Salads/Sandwiches,1,0
+Brooklyn,11237,Soups/Salads/Sandwiches,1,0
+Brooklyn,11238,Soups/Salads/Sandwiches,1,0
+Brooklyn,11201,Southeast Asian,6,0
+Brooklyn,11204,Southeast Asian,1,0
+Brooklyn,11205,Southeast Asian,1,0
+Brooklyn,11208,Southeast Asian,1,0
+Brooklyn,11209,Southeast Asian,3,0
+Brooklyn,11211,Southeast Asian,2,0
+Brooklyn,11214,Southeast Asian,5,0
+Brooklyn,11215,Southeast Asian,6,0
+Brooklyn,11217,Southeast Asian,3,0
+Brooklyn,11219,Southeast Asian,1,0
+Brooklyn,11220,Southeast Asian,4,0
+Brooklyn,11221,Southeast Asian,1,0
+Brooklyn,11222,Southeast Asian,3,0
+Brooklyn,11223,Southeast Asian,1,0
+Brooklyn,11229,Southeast Asian,3,0
+Brooklyn,11234,Southeast Asian,1,0
+Brooklyn,11237,Southeast Asian,1,0
+Brooklyn,11238,Southeast Asian,2,0
+Brooklyn,11249,Southeast Asian,2,0
+Brooklyn,11211,Southwestern,1,0
+Brooklyn,11201,Spanish,8,0
+Brooklyn,11203,Spanish,1,0
+Brooklyn,11204,Spanish,2,0
+Brooklyn,11205,Spanish,1,0
+Brooklyn,11206,Spanish,5,0
+Brooklyn,11207,Spanish,10,0
+Brooklyn,11208,Spanish,3,0
+Brooklyn,11209,Spanish,2,0
+Brooklyn,11210,Spanish,1,0
+Brooklyn,11211,Spanish,7,0
+Brooklyn,11212,Spanish,3,0
+Brooklyn,11213,Spanish,2,0
+Brooklyn,11214,Spanish,5,0
+Brooklyn,11215,Spanish,1,0
+Brooklyn,11216,Spanish,3,0
+Brooklyn,11218,Spanish,2,0
+Brooklyn,11219,Spanish,1,0
+Brooklyn,11220,Spanish,8,0
+Brooklyn,11221,Spanish,5,0
+Brooklyn,11222,Spanish,4,0
+Brooklyn,11223,Spanish,1,0
+Brooklyn,11224,Spanish,2,0
+Brooklyn,11225,Spanish,3,0
+Brooklyn,11226,Spanish,4,0
+Brooklyn,11228,Spanish,2,0
+Brooklyn,11232,Spanish,3,0
+Brooklyn,11237,Spanish,17,0
+Brooklyn,11249,Spanish,1,0
+Brooklyn,11201,Steakhouse,1,0
+Brooklyn,11209,Steakhouse,2,0
+Brooklyn,11211,Steakhouse,3,0
+Brooklyn,11214,Steakhouse,1,0
+Brooklyn,11215,Steakhouse,2,0
+Brooklyn,11220,Steakhouse,1,0
+Brooklyn,11222,Steakhouse,1,0
+Brooklyn,11223,Steakhouse,1,0
+Brooklyn,11225,Steakhouse,1,0
+Brooklyn,11228,Steakhouse,1,0
+Brooklyn,11235,Steakhouse,1,0
+Brooklyn,11201,Tapas,1,0
+Brooklyn,11209,Tapas,1,0
+Brooklyn,11211,Tapas,2,0
+Brooklyn,11213,Tapas,1,0
+Brooklyn,11215,Tapas,1,0
+Brooklyn,11216,Tapas,1,0
+Brooklyn,11217,Tapas,2,0
+Brooklyn,11222,Tapas,3,0
+Brooklyn,11225,Tapas,1,0
+Brooklyn,11231,Tapas,1,0
+Brooklyn,11237,Tapas,1,0
+Brooklyn,11238,Tapas,1,0
+Brooklyn,11201,Tex-Mex,8,0
+Brooklyn,11203,Tex-Mex,1,0
+Brooklyn,11204,Tex-Mex,2,0
+Brooklyn,11205,Tex-Mex,2,0
+Brooklyn,11206,Tex-Mex,2,0
+Brooklyn,11207,Tex-Mex,3,0
+Brooklyn,11209,Tex-Mex,3,0
+Brooklyn,11210,Tex-Mex,1,0
+Brooklyn,11211,Tex-Mex,2,0
+Brooklyn,11212,Tex-Mex,1,0
+Brooklyn,11213,Tex-Mex,1,0
+Brooklyn,11214,Tex-Mex,6,0
+Brooklyn,11215,Tex-Mex,6,0
+Brooklyn,11216,Tex-Mex,2,0
+Brooklyn,11217,Tex-Mex,3,0
+Brooklyn,11218,Tex-Mex,2,0
+Brooklyn,11220,Tex-Mex,2,0
+Brooklyn,11221,Tex-Mex,2,0
+Brooklyn,11223,Tex-Mex,2,0
+Brooklyn,11224,Tex-Mex,1,0
+Brooklyn,11225,Tex-Mex,2,0
+Brooklyn,11226,Tex-Mex,3,0
+Brooklyn,11230,Tex-Mex,1,0
+Brooklyn,11231,Tex-Mex,1,0
+Brooklyn,11232,Tex-Mex,1,0
+Brooklyn,11234,Tex-Mex,2,0
+Brooklyn,11235,Tex-Mex,2,0
+Brooklyn,11236,Tex-Mex,3,0
+Brooklyn,11237,Tex-Mex,2,0
+Brooklyn,11238,Tex-Mex,3,0
+Brooklyn,11249,Tex-Mex,3,0
+Brooklyn,11201,Thai,14,0
+Brooklyn,11204,Thai,1,0
+Brooklyn,11205,Thai,6,0
+Brooklyn,11206,Thai,5,0
+Brooklyn,11207,Thai,1,0
+Brooklyn,11209,Thai,2,0
+Brooklyn,11211,Thai,9,0
+Brooklyn,11214,Thai,1,0
+Brooklyn,11215,Thai,6,0
+Brooklyn,11216,Thai,5,0
+Brooklyn,11217,Thai,6,0
+Brooklyn,11218,Thai,7,0
+Brooklyn,11220,Thai,1,0
+Brooklyn,11221,Thai,2,0
+Brooklyn,11222,Thai,7,0
+Brooklyn,11225,Thai,2,0
+Brooklyn,11226,Thai,1,0
+Brooklyn,11229,Thai,1,0
+Brooklyn,11231,Thai,6,0
+Brooklyn,11232,Thai,1,0
+Brooklyn,11237,Thai,6,0
+Brooklyn,11238,Thai,8,0
+Brooklyn,11249,Thai,4,0
+Brooklyn,11209,Turkish,4,0
+Brooklyn,11211,Turkish,4,0
+Brooklyn,11214,Turkish,1,0
+Brooklyn,11215,Turkish,1,0
+Brooklyn,11216,Turkish,1,0
+Brooklyn,11217,Turkish,3,0
+Brooklyn,11218,Turkish,1,0
+Brooklyn,11222,Turkish,1,0
+Brooklyn,11223,Turkish,2,0
+Brooklyn,11224,Turkish,2,0
+Brooklyn,11229,Turkish,5,0
+Brooklyn,11235,Turkish,12,0
+Brooklyn,11237,Turkish,1,0
+Brooklyn,11238,Turkish,1,0
+Brooklyn,11201,Unknown,38,38
+Brooklyn,11203,Unknown,15,15
+Brooklyn,11204,Unknown,15,15
+Brooklyn,11205,Unknown,21,21
+Brooklyn,11206,Unknown,19,19
+Brooklyn,11207,Unknown,13,13
+Brooklyn,11208,Unknown,16,16
+Brooklyn,11209,Unknown,33,33
+Brooklyn,11210,Unknown,11,11
+Brooklyn,11211,Unknown,79,79
+Brooklyn,11212,Unknown,8,8
+Brooklyn,11213,Unknown,15,15
+Brooklyn,11214,Unknown,26,26
+Brooklyn,11215,Unknown,33,33
+Brooklyn,11216,Unknown,30,30
+Brooklyn,11217,Unknown,34,34
+Brooklyn,11218,Unknown,24,24
+Brooklyn,11219,Unknown,13,13
+Brooklyn,11220,Unknown,53,53
+Brooklyn,11221,Unknown,18,18
+Brooklyn,11222,Unknown,44,44
+Brooklyn,11223,Unknown,19,19
+Brooklyn,11224,Unknown,25,25
+Brooklyn,11225,Unknown,16,16
+Brooklyn,11226,Unknown,28,28
+Brooklyn,11228,Unknown,8,8
+Brooklyn,11229,Unknown,11,11
+Brooklyn,11230,Unknown,20,20
+Brooklyn,11231,Unknown,35,35
+Brooklyn,11232,Unknown,23,23
+Brooklyn,11233,Unknown,15,15
+Brooklyn,11234,Unknown,13,13
+Brooklyn,11235,Unknown,23,23
+Brooklyn,11236,Unknown,10,10
+Brooklyn,11237,Unknown,55,55
+Brooklyn,11238,Unknown,27,27
+Brooklyn,11239,Unknown,3,3
+Brooklyn,11249,Unknown,41,41
+Brooklyn,11201,Vegan,2,0
+Brooklyn,11206,Vegan,1,0
+Brooklyn,11211,Vegan,4,0
+Brooklyn,11215,Vegan,1,0
+Brooklyn,11216,Vegan,3,0
+Brooklyn,11217,Vegan,4,0
+Brooklyn,11221,Vegan,2,0
+Brooklyn,11222,Vegan,2,0
+Brooklyn,11225,Vegan,1,0
+Brooklyn,11226,Vegan,2,0
+Brooklyn,11229,Vegan,1,0
+Brooklyn,11233,Vegan,1,0
+Brooklyn,11236,Vegan,2,0
+Brooklyn,11237,Vegan,2,0
+Brooklyn,11238,Vegan,2,0
+Brooklyn,11249,Vegan,1,0
+Brooklyn,11201,Vegetarian,2,0
+Brooklyn,11203,Vegetarian,1,0
+Brooklyn,11205,Vegetarian,2,0
+Brooklyn,11210,Vegetarian,1,0
+Brooklyn,11211,Vegetarian,2,0
+Brooklyn,11213,Vegetarian,1,0
+Brooklyn,11216,Vegetarian,2,0
+Brooklyn,11217,Vegetarian,1,0
+Brooklyn,11222,Vegetarian,1,0
+Brooklyn,11225,Vegetarian,3,0
+Brooklyn,11226,Vegetarian,5,0
+Brooklyn,11233,Vegetarian,1,0
+Brooklyn,11235,Vegetarian,1,0
+Brooklyn,11238,Vegetarian,2,0
+Manhattan,10019,Afghan,1,0
+Manhattan,10021,Afghan,1,0
+Manhattan,10022,Afghan,1,0
+Manhattan,10001,African,2,0
+Manhattan,10002,African,1,0
+Manhattan,10017,African,1,0
+Manhattan,10019,African,1,0
+Manhattan,10022,African,1,0
+Manhattan,10026,African,5,0
+Manhattan,10027,African,2,0
+Manhattan,10029,African,1,0
+Manhattan,10030,African,1,0
+Manhattan,10035,African,3,0
+Manhattan,10036,African,2,0
+Manhattan,10112,African,1,0
+Manhattan,10001,American,177,0
+Manhattan,10002,American,104,0
+Manhattan,10003,American,133,0
+Manhattan,10004,American,36,0
+Manhattan,10005,American,19,0
+Manhattan,10006,American,19,0
+Manhattan,10007,American,41,0
+Manhattan,10009,American,83,0
+Manhattan,10010,American,60,0
+Manhattan,10011,American,96,0
+Manhattan,10012,American,86,0
+Manhattan,10013,American,81,0
+Manhattan,10014,American,101,0
+Manhattan,10016,American,70,0
+Manhattan,10017,American,86,0
+Manhattan,10018,American,105,0
+Manhattan,10019,American,199,0
+Manhattan,10020,American,14,0
+Manhattan,10021,American,31,0
+Manhattan,10022,American,120,0
+Manhattan,10023,American,44,0
+Manhattan,10024,American,30,0
+Manhattan,10025,American,32,0
+Manhattan,10026,American,10,0
+Manhattan,10027,American,28,0
+Manhattan,10028,American,33,0
+Manhattan,10029,American,23,0
+Manhattan,10030,American,2,0
+Manhattan,10031,American,23,0
+Manhattan,10032,American,12,0
+Manhattan,10033,American,14,0
+Manhattan,10034,American,14,0
+Manhattan,10035,American,9,0
+Manhattan,10036,American,221,0
+Manhattan,10037,American,5,0
+Manhattan,10038,American,35,0
+Manhattan,10040,American,7,0
+Manhattan,10041,American,2,0
+Manhattan,10044,American,3,0
+Manhattan,10048,American,1,0
+Manhattan,10055,American,2,0
+Manhattan,10065,American,38,0
+Manhattan,10075,American,14,0
+Manhattan,10103,American,1,0
+Manhattan,10105,American,2,0
+Manhattan,10106,American,2,0
+Manhattan,10111,American,3,0
+Manhattan,10112,American,5,0
+Manhattan,10115,American,1,0
+Manhattan,10118,American,2,0
+Manhattan,10119,American,7,0
+Manhattan,10121,American,44,0
+Manhattan,10123,American,1,0
+Manhattan,10128,American,24,0
+Manhattan,10151,American,1,0
+Manhattan,10152,American,1,0
+Manhattan,10153,American,2,0
+Manhattan,10154,American,1,0
+Manhattan,10155,American,1,0
+Manhattan,10165,American,1,0
+Manhattan,10167,American,3,0
+Manhattan,10169,American,2,0
+Manhattan,10171,American,1,0
+Manhattan,10172,American,2,0
+Manhattan,10177,American,1,0
+Manhattan,10178,American,4,0
+Manhattan,10271,American,3,0
+Manhattan,10280,American,2,0
+Manhattan,10281,American,10,0
+Manhattan,10282,American,7,0
+Manhattan,10002,Armenian,1,0
+Manhattan,10019,Armenian,2,0
+Manhattan,10022,Armenian,1,0
+Manhattan,10031,Armenian,1,0
+Manhattan,10032,Armenian,1,0
+Manhattan,10036,Armenian,1,0
+Manhattan,10001,Asian/Asian Fusion,9,0
+Manhattan,10002,Asian/Asian Fusion,16,0
+Manhattan,10003,Asian/Asian Fusion,23,0
+Manhattan,10004,Asian/Asian Fusion,4,0
+Manhattan,10007,Asian/Asian Fusion,1,0
+Manhattan,10009,Asian/Asian Fusion,12,0
+Manhattan,10011,Asian/Asian Fusion,8,0
+Manhattan,10012,Asian/Asian Fusion,4,0
+Manhattan,10013,Asian/Asian Fusion,16,0
+Manhattan,10014,Asian/Asian Fusion,3,0
+Manhattan,10016,Asian/Asian Fusion,4,0
+Manhattan,10017,Asian/Asian Fusion,10,0
+Manhattan,10018,Asian/Asian Fusion,6,0
+Manhattan,10019,Asian/Asian Fusion,7,0
+Manhattan,10020,Asian/Asian Fusion,5,0
+Manhattan,10021,Asian/Asian Fusion,3,0
+Manhattan,10022,Asian/Asian Fusion,8,0
+Manhattan,10023,Asian/Asian Fusion,4,0
+Manhattan,10024,Asian/Asian Fusion,4,0
+Manhattan,10025,Asian/Asian Fusion,2,0
+Manhattan,10027,Asian/Asian Fusion,5,0
+Manhattan,10028,Asian/Asian Fusion,2,0
+Manhattan,10029,Asian/Asian Fusion,2,0
+Manhattan,10031,Asian/Asian Fusion,4,0
+Manhattan,10032,Asian/Asian Fusion,2,0
+Manhattan,10033,Asian/Asian Fusion,1,0
+Manhattan,10036,Asian/Asian Fusion,5,0
+Manhattan,10038,Asian/Asian Fusion,5,0
+Manhattan,10065,Asian/Asian Fusion,3,0
+Manhattan,10075,Asian/Asian Fusion,3,0
+Manhattan,10105,Asian/Asian Fusion,1,0
+Manhattan,10128,Asian/Asian Fusion,4,0
+Manhattan,10158,Asian/Asian Fusion,1,0
+Manhattan,10169,Asian/Asian Fusion,1,0
+Manhattan,10282,Asian/Asian Fusion,1,0
+Manhattan,10001,Australian,3,0
+Manhattan,10002,Australian,5,0
+Manhattan,10003,Australian,2,0
+Manhattan,10011,Australian,2,0
+Manhattan,10012,Australian,4,0
+Manhattan,10013,Australian,2,0
+Manhattan,10014,Australian,2,0
+Manhattan,10016,Australian,4,0
+Manhattan,10017,Australian,1,0
+Manhattan,10018,Australian,1,0
+Manhattan,10022,Australian,1,0
+Manhattan,10024,Australian,1,0
+Manhattan,10036,Australian,3,0
+Manhattan,10038,Australian,1,0
+Manhattan,10128,Australian,1,0
+Manhattan,10282,Australian,2,0
+Manhattan,10001,Bagels/Pretzels,11,0
+Manhattan,10002,Bagels/Pretzels,2,0
+Manhattan,10003,Bagels/Pretzels,6,0
+Manhattan,10004,Bagels/Pretzels,3,0
+Manhattan,10006,Bagels/Pretzels,2,0
+Manhattan,10007,Bagels/Pretzels,4,0
+Manhattan,10009,Bagels/Pretzels,2,0
+Manhattan,10010,Bagels/Pretzels,4,0
+Manhattan,10011,Bagels/Pretzels,7,0
+Manhattan,10012,Bagels/Pretzels,5,0
+Manhattan,10013,Bagels/Pretzels,4,0
+Manhattan,10014,Bagels/Pretzels,3,0
+Manhattan,10016,Bagels/Pretzels,5,0
+Manhattan,10017,Bagels/Pretzels,8,0
+Manhattan,10018,Bagels/Pretzels,6,0
+Manhattan,10019,Bagels/Pretzels,3,0
+Manhattan,10021,Bagels/Pretzels,3,0
+Manhattan,10022,Bagels/Pretzels,3,0
+Manhattan,10023,Bagels/Pretzels,2,0
+Manhattan,10024,Bagels/Pretzels,3,0
+Manhattan,10025,Bagels/Pretzels,4,0
+Manhattan,10026,Bagels/Pretzels,1,0
+Manhattan,10028,Bagels/Pretzels,5,0
+Manhattan,10030,Bagels/Pretzels,1,0
+Manhattan,10032,Bagels/Pretzels,1,0
+Manhattan,10035,Bagels/Pretzels,1,0
+Manhattan,10036,Bagels/Pretzels,1,0
+Manhattan,10038,Bagels/Pretzels,4,0
+Manhattan,10065,Bagels/Pretzels,3,0
+Manhattan,10075,Bagels/Pretzels,2,0
+Manhattan,10112,Bagels/Pretzels,1,0
+Manhattan,10119,Bagels/Pretzels,1,0
+Manhattan,10128,Bagels/Pretzels,1,0
+Manhattan,10280,Bagels/Pretzels,1,0
+Manhattan,10001,Bakery Products/Desserts,13,0
+Manhattan,10002,Bakery Products/Desserts,27,0
+Manhattan,10003,Bakery Products/Desserts,15,0
+Manhattan,10004,Bakery Products/Desserts,1,0
+Manhattan,10006,Bakery Products/Desserts,2,0
+Manhattan,10007,Bakery Products/Desserts,3,0
+Manhattan,10009,Bakery Products/Desserts,6,0
+Manhattan,10010,Bakery Products/Desserts,8,0
+Manhattan,10011,Bakery Products/Desserts,11,0
+Manhattan,10012,Bakery Products/Desserts,16,0
+Manhattan,10013,Bakery Products/Desserts,20,0
+Manhattan,10014,Bakery Products/Desserts,16,0
+Manhattan,10016,Bakery Products/Desserts,7,0
+Manhattan,10017,Bakery Products/Desserts,9,0
+Manhattan,10018,Bakery Products/Desserts,16,0
+Manhattan,10019,Bakery Products/Desserts,12,0
+Manhattan,10020,Bakery Products/Desserts,5,0
+Manhattan,10021,Bakery Products/Desserts,4,0
+Manhattan,10022,Bakery Products/Desserts,8,0
+Manhattan,10023,Bakery Products/Desserts,14,0
+Manhattan,10024,Bakery Products/Desserts,10,0
+Manhattan,10025,Bakery Products/Desserts,5,0
+Manhattan,10026,Bakery Products/Desserts,2,0
+Manhattan,10027,Bakery Products/Desserts,1,0
+Manhattan,10028,Bakery Products/Desserts,10,0
+Manhattan,10029,Bakery Products/Desserts,10,0
+Manhattan,10031,Bakery Products/Desserts,2,0
+Manhattan,10032,Bakery Products/Desserts,8,0
+Manhattan,10033,Bakery Products/Desserts,7,0
+Manhattan,10034,Bakery Products/Desserts,4,0
+Manhattan,10035,Bakery Products/Desserts,2,0
+Manhattan,10036,Bakery Products/Desserts,13,0
+Manhattan,10038,Bakery Products/Desserts,4,0
+Manhattan,10040,Bakery Products/Desserts,4,0
+Manhattan,10065,Bakery Products/Desserts,1,0
+Manhattan,10075,Bakery Products/Desserts,4,0
+Manhattan,10110,Bakery Products/Desserts,1,0
+Manhattan,10112,Bakery Products/Desserts,2,0
+Manhattan,10119,Bakery Products/Desserts,1,0
+Manhattan,10121,Bakery Products/Desserts,2,0
+Manhattan,10128,Bakery Products/Desserts,6,0
+Manhattan,10280,Bakery Products/Desserts,2,0
+Manhattan,10007,Bangladeshi,1,0
+Manhattan,10009,Bangladeshi,1,0
+Manhattan,10011,Bangladeshi,1,0
+Manhattan,10016,Bangladeshi,2,0
+Manhattan,10010,Barbecue,1,0
+Manhattan,10011,Barbecue,1,0
+Manhattan,10013,Barbecue,1,0
+Manhattan,10014,Barbecue,1,0
+Manhattan,10016,Barbecue,2,0
+Manhattan,10018,Barbecue,1,0
+Manhattan,10021,Barbecue,1,0
+Manhattan,10027,Barbecue,2,0
+Manhattan,10032,Barbecue,1,0
+Manhattan,10036,Barbecue,2,0
+Manhattan,10121,Barbecue,2,0
+Manhattan,10280,Barbecue,1,0
+Manhattan,10002,Basque,1,0
+Manhattan,10001,Bottled Beverages,6,0
+Manhattan,10002,Bottled Beverages,1,0
+Manhattan,10003,Bottled Beverages,7,0
+Manhattan,10009,Bottled Beverages,3,0
+Manhattan,10011,Bottled Beverages,2,0
+Manhattan,10012,Bottled Beverages,3,0
+Manhattan,10014,Bottled Beverages,1,0
+Manhattan,10016,Bottled Beverages,2,0
+Manhattan,10019,Bottled Beverages,3,0
+Manhattan,10022,Bottled Beverages,1,0
+Manhattan,10024,Bottled Beverages,2,0
+Manhattan,10027,Bottled Beverages,1,0
+Manhattan,10036,Bottled Beverages,3,0
+Manhattan,10038,Bottled Beverages,1,0
+Manhattan,10121,Bottled Beverages,2,0
+Manhattan,10128,Bottled Beverages,1,0
+Manhattan,10004,Brazilian,1,0
+Manhattan,10005,Brazilian,1,0
+Manhattan,10013,Brazilian,1,0
+Manhattan,10014,Brazilian,2,0
+Manhattan,10017,Brazilian,1,0
+Manhattan,10018,Brazilian,1,0
+Manhattan,10019,Brazilian,3,0
+Manhattan,10029,Brazilian,1,0
+Manhattan,10036,Brazilian,1,0
+Manhattan,10080,Brazilian,1,0
+Manhattan,10007,Cajun,1,0
+Manhattan,10027,Cajun,1,0
+Manhattan,10001,Californian,2,0
+Manhattan,10002,Californian,1,0
+Manhattan,10004,Californian,1,0
+Manhattan,10005,Californian,1,0
+Manhattan,10009,Californian,1,0
+Manhattan,10011,Californian,2,0
+Manhattan,10012,Californian,2,0
+Manhattan,10013,Californian,2,0
+Manhattan,10016,Californian,1,0
+Manhattan,10019,Californian,1,0
+Manhattan,10021,Californian,1,0
+Manhattan,10024,Californian,1,0
+Manhattan,10028,Californian,1,0
+Manhattan,10036,Californian,1,0
+Manhattan,10001,Caribbean,1,0
+Manhattan,10002,Caribbean,4,0
+Manhattan,10003,Caribbean,1,0
+Manhattan,10009,Caribbean,2,0
+Manhattan,10011,Caribbean,2,0
+Manhattan,10012,Caribbean,1,0
+Manhattan,10013,Caribbean,1,0
+Manhattan,10016,Caribbean,2,0
+Manhattan,10017,Caribbean,1,0
+Manhattan,10019,Caribbean,3,0
+Manhattan,10022,Caribbean,2,0
+Manhattan,10027,Caribbean,3,0
+Manhattan,10029,Caribbean,4,0
+Manhattan,10030,Caribbean,4,0
+Manhattan,10031,Caribbean,4,0
+Manhattan,10032,Caribbean,1,0
+Manhattan,10035,Caribbean,5,0
+Manhattan,10036,Caribbean,1,0
+Manhattan,10037,Caribbean,2,0
+Manhattan,10038,Caribbean,1,0
+Manhattan,10039,Caribbean,1,0
+Manhattan,10040,Caribbean,1,0
+Manhattan,10075,Caribbean,1,0
+Manhattan,10176,Caribbean,1,0
+Manhattan,10001,Chicken,5,0
+Manhattan,10002,Chicken,9,0
+Manhattan,10003,Chicken,9,0
+Manhattan,10007,Chicken,1,0
+Manhattan,10009,Chicken,3,0
+Manhattan,10010,Chicken,4,0
+Manhattan,10011,Chicken,4,0
+Manhattan,10012,Chicken,1,0
+Manhattan,10013,Chicken,2,0
+Manhattan,10014,Chicken,2,0
+Manhattan,10016,Chicken,3,0
+Manhattan,10017,Chicken,1,0
+Manhattan,10018,Chicken,6,0
+Manhattan,10019,Chicken,5,0
+Manhattan,10021,Chicken,1,0
+Manhattan,10022,Chicken,3,0
+Manhattan,10023,Chicken,1,0
+Manhattan,10024,Chicken,3,0
+Manhattan,10025,Chicken,8,0
+Manhattan,10026,Chicken,5,0
+Manhattan,10027,Chicken,9,0
+Manhattan,10028,Chicken,4,0
+Manhattan,10029,Chicken,9,0
+Manhattan,10031,Chicken,4,0
+Manhattan,10032,Chicken,6,0
+Manhattan,10033,Chicken,4,0
+Manhattan,10034,Chicken,1,0
+Manhattan,10035,Chicken,6,0
+Manhattan,10036,Chicken,7,0
+Manhattan,10037,Chicken,2,0
+Manhattan,10038,Chicken,2,0
+Manhattan,10039,Chicken,4,0
+Manhattan,10040,Chicken,6,0
+Manhattan,10065,Chicken,1,0
+Manhattan,10119,Chicken,2,0
+Manhattan,10121,Chicken,6,0
+Manhattan,10128,Chicken,4,0
+Manhattan,10002,Chilean,1,0
+Manhattan,10001,Chinese,13,0
+Manhattan,10002,Chinese,69,0
+Manhattan,10003,Chinese,38,0
+Manhattan,10004,Chinese,3,0
+Manhattan,10005,Chinese,1,0
+Manhattan,10006,Chinese,2,0
+Manhattan,10007,Chinese,1,0
+Manhattan,10009,Chinese,11,0
+Manhattan,10010,Chinese,9,0
+Manhattan,10011,Chinese,14,0
+Manhattan,10012,Chinese,8,0
+Manhattan,10013,Chinese,87,0
+Manhattan,10014,Chinese,5,0
+Manhattan,10016,Chinese,20,0
+Manhattan,10017,Chinese,5,0
+Manhattan,10018,Chinese,26,0
+Manhattan,10019,Chinese,15,0
+Manhattan,10021,Chinese,6,0
+Manhattan,10022,Chinese,17,0
+Manhattan,10023,Chinese,5,0
+Manhattan,10024,Chinese,10,0
+Manhattan,10025,Chinese,24,0
+Manhattan,10026,Chinese,5,0
+Manhattan,10027,Chinese,12,0
+Manhattan,10028,Chinese,6,0
+Manhattan,10029,Chinese,22,0
+Manhattan,10030,Chinese,2,0
+Manhattan,10031,Chinese,8,0
+Manhattan,10032,Chinese,6,0
+Manhattan,10033,Chinese,8,0
+Manhattan,10034,Chinese,4,0
+Manhattan,10035,Chinese,7,0
+Manhattan,10036,Chinese,25,0
+Manhattan,10037,Chinese,4,0
+Manhattan,10038,Chinese,15,0
+Manhattan,10039,Chinese,1,0
+Manhattan,10040,Chinese,1,0
+Manhattan,10044,Chinese,2,0
+Manhattan,10065,Chinese,4,0
+Manhattan,10075,Chinese,5,0
+Manhattan,10128,Chinese,7,0
+Manhattan,10169,Chinese,2,0
+Manhattan,10280,Chinese,2,0
+Manhattan,10001,Chinese/Cuban,1,0
+Manhattan,10010,Chinese/Cuban,1,0
+Manhattan,10023,Chinese/Cuban,2,0
+Manhattan,10025,Chinese/Cuban,2,0
+Manhattan,10032,Chinese/Cuban,1,0
+Manhattan,10040,Chinese/Cuban,1,0
+Manhattan,10001,Chinese/Japanese,2,0
+Manhattan,10003,Chinese/Japanese,1,0
+Manhattan,10009,Chinese/Japanese,2,0
+Manhattan,10013,Chinese/Japanese,1,0
+Manhattan,10016,Chinese/Japanese,2,0
+Manhattan,10023,Chinese/Japanese,1,0
+Manhattan,10024,Chinese/Japanese,1,0
+Manhattan,10001,Coffee/Tea,81,0
+Manhattan,10002,Coffee/Tea,45,0
+Manhattan,10003,Coffee/Tea,77,0
+Manhattan,10004,Coffee/Tea,13,0
+Manhattan,10005,Coffee/Tea,9,0
+Manhattan,10006,Coffee/Tea,4,0
+Manhattan,10007,Coffee/Tea,20,0
+Manhattan,10009,Coffee/Tea,28,0
+Manhattan,10010,Coffee/Tea,26,0
+Manhattan,10011,Coffee/Tea,48,0
+Manhattan,10012,Coffee/Tea,73,0
+Manhattan,10013,Coffee/Tea,63,0
+Manhattan,10014,Coffee/Tea,41,0
+Manhattan,10016,Coffee/Tea,46,0
+Manhattan,10017,Coffee/Tea,43,0
+Manhattan,10018,Coffee/Tea,42,0
+Manhattan,10019,Coffee/Tea,53,0
+Manhattan,10020,Coffee/Tea,3,0
+Manhattan,10021,Coffee/Tea,24,0
+Manhattan,10022,Coffee/Tea,44,0
+Manhattan,10023,Coffee/Tea,24,0
+Manhattan,10024,Coffee/Tea,19,0
+Manhattan,10025,Coffee/Tea,26,0
+Manhattan,10026,Coffee/Tea,7,0
+Manhattan,10027,Coffee/Tea,20,0
+Manhattan,10028,Coffee/Tea,22,0
+Manhattan,10029,Coffee/Tea,13,0
+Manhattan,10030,Coffee/Tea,4,0
+Manhattan,10031,Coffee/Tea,9,0
+Manhattan,10032,Coffee/Tea,6,0
+Manhattan,10033,Coffee/Tea,8,0
+Manhattan,10034,Coffee/Tea,7,0
+Manhattan,10035,Coffee/Tea,5,0
+Manhattan,10036,Coffee/Tea,46,0
+Manhattan,10038,Coffee/Tea,22,0
+Manhattan,10039,Coffee/Tea,2,0
+Manhattan,10040,Coffee/Tea,3,0
+Manhattan,10044,Coffee/Tea,2,0
+Manhattan,10065,Coffee/Tea,17,0
+Manhattan,10069,Coffee/Tea,1,0
+Manhattan,10075,Coffee/Tea,6,0
+Manhattan,10103,Coffee/Tea,2,0
+Manhattan,10105,Coffee/Tea,1,0
+Manhattan,10107,Coffee/Tea,1,0
+Manhattan,10111,Coffee/Tea,1,0
+Manhattan,10112,Coffee/Tea,5,0
+Manhattan,10118,Coffee/Tea,1,0
+Manhattan,10119,Coffee/Tea,5,0
+Manhattan,10121,Coffee/Tea,1,0
+Manhattan,10128,Coffee/Tea,16,0
+Manhattan,10158,Coffee/Tea,1,0
+Manhattan,10165,Coffee/Tea,1,0
+Manhattan,10169,Coffee/Tea,2,0
+Manhattan,10171,Coffee/Tea,1,0
+Manhattan,10173,Coffee/Tea,1,0
+Manhattan,10174,Coffee/Tea,1,0
+Manhattan,10271,Coffee/Tea,1,0
+Manhattan,10280,Coffee/Tea,2,0
+Manhattan,10281,Coffee/Tea,4,0
+Manhattan,10282,Coffee/Tea,2,0
+Manhattan,10001,Continental,4,0
+Manhattan,10004,Continental,2,0
+Manhattan,10009,Continental,1,0
+Manhattan,10011,Continental,1,0
+Manhattan,10012,Continental,1,0
+Manhattan,10014,Continental,3,0
+Manhattan,10017,Continental,3,0
+Manhattan,10018,Continental,2,0
+Manhattan,10019,Continental,1,0
+Manhattan,10022,Continental,3,0
+Manhattan,10028,Continental,1,0
+Manhattan,10036,Continental,2,0
+Manhattan,10038,Continental,1,0
+Manhattan,10075,Continental,1,0
+Manhattan,10280,Continental,2,0
+Manhattan,10005,Creole,1,0
+Manhattan,10013,Creole/Cajun,1,0
+Manhattan,10021,Czech,1,0
+Manhattan,10001,Donuts,13,0
+Manhattan,10002,Donuts,4,0
+Manhattan,10003,Donuts,3,0
+Manhattan,10004,Donuts,7,0
+Manhattan,10005,Donuts,1,0
+Manhattan,10006,Donuts,2,0
+Manhattan,10007,Donuts,5,0
+Manhattan,10009,Donuts,1,0
+Manhattan,10011,Donuts,8,0
+Manhattan,10012,Donuts,2,0
+Manhattan,10013,Donuts,3,0
+Manhattan,10014,Donuts,3,0
+Manhattan,10016,Donuts,6,0
+Manhattan,10017,Donuts,8,0
+Manhattan,10018,Donuts,13,0
+Manhattan,10019,Donuts,6,0
+Manhattan,10020,Donuts,2,0
+Manhattan,10021,Donuts,2,0
+Manhattan,10022,Donuts,5,0
+Manhattan,10023,Donuts,1,0
+Manhattan,10024,Donuts,3,0
+Manhattan,10025,Donuts,4,0
+Manhattan,10026,Donuts,2,0
+Manhattan,10027,Donuts,3,0
+Manhattan,10028,Donuts,5,0
+Manhattan,10029,Donuts,7,0
+Manhattan,10030,Donuts,1,0
+Manhattan,10031,Donuts,3,0
+Manhattan,10032,Donuts,4,0
+Manhattan,10033,Donuts,4,0
+Manhattan,10034,Donuts,2,0
+Manhattan,10035,Donuts,4,0
+Manhattan,10036,Donuts,9,0
+Manhattan,10037,Donuts,1,0
+Manhattan,10038,Donuts,5,0
+Manhattan,10039,Donuts,1,0
+Manhattan,10040,Donuts,2,0
+Manhattan,10065,Donuts,2,0
+Manhattan,10075,Donuts,2,0
+Manhattan,10103,Donuts,1,0
+Manhattan,10112,Donuts,1,0
+Manhattan,10121,Donuts,3,0
+Manhattan,10128,Donuts,3,0
+Manhattan,10002,Eastern European,2,0
+Manhattan,10003,Eastern European,3,0
+Manhattan,10004,Eastern European,1,0
+Manhattan,10009,Eastern European,1,0
+Manhattan,10012,Eastern European,2,0
+Manhattan,10013,Eastern European,2,0
+Manhattan,10014,Eastern European,5,0
+Manhattan,10016,Eastern European,1,0
+Manhattan,10017,Eastern European,3,0
+Manhattan,10019,Eastern European,1,0
+Manhattan,10021,Eastern European,1,0
+Manhattan,10022,Eastern European,1,0
+Manhattan,10024,Eastern European,2,0
+Manhattan,10025,Eastern European,2,0
+Manhattan,10028,Eastern European,2,0
+Manhattan,10034,Eastern European,1,0
+Manhattan,10128,Eastern European,1,0
+Manhattan,10009,Egyptian,1,0
+Manhattan,10014,Egyptian,1,0
+Manhattan,10027,Egyptian,1,0
+Manhattan,10036,Egyptian,1,0
+Manhattan,10003,English,1,0
+Manhattan,10011,English,3,0
+Manhattan,10012,English,2,0
+Manhattan,10014,English,1,0
+Manhattan,10016,English,1,0
+Manhattan,10021,English,1,0
+Manhattan,10003,Ethiopian,1,0
+Manhattan,10009,Ethiopian,1,0
+Manhattan,10012,Ethiopian,2,0
+Manhattan,10025,Ethiopian,2,0
+Manhattan,10027,Ethiopian,2,0
+Manhattan,10031,Ethiopian,1,0
+Manhattan,10033,Ethiopian,1,0
+Manhattan,10002,Filipino,3,0
+Manhattan,10003,Filipino,1,0
+Manhattan,10009,Filipino,1,0
+Manhattan,10010,Filipino,1,0
+Manhattan,10011,Filipino,1,0
+Manhattan,10016,Filipino,1,0
+Manhattan,10017,Filipino,1,0
+Manhattan,10019,Filipino,1,0
+Manhattan,10020,Filipino,1,0
+Manhattan,10034,Filipino,1,0
+Manhattan,10001,French,3,0
+Manhattan,10002,French,9,0
+Manhattan,10003,French,11,0
+Manhattan,10005,French,1,0
+Manhattan,10007,French,4,0
+Manhattan,10009,French,3,0
+Manhattan,10010,French,5,0
+Manhattan,10011,French,14,0
+Manhattan,10012,French,9,0
+Manhattan,10013,French,16,0
+Manhattan,10014,French,21,0
+Manhattan,10016,French,5,0
+Manhattan,10017,French,5,0
+Manhattan,10018,French,3,0
+Manhattan,10019,French,13,0
+Manhattan,10021,French,8,0
+Manhattan,10022,French,22,0
+Manhattan,10023,French,10,0
+Manhattan,10024,French,11,0
+Manhattan,10025,French,3,0
+Manhattan,10026,French,1,0
+Manhattan,10027,French,1,0
+Manhattan,10028,French,7,0
+Manhattan,10029,French,3,0
+Manhattan,10030,French,1,0
+Manhattan,10036,French,9,0
+Manhattan,10037,French,1,0
+Manhattan,10038,French,4,0
+Manhattan,10065,French,10,0
+Manhattan,10069,French,1,0
+Manhattan,10075,French,3,0
+Manhattan,10105,French,1,0
+Manhattan,10111,French,1,0
+Manhattan,10128,French,6,0
+Manhattan,10153,French,1,0
+Manhattan,10169,French,1,0
+Manhattan,10280,French,2,0
+Manhattan,10001,Frozen Desserts,8,0
+Manhattan,10002,Frozen Desserts,8,0
+Manhattan,10003,Frozen Desserts,7,0
+Manhattan,10004,Frozen Desserts,2,0
+Manhattan,10007,Frozen Desserts,3,0
+Manhattan,10009,Frozen Desserts,2,0
+Manhattan,10010,Frozen Desserts,2,0
+Manhattan,10011,Frozen Desserts,12,0
+Manhattan,10012,Frozen Desserts,13,0
+Manhattan,10013,Frozen Desserts,6,0
+Manhattan,10014,Frozen Desserts,9,0
+Manhattan,10016,Frozen Desserts,5,0
+Manhattan,10017,Frozen Desserts,1,0
+Manhattan,10018,Frozen Desserts,1,0
+Manhattan,10019,Frozen Desserts,2,0
+Manhattan,10020,Frozen Desserts,1,0
+Manhattan,10021,Frozen Desserts,2,0
+Manhattan,10022,Frozen Desserts,5,0
+Manhattan,10023,Frozen Desserts,4,0
+Manhattan,10024,Frozen Desserts,7,0
+Manhattan,10025,Frozen Desserts,6,0
+Manhattan,10026,Frozen Desserts,1,0
+Manhattan,10028,Frozen Desserts,6,0
+Manhattan,10029,Frozen Desserts,2,0
+Manhattan,10031,Frozen Desserts,2,0
+Manhattan,10033,Frozen Desserts,2,0
+Manhattan,10036,Frozen Desserts,7,0
+Manhattan,10038,Frozen Desserts,2,0
+Manhattan,10040,Frozen Desserts,2,0
+Manhattan,10065,Frozen Desserts,2,0
+Manhattan,10075,Frozen Desserts,3,0
+Manhattan,10111,Frozen Desserts,1,0
+Manhattan,10112,Frozen Desserts,1,0
+Manhattan,10119,Frozen Desserts,1,0
+Manhattan,10128,Frozen Desserts,2,0
+Manhattan,10016,Fruits/Vegetables,1,0
+Manhattan,10022,Fruits/Vegetables,1,0
+Manhattan,10031,Fruits/Vegetables,1,0
+Manhattan,10001,Fusion,5,0
+Manhattan,10002,Fusion,3,0
+Manhattan,10003,Fusion,1,0
+Manhattan,10007,Fusion,1,0
+Manhattan,10010,Fusion,2,0
+Manhattan,10011,Fusion,5,0
+Manhattan,10012,Fusion,1,0
+Manhattan,10013,Fusion,1,0
+Manhattan,10014,Fusion,1,0
+Manhattan,10016,Fusion,2,0
+Manhattan,10018,Fusion,2,0
+Manhattan,10019,Fusion,1,0
+Manhattan,10022,Fusion,1,0
+Manhattan,10025,Fusion,2,0
+Manhattan,10027,Fusion,1,0
+Manhattan,10028,Fusion,1,0
+Manhattan,10029,Fusion,1,0
+Manhattan,10036,Fusion,3,0
+Manhattan,10039,Fusion,1,0
+Manhattan,10065,Fusion,1,0
+Manhattan,10001,German,1,0
+Manhattan,10002,German,2,0
+Manhattan,10003,German,1,0
+Manhattan,10006,German,1,0
+Manhattan,10010,German,1,0
+Manhattan,10011,German,1,0
+Manhattan,10017,German,1,0
+Manhattan,10018,German,1,0
+Manhattan,10024,German,1,0
+Manhattan,10028,German,2,0
+Manhattan,10036,German,1,0
+Manhattan,10001,Greek,2,0
+Manhattan,10002,Greek,3,0
+Manhattan,10003,Greek,3,0
+Manhattan,10004,Greek,1,0
+Manhattan,10005,Greek,2,0
+Manhattan,10009,Greek,1,0
+Manhattan,10011,Greek,3,0
+Manhattan,10012,Greek,1,0
+Manhattan,10013,Greek,4,0
+Manhattan,10014,Greek,2,0
+Manhattan,10016,Greek,3,0
+Manhattan,10017,Greek,3,0
+Manhattan,10018,Greek,2,0
+Manhattan,10019,Greek,4,0
+Manhattan,10020,Greek,1,0
+Manhattan,10021,Greek,1,0
+Manhattan,10022,Greek,6,0
+Manhattan,10023,Greek,1,0
+Manhattan,10024,Greek,2,0
+Manhattan,10025,Greek,2,0
+Manhattan,10028,Greek,1,0
+Manhattan,10035,Greek,2,0
+Manhattan,10036,Greek,5,0
+Manhattan,10065,Greek,1,0
+Manhattan,10128,Greek,3,0
+Manhattan,10282,Greek,1,0
+Manhattan,10001,Hamburgers,8,0
+Manhattan,10002,Hamburgers,9,0
+Manhattan,10003,Hamburgers,5,0
+Manhattan,10004,Hamburgers,1,0
+Manhattan,10006,Hamburgers,2,0
+Manhattan,10007,Hamburgers,2,0
+Manhattan,10009,Hamburgers,3,0
+Manhattan,10010,Hamburgers,4,0
+Manhattan,10011,Hamburgers,3,0
+Manhattan,10012,Hamburgers,5,0
+Manhattan,10013,Hamburgers,1,0
+Manhattan,10014,Hamburgers,5,0
+Manhattan,10016,Hamburgers,6,0
+Manhattan,10017,Hamburgers,5,0
+Manhattan,10018,Hamburgers,11,0
+Manhattan,10019,Hamburgers,4,0
+Manhattan,10021,Hamburgers,1,0
+Manhattan,10022,Hamburgers,4,0
+Manhattan,10023,Hamburgers,1,0
+Manhattan,10024,Hamburgers,4,0
+Manhattan,10025,Hamburgers,3,0
+Manhattan,10026,Hamburgers,2,0
+Manhattan,10027,Hamburgers,8,0
+Manhattan,10028,Hamburgers,3,0
+Manhattan,10029,Hamburgers,7,0
+Manhattan,10031,Hamburgers,3,0
+Manhattan,10032,Hamburgers,2,0
+Manhattan,10034,Hamburgers,2,0
+Manhattan,10035,Hamburgers,2,0
+Manhattan,10036,Hamburgers,11,0
+Manhattan,10038,Hamburgers,7,0
+Manhattan,10039,Hamburgers,3,0
+Manhattan,10040,Hamburgers,3,0
+Manhattan,10065,Hamburgers,2,0
+Manhattan,10075,Hamburgers,1,0
+Manhattan,10112,Hamburgers,1,0
+Manhattan,10121,Hamburgers,3,0
+Manhattan,10282,Hamburgers,1,0
+Manhattan,10013,Haute Cuisine,1,0
+Manhattan,10022,Haute Cuisine,1,0
+Manhattan,10001,Hawaiian,2,0
+Manhattan,10003,Hawaiian,2,0
+Manhattan,10004,Hawaiian,1,0
+Manhattan,10007,Hawaiian,1,0
+Manhattan,10013,Hawaiian,1,0
+Manhattan,10014,Hawaiian,1,0
+Manhattan,10016,Hawaiian,1,0
+Manhattan,10017,Hawaiian,1,0
+Manhattan,10018,Hawaiian,2,0
+Manhattan,10019,Hawaiian,3,0
+Manhattan,10025,Hawaiian,3,0
+Manhattan,10029,Hawaiian,2,0
+Manhattan,10036,Hawaiian,1,0
+Manhattan,10038,Hawaiian,1,0
+Manhattan,10168,Hawaiian,1,0
+Manhattan,10001,Hotdogs,1,0
+Manhattan,10009,Hotdogs,1,0
+Manhattan,10011,Hotdogs,1,0
+Manhattan,10017,Hotdogs,1,0
+Manhattan,10019,Hotdogs,1,0
+Manhattan,10023,Hotdogs,1,0
+Manhattan,10034,Hotdogs,2,0
+Manhattan,10119,Hotdogs,1,0
+Manhattan,10121,Hotdogs,4,0
+Manhattan,10001,Hotdogs/Pretzels,1,0
+Manhattan,10003,Hotdogs/Pretzels,1,0
+Manhattan,10004,Hotdogs/Pretzels,1,0
+Manhattan,10009,Hotdogs/Pretzels,1,0
+Manhattan,10019,Hotdogs/Pretzels,2,0
+Manhattan,10036,Hotdogs/Pretzels,1,0
+Manhattan,10038,Hotdogs/Pretzels,1,0
+Manhattan,10121,Hotdogs/Pretzels,9,0
+Manhattan,10001,Indian,6,0
+Manhattan,10002,Indian,3,0
+Manhattan,10003,Indian,16,0
+Manhattan,10004,Indian,2,0
+Manhattan,10006,Indian,1,0
+Manhattan,10007,Indian,2,0
+Manhattan,10009,Indian,5,0
+Manhattan,10010,Indian,5,0
+Manhattan,10011,Indian,4,0
+Manhattan,10012,Indian,7,0
+Manhattan,10013,Indian,4,0
+Manhattan,10014,Indian,2,0
+Manhattan,10016,Indian,19,0
+Manhattan,10017,Indian,5,0
+Manhattan,10018,Indian,5,0
+Manhattan,10019,Indian,9,0
+Manhattan,10020,Indian,2,0
+Manhattan,10021,Indian,2,0
+Manhattan,10022,Indian,8,0
+Manhattan,10023,Indian,2,0
+Manhattan,10024,Indian,4,0
+Manhattan,10025,Indian,8,0
+Manhattan,10027,Indian,1,0
+Manhattan,10028,Indian,2,0
+Manhattan,10029,Indian,2,0
+Manhattan,10031,Indian,2,0
+Manhattan,10035,Indian,1,0
+Manhattan,10036,Indian,8,0
+Manhattan,10038,Indian,3,0
+Manhattan,10040,Indian,1,0
+Manhattan,10065,Indian,2,0
+Manhattan,10075,Indian,1,0
+Manhattan,10112,Indian,1,0
+Manhattan,10128,Indian,2,0
+Manhattan,10169,Indian,1,0
+Manhattan,10012,Indonesian,2,0
+Manhattan,10016,Iranian,1,0
+Manhattan,10001,Irish,10,0
+Manhattan,10002,Irish,2,0
+Manhattan,10003,Irish,7,0
+Manhattan,10004,Irish,1,0
+Manhattan,10005,Irish,2,0
+Manhattan,10006,Irish,1,0
+Manhattan,10009,Irish,5,0
+Manhattan,10010,Irish,2,0
+Manhattan,10011,Irish,4,0
+Manhattan,10012,Irish,2,0
+Manhattan,10014,Irish,4,0
+Manhattan,10016,Irish,10,0
+Manhattan,10017,Irish,5,0
+Manhattan,10018,Irish,9,0
+Manhattan,10019,Irish,12,0
+Manhattan,10021,Irish,2,0
+Manhattan,10022,Irish,4,0
+Manhattan,10023,Irish,1,0
+Manhattan,10024,Irish,2,0
+Manhattan,10028,Irish,7,0
+Manhattan,10033,Irish,1,0
+Manhattan,10034,Irish,1,0
+Manhattan,10036,Irish,11,0
+Manhattan,10038,Irish,3,0
+Manhattan,10044,Irish,1,0
+Manhattan,10065,Irish,1,0
+Manhattan,10128,Irish,2,0
+Manhattan,10001,Italian,20,0
+Manhattan,10002,Italian,15,0
+Manhattan,10003,Italian,35,0
+Manhattan,10004,Italian,6,0
+Manhattan,10006,Italian,1,0
+Manhattan,10007,Italian,4,0
+Manhattan,10009,Italian,15,0
+Manhattan,10010,Italian,12,0
+Manhattan,10011,Italian,31,0
+Manhattan,10012,Italian,48,0
+Manhattan,10013,Italian,45,0
+Manhattan,10014,Italian,51,0
+Manhattan,10016,Italian,15,0
+Manhattan,10017,Italian,19,0
+Manhattan,10018,Italian,16,0
+Manhattan,10019,Italian,41,0
+Manhattan,10020,Italian,2,0
+Manhattan,10021,Italian,16,0
+Manhattan,10022,Italian,27,0
+Manhattan,10023,Italian,23,0
+Manhattan,10024,Italian,16,0
+Manhattan,10025,Italian,10,0
+Manhattan,10026,Italian,2,0
+Manhattan,10027,Italian,5,0
+Manhattan,10028,Italian,23,0
+Manhattan,10029,Italian,2,0
+Manhattan,10031,Italian,5,0
+Manhattan,10032,Italian,1,0
+Manhattan,10033,Italian,1,0
+Manhattan,10034,Italian,1,0
+Manhattan,10035,Italian,2,0
+Manhattan,10036,Italian,31,0
+Manhattan,10037,Italian,1,0
+Manhattan,10038,Italian,8,0
+Manhattan,10041,Italian,1,0
+Manhattan,10044,Italian,1,0
+Manhattan,10065,Italian,19,0
+Manhattan,10075,Italian,13,0
+Manhattan,10106,Italian,1,0
+Manhattan,10128,Italian,13,0
+Manhattan,10169,Italian,1,0
+Manhattan,10281,Italian,2,0
+Manhattan,11371,Italian,1,0
+Manhattan,10001,Japanese,26,0
+Manhattan,10002,Japanese,35,0
+Manhattan,10003,Japanese,56,0
+Manhattan,10004,Japanese,4,0
+Manhattan,10005,Japanese,2,0
+Manhattan,10007,Japanese,8,0
+Manhattan,10009,Japanese,22,0
+Manhattan,10010,Japanese,8,0
+Manhattan,10011,Japanese,30,0
+Manhattan,10012,Japanese,32,0
+Manhattan,10013,Japanese,24,0
+Manhattan,10014,Japanese,23,0
+Manhattan,10016,Japanese,29,0
+Manhattan,10017,Japanese,26,0
+Manhattan,10018,Japanese,21,0
+Manhattan,10019,Japanese,36,0
+Manhattan,10020,Japanese,3,0
+Manhattan,10021,Japanese,15,0
+Manhattan,10022,Japanese,30,0
+Manhattan,10023,Japanese,12,0
+Manhattan,10024,Japanese,11,0
+Manhattan,10025,Japanese,12,0
+Manhattan,10026,Japanese,1,0
+Manhattan,10027,Japanese,4,0
+Manhattan,10028,Japanese,10,0
+Manhattan,10029,Japanese,2,0
+Manhattan,10030,Japanese,1,0
+Manhattan,10031,Japanese,3,0
+Manhattan,10032,Japanese,1,0
+Manhattan,10033,Japanese,1,0
+Manhattan,10034,Japanese,1,0
+Manhattan,10035,Japanese,2,0
+Manhattan,10036,Japanese,22,0
+Manhattan,10038,Japanese,5,0
+Manhattan,10044,Japanese,1,0
+Manhattan,10065,Japanese,11,0
+Manhattan,10075,Japanese,8,0
+Manhattan,10112,Japanese,1,0
+Manhattan,10118,Japanese,1,0
+Manhattan,10119,Japanese,2,0
+Manhattan,10121,Japanese,1,0
+Manhattan,10128,Japanese,11,0
+Manhattan,10169,Japanese,1,0
+Manhattan,10002,Jewish/Kosher,4,0
+Manhattan,10003,Jewish/Kosher,2,0
+Manhattan,10004,Jewish/Kosher,3,0
+Manhattan,10005,Jewish/Kosher,1,0
+Manhattan,10006,Jewish/Kosher,2,0
+Manhattan,10011,Jewish/Kosher,1,0
+Manhattan,10013,Jewish/Kosher,1,0
+Manhattan,10016,Jewish/Kosher,8,0
+Manhattan,10017,Jewish/Kosher,5,0
+Manhattan,10018,Jewish/Kosher,5,0
+Manhattan,10021,Jewish/Kosher,1,0
+Manhattan,10022,Jewish/Kosher,5,0
+Manhattan,10023,Jewish/Kosher,3,0
+Manhattan,10024,Jewish/Kosher,8,0
+Manhattan,10025,Jewish/Kosher,5,0
+Manhattan,10027,Jewish/Kosher,1,0
+Manhattan,10028,Jewish/Kosher,6,0
+Manhattan,10033,Jewish/Kosher,6,0
+Manhattan,10036,Jewish/Kosher,6,0
+Manhattan,10075,Jewish/Kosher,1,0
+Manhattan,10128,Jewish/Kosher,4,0
+Manhattan,10280,Jewish/Kosher,1,0
+Manhattan,10001,"Juice, Smoothies, Fruit Salads",12,0
+Manhattan,10002,"Juice, Smoothies, Fruit Salads",7,0
+Manhattan,10003,"Juice, Smoothies, Fruit Salads",10,0
+Manhattan,10004,"Juice, Smoothies, Fruit Salads",3,0
+Manhattan,10005,"Juice, Smoothies, Fruit Salads",3,0
+Manhattan,10007,"Juice, Smoothies, Fruit Salads",5,0
+Manhattan,10009,"Juice, Smoothies, Fruit Salads",5,0
+Manhattan,10010,"Juice, Smoothies, Fruit Salads",3,0
+Manhattan,10011,"Juice, Smoothies, Fruit Salads",7,0
+Manhattan,10012,"Juice, Smoothies, Fruit Salads",10,0
+Manhattan,10013,"Juice, Smoothies, Fruit Salads",6,0
+Manhattan,10014,"Juice, Smoothies, Fruit Salads",7,0
+Manhattan,10016,"Juice, Smoothies, Fruit Salads",8,0
+Manhattan,10017,"Juice, Smoothies, Fruit Salads",4,0
+Manhattan,10018,"Juice, Smoothies, Fruit Salads",6,0
+Manhattan,10019,"Juice, Smoothies, Fruit Salads",12,0
+Manhattan,10021,"Juice, Smoothies, Fruit Salads",5,0
+Manhattan,10022,"Juice, Smoothies, Fruit Salads",4,0
+Manhattan,10023,"Juice, Smoothies, Fruit Salads",7,0
+Manhattan,10024,"Juice, Smoothies, Fruit Salads",7,0
+Manhattan,10025,"Juice, Smoothies, Fruit Salads",5,0
+Manhattan,10027,"Juice, Smoothies, Fruit Salads",4,0
+Manhattan,10028,"Juice, Smoothies, Fruit Salads",6,0
+Manhattan,10029,"Juice, Smoothies, Fruit Salads",9,0
+Manhattan,10031,"Juice, Smoothies, Fruit Salads",5,0
+Manhattan,10032,"Juice, Smoothies, Fruit Salads",4,0
+Manhattan,10033,"Juice, Smoothies, Fruit Salads",5,0
+Manhattan,10034,"Juice, Smoothies, Fruit Salads",2,0
+Manhattan,10035,"Juice, Smoothies, Fruit Salads",1,0
+Manhattan,10036,"Juice, Smoothies, Fruit Salads",7,0
+Manhattan,10038,"Juice, Smoothies, Fruit Salads",4,0
+Manhattan,10039,"Juice, Smoothies, Fruit Salads",1,0
+Manhattan,10040,"Juice, Smoothies, Fruit Salads",2,0
+Manhattan,10065,"Juice, Smoothies, Fruit Salads",6,0
+Manhattan,10075,"Juice, Smoothies, Fruit Salads",3,0
+Manhattan,10112,"Juice, Smoothies, Fruit Salads",1,0
+Manhattan,10118,"Juice, Smoothies, Fruit Salads",1,0
+Manhattan,10119,"Juice, Smoothies, Fruit Salads",2,0
+Manhattan,10128,"Juice, Smoothies, Fruit Salads",2,0
+Manhattan,10168,"Juice, Smoothies, Fruit Salads",1,0
+Manhattan,10169,"Juice, Smoothies, Fruit Salads",1,0
+Manhattan,10172,"Juice, Smoothies, Fruit Salads",1,0
+Manhattan,10280,"Juice, Smoothies, Fruit Salads",1,0
+Manhattan,10001,Korean,65,0
+Manhattan,10002,Korean,12,0
+Manhattan,10003,Korean,8,0
+Manhattan,10004,Korean,1,0
+Manhattan,10007,Korean,1,0
+Manhattan,10009,Korean,4,0
+Manhattan,10010,Korean,7,0
+Manhattan,10011,Korean,6,0
+Manhattan,10012,Korean,3,0
+Manhattan,10013,Korean,6,0
+Manhattan,10014,Korean,3,0
+Manhattan,10016,Korean,28,0
+Manhattan,10017,Korean,1,0
+Manhattan,10018,Korean,9,0
+Manhattan,10019,Korean,6,0
+Manhattan,10020,Korean,2,0
+Manhattan,10022,Korean,6,0
+Manhattan,10029,Korean,1,0
+Manhattan,10032,Korean,1,0
+Manhattan,10036,Korean,7,0
+Manhattan,10038,Korean,2,0
+Manhattan,10065,Korean,1,0
+Manhattan,10001,Latin American,5,0
+Manhattan,10002,Latin American,11,0
+Manhattan,10003,Latin American,7,0
+Manhattan,10004,Latin American,2,0
+Manhattan,10007,Latin American,1,0
+Manhattan,10009,Latin American,6,0
+Manhattan,10010,Latin American,5,0
+Manhattan,10011,Latin American,3,0
+Manhattan,10012,Latin American,3,0
+Manhattan,10013,Latin American,2,0
+Manhattan,10014,Latin American,2,0
+Manhattan,10016,Latin American,1,0
+Manhattan,10017,Latin American,1,0
+Manhattan,10018,Latin American,7,0
+Manhattan,10019,Latin American,6,0
+Manhattan,10021,Latin American,2,0
+Manhattan,10022,Latin American,2,0
+Manhattan,10023,Latin American,2,0
+Manhattan,10024,Latin American,3,0
+Manhattan,10025,Latin American,5,0
+Manhattan,10026,Latin American,2,0
+Manhattan,10027,Latin American,2,0
+Manhattan,10028,Latin American,1,0
+Manhattan,10029,Latin American,10,0
+Manhattan,10031,Latin American,11,0
+Manhattan,10032,Latin American,17,0
+Manhattan,10033,Latin American,22,0
+Manhattan,10034,Latin American,29,0
+Manhattan,10035,Latin American,6,0
+Manhattan,10036,Latin American,8,0
+Manhattan,10037,Latin American,1,0
+Manhattan,10038,Latin American,1,0
+Manhattan,10040,Latin American,18,0
+Manhattan,10065,Latin American,1,0
+Manhattan,10003,Lebanese,1,0
+Manhattan,10022,Lebanese,1,0
+Manhattan,10065,Lebanese,1,0
+Manhattan,10280,Lebanese,1,0
+Manhattan,10001,Mediterranean,12,0
+Manhattan,10002,Mediterranean,2,0
+Manhattan,10003,Mediterranean,12,0
+Manhattan,10005,Mediterranean,3,0
+Manhattan,10006,Mediterranean,1,0
+Manhattan,10007,Mediterranean,2,0
+Manhattan,10009,Mediterranean,5,0
+Manhattan,10010,Mediterranean,8,0
+Manhattan,10011,Mediterranean,8,0
+Manhattan,10012,Mediterranean,13,0
+Manhattan,10013,Mediterranean,5,0
+Manhattan,10014,Mediterranean,11,0
+Manhattan,10016,Mediterranean,10,0
+Manhattan,10017,Mediterranean,4,0
+Manhattan,10018,Mediterranean,4,0
+Manhattan,10019,Mediterranean,15,0
+Manhattan,10020,Mediterranean,1,0
+Manhattan,10021,Mediterranean,4,0
+Manhattan,10022,Mediterranean,5,0
+Manhattan,10023,Mediterranean,7,0
+Manhattan,10024,Mediterranean,7,0
+Manhattan,10025,Mediterranean,6,0
+Manhattan,10026,Mediterranean,1,0
+Manhattan,10028,Mediterranean,3,0
+Manhattan,10036,Mediterranean,7,0
+Manhattan,10038,Mediterranean,5,0
+Manhattan,10044,Mediterranean,1,0
+Manhattan,10065,Mediterranean,4,0
+Manhattan,10075,Mediterranean,4,0
+Manhattan,10112,Mediterranean,1,0
+Manhattan,10154,Mediterranean,2,0
+Manhattan,10280,Mediterranean,1,0
+Manhattan,10001,Mexican,5,0
+Manhattan,10002,Mexican,15,0
+Manhattan,10003,Mexican,18,0
+Manhattan,10004,Mexican,4,0
+Manhattan,10005,Mexican,1,0
+Manhattan,10006,Mexican,1,0
+Manhattan,10009,Mexican,8,0
+Manhattan,10010,Mexican,7,0
+Manhattan,10011,Mexican,11,0
+Manhattan,10012,Mexican,7,0
+Manhattan,10013,Mexican,6,0
+Manhattan,10014,Mexican,10,0
+Manhattan,10016,Mexican,5,0
+Manhattan,10017,Mexican,5,0
+Manhattan,10018,Mexican,9,0
+Manhattan,10019,Mexican,17,0
+Manhattan,10020,Mexican,1,0
+Manhattan,10021,Mexican,3,0
+Manhattan,10022,Mexican,6,0
+Manhattan,10023,Mexican,4,0
+Manhattan,10024,Mexican,4,0
+Manhattan,10025,Mexican,11,0
+Manhattan,10026,Mexican,3,0
+Manhattan,10027,Mexican,6,0
+Manhattan,10028,Mexican,4,0
+Manhattan,10029,Mexican,28,0
+Manhattan,10030,Mexican,1,0
+Manhattan,10031,Mexican,10,0
+Manhattan,10032,Mexican,11,0
+Manhattan,10033,Mexican,6,0
+Manhattan,10034,Mexican,12,0
+Manhattan,10035,Mexican,8,0
+Manhattan,10036,Mexican,16,0
+Manhattan,10038,Mexican,4,0
+Manhattan,10039,Mexican,2,0
+Manhattan,10040,Mexican,2,0
+Manhattan,10044,Mexican,2,0
+Manhattan,10065,Mexican,2,0
+Manhattan,10075,Mexican,4,0
+Manhattan,10112,Mexican,1,0
+Manhattan,10118,Mexican,1,0
+Manhattan,10119,Mexican,2,0
+Manhattan,10128,Mexican,7,0
+Manhattan,10169,Mexican,1,0
+Manhattan,10280,Mexican,1,0
+Manhattan,10282,Mexican,1,0
+Manhattan,10001,Middle Eastern,5,0
+Manhattan,10002,Middle Eastern,5,0
+Manhattan,10003,Middle Eastern,6,0
+Manhattan,10004,Middle Eastern,1,0
+Manhattan,10005,Middle Eastern,1,0
+Manhattan,10009,Middle Eastern,8,0
+Manhattan,10010,Middle Eastern,3,0
+Manhattan,10011,Middle Eastern,4,0
+Manhattan,10012,Middle Eastern,7,0
+Manhattan,10013,Middle Eastern,1,0
+Manhattan,10014,Middle Eastern,5,0
+Manhattan,10016,Middle Eastern,1,0
+Manhattan,10017,Middle Eastern,3,0
+Manhattan,10018,Middle Eastern,4,0
+Manhattan,10019,Middle Eastern,3,0
+Manhattan,10021,Middle Eastern,1,0
+Manhattan,10022,Middle Eastern,8,0
+Manhattan,10023,Middle Eastern,1,0
+Manhattan,10024,Middle Eastern,2,0
+Manhattan,10025,Middle Eastern,5,0
+Manhattan,10027,Middle Eastern,1,0
+Manhattan,10031,Middle Eastern,1,0
+Manhattan,10034,Middle Eastern,1,0
+Manhattan,10036,Middle Eastern,1,0
+Manhattan,10065,Middle Eastern,1,0
+Manhattan,10112,Middle Eastern,1,0
+Manhattan,10128,Middle Eastern,2,0
+Manhattan,10002,Moroccan,1,0
+Manhattan,10009,Moroccan,1,0
+Manhattan,10011,Moroccan,1,0
+Manhattan,10012,Moroccan,1,0
+Manhattan,10013,Moroccan,2,0
+Manhattan,10014,Moroccan,1,0
+Manhattan,10001,New American,1,0
+Manhattan,10002,New American,22,0
+Manhattan,10003,New American,10,0
+Manhattan,10005,New American,1,0
+Manhattan,10006,New American,1,0
+Manhattan,10007,New American,3,0
+Manhattan,10009,New American,4,0
+Manhattan,10010,New American,7,0
+Manhattan,10011,New American,10,0
+Manhattan,10012,New American,7,0
+Manhattan,10013,New American,10,0
+Manhattan,10014,New American,15,0
+Manhattan,10016,New American,8,0
+Manhattan,10017,New American,2,0
+Manhattan,10018,New American,3,0
+Manhattan,10019,New American,9,0
+Manhattan,10022,New American,1,0
+Manhattan,10023,New American,2,0
+Manhattan,10024,New American,3,0
+Manhattan,10025,New American,1,0
+Manhattan,10027,New American,1,0
+Manhattan,10028,New American,2,0
+Manhattan,10036,New American,3,0
+Manhattan,10038,New American,3,0
+Manhattan,10044,New American,1,0
+Manhattan,10065,New American,1,0
+Manhattan,10075,New American,1,0
+Manhattan,10112,New American,1,0
+Manhattan,10002,New French,1,0
+Manhattan,10003,New French,1,0
+Manhattan,10011,New French,1,0
+Manhattan,10012,New French,4,0
+Manhattan,10013,New French,1,0
+Manhattan,10014,New French,4,0
+Manhattan,10022,New French,1,0
+Manhattan,10023,New French,1,0
+Manhattan,10038,New French,2,0
+Manhattan,10003,Not Listed/Not Applicable,2,0
+Manhattan,10016,Not Listed/Not Applicable,1,0
+Manhattan,10003,Nuts/Confectionary,3,0
+Manhattan,10013,Nuts/Confectionary,1,0
+Manhattan,10036,Nuts/Confectionary,5,0
+Manhattan,10001,Other,21,0
+Manhattan,10002,Other,8,0
+Manhattan,10003,Other,18,0
+Manhattan,10004,Other,3,0
+Manhattan,10005,Other,1,0
+Manhattan,10007,Other,3,0
+Manhattan,10009,Other,3,0
+Manhattan,10010,Other,3,0
+Manhattan,10011,Other,14,0
+Manhattan,10012,Other,4,0
+Manhattan,10013,Other,8,0
+Manhattan,10014,Other,6,0
+Manhattan,10016,Other,6,0
+Manhattan,10017,Other,4,0
+Manhattan,10018,Other,20,0
+Manhattan,10019,Other,9,0
+Manhattan,10020,Other,1,0
+Manhattan,10021,Other,1,0
+Manhattan,10022,Other,7,0
+Manhattan,10023,Other,5,0
+Manhattan,10024,Other,2,0
+Manhattan,10025,Other,3,0
+Manhattan,10026,Other,1,0
+Manhattan,10027,Other,9,0
+Manhattan,10028,Other,2,0
+Manhattan,10029,Other,4,0
+Manhattan,10031,Other,3,0
+Manhattan,10032,Other,3,0
+Manhattan,10033,Other,3,0
+Manhattan,10034,Other,1,0
+Manhattan,10035,Other,4,0
+Manhattan,10036,Other,16,0
+Manhattan,10038,Other,1,0
+Manhattan,10040,Other,3,0
+Manhattan,10065,Other,1,0
+Manhattan,10075,Other,1,0
+Manhattan,10112,Other,1,0
+Manhattan,10121,Other,1,0
+Manhattan,10128,Other,3,0
+Manhattan,10153,Other,1,0
+Manhattan,10167,Other,2,0
+Manhattan,10169,Other,5,0
+Manhattan,11371,Other,1,0
+Manhattan,10009,Pakistani,1,0
+Manhattan,10016,Pakistani,1,0
+Manhattan,10018,Pakistani,1,0
+Manhattan,10022,Pakistani,1,0
+Manhattan,10025,Pakistani,1,0
+Manhattan,10026,Pakistani,1,0
+Manhattan,10029,Pakistani,1,0
+Manhattan,10280,Pakistani,1,0
+Manhattan,10001,Pancakes/Waffles,1,0
+Manhattan,10003,Pancakes/Waffles,2,0
+Manhattan,10033,Pancakes/Waffles,1,0
+Manhattan,10034,Pancakes/Waffles,2,0
+Manhattan,10035,Pancakes/Waffles,1,0
+Manhattan,10001,Peruvian,1,0
+Manhattan,10002,Peruvian,1,0
+Manhattan,10003,Peruvian,1,0
+Manhattan,10004,Peruvian,1,0
+Manhattan,10007,Peruvian,1,0
+Manhattan,10011,Peruvian,1,0
+Manhattan,10013,Peruvian,1,0
+Manhattan,10014,Peruvian,1,0
+Manhattan,10016,Peruvian,2,0
+Manhattan,10017,Peruvian,2,0
+Manhattan,10019,Peruvian,2,0
+Manhattan,10021,Peruvian,1,0
+Manhattan,10025,Peruvian,1,0
+Manhattan,10027,Peruvian,2,0
+Manhattan,10029,Peruvian,1,0
+Manhattan,10031,Peruvian,1,0
+Manhattan,10036,Peruvian,2,0
+Manhattan,10128,Peruvian,1,0
+Manhattan,10001,Pizza,15,0
+Manhattan,10002,Pizza,27,0
+Manhattan,10003,Pizza,23,0
+Manhattan,10004,Pizza,6,0
+Manhattan,10005,Pizza,2,0
+Manhattan,10006,Pizza,1,0
+Manhattan,10007,Pizza,6,0
+Manhattan,10009,Pizza,17,0
+Manhattan,10010,Pizza,15,0
+Manhattan,10011,Pizza,21,0
+Manhattan,10012,Pizza,15,0
+Manhattan,10013,Pizza,13,0
+Manhattan,10014,Pizza,25,0
+Manhattan,10016,Pizza,20,0
+Manhattan,10017,Pizza,9,0
+Manhattan,10018,Pizza,25,0
+Manhattan,10019,Pizza,31,0
+Manhattan,10021,Pizza,5,0
+Manhattan,10022,Pizza,14,0
+Manhattan,10023,Pizza,12,0
+Manhattan,10024,Pizza,10,0
+Manhattan,10025,Pizza,19,0
+Manhattan,10027,Pizza,8,0
+Manhattan,10028,Pizza,9,0
+Manhattan,10029,Pizza,22,0
+Manhattan,10030,Pizza,1,0
+Manhattan,10031,Pizza,6,0
+Manhattan,10032,Pizza,8,0
+Manhattan,10033,Pizza,9,0
+Manhattan,10034,Pizza,5,0
+Manhattan,10035,Pizza,3,0
+Manhattan,10036,Pizza,22,0
+Manhattan,10037,Pizza,1,0
+Manhattan,10038,Pizza,8,0
+Manhattan,10039,Pizza,2,0
+Manhattan,10040,Pizza,5,0
+Manhattan,10065,Pizza,10,0
+Manhattan,10075,Pizza,4,0
+Manhattan,10119,Pizza,2,0
+Manhattan,10121,Pizza,3,0
+Manhattan,10123,Pizza,1,0
+Manhattan,10128,Pizza,12,0
+Manhattan,10003,Polish,2,0
+Manhattan,10036,Polish,1,0
+Manhattan,10009,Polynesian,1,0
+Manhattan,10002,Portuguese,1,0
+Manhattan,10003,Portuguese,1,0
+Manhattan,10009,Portuguese,1,0
+Manhattan,10011,Portuguese,1,0
+Manhattan,10013,Portuguese,1,0
+Manhattan,10014,Portuguese,2,0
+Manhattan,10018,Portuguese,1,0
+Manhattan,10003,Russian,1,0
+Manhattan,10005,Russian,1,0
+Manhattan,10009,Russian,1,0
+Manhattan,10014,Russian,1,0
+Manhattan,10019,Russian,3,0
+Manhattan,10038,Russian,1,0
+Manhattan,10001,Salads,7,0
+Manhattan,10002,Salads,2,0
+Manhattan,10003,Salads,8,0
+Manhattan,10004,Salads,2,0
+Manhattan,10005,Salads,1,0
+Manhattan,10006,Salads,1,0
+Manhattan,10007,Salads,3,0
+Manhattan,10010,Salads,3,0
+Manhattan,10011,Salads,1,0
+Manhattan,10012,Salads,3,0
+Manhattan,10013,Salads,3,0
+Manhattan,10014,Salads,2,0
+Manhattan,10016,Salads,6,0
+Manhattan,10017,Salads,7,0
+Manhattan,10018,Salads,6,0
+Manhattan,10019,Salads,7,0
+Manhattan,10021,Salads,3,0
+Manhattan,10022,Salads,6,0
+Manhattan,10023,Salads,2,0
+Manhattan,10024,Salads,1,0
+Manhattan,10025,Salads,4,0
+Manhattan,10027,Salads,1,0
+Manhattan,10028,Salads,2,0
+Manhattan,10036,Salads,4,0
+Manhattan,10038,Salads,2,0
+Manhattan,10065,Salads,2,0
+Manhattan,10075,Salads,1,0
+Manhattan,10112,Salads,1,0
+Manhattan,10118,Salads,1,0
+Manhattan,10119,Salads,1,0
+Manhattan,10169,Salads,1,0
+Manhattan,10279,Salads,1,0
+Manhattan,10280,Salads,1,0
+Manhattan,10001,Sandwiches,15,0
+Manhattan,10002,Sandwiches,8,0
+Manhattan,10003,Sandwiches,10,0
+Manhattan,10004,Sandwiches,3,0
+Manhattan,10005,Sandwiches,1,0
+Manhattan,10007,Sandwiches,6,0
+Manhattan,10009,Sandwiches,7,0
+Manhattan,10010,Sandwiches,5,0
+Manhattan,10011,Sandwiches,6,0
+Manhattan,10012,Sandwiches,7,0
+Manhattan,10013,Sandwiches,8,0
+Manhattan,10014,Sandwiches,7,0
+Manhattan,10016,Sandwiches,5,0
+Manhattan,10017,Sandwiches,10,0
+Manhattan,10018,Sandwiches,7,0
+Manhattan,10019,Sandwiches,13,0
+Manhattan,10020,Sandwiches,1,0
+Manhattan,10021,Sandwiches,4,0
+Manhattan,10022,Sandwiches,9,0
+Manhattan,10023,Sandwiches,2,0
+Manhattan,10024,Sandwiches,4,0
+Manhattan,10025,Sandwiches,2,0
+Manhattan,10027,Sandwiches,4,0
+Manhattan,10028,Sandwiches,5,0
+Manhattan,10029,Sandwiches,5,0
+Manhattan,10031,Sandwiches,2,0
+Manhattan,10032,Sandwiches,2,0
+Manhattan,10033,Sandwiches,2,0
+Manhattan,10034,Sandwiches,2,0
+Manhattan,10035,Sandwiches,1,0
+Manhattan,10036,Sandwiches,15,0
+Manhattan,10037,Sandwiches,1,0
+Manhattan,10038,Sandwiches,3,0
+Manhattan,10040,Sandwiches,2,0
+Manhattan,10044,Sandwiches,1,0
+Manhattan,10065,Sandwiches,5,0
+Manhattan,10112,Sandwiches,1,0
+Manhattan,10121,Sandwiches,1,0
+Manhattan,10128,Sandwiches,2,0
+Manhattan,10280,Sandwiches,1,0
+Manhattan,10000,Sandwiches/Salads/Mixed Buffet,1,0
+Manhattan,10001,Sandwiches/Salads/Mixed Buffet,6,0
+Manhattan,10003,Sandwiches/Salads/Mixed Buffet,6,0
+Manhattan,10004,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10007,Sandwiches/Salads/Mixed Buffet,5,0
+Manhattan,10009,Sandwiches/Salads/Mixed Buffet,1,0
+Manhattan,10010,Sandwiches/Salads/Mixed Buffet,3,0
+Manhattan,10012,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10013,Sandwiches/Salads/Mixed Buffet,1,0
+Manhattan,10017,Sandwiches/Salads/Mixed Buffet,8,0
+Manhattan,10018,Sandwiches/Salads/Mixed Buffet,14,0
+Manhattan,10019,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10021,Sandwiches/Salads/Mixed Buffet,3,0
+Manhattan,10022,Sandwiches/Salads/Mixed Buffet,5,0
+Manhattan,10023,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10024,Sandwiches/Salads/Mixed Buffet,1,0
+Manhattan,10025,Sandwiches/Salads/Mixed Buffet,3,0
+Manhattan,10027,Sandwiches/Salads/Mixed Buffet,1,0
+Manhattan,10028,Sandwiches/Salads/Mixed Buffet,1,0
+Manhattan,10031,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10032,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10033,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10036,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10040,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10065,Sandwiches/Salads/Mixed Buffet,3,0
+Manhattan,10075,Sandwiches/Salads/Mixed Buffet,1,0
+Manhattan,10112,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10121,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10128,Sandwiches/Salads/Mixed Buffet,2,0
+Manhattan,10003,Scandinavian,1,0
+Manhattan,10009,Scandinavian,1,0
+Manhattan,10016,Scandinavian,1,0
+Manhattan,10022,Scandinavian,1,0
+Manhattan,10001,Seafood,6,0
+Manhattan,10002,Seafood,3,0
+Manhattan,10003,Seafood,8,0
+Manhattan,10004,Seafood,3,0
+Manhattan,10009,Seafood,1,0
+Manhattan,10010,Seafood,2,0
+Manhattan,10011,Seafood,7,0
+Manhattan,10012,Seafood,6,0
+Manhattan,10013,Seafood,4,0
+Manhattan,10014,Seafood,7,0
+Manhattan,10016,Seafood,1,0
+Manhattan,10017,Seafood,5,0
+Manhattan,10018,Seafood,1,0
+Manhattan,10019,Seafood,3,0
+Manhattan,10021,Seafood,1,0
+Manhattan,10022,Seafood,3,0
+Manhattan,10023,Seafood,3,0
+Manhattan,10024,Seafood,1,0
+Manhattan,10026,Seafood,1,0
+Manhattan,10027,Seafood,5,0
+Manhattan,10028,Seafood,1,0
+Manhattan,10029,Seafood,1,0
+Manhattan,10030,Seafood,1,0
+Manhattan,10031,Seafood,2,0
+Manhattan,10032,Seafood,1,0
+Manhattan,10033,Seafood,1,0
+Manhattan,10034,Seafood,3,0
+Manhattan,10035,Seafood,1,0
+Manhattan,10036,Seafood,4,0
+Manhattan,10037,Seafood,2,0
+Manhattan,10038,Seafood,3,0
+Manhattan,10040,Seafood,1,0
+Manhattan,10075,Seafood,1,0
+Manhattan,10112,Seafood,1,0
+Manhattan,10121,Seafood,1,0
+Manhattan,10128,Seafood,2,0
+Manhattan,10281,Seafood,1,0
+Manhattan,10009,Soul Food,1,0
+Manhattan,10011,Soul Food,1,0
+Manhattan,10016,Soul Food,1,0
+Manhattan,10025,Soul Food,1,0
+Manhattan,10026,Soul Food,2,0
+Manhattan,10027,Soul Food,4,0
+Manhattan,10029,Soul Food,1,0
+Manhattan,10030,Soul Food,1,0
+Manhattan,10031,Soul Food,1,0
+Manhattan,10035,Soul Food,1,0
+Manhattan,10037,Soul Food,2,0
+Manhattan,10039,Soul Food,1,0
+Manhattan,10003,Soups,1,0
+Manhattan,10004,Soups,1,0
+Manhattan,10010,Soups,1,0
+Manhattan,10012,Soups,1,0
+Manhattan,10018,Soups,1,0
+Manhattan,10019,Soups,1,0
+Manhattan,10022,Soups,1,0
+Manhattan,10024,Soups,1,0
+Manhattan,10028,Soups,1,0
+Manhattan,10036,Soups,1,0
+Manhattan,10280,Soups,1,0
+Manhattan,10001,Soups/Salads/Sandwiches,4,0
+Manhattan,10006,Soups/Salads/Sandwiches,1,0
+Manhattan,10007,Soups/Salads/Sandwiches,1,0
+Manhattan,10010,Soups/Salads/Sandwiches,1,0
+Manhattan,10011,Soups/Salads/Sandwiches,1,0
+Manhattan,10012,Soups/Salads/Sandwiches,2,0
+Manhattan,10014,Soups/Salads/Sandwiches,1,0
+Manhattan,10016,Soups/Salads/Sandwiches,4,0
+Manhattan,10017,Soups/Salads/Sandwiches,4,0
+Manhattan,10018,Soups/Salads/Sandwiches,1,0
+Manhattan,10019,Soups/Salads/Sandwiches,4,0
+Manhattan,10021,Soups/Salads/Sandwiches,2,0
+Manhattan,10022,Soups/Salads/Sandwiches,2,0
+Manhattan,10023,Soups/Salads/Sandwiches,1,0
+Manhattan,10027,Soups/Salads/Sandwiches,1,0
+Manhattan,10031,Soups/Salads/Sandwiches,1,0
+Manhattan,10036,Soups/Salads/Sandwiches,2,0
+Manhattan,10038,Soups/Salads/Sandwiches,1,0
+Manhattan,10065,Soups/Salads/Sandwiches,2,0
+Manhattan,10280,Soups/Salads/Sandwiches,1,0
+Manhattan,10001,Southeast Asian,2,0
+Manhattan,10002,Southeast Asian,7,0
+Manhattan,10003,Southeast Asian,7,0
+Manhattan,10007,Southeast Asian,1,0
+Manhattan,10009,Southeast Asian,1,0
+Manhattan,10011,Southeast Asian,2,0
+Manhattan,10012,Southeast Asian,3,0
+Manhattan,10013,Southeast Asian,8,0
+Manhattan,10016,Southeast Asian,1,0
+Manhattan,10019,Southeast Asian,1,0
+Manhattan,10022,Southeast Asian,1,0
+Manhattan,10024,Southeast Asian,1,0
+Manhattan,10025,Southeast Asian,2,0
+Manhattan,10027,Southeast Asian,1,0
+Manhattan,10028,Southeast Asian,1,0
+Manhattan,10036,Southeast Asian,1,0
+Manhattan,10038,Southeast Asian,1,0
+Manhattan,10065,Southeast Asian,1,0
+Manhattan,10128,Southeast Asian,2,0
+Manhattan,10010,Southwestern,1,0
+Manhattan,10023,Southwestern,1,0
+Manhattan,10038,Southwestern,1,0
+Manhattan,10001,Spanish,10,0
+Manhattan,10002,Spanish,4,0
+Manhattan,10003,Spanish,3,0
+Manhattan,10009,Spanish,4,0
+Manhattan,10010,Spanish,2,0
+Manhattan,10011,Spanish,8,0
+Manhattan,10012,Spanish,3,0
+Manhattan,10013,Spanish,1,0
+Manhattan,10014,Spanish,3,0
+Manhattan,10016,Spanish,2,0
+Manhattan,10017,Spanish,1,0
+Manhattan,10018,Spanish,2,0
+Manhattan,10019,Spanish,3,0
+Manhattan,10022,Spanish,1,0
+Manhattan,10024,Spanish,1,0
+Manhattan,10025,Spanish,1,0
+Manhattan,10029,Spanish,5,0
+Manhattan,10030,Spanish,1,0
+Manhattan,10031,Spanish,4,0
+Manhattan,10032,Spanish,4,0
+Manhattan,10033,Spanish,11,0
+Manhattan,10034,Spanish,7,0
+Manhattan,10035,Spanish,2,0
+Manhattan,10036,Spanish,3,0
+Manhattan,10037,Spanish,3,0
+Manhattan,10040,Spanish,12,0
+Manhattan,10119,Spanish,1,0
+Manhattan,10167,Spanish,1,0
+Manhattan,10281,Spanish,1,0
+Manhattan,10001,Steakhouse,3,0
+Manhattan,10002,Steakhouse,1,0
+Manhattan,10003,Steakhouse,4,0
+Manhattan,10006,Steakhouse,1,0
+Manhattan,10007,Steakhouse,1,0
+Manhattan,10010,Steakhouse,1,0
+Manhattan,10011,Steakhouse,4,0
+Manhattan,10012,Steakhouse,1,0
+Manhattan,10013,Steakhouse,4,0
+Manhattan,10014,Steakhouse,3,0
+Manhattan,10016,Steakhouse,4,0
+Manhattan,10017,Steakhouse,6,0
+Manhattan,10018,Steakhouse,5,0
+Manhattan,10019,Steakhouse,5,0
+Manhattan,10020,Steakhouse,2,0
+Manhattan,10022,Steakhouse,6,0
+Manhattan,10025,Steakhouse,1,0
+Manhattan,10027,Steakhouse,2,0
+Manhattan,10034,Steakhouse,1,0
+Manhattan,10036,Steakhouse,8,0
+Manhattan,10038,Steakhouse,2,0
+Manhattan,10065,Steakhouse,1,0
+Manhattan,10121,Steakhouse,1,0
+Manhattan,10169,Steakhouse,1,0
+Manhattan,10001,Tapas,1,0
+Manhattan,10002,Tapas,3,0
+Manhattan,10003,Tapas,1,0
+Manhattan,10009,Tapas,2,0
+Manhattan,10010,Tapas,1,0
+Manhattan,10013,Tapas,2,0
+Manhattan,10014,Tapas,2,0
+Manhattan,10018,Tapas,1,0
+Manhattan,10022,Tapas,1,0
+Manhattan,10029,Tapas,1,0
+Manhattan,10033,Tapas,1,0
+Manhattan,10075,Tapas,2,0
+Manhattan,10001,Tex-Mex,6,0
+Manhattan,10002,Tex-Mex,1,0
+Manhattan,10003,Tex-Mex,8,0
+Manhattan,10004,Tex-Mex,3,0
+Manhattan,10007,Tex-Mex,4,0
+Manhattan,10009,Tex-Mex,2,0
+Manhattan,10010,Tex-Mex,3,0
+Manhattan,10011,Tex-Mex,6,0
+Manhattan,10012,Tex-Mex,4,0
+Manhattan,10013,Tex-Mex,1,0
+Manhattan,10014,Tex-Mex,7,0
+Manhattan,10016,Tex-Mex,6,0
+Manhattan,10017,Tex-Mex,3,0
+Manhattan,10018,Tex-Mex,5,0
+Manhattan,10019,Tex-Mex,7,0
+Manhattan,10021,Tex-Mex,4,0
+Manhattan,10022,Tex-Mex,5,0
+Manhattan,10023,Tex-Mex,1,0
+Manhattan,10024,Tex-Mex,2,0
+Manhattan,10025,Tex-Mex,2,0
+Manhattan,10027,Tex-Mex,2,0
+Manhattan,10028,Tex-Mex,1,0
+Manhattan,10029,Tex-Mex,5,0
+Manhattan,10031,Tex-Mex,2,0
+Manhattan,10032,Tex-Mex,3,0
+Manhattan,10033,Tex-Mex,2,0
+Manhattan,10034,Tex-Mex,2,0
+Manhattan,10035,Tex-Mex,1,0
+Manhattan,10036,Tex-Mex,7,0
+Manhattan,10038,Tex-Mex,3,0
+Manhattan,10040,Tex-Mex,1,0
+Manhattan,10065,Tex-Mex,2,0
+Manhattan,10118,Tex-Mex,1,0
+Manhattan,10121,Tex-Mex,1,0
+Manhattan,10128,Tex-Mex,1,0
+Manhattan,10280,Tex-Mex,1,0
+Manhattan,10001,Thai,2,0
+Manhattan,10002,Thai,8,0
+Manhattan,10003,Thai,13,0
+Manhattan,10004,Thai,1,0
+Manhattan,10009,Thai,4,0
+Manhattan,10010,Thai,7,0
+Manhattan,10011,Thai,9,0
+Manhattan,10012,Thai,7,0
+Manhattan,10013,Thai,5,0
+Manhattan,10014,Thai,3,0
+Manhattan,10016,Thai,6,0
+Manhattan,10017,Thai,2,0
+Manhattan,10018,Thai,4,0
+Manhattan,10019,Thai,18,0
+Manhattan,10021,Thai,2,0
+Manhattan,10022,Thai,5,0
+Manhattan,10023,Thai,3,0
+Manhattan,10024,Thai,3,0
+Manhattan,10025,Thai,3,0
+Manhattan,10026,Thai,1,0
+Manhattan,10027,Thai,1,0
+Manhattan,10028,Thai,4,0
+Manhattan,10029,Thai,5,0
+Manhattan,10031,Thai,2,0
+Manhattan,10032,Thai,4,0
+Manhattan,10033,Thai,2,0
+Manhattan,10034,Thai,2,0
+Manhattan,10035,Thai,1,0
+Manhattan,10036,Thai,7,0
+Manhattan,10038,Thai,5,0
+Manhattan,10065,Thai,2,0
+Manhattan,10075,Thai,1,0
+Manhattan,10128,Thai,4,0
+Manhattan,10002,Turkish,1,0
+Manhattan,10003,Turkish,1,0
+Manhattan,10011,Turkish,1,0
+Manhattan,10012,Turkish,3,0
+Manhattan,10016,Turkish,3,0
+Manhattan,10017,Turkish,1,0
+Manhattan,10018,Turkish,1,0
+Manhattan,10019,Turkish,4,0
+Manhattan,10021,Turkish,2,0
+Manhattan,10022,Turkish,1,0
+Manhattan,10036,Turkish,5,0
+Manhattan,10065,Turkish,1,0
+Manhattan,10000,Unknown,1,1
+Manhattan,10001,Unknown,146,146
+Manhattan,10002,Unknown,89,89
+Manhattan,10003,Unknown,147,147
+Manhattan,10004,Unknown,54,54
+Manhattan,10005,Unknown,19,19
+Manhattan,10006,Unknown,14,14
+Manhattan,10007,Unknown,17,17
+Manhattan,10009,Unknown,57,57
+Manhattan,10010,Unknown,35,35
+Manhattan,10011,Unknown,76,76
+Manhattan,10012,Unknown,55,55
+Manhattan,10013,Unknown,86,86
+Manhattan,10014,Unknown,73,73
+Manhattan,10016,Unknown,40,40
+Manhattan,10017,Unknown,44,44
+Manhattan,10018,Unknown,52,52
+Manhattan,10019,Unknown,57,57
+Manhattan,10020,Unknown,9,9
+Manhattan,10021,Unknown,23,23
+Manhattan,10022,Unknown,56,56
+Manhattan,10023,Unknown,26,26
+Manhattan,10024,Unknown,23,23
+Manhattan,10025,Unknown,27,27
+Manhattan,10026,Unknown,3,3
+Manhattan,10027,Unknown,18,18
+Manhattan,10028,Unknown,19,19
+Manhattan,10029,Unknown,23,22
+Manhattan,10030,Unknown,1,1
+Manhattan,10031,Unknown,11,11
+Manhattan,10032,Unknown,14,14
+Manhattan,10033,Unknown,23,23
+Manhattan,10034,Unknown,15,15
+Manhattan,10035,Unknown,18,18
+Manhattan,10036,Unknown,155,155
+Manhattan,10037,Unknown,2,2
+Manhattan,10038,Unknown,18,18
+Manhattan,10039,Unknown,3,3
+Manhattan,10040,Unknown,16,16
+Manhattan,10041,Unknown,3,3
+Manhattan,10044,Unknown,2,2
+Manhattan,10048,Unknown,1,1
+Manhattan,10055,Unknown,1,1
+Manhattan,10065,Unknown,19,19
+Manhattan,10069,Unknown,1,1
+Manhattan,10075,Unknown,15,15
+Manhattan,10103,Unknown,8,8
+Manhattan,10105,Unknown,2,2
+Manhattan,10110,Unknown,1,1
+Manhattan,10111,Unknown,1,1
+Manhattan,10112,Unknown,4,4
+Manhattan,10118,Unknown,3,3
+Manhattan,10119,Unknown,5,5
+Manhattan,10121,Unknown,8,8
+Manhattan,10122,Unknown,1,1
+Manhattan,10128,Unknown,16,16
+Manhattan,10154,Unknown,1,1
+Manhattan,10167,Unknown,1,1
+Manhattan,10169,Unknown,2,2
+Manhattan,10170,Unknown,1,1
+Manhattan,10178,Unknown,1,1
+Manhattan,10179,Unknown,2,2
+Manhattan,10280,Unknown,1,1
+Manhattan,10282,Unknown,5,5
+Manhattan,10001,Vegan,3,0
+Manhattan,10002,Vegan,2,0
+Manhattan,10003,Vegan,5,0
+Manhattan,10009,Vegan,2,0
+Manhattan,10011,Vegan,2,0
+Manhattan,10012,Vegan,5,0
+Manhattan,10013,Vegan,2,0
+Manhattan,10014,Vegan,2,0
+Manhattan,10016,Vegan,2,0
+Manhattan,10017,Vegan,1,0
+Manhattan,10018,Vegan,1,0
+Manhattan,10019,Vegan,1,0
+Manhattan,10021,Vegan,1,0
+Manhattan,10023,Vegan,1,0
+Manhattan,10024,Vegan,1,0
+Manhattan,10025,Vegan,1,0
+Manhattan,10029,Vegan,1,0
+Manhattan,10036,Vegan,2,0
+Manhattan,10065,Vegan,2,0
+Manhattan,10075,Vegan,1,0
+Manhattan,10001,Vegetarian,1,0
+Manhattan,10002,Vegetarian,1,0
+Manhattan,10003,Vegetarian,1,0
+Manhattan,10009,Vegetarian,5,0
+Manhattan,10012,Vegetarian,2,0
+Manhattan,10013,Vegetarian,4,0
+Manhattan,10014,Vegetarian,1,0
+Manhattan,10019,Vegetarian,1,0
+Manhattan,10024,Vegetarian,2,0
+Manhattan,10036,Vegetarian,2,0
+Manhattan,10065,Vegetarian,1,0
+Queens,11004,Afghan,1,0
+Queens,11105,Afghan,1,0
+Queens,11106,Afghan,2,0
+Queens,11365,Afghan,2,0
+Queens,11367,Afghan,2,0
+Queens,11432,Afghan,1,0
+Queens,11412,African,1,0
+Queens,11434,African,2,0
+Queens,11435,African,2,0
+Queens,11436,African,1,0
+Queens,11001,American,1,0
+Queens,11004,American,1,0
+Queens,11005,American,1,0
+Queens,11040,American,4,0
+Queens,11101,American,85,0
+Queens,11102,American,10,0
+Queens,11103,American,24,0
+Queens,11104,American,17,0
+Queens,11105,American,20,0
+Queens,11106,American,24,0
+Queens,11109,American,2,0
+Queens,11354,American,16,0
+Queens,11355,American,9,0
+Queens,11356,American,11,0
+Queens,11357,American,9,0
+Queens,11358,American,7,0
+Queens,11360,American,6,0
+Queens,11361,American,10,0
+Queens,11362,American,5,0
+Queens,11363,American,1,0
+Queens,11364,American,8,0
+Queens,11365,American,11,0
+Queens,11366,American,5,0
+Queens,11367,American,3,0
+Queens,11368,American,16,0
+Queens,11369,American,20,0
+Queens,11370,American,1,0
+Queens,11371,American,9,0
+Queens,11372,American,22,0
+Queens,11373,American,16,0
+Queens,11374,American,9,0
+Queens,11375,American,25,0
+Queens,11377,American,24,0
+Queens,11378,American,20,0
+Queens,11379,American,6,0
+Queens,11385,American,58,0
+Queens,11411,American,1,0
+Queens,11412,American,3,0
+Queens,11413,American,3,0
+Queens,11414,American,8,0
+Queens,11415,American,7,0
+Queens,11416,American,5,0
+Queens,11417,American,9,0
+Queens,11418,American,11,0
+Queens,11419,American,5,0
+Queens,11420,American,21,0
+Queens,11421,American,6,0
+Queens,11422,American,8,0
+Queens,11423,American,3,0
+Queens,11426,American,4,0
+Queens,11427,American,1,0
+Queens,11428,American,4,0
+Queens,11429,American,2,0
+Queens,11430,American,52,0
+Queens,11431,American,1,0
+Queens,11432,American,27,0
+Queens,11433,American,3,0
+Queens,11434,American,5,0
+Queens,11435,American,9,0
+Queens,11436,American,6,0
+Queens,11691,American,1,0
+Queens,11692,American,4,0
+Queens,11693,American,10,0
+Queens,11694,American,15,0
+Queens,11697,American,3,0
+Queens,11357,Armenian,1,0
+Queens,11361,Armenian,1,0
+Queens,11101,Asian/Asian Fusion,10,0
+Queens,11102,Asian/Asian Fusion,2,0
+Queens,11103,Asian/Asian Fusion,4,0
+Queens,11104,Asian/Asian Fusion,4,0
+Queens,11105,Asian/Asian Fusion,1,0
+Queens,11106,Asian/Asian Fusion,3,0
+Queens,11109,Asian/Asian Fusion,1,0
+Queens,11354,Asian/Asian Fusion,15,0
+Queens,11355,Asian/Asian Fusion,10,0
+Queens,11356,Asian/Asian Fusion,2,0
+Queens,11358,Asian/Asian Fusion,4,0
+Queens,11360,Asian/Asian Fusion,1,0
+Queens,11361,Asian/Asian Fusion,3,0
+Queens,11364,Asian/Asian Fusion,2,0
+Queens,11365,Asian/Asian Fusion,2,0
+Queens,11366,Asian/Asian Fusion,2,0
+Queens,11367,Asian/Asian Fusion,1,0
+Queens,11369,Asian/Asian Fusion,1,0
+Queens,11371,Asian/Asian Fusion,1,0
+Queens,11372,Asian/Asian Fusion,23,0
+Queens,11373,Asian/Asian Fusion,13,0
+Queens,11374,Asian/Asian Fusion,4,0
+Queens,11375,Asian/Asian Fusion,5,0
+Queens,11377,Asian/Asian Fusion,17,0
+Queens,11378,Asian/Asian Fusion,2,0
+Queens,11385,Asian/Asian Fusion,5,0
+Queens,11414,Asian/Asian Fusion,1,0
+Queens,11416,Asian/Asian Fusion,1,0
+Queens,11417,Asian/Asian Fusion,1,0
+Queens,11419,Asian/Asian Fusion,1,0
+Queens,11420,Asian/Asian Fusion,1,0
+Queens,11430,Asian/Asian Fusion,2,0
+Queens,11432,Asian/Asian Fusion,3,0
+Queens,11435,Asian/Asian Fusion,1,0
+Queens,11692,Asian/Asian Fusion,1,0
+Queens,11004,Bagels/Pretzels,1,0
+Queens,11101,Bagels/Pretzels,2,0
+Queens,11103,Bagels/Pretzels,2,0
+Queens,11104,Bagels/Pretzels,2,0
+Queens,11105,Bagels/Pretzels,2,0
+Queens,11106,Bagels/Pretzels,4,0
+Queens,11354,Bagels/Pretzels,1,0
+Queens,11357,Bagels/Pretzels,1,0
+Queens,11360,Bagels/Pretzels,1,0
+Queens,11361,Bagels/Pretzels,3,0
+Queens,11362,Bagels/Pretzels,1,0
+Queens,11364,Bagels/Pretzels,2,0
+Queens,11365,Bagels/Pretzels,1,0
+Queens,11372,Bagels/Pretzels,1,0
+Queens,11373,Bagels/Pretzels,2,0
+Queens,11374,Bagels/Pretzels,1,0
+Queens,11375,Bagels/Pretzels,4,0
+Queens,11379,Bagels/Pretzels,1,0
+Queens,11385,Bagels/Pretzels,4,0
+Queens,11414,Bagels/Pretzels,2,0
+Queens,11415,Bagels/Pretzels,1,0
+Queens,11416,Bagels/Pretzels,1,0
+Queens,11423,Bagels/Pretzels,1,0
+Queens,11434,Bagels/Pretzels,1,0
+Queens,11435,Bagels/Pretzels,1,0
+Queens,11694,Bagels/Pretzels,3,0
+Queens,11004,Bakery Products/Desserts,2,0
+Queens,11040,Bakery Products/Desserts,1,0
+Queens,11101,Bakery Products/Desserts,15,0
+Queens,11102,Bakery Products/Desserts,4,0
+Queens,11103,Bakery Products/Desserts,9,0
+Queens,11104,Bakery Products/Desserts,6,0
+Queens,11105,Bakery Products/Desserts,8,0
+Queens,11106,Bakery Products/Desserts,6,0
+Queens,11109,Bakery Products/Desserts,1,0
+Queens,11354,Bakery Products/Desserts,36,0
+Queens,11355,Bakery Products/Desserts,20,0
+Queens,11356,Bakery Products/Desserts,2,0
+Queens,11357,Bakery Products/Desserts,2,0
+Queens,11358,Bakery Products/Desserts,6,0
+Queens,11360,Bakery Products/Desserts,2,0
+Queens,11361,Bakery Products/Desserts,6,0
+Queens,11362,Bakery Products/Desserts,2,0
+Queens,11363,Bakery Products/Desserts,1,0
+Queens,11364,Bakery Products/Desserts,3,0
+Queens,11365,Bakery Products/Desserts,3,0
+Queens,11366,Bakery Products/Desserts,1,0
+Queens,11368,Bakery Products/Desserts,14,0
+Queens,11369,Bakery Products/Desserts,2,0
+Queens,11372,Bakery Products/Desserts,25,0
+Queens,11373,Bakery Products/Desserts,23,0
+Queens,11374,Bakery Products/Desserts,2,0
+Queens,11375,Bakery Products/Desserts,10,0
+Queens,11377,Bakery Products/Desserts,5,0
+Queens,11378,Bakery Products/Desserts,5,0
+Queens,11379,Bakery Products/Desserts,2,0
+Queens,11385,Bakery Products/Desserts,11,0
+Queens,11411,Bakery Products/Desserts,1,0
+Queens,11413,Bakery Products/Desserts,1,0
+Queens,11414,Bakery Products/Desserts,2,0
+Queens,11415,Bakery Products/Desserts,3,0
+Queens,11416,Bakery Products/Desserts,1,0
+Queens,11417,Bakery Products/Desserts,2,0
+Queens,11418,Bakery Products/Desserts,5,0
+Queens,11419,Bakery Products/Desserts,3,0
+Queens,11420,Bakery Products/Desserts,1,0
+Queens,11421,Bakery Products/Desserts,4,0
+Queens,11423,Bakery Products/Desserts,1,0
+Queens,11428,Bakery Products/Desserts,1,0
+Queens,11429,Bakery Products/Desserts,1,0
+Queens,11430,Bakery Products/Desserts,3,0
+Queens,11432,Bakery Products/Desserts,2,0
+Queens,11434,Bakery Products/Desserts,1,0
+Queens,11435,Bakery Products/Desserts,2,0
+Queens,11694,Bakery Products/Desserts,1,0
+Queens,11101,Bangladeshi,1,0
+Queens,11106,Bangladeshi,3,0
+Queens,11372,Bangladeshi,15,0
+Queens,11373,Bangladeshi,1,0
+Queens,11377,Bangladeshi,3,0
+Queens,11416,Bangladeshi,2,0
+Queens,11432,Bangladeshi,22,0
+Queens,11435,Bangladeshi,1,0
+Queens,11101,Barbecue,1,0
+Queens,11103,Barbecue,1,0
+Queens,11106,Barbecue,1,0
+Queens,11354,Barbecue,4,0
+Queens,11355,Barbecue,2,0
+Queens,11364,Barbecue,1,0
+Queens,11366,Barbecue,1,0
+Queens,11374,Barbecue,1,0
+Queens,11375,Barbecue,1,0
+Queens,11419,Barbecue,1,0
+Queens,11432,Barbecue,1,0
+Queens,11434,Barbecue,1,0
+Queens,11103,Bottled Beverages,1,0
+Queens,11354,Bottled Beverages,6,0
+Queens,11355,Bottled Beverages,1,0
+Queens,11361,Bottled Beverages,1,0
+Queens,11369,Bottled Beverages,1,0
+Queens,11371,Bottled Beverages,1,0
+Queens,11372,Bottled Beverages,2,0
+Queens,11373,Bottled Beverages,1,0
+Queens,11375,Bottled Beverages,1,0
+Queens,11377,Bottled Beverages,1,0
+Queens,11420,Bottled Beverages,5,0
+Queens,11423,Bottled Beverages,1,0
+Queens,11432,Bottled Beverages,1,0
+Queens,11435,Bottled Beverages,4,0
+Queens,11693,Bottled Beverages,1,0
+Queens,11101,Brazilian,2,0
+Queens,11103,Brazilian,1,0
+Queens,11104,Brazilian,1,0
+Queens,11105,Brazilian,1,0
+Queens,11106,Brazilian,4,0
+Queens,11354,Brazilian,1,0
+Queens,11365,Brazilian,1,0
+Queens,11368,Brazilian,1,0
+Queens,11372,Brazilian,2,0
+Queens,11373,Brazilian,1,0
+Queens,11694,Brazilian,1,0
+Queens,11354,Cajun,1,0
+Queens,11361,Cajun,1,0
+Queens,11101,Californian,1,0
+Queens,11101,Caribbean,1,0
+Queens,11102,Caribbean,1,0
+Queens,11103,Caribbean,3,0
+Queens,11105,Caribbean,1,0
+Queens,11106,Caribbean,1,0
+Queens,11368,Caribbean,2,0
+Queens,11369,Caribbean,1,0
+Queens,11370,Caribbean,1,0
+Queens,11373,Caribbean,1,0
+Queens,11375,Caribbean,1,0
+Queens,11411,Caribbean,6,0
+Queens,11412,Caribbean,17,0
+Queens,11413,Caribbean,21,0
+Queens,11416,Caribbean,3,0
+Queens,11417,Caribbean,7,0
+Queens,11418,Caribbean,7,0
+Queens,11419,Caribbean,38,0
+Queens,11420,Caribbean,20,0
+Queens,11422,Caribbean,12,0
+Queens,11423,Caribbean,6,0
+Queens,11428,Caribbean,8,0
+Queens,11429,Caribbean,7,0
+Queens,11430,Caribbean,2,0
+Queens,11432,Caribbean,10,0
+Queens,11433,Caribbean,5,0
+Queens,11434,Caribbean,22,0
+Queens,11435,Caribbean,10,0
+Queens,11436,Caribbean,5,0
+Queens,11691,Caribbean,7,0
+Queens,11692,Caribbean,1,0
+Queens,11693,Caribbean,1,0
+Queens,11694,Caribbean,1,0
+Queens,11004,Chicken,1,0
+Queens,11101,Chicken,8,0
+Queens,11102,Chicken,1,0
+Queens,11103,Chicken,8,0
+Queens,11104,Chicken,4,0
+Queens,11105,Chicken,2,0
+Queens,11106,Chicken,5,0
+Queens,11354,Chicken,14,0
+Queens,11355,Chicken,3,0
+Queens,11356,Chicken,1,0
+Queens,11358,Chicken,1,0
+Queens,11361,Chicken,3,0
+Queens,11362,Chicken,2,0
+Queens,11364,Chicken,1,0
+Queens,11365,Chicken,2,0
+Queens,11367,Chicken,2,0
+Queens,11368,Chicken,7,0
+Queens,11372,Chicken,7,0
+Queens,11373,Chicken,9,0
+Queens,11374,Chicken,2,0
+Queens,11375,Chicken,6,0
+Queens,11377,Chicken,8,0
+Queens,11379,Chicken,2,0
+Queens,11385,Chicken,4,0
+Queens,11411,Chicken,2,0
+Queens,11412,Chicken,3,0
+Queens,11413,Chicken,4,0
+Queens,11414,Chicken,1,0
+Queens,11415,Chicken,3,0
+Queens,11416,Chicken,5,0
+Queens,11417,Chicken,5,0
+Queens,11418,Chicken,1,0
+Queens,11419,Chicken,3,0
+Queens,11420,Chicken,2,0
+Queens,11421,Chicken,3,0
+Queens,11422,Chicken,3,0
+Queens,11423,Chicken,5,0
+Queens,11426,Chicken,2,0
+Queens,11427,Chicken,1,0
+Queens,11428,Chicken,2,0
+Queens,11429,Chicken,4,0
+Queens,11430,Chicken,1,0
+Queens,11432,Chicken,10,0
+Queens,11433,Chicken,2,0
+Queens,11434,Chicken,7,0
+Queens,11435,Chicken,7,0
+Queens,11436,Chicken,1,0
+Queens,11691,Chicken,2,0
+Queens,11356,Chilean,1,0
+Queens,11368,Chimichurri,1,0
+Queens,11004,Chinese,3,0
+Queens,11040,Chinese,1,0
+Queens,11101,Chinese,30,0
+Queens,11102,Chinese,4,0
+Queens,11103,Chinese,6,0
+Queens,11104,Chinese,6,0
+Queens,11105,Chinese,4,0
+Queens,11106,Chinese,11,0
+Queens,11354,Chinese,214,0
+Queens,11355,Chinese,103,0
+Queens,11356,Chinese,8,0
+Queens,11357,Chinese,6,0
+Queens,11358,Chinese,16,0
+Queens,11360,Chinese,1,0
+Queens,11361,Chinese,15,0
+Queens,11362,Chinese,15,0
+Queens,11363,Chinese,1,0
+Queens,11364,Chinese,12,0
+Queens,11365,Chinese,4,0
+Queens,11366,Chinese,4,0
+Queens,11367,Chinese,3,0
+Queens,11368,Chinese,15,0
+Queens,11369,Chinese,3,0
+Queens,11370,Chinese,3,0
+Queens,11372,Chinese,13,0
+Queens,11373,Chinese,39,0
+Queens,11374,Chinese,5,0
+Queens,11375,Chinese,17,0
+Queens,11377,Chinese,13,0
+Queens,11378,Chinese,9,0
+Queens,11379,Chinese,3,0
+Queens,11385,Chinese,17,0
+Queens,11411,Chinese,4,0
+Queens,11412,Chinese,5,0
+Queens,11413,Chinese,3,0
+Queens,11414,Chinese,7,0
+Queens,11415,Chinese,3,0
+Queens,11416,Chinese,6,0
+Queens,11417,Chinese,11,0
+Queens,11418,Chinese,9,0
+Queens,11419,Chinese,6,0
+Queens,11420,Chinese,8,0
+Queens,11421,Chinese,7,0
+Queens,11422,Chinese,4,0
+Queens,11423,Chinese,4,0
+Queens,11426,Chinese,2,0
+Queens,11427,Chinese,2,0
+Queens,11428,Chinese,4,0
+Queens,11429,Chinese,6,0
+Queens,11430,Chinese,1,0
+Queens,11432,Chinese,17,0
+Queens,11433,Chinese,3,0
+Queens,11434,Chinese,12,0
+Queens,11435,Chinese,11,0
+Queens,11436,Chinese,5,0
+Queens,11691,Chinese,5,0
+Queens,11692,Chinese,1,0
+Queens,11693,Chinese,3,0
+Queens,11694,Chinese,3,0
+Queens,11106,Chinese/Cuban,1,0
+Queens,11368,Chinese/Cuban,1,0
+Queens,11375,Chinese/Cuban,1,0
+Queens,11101,Chinese/Japanese,1,0
+Queens,11354,Chinese/Japanese,1,0
+Queens,11355,Chinese/Japanese,2,0
+Queens,11356,Chinese/Japanese,1,0
+Queens,11357,Chinese/Japanese,1,0
+Queens,11372,Chinese/Japanese,1,0
+Queens,11373,Chinese/Japanese,2,0
+Queens,11374,Chinese/Japanese,1,0
+Queens,11385,Chinese/Japanese,1,0
+Queens,11416,Chinese/Japanese,1,0
+Queens,11004,Coffee/Tea,1,0
+Queens,11101,Coffee/Tea,35,0
+Queens,11102,Coffee/Tea,7,0
+Queens,11103,Coffee/Tea,22,0
+Queens,11104,Coffee/Tea,7,0
+Queens,11105,Coffee/Tea,12,0
+Queens,11106,Coffee/Tea,11,0
+Queens,11354,Coffee/Tea,46,0
+Queens,11355,Coffee/Tea,6,0
+Queens,11356,Coffee/Tea,5,0
+Queens,11357,Coffee/Tea,2,0
+Queens,11358,Coffee/Tea,15,0
+Queens,11360,Coffee/Tea,1,0
+Queens,11361,Coffee/Tea,13,0
+Queens,11362,Coffee/Tea,5,0
+Queens,11364,Coffee/Tea,3,0
+Queens,11365,Coffee/Tea,7,0
+Queens,11366,Coffee/Tea,1,0
+Queens,11368,Coffee/Tea,4,0
+Queens,11369,Coffee/Tea,3,0
+Queens,11371,Coffee/Tea,5,0
+Queens,11372,Coffee/Tea,8,0
+Queens,11373,Coffee/Tea,22,0
+Queens,11374,Coffee/Tea,7,0
+Queens,11375,Coffee/Tea,14,0
+Queens,11377,Coffee/Tea,8,0
+Queens,11378,Coffee/Tea,3,0
+Queens,11379,Coffee/Tea,2,0
+Queens,11385,Coffee/Tea,30,0
+Queens,11411,Coffee/Tea,1,0
+Queens,11413,Coffee/Tea,1,0
+Queens,11414,Coffee/Tea,3,0
+Queens,11415,Coffee/Tea,2,0
+Queens,11416,Coffee/Tea,2,0
+Queens,11417,Coffee/Tea,1,0
+Queens,11418,Coffee/Tea,4,0
+Queens,11420,Coffee/Tea,1,0
+Queens,11426,Coffee/Tea,1,0
+Queens,11429,Coffee/Tea,1,0
+Queens,11430,Coffee/Tea,8,0
+Queens,11432,Coffee/Tea,8,0
+Queens,11433,Coffee/Tea,2,0
+Queens,11434,Coffee/Tea,2,0
+Queens,11435,Coffee/Tea,3,0
+Queens,11692,Coffee/Tea,1,0
+Queens,11693,Coffee/Tea,3,0
+Queens,11101,Continental,1,0
+Queens,11104,Continental,1,0
+Queens,11369,Continental,2,0
+Queens,11372,Continental,1,0
+Queens,11377,Continental,1,0
+Queens,11378,Continental,1,0
+Queens,11420,Continental,1,0
+Queens,11430,Continental,1,0
+Queens,11436,Continental,1,0
+Queens,11411,Creole,1,0
+Queens,11412,Creole,1,0
+Queens,11428,Creole,1,0
+Queens,11429,Creole,1,0
+Queens,11102,Czech,1,0
+Queens,11105,Czech,1,0
+Queens,11004,Donuts,1,0
+Queens,11101,Donuts,5,0
+Queens,11102,Donuts,3,0
+Queens,11103,Donuts,3,0
+Queens,11104,Donuts,1,0
+Queens,11105,Donuts,8,0
+Queens,11106,Donuts,3,0
+Queens,11354,Donuts,5,0
+Queens,11355,Donuts,3,0
+Queens,11356,Donuts,1,0
+Queens,11357,Donuts,1,0
+Queens,11358,Donuts,3,0
+Queens,11360,Donuts,1,0
+Queens,11361,Donuts,3,0
+Queens,11362,Donuts,2,0
+Queens,11364,Donuts,3,0
+Queens,11365,Donuts,1,0
+Queens,11366,Donuts,2,0
+Queens,11367,Donuts,2,0
+Queens,11368,Donuts,5,0
+Queens,11369,Donuts,3,0
+Queens,11370,Donuts,1,0
+Queens,11371,Donuts,1,0
+Queens,11373,Donuts,1,0
+Queens,11375,Donuts,4,0
+Queens,11377,Donuts,3,0
+Queens,11378,Donuts,1,0
+Queens,11379,Donuts,1,0
+Queens,11385,Donuts,5,0
+Queens,11411,Donuts,1,0
+Queens,11412,Donuts,1,0
+Queens,11413,Donuts,2,0
+Queens,11414,Donuts,3,0
+Queens,11415,Donuts,2,0
+Queens,11416,Donuts,1,0
+Queens,11417,Donuts,4,0
+Queens,11418,Donuts,3,0
+Queens,11419,Donuts,3,0
+Queens,11420,Donuts,2,0
+Queens,11421,Donuts,1,0
+Queens,11422,Donuts,2,0
+Queens,11423,Donuts,2,0
+Queens,11426,Donuts,1,0
+Queens,11427,Donuts,1,0
+Queens,11428,Donuts,2,0
+Queens,11429,Donuts,1,0
+Queens,11430,Donuts,5,0
+Queens,11432,Donuts,6,0
+Queens,11433,Donuts,1,0
+Queens,11434,Donuts,3,0
+Queens,11435,Donuts,5,0
+Queens,11436,Donuts,2,0
+Queens,11691,Donuts,2,0
+Queens,11692,Donuts,2,0
+Queens,11693,Donuts,1,0
+Queens,11694,Donuts,1,0
+Queens,11101,Eastern European,3,0
+Queens,11103,Eastern European,2,0
+Queens,11104,Eastern European,2,0
+Queens,11105,Eastern European,2,0
+Queens,11106,Eastern European,1,0
+Queens,11374,Eastern European,1,0
+Queens,11385,Eastern European,6,0
+Queens,11103,Egyptian,4,0
+Queens,11385,Egyptian,1,0
+Queens,11106,English,1,0
+Queens,11104,Ethiopian,1,0
+Queens,11106,Filipino,1,0
+Queens,11366,Filipino,1,0
+Queens,11373,Filipino,3,0
+Queens,11377,Filipino,14,0
+Queens,11379,Filipino,1,0
+Queens,11428,Filipino,1,0
+Queens,11432,Filipino,1,0
+Queens,11101,French,4,0
+Queens,11103,French,1,0
+Queens,11104,French,1,0
+Queens,11106,French,4,0
+Queens,11357,French,2,0
+Queens,11362,French,1,0
+Queens,11368,French,1,0
+Queens,11370,French,1,0
+Queens,11372,French,1,0
+Queens,11375,French,1,0
+Queens,11428,French,1,0
+Queens,11004,Frozen Desserts,2,0
+Queens,11101,Frozen Desserts,2,0
+Queens,11103,Frozen Desserts,7,0
+Queens,11104,Frozen Desserts,3,0
+Queens,11105,Frozen Desserts,5,0
+Queens,11106,Frozen Desserts,1,0
+Queens,11354,Frozen Desserts,5,0
+Queens,11355,Frozen Desserts,2,0
+Queens,11356,Frozen Desserts,1,0
+Queens,11357,Frozen Desserts,3,0
+Queens,11358,Frozen Desserts,3,0
+Queens,11360,Frozen Desserts,1,0
+Queens,11361,Frozen Desserts,3,0
+Queens,11362,Frozen Desserts,1,0
+Queens,11365,Frozen Desserts,1,0
+Queens,11366,Frozen Desserts,3,0
+Queens,11368,Frozen Desserts,7,0
+Queens,11370,Frozen Desserts,1,0
+Queens,11372,Frozen Desserts,5,0
+Queens,11373,Frozen Desserts,3,0
+Queens,11375,Frozen Desserts,5,0
+Queens,11377,Frozen Desserts,1,0
+Queens,11378,Frozen Desserts,2,0
+Queens,11379,Frozen Desserts,1,0
+Queens,11385,Frozen Desserts,9,0
+Queens,11413,Frozen Desserts,1,0
+Queens,11414,Frozen Desserts,3,0
+Queens,11416,Frozen Desserts,2,0
+Queens,11417,Frozen Desserts,1,0
+Queens,11419,Frozen Desserts,1,0
+Queens,11420,Frozen Desserts,1,0
+Queens,11423,Frozen Desserts,1,0
+Queens,11432,Frozen Desserts,2,0
+Queens,11436,Frozen Desserts,1,0
+Queens,11691,Frozen Desserts,1,0
+Queens,11694,Frozen Desserts,1,0
+Queens,11101,Fruits/Vegetables,1,0
+Queens,11103,Fruits/Vegetables,1,0
+Queens,11354,Fruits/Vegetables,1,0
+Queens,11372,Fruits/Vegetables,1,0
+Queens,11004,Fusion,1,0
+Queens,11101,Fusion,4,0
+Queens,11102,Fusion,1,0
+Queens,11103,Fusion,3,0
+Queens,11104,Fusion,2,0
+Queens,11106,Fusion,2,0
+Queens,11354,Fusion,1,0
+Queens,11368,Fusion,1,0
+Queens,11372,Fusion,1,0
+Queens,11374,Fusion,1,0
+Queens,11377,Fusion,1,0
+Queens,11379,Fusion,1,0
+Queens,11412,Fusion,1,0
+Queens,11413,Fusion,1,0
+Queens,11417,Fusion,1,0
+Queens,11418,Fusion,1,0
+Queens,11419,Fusion,3,0
+Queens,11421,Fusion,1,0
+Queens,11426,Fusion,1,0
+Queens,11430,Fusion,2,0
+Queens,11102,German,1,0
+Queens,11103,German,1,0
+Queens,11104,German,1,0
+Queens,11357,German,1,0
+Queens,11361,German,1,0
+Queens,11375,German,1,0
+Queens,11385,German,2,0
+Queens,11430,German,1,0
+Queens,11005,Greek,1,0
+Queens,11101,Greek,3,0
+Queens,11102,Greek,7,0
+Queens,11103,Greek,3,0
+Queens,11105,Greek,17,0
+Queens,11106,Greek,9,0
+Queens,11357,Greek,1,0
+Queens,11358,Greek,3,0
+Queens,11361,Greek,5,0
+Queens,11364,Greek,1,0
+Queens,11370,Greek,1,0
+Queens,11375,Greek,3,0
+Queens,11385,Greek,2,0
+Queens,11004,Hamburgers,1,0
+Queens,11101,Hamburgers,6,0
+Queens,11102,Hamburgers,2,0
+Queens,11103,Hamburgers,3,0
+Queens,11104,Hamburgers,3,0
+Queens,11105,Hamburgers,2,0
+Queens,11106,Hamburgers,2,0
+Queens,11354,Hamburgers,2,0
+Queens,11355,Hamburgers,1,0
+Queens,11356,Hamburgers,1,0
+Queens,11357,Hamburgers,1,0
+Queens,11360,Hamburgers,1,0
+Queens,11361,Hamburgers,7,0
+Queens,11362,Hamburgers,2,0
+Queens,11364,Hamburgers,1,0
+Queens,11365,Hamburgers,1,0
+Queens,11366,Hamburgers,1,0
+Queens,11367,Hamburgers,2,0
+Queens,11368,Hamburgers,5,0
+Queens,11369,Hamburgers,5,0
+Queens,11370,Hamburgers,1,0
+Queens,11371,Hamburgers,1,0
+Queens,11372,Hamburgers,4,0
+Queens,11373,Hamburgers,5,0
+Queens,11374,Hamburgers,2,0
+Queens,11375,Hamburgers,6,0
+Queens,11377,Hamburgers,4,0
+Queens,11378,Hamburgers,1,0
+Queens,11379,Hamburgers,1,0
+Queens,11385,Hamburgers,8,0
+Queens,11411,Hamburgers,1,0
+Queens,11412,Hamburgers,1,0
+Queens,11413,Hamburgers,1,0
+Queens,11414,Hamburgers,2,0
+Queens,11416,Hamburgers,1,0
+Queens,11417,Hamburgers,1,0
+Queens,11418,Hamburgers,1,0
+Queens,11419,Hamburgers,3,0
+Queens,11421,Hamburgers,1,0
+Queens,11422,Hamburgers,2,0
+Queens,11423,Hamburgers,1,0
+Queens,11427,Hamburgers,2,0
+Queens,11429,Hamburgers,1,0
+Queens,11430,Hamburgers,4,0
+Queens,11432,Hamburgers,6,0
+Queens,11434,Hamburgers,5,0
+Queens,11435,Hamburgers,2,0
+Queens,11436,Hamburgers,1,0
+Queens,11691,Hamburgers,1,0
+Queens,11693,Hamburgers,1,0
+Queens,11101,Hawaiian,1,0
+Queens,11103,Hawaiian,1,0
+Queens,11105,Hawaiian,1,0
+Queens,11106,Hawaiian,1,0
+Queens,11365,Hawaiian,1,0
+Queens,11373,Hawaiian,1,0
+Queens,11375,Hawaiian,1,0
+Queens,11414,Hawaiian,1,0
+Queens,11354,Hotdogs,1,0
+Queens,11385,Hotdogs,1,0
+Queens,11354,Hotdogs/Pretzels,2,0
+Queens,11373,Hotdogs/Pretzels,2,0
+Queens,11004,Indian,8,0
+Queens,11040,Indian,2,0
+Queens,11101,Indian,4,0
+Queens,11103,Indian,3,0
+Queens,11104,Indian,1,0
+Queens,11105,Indian,1,0
+Queens,11106,Indian,1,0
+Queens,11355,Indian,3,0
+Queens,11361,Indian,2,0
+Queens,11365,Indian,1,0
+Queens,11368,Indian,1,0
+Queens,11372,Indian,7,0
+Queens,11373,Indian,2,0
+Queens,11374,Indian,3,0
+Queens,11375,Indian,4,0
+Queens,11385,Indian,3,0
+Queens,11415,Indian,2,0
+Queens,11416,Indian,1,0
+Queens,11418,Indian,3,0
+Queens,11419,Indian,18,0
+Queens,11420,Indian,6,0
+Queens,11426,Indian,6,0
+Queens,11427,Indian,1,0
+Queens,11428,Indian,1,0
+Queens,11432,Indian,1,0
+Queens,11434,Indian,1,0
+Queens,11373,Indonesian,3,0
+Queens,11364,Iranian,1,0
+Queens,11101,Irish,4,0
+Queens,11102,Irish,2,0
+Queens,11103,Irish,8,0
+Queens,11104,Irish,3,0
+Queens,11105,Irish,4,0
+Queens,11106,Irish,4,0
+Queens,11355,Irish,1,0
+Queens,11358,Irish,2,0
+Queens,11361,Irish,2,0
+Queens,11365,Irish,1,0
+Queens,11370,Irish,1,0
+Queens,11372,Irish,1,0
+Queens,11373,Irish,1,0
+Queens,11375,Irish,2,0
+Queens,11377,Irish,9,0
+Queens,11378,Irish,3,0
+Queens,11385,Irish,3,0
+Queens,11421,Irish,1,0
+Queens,11040,Italian,1,0
+Queens,11101,Italian,9,0
+Queens,11102,Italian,5,0
+Queens,11103,Italian,2,0
+Queens,11104,Italian,3,0
+Queens,11105,Italian,7,0
+Queens,11106,Italian,5,0
+Queens,11109,Italian,1,0
+Queens,11357,Italian,11,0
+Queens,11358,Italian,3,0
+Queens,11361,Italian,4,0
+Queens,11362,Italian,1,0
+Queens,11363,Italian,1,0
+Queens,11364,Italian,2,0
+Queens,11367,Italian,1,0
+Queens,11368,Italian,1,0
+Queens,11369,Italian,2,0
+Queens,11372,Italian,2,0
+Queens,11373,Italian,1,0
+Queens,11374,Italian,2,0
+Queens,11375,Italian,7,0
+Queens,11377,Italian,2,0
+Queens,11378,Italian,1,0
+Queens,11379,Italian,2,0
+Queens,11385,Italian,9,0
+Queens,11414,Italian,6,0
+Queens,11417,Italian,2,0
+Queens,11418,Italian,1,0
+Queens,11419,Italian,3,0
+Queens,11420,Italian,1,0
+Queens,11421,Italian,1,0
+Queens,11430,Italian,6,0
+Queens,11435,Italian,1,0
+Queens,11694,Italian,2,0
+Queens,11101,Japanese,21,0
+Queens,11102,Japanese,1,0
+Queens,11103,Japanese,8,0
+Queens,11104,Japanese,5,0
+Queens,11105,Japanese,7,0
+Queens,11106,Japanese,6,0
+Queens,11354,Japanese,23,0
+Queens,11355,Japanese,2,0
+Queens,11356,Japanese,1,0
+Queens,11357,Japanese,1,0
+Queens,11358,Japanese,6,0
+Queens,11361,Japanese,6,0
+Queens,11362,Japanese,3,0
+Queens,11363,Japanese,2,0
+Queens,11364,Japanese,3,0
+Queens,11365,Japanese,3,0
+Queens,11366,Japanese,2,0
+Queens,11367,Japanese,3,0
+Queens,11368,Japanese,5,0
+Queens,11369,Japanese,1,0
+Queens,11370,Japanese,1,0
+Queens,11372,Japanese,5,0
+Queens,11373,Japanese,10,0
+Queens,11374,Japanese,4,0
+Queens,11375,Japanese,17,0
+Queens,11377,Japanese,5,0
+Queens,11378,Japanese,5,0
+Queens,11379,Japanese,2,0
+Queens,11385,Japanese,11,0
+Queens,11414,Japanese,3,0
+Queens,11415,Japanese,1,0
+Queens,11418,Japanese,1,0
+Queens,11421,Japanese,2,0
+Queens,11423,Japanese,1,0
+Queens,11430,Japanese,3,0
+Queens,11432,Japanese,3,0
+Queens,11693,Japanese,1,0
+Queens,11694,Japanese,1,0
+Queens,11102,Jewish/Kosher,1,0
+Queens,11360,Jewish/Kosher,1,0
+Queens,11365,Jewish/Kosher,1,0
+Queens,11366,Jewish/Kosher,8,0
+Queens,11367,Jewish/Kosher,16,0
+Queens,11368,Jewish/Kosher,1,0
+Queens,11369,Jewish/Kosher,1,0
+Queens,11374,Jewish/Kosher,12,0
+Queens,11375,Jewish/Kosher,15,0
+Queens,11418,Jewish/Kosher,1,0
+Queens,11435,Jewish/Kosher,1,0
+Queens,11004,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11101,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11102,"Juice, Smoothies, Fruit Salads",4,0
+Queens,11103,"Juice, Smoothies, Fruit Salads",3,0
+Queens,11104,"Juice, Smoothies, Fruit Salads",4,0
+Queens,11105,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11106,"Juice, Smoothies, Fruit Salads",2,0
+Queens,11354,"Juice, Smoothies, Fruit Salads",4,0
+Queens,11355,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11356,"Juice, Smoothies, Fruit Salads",2,0
+Queens,11357,"Juice, Smoothies, Fruit Salads",2,0
+Queens,11358,"Juice, Smoothies, Fruit Salads",4,0
+Queens,11360,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11361,"Juice, Smoothies, Fruit Salads",2,0
+Queens,11366,"Juice, Smoothies, Fruit Salads",4,0
+Queens,11368,"Juice, Smoothies, Fruit Salads",16,0
+Queens,11369,"Juice, Smoothies, Fruit Salads",2,0
+Queens,11370,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11372,"Juice, Smoothies, Fruit Salads",10,0
+Queens,11373,"Juice, Smoothies, Fruit Salads",5,0
+Queens,11374,"Juice, Smoothies, Fruit Salads",3,0
+Queens,11375,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11377,"Juice, Smoothies, Fruit Salads",3,0
+Queens,11385,"Juice, Smoothies, Fruit Salads",7,0
+Queens,11411,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11412,"Juice, Smoothies, Fruit Salads",2,0
+Queens,11414,"Juice, Smoothies, Fruit Salads",4,0
+Queens,11416,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11419,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11420,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11421,"Juice, Smoothies, Fruit Salads",2,0
+Queens,11422,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11426,"Juice, Smoothies, Fruit Salads",2,0
+Queens,11429,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11432,"Juice, Smoothies, Fruit Salads",2,0
+Queens,11433,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11434,"Juice, Smoothies, Fruit Salads",3,0
+Queens,11435,"Juice, Smoothies, Fruit Salads",3,0
+Queens,11694,"Juice, Smoothies, Fruit Salads",1,0
+Queens,11101,Korean,16,0
+Queens,11103,Korean,5,0
+Queens,11104,Korean,2,0
+Queens,11106,Korean,1,0
+Queens,11354,Korean,54,0
+Queens,11355,Korean,15,0
+Queens,11356,Korean,1,0
+Queens,11357,Korean,1,0
+Queens,11358,Korean,54,0
+Queens,11361,Korean,20,0
+Queens,11362,Korean,5,0
+Queens,11363,Korean,1,0
+Queens,11364,Korean,5,0
+Queens,11372,Korean,2,0
+Queens,11373,Korean,2,0
+Queens,11374,Korean,1,0
+Queens,11375,Korean,5,0
+Queens,11377,Korean,2,0
+Queens,11385,Korean,1,0
+Queens,11414,Korean,1,0
+Queens,11430,Korean,1,0
+Queens,11432,Korean,3,0
+Queens,11101,Latin American,17,0
+Queens,11102,Latin American,3,0
+Queens,11103,Latin American,18,0
+Queens,11104,Latin American,10,0
+Queens,11105,Latin American,5,0
+Queens,11106,Latin American,15,0
+Queens,11109,Latin American,1,0
+Queens,11354,Latin American,2,0
+Queens,11355,Latin American,4,0
+Queens,11356,Latin American,10,0
+Queens,11357,Latin American,2,0
+Queens,11358,Latin American,5,0
+Queens,11361,Latin American,2,0
+Queens,11367,Latin American,1,0
+Queens,11368,Latin American,89,0
+Queens,11369,Latin American,12,0
+Queens,11372,Latin American,101,0
+Queens,11373,Latin American,26,0
+Queens,11374,Latin American,2,0
+Queens,11375,Latin American,5,0
+Queens,11377,Latin American,32,0
+Queens,11378,Latin American,9,0
+Queens,11379,Latin American,2,0
+Queens,11385,Latin American,31,0
+Queens,11416,Latin American,2,0
+Queens,11417,Latin American,3,0
+Queens,11418,Latin American,11,0
+Queens,11419,Latin American,2,0
+Queens,11420,Latin American,1,0
+Queens,11421,Latin American,11,0
+Queens,11423,Latin American,1,0
+Queens,11426,Latin American,2,0
+Queens,11427,Latin American,1,0
+Queens,11428,Latin American,3,0
+Queens,11432,Latin American,9,0
+Queens,11433,Latin American,1,0
+Queens,11434,Latin American,1,0
+Queens,11435,Latin American,20,0
+Queens,11691,Latin American,6,0
+Queens,11693,Latin American,3,0
+Queens,11694,Latin American,2,0
+Queens,11004,Mediterranean,2,0
+Queens,11101,Mediterranean,2,0
+Queens,11102,Mediterranean,2,0
+Queens,11103,Mediterranean,8,0
+Queens,11104,Mediterranean,1,0
+Queens,11105,Mediterranean,2,0
+Queens,11106,Mediterranean,1,0
+Queens,11357,Mediterranean,1,0
+Queens,11358,Mediterranean,1,0
+Queens,11360,Mediterranean,1,0
+Queens,11361,Mediterranean,1,0
+Queens,11364,Mediterranean,1,0
+Queens,11365,Mediterranean,4,0
+Queens,11367,Mediterranean,1,0
+Queens,11374,Mediterranean,1,0
+Queens,11375,Mediterranean,1,0
+Queens,11377,Mediterranean,1,0
+Queens,11385,Mediterranean,4,0
+Queens,11413,Mediterranean,1,0
+Queens,11422,Mediterranean,1,0
+Queens,11426,Mediterranean,1,0
+Queens,11430,Mediterranean,1,0
+Queens,11432,Mediterranean,1,0
+Queens,11693,Mediterranean,1,0
+Queens,11004,Mexican,1,0
+Queens,11040,Mexican,1,0
+Queens,11101,Mexican,8,0
+Queens,11102,Mexican,8,0
+Queens,11103,Mexican,13,0
+Queens,11104,Mexican,8,0
+Queens,11105,Mexican,5,0
+Queens,11106,Mexican,15,0
+Queens,11109,Mexican,1,0
+Queens,11354,Mexican,4,0
+Queens,11356,Mexican,2,0
+Queens,11357,Mexican,2,0
+Queens,11358,Mexican,2,0
+Queens,11361,Mexican,5,0
+Queens,11362,Mexican,1,0
+Queens,11363,Mexican,1,0
+Queens,11364,Mexican,1,0
+Queens,11365,Mexican,2,0
+Queens,11368,Mexican,39,0
+Queens,11369,Mexican,4,0
+Queens,11370,Mexican,1,0
+Queens,11372,Mexican,30,0
+Queens,11373,Mexican,11,0
+Queens,11374,Mexican,1,0
+Queens,11375,Mexican,6,0
+Queens,11377,Mexican,22,0
+Queens,11378,Mexican,4,0
+Queens,11379,Mexican,2,0
+Queens,11385,Mexican,24,0
+Queens,11413,Mexican,1,0
+Queens,11414,Mexican,2,0
+Queens,11415,Mexican,2,0
+Queens,11416,Mexican,1,0
+Queens,11417,Mexican,4,0
+Queens,11418,Mexican,5,0
+Queens,11419,Mexican,1,0
+Queens,11421,Mexican,7,0
+Queens,11423,Mexican,2,0
+Queens,11426,Mexican,3,0
+Queens,11430,Mexican,1,0
+Queens,11432,Mexican,5,0
+Queens,11435,Mexican,4,0
+Queens,11691,Mexican,1,0
+Queens,11692,Mexican,1,0
+Queens,11040,Middle Eastern,2,0
+Queens,11101,Middle Eastern,3,0
+Queens,11103,Middle Eastern,20,0
+Queens,11105,Middle Eastern,2,0
+Queens,11106,Middle Eastern,2,0
+Queens,11355,Middle Eastern,1,0
+Queens,11358,Middle Eastern,2,0
+Queens,11361,Middle Eastern,1,0
+Queens,11372,Middle Eastern,2,0
+Queens,11373,Middle Eastern,1,0
+Queens,11375,Middle Eastern,3,0
+Queens,11415,Middle Eastern,2,0
+Queens,11417,Middle Eastern,3,0
+Queens,11419,Middle Eastern,1,0
+Queens,11420,Middle Eastern,3,0
+Queens,11422,Middle Eastern,1,0
+Queens,11423,Middle Eastern,1,0
+Queens,11426,Middle Eastern,1,0
+Queens,11435,Middle Eastern,1,0
+Queens,11691,Middle Eastern,1,0
+Queens,11103,Moroccan,5,0
+Queens,11101,New American,4,0
+Queens,11103,New American,6,0
+Queens,11104,New American,2,0
+Queens,11105,New American,5,0
+Queens,11106,New American,2,0
+Queens,11109,New American,1,0
+Queens,11375,New American,2,0
+Queens,11385,New American,2,0
+Queens,11101,New French,1,0
+Queens,11375,New French,1,0
+Queens,11433,Not Listed/Not Applicable,1,0
+Queens,11693,Not Listed/Not Applicable,1,0
+Queens,11004,Other,1,0
+Queens,11101,Other,3,0
+Queens,11102,Other,2,0
+Queens,11103,Other,2,0
+Queens,11354,Other,6,0
+Queens,11355,Other,2,0
+Queens,11356,Other,1,0
+Queens,11357,Other,1,0
+Queens,11358,Other,1,0
+Queens,11361,Other,3,0
+Queens,11362,Other,1,0
+Queens,11364,Other,2,0
+Queens,11365,Other,1,0
+Queens,11366,Other,1,0
+Queens,11367,Other,2,0
+Queens,11368,Other,2,0
+Queens,11369,Other,2,0
+Queens,11372,Other,2,0
+Queens,11373,Other,3,0
+Queens,11374,Other,1,0
+Queens,11375,Other,1,0
+Queens,11377,Other,3,0
+Queens,11379,Other,1,0
+Queens,11385,Other,4,0
+Queens,11411,Other,1,0
+Queens,11412,Other,1,0
+Queens,11413,Other,1,0
+Queens,11414,Other,3,0
+Queens,11417,Other,1,0
+Queens,11418,Other,2,0
+Queens,11420,Other,2,0
+Queens,11421,Other,1,0
+Queens,11426,Other,1,0
+Queens,11430,Other,9,0
+Queens,11432,Other,6,0
+Queens,11433,Other,3,0
+Queens,11434,Other,1,0
+Queens,11435,Other,3,0
+Queens,11436,Other,4,0
+Queens,11691,Other,1,0
+Queens,11692,Other,1,0
+Queens,11694,Other,3,0
+Queens,11004,Pakistani,1,0
+Queens,11102,Pakistani,1,0
+Queens,11370,Pakistani,1,0
+Queens,11372,Pakistani,4,0
+Queens,11416,Pakistani,1,0
+Queens,11432,Pakistani,2,0
+Queens,11102,Pancakes/Waffles,1,0
+Queens,11103,Pancakes/Waffles,1,0
+Queens,11354,Pancakes/Waffles,2,0
+Queens,11361,Pancakes/Waffles,1,0
+Queens,11368,Pancakes/Waffles,1,0
+Queens,11372,Pancakes/Waffles,1,0
+Queens,11375,Pancakes/Waffles,1,0
+Queens,11378,Pancakes/Waffles,1,0
+Queens,11385,Pancakes/Waffles,1,0
+Queens,11413,Pancakes/Waffles,1,0
+Queens,11417,Pancakes/Waffles,1,0
+Queens,11422,Pancakes/Waffles,1,0
+Queens,11101,Peruvian,2,0
+Queens,11102,Peruvian,1,0
+Queens,11103,Peruvian,1,0
+Queens,11104,Peruvian,3,0
+Queens,11105,Peruvian,1,0
+Queens,11106,Peruvian,2,0
+Queens,11362,Peruvian,1,0
+Queens,11368,Peruvian,8,0
+Queens,11369,Peruvian,1,0
+Queens,11372,Peruvian,12,0
+Queens,11373,Peruvian,4,0
+Queens,11374,Peruvian,1,0
+Queens,11375,Peruvian,5,0
+Queens,11377,Peruvian,3,0
+Queens,11378,Peruvian,2,0
+Queens,11385,Peruvian,2,0
+Queens,11415,Peruvian,1,0
+Queens,11416,Peruvian,2,0
+Queens,11417,Peruvian,2,0
+Queens,11418,Peruvian,2,0
+Queens,11421,Peruvian,4,0
+Queens,11432,Peruvian,1,0
+Queens,11001,Pizza,1,0
+Queens,11004,Pizza,2,0
+Queens,11040,Pizza,1,0
+Queens,11101,Pizza,16,0
+Queens,11102,Pizza,9,0
+Queens,11103,Pizza,13,0
+Queens,11104,Pizza,8,0
+Queens,11105,Pizza,10,0
+Queens,11106,Pizza,12,0
+Queens,11354,Pizza,8,0
+Queens,11355,Pizza,4,0
+Queens,11356,Pizza,4,0
+Queens,11357,Pizza,7,0
+Queens,11358,Pizza,9,0
+Queens,11360,Pizza,2,0
+Queens,11361,Pizza,6,0
+Queens,11362,Pizza,3,0
+Queens,11363,Pizza,2,0
+Queens,11364,Pizza,2,0
+Queens,11365,Pizza,4,0
+Queens,11366,Pizza,5,0
+Queens,11367,Pizza,4,0
+Queens,11368,Pizza,11,0
+Queens,11369,Pizza,4,0
+Queens,11370,Pizza,1,0
+Queens,11372,Pizza,16,0
+Queens,11373,Pizza,9,0
+Queens,11374,Pizza,7,0
+Queens,11375,Pizza,11,0
+Queens,11377,Pizza,9,0
+Queens,11378,Pizza,8,0
+Queens,11379,Pizza,7,0
+Queens,11385,Pizza,34,0
+Queens,11411,Pizza,1,0
+Queens,11412,Pizza,4,0
+Queens,11413,Pizza,2,0
+Queens,11414,Pizza,4,0
+Queens,11415,Pizza,4,0
+Queens,11416,Pizza,6,0
+Queens,11417,Pizza,5,0
+Queens,11418,Pizza,7,0
+Queens,11419,Pizza,4,0
+Queens,11420,Pizza,4,0
+Queens,11421,Pizza,7,0
+Queens,11422,Pizza,1,0
+Queens,11423,Pizza,1,0
+Queens,11426,Pizza,2,0
+Queens,11427,Pizza,2,0
+Queens,11428,Pizza,2,0
+Queens,11429,Pizza,2,0
+Queens,11430,Pizza,6,0
+Queens,11432,Pizza,4,0
+Queens,11433,Pizza,4,0
+Queens,11434,Pizza,6,0
+Queens,11435,Pizza,6,0
+Queens,11436,Pizza,1,0
+Queens,11691,Pizza,6,0
+Queens,11692,Pizza,2,0
+Queens,11693,Pizza,3,0
+Queens,11694,Pizza,3,0
+Queens,11697,Pizza,1,0
+Queens,11378,Polish,1,0
+Queens,11427,Portuguese,1,0
+Queens,11428,Portuguese,1,0
+Queens,11435,Portuguese,3,0
+Queens,11374,Russian,1,0
+Queens,11693,Russian,1,0
+Queens,11101,Salads,1,0
+Queens,11105,Salads,1,0
+Queens,11360,Salads,2,0
+Queens,11371,Salads,1,0
+Queens,11375,Salads,2,0
+Queens,11419,Salads,1,0
+Queens,11004,Sandwiches,1,0
+Queens,11040,Sandwiches,1,0
+Queens,11101,Sandwiches,7,0
+Queens,11102,Sandwiches,2,0
+Queens,11104,Sandwiches,1,0
+Queens,11105,Sandwiches,3,0
+Queens,11106,Sandwiches,6,0
+Queens,11354,Sandwiches,8,0
+Queens,11356,Sandwiches,1,0
+Queens,11357,Sandwiches,4,0
+Queens,11361,Sandwiches,4,0
+Queens,11363,Sandwiches,1,0
+Queens,11365,Sandwiches,2,0
+Queens,11366,Sandwiches,2,0
+Queens,11367,Sandwiches,1,0
+Queens,11368,Sandwiches,1,0
+Queens,11369,Sandwiches,2,0
+Queens,11370,Sandwiches,1,0
+Queens,11371,Sandwiches,3,0
+Queens,11372,Sandwiches,2,0
+Queens,11373,Sandwiches,1,0
+Queens,11375,Sandwiches,4,0
+Queens,11377,Sandwiches,2,0
+Queens,11378,Sandwiches,2,0
+Queens,11379,Sandwiches,2,0
+Queens,11385,Sandwiches,3,0
+Queens,11417,Sandwiches,4,0
+Queens,11418,Sandwiches,3,0
+Queens,11419,Sandwiches,1,0
+Queens,11420,Sandwiches,2,0
+Queens,11421,Sandwiches,1,0
+Queens,11423,Sandwiches,2,0
+Queens,11426,Sandwiches,2,0
+Queens,11430,Sandwiches,8,0
+Queens,11432,Sandwiches,3,0
+Queens,11434,Sandwiches,3,0
+Queens,11435,Sandwiches,2,0
+Queens,11691,Sandwiches,2,0
+Queens,11692,Sandwiches,1,0
+Queens,11694,Sandwiches,1,0
+Queens,11040,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11101,Sandwiches/Salads/Mixed Buffet,5,0
+Queens,11103,Sandwiches/Salads/Mixed Buffet,2,0
+Queens,11104,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11106,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11354,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11355,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11361,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11369,Sandwiches/Salads/Mixed Buffet,3,0
+Queens,11373,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11375,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11377,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11385,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11421,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11430,Sandwiches/Salads/Mixed Buffet,6,0
+Queens,11432,Sandwiches/Salads/Mixed Buffet,2,0
+Queens,11435,Sandwiches/Salads/Mixed Buffet,2,0
+Queens,11693,Sandwiches/Salads/Mixed Buffet,1,0
+Queens,11101,Seafood,1,0
+Queens,11102,Seafood,1,0
+Queens,11103,Seafood,5,0
+Queens,11104,Seafood,1,0
+Queens,11105,Seafood,1,0
+Queens,11354,Seafood,4,0
+Queens,11360,Seafood,1,0
+Queens,11372,Seafood,3,0
+Queens,11374,Seafood,2,0
+Queens,11375,Seafood,1,0
+Queens,11385,Seafood,1,0
+Queens,11412,Seafood,2,0
+Queens,11413,Seafood,1,0
+Queens,11414,Seafood,2,0
+Queens,11417,Seafood,1,0
+Queens,11418,Seafood,2,0
+Queens,11421,Seafood,2,0
+Queens,11423,Seafood,1,0
+Queens,11427,Seafood,1,0
+Queens,11432,Seafood,1,0
+Queens,11691,Seafood,1,0
+Queens,11429,Soul Food,1,0
+Queens,11434,Soul Food,3,0
+Queens,11436,Soul Food,1,0
+Queens,11004,Soups/Salads/Sandwiches,1,0
+Queens,11101,Soups/Salads/Sandwiches,1,0
+Queens,11369,Soups/Salads/Sandwiches,1,0
+Queens,11370,Soups/Salads/Sandwiches,1,0
+Queens,11374,Soups/Salads/Sandwiches,1,0
+Queens,11385,Soups/Salads/Sandwiches,1,0
+Queens,11430,Soups/Salads/Sandwiches,3,0
+Queens,11040,Southeast Asian,1,0
+Queens,11101,Southeast Asian,3,0
+Queens,11103,Southeast Asian,2,0
+Queens,11106,Southeast Asian,3,0
+Queens,11354,Southeast Asian,1,0
+Queens,11355,Southeast Asian,1,0
+Queens,11358,Southeast Asian,2,0
+Queens,11361,Southeast Asian,2,0
+Queens,11362,Southeast Asian,1,0
+Queens,11373,Southeast Asian,7,0
+Queens,11385,Southeast Asian,1,0
+Queens,11102,Southwestern,1,0
+Queens,11104,Southwestern,1,0
+Queens,11040,Spanish,1,0
+Queens,11101,Spanish,1,0
+Queens,11103,Spanish,3,0
+Queens,11106,Spanish,1,0
+Queens,11354,Spanish,1,0
+Queens,11356,Spanish,3,0
+Queens,11361,Spanish,1,0
+Queens,11364,Spanish,1,0
+Queens,11366,Spanish,1,0
+Queens,11368,Spanish,14,0
+Queens,11369,Spanish,1,0
+Queens,11372,Spanish,13,0
+Queens,11373,Spanish,1,0
+Queens,11377,Spanish,1,0
+Queens,11385,Spanish,6,0
+Queens,11412,Spanish,1,0
+Queens,11416,Spanish,1,0
+Queens,11417,Spanish,1,0
+Queens,11418,Spanish,5,0
+Queens,11419,Spanish,1,0
+Queens,11420,Spanish,3,0
+Queens,11421,Spanish,11,0
+Queens,11422,Spanish,2,0
+Queens,11423,Spanish,4,0
+Queens,11426,Spanish,1,0
+Queens,11428,Spanish,2,0
+Queens,11430,Spanish,1,0
+Queens,11432,Spanish,15,0
+Queens,11433,Spanish,1,0
+Queens,11434,Spanish,2,0
+Queens,11435,Spanish,7,0
+Queens,11691,Spanish,5,0
+Queens,11694,Spanish,1,0
+Queens,11101,Steakhouse,1,0
+Queens,11103,Steakhouse,1,0
+Queens,11105,Steakhouse,2,0
+Queens,11354,Steakhouse,1,0
+Queens,11356,Steakhouse,1,0
+Queens,11360,Steakhouse,1,0
+Queens,11361,Steakhouse,1,0
+Queens,11366,Steakhouse,1,0
+Queens,11372,Steakhouse,2,0
+Queens,11373,Steakhouse,2,0
+Queens,11375,Steakhouse,1,0
+Queens,11420,Steakhouse,1,0
+Queens,11102,Tapas,1,0
+Queens,11354,Tapas,1,0
+Queens,11361,Tapas,1,0
+Queens,11372,Tapas,1,0
+Queens,11385,Tapas,1,0
+Queens,11420,Tapas,1,0
+Queens,11435,Tapas,1,0
+Queens,11101,Tex-Mex,3,0
+Queens,11102,Tex-Mex,1,0
+Queens,11104,Tex-Mex,1,0
+Queens,11105,Tex-Mex,2,0
+Queens,11358,Tex-Mex,1,0
+Queens,11360,Tex-Mex,2,0
+Queens,11361,Tex-Mex,1,0
+Queens,11362,Tex-Mex,1,0
+Queens,11365,Tex-Mex,1,0
+Queens,11366,Tex-Mex,1,0
+Queens,11368,Tex-Mex,5,0
+Queens,11370,Tex-Mex,1,0
+Queens,11372,Tex-Mex,5,0
+Queens,11373,Tex-Mex,4,0
+Queens,11374,Tex-Mex,3,0
+Queens,11375,Tex-Mex,3,0
+Queens,11377,Tex-Mex,2,0
+Queens,11378,Tex-Mex,1,0
+Queens,11379,Tex-Mex,1,0
+Queens,11385,Tex-Mex,4,0
+Queens,11412,Tex-Mex,1,0
+Queens,11413,Tex-Mex,1,0
+Queens,11414,Tex-Mex,1,0
+Queens,11415,Tex-Mex,1,0
+Queens,11418,Tex-Mex,1,0
+Queens,11419,Tex-Mex,2,0
+Queens,11422,Tex-Mex,1,0
+Queens,11426,Tex-Mex,1,0
+Queens,11428,Tex-Mex,1,0
+Queens,11430,Tex-Mex,1,0
+Queens,11432,Tex-Mex,4,0
+Queens,11433,Tex-Mex,2,0
+Queens,11434,Tex-Mex,1,0
+Queens,11435,Tex-Mex,2,0
+Queens,11691,Tex-Mex,3,0
+Queens,11693,Tex-Mex,1,0
+Queens,11694,Tex-Mex,1,0
+Queens,11101,Thai,11,0
+Queens,11103,Thai,6,0
+Queens,11104,Thai,1,0
+Queens,11105,Thai,2,0
+Queens,11106,Thai,6,0
+Queens,11354,Thai,2,0
+Queens,11357,Thai,1,0
+Queens,11358,Thai,3,0
+Queens,11361,Thai,3,0
+Queens,11362,Thai,2,0
+Queens,11364,Thai,2,0
+Queens,11366,Thai,4,0
+Queens,11372,Thai,6,0
+Queens,11373,Thai,18,0
+Queens,11374,Thai,4,0
+Queens,11375,Thai,3,0
+Queens,11377,Thai,6,0
+Queens,11378,Thai,1,0
+Queens,11379,Thai,1,0
+Queens,11385,Thai,4,0
+Queens,11415,Thai,1,0
+Queens,11693,Thai,1,0
+Queens,11101,Turkish,1,0
+Queens,11104,Turkish,1,0
+Queens,11105,Turkish,1,0
+Queens,11362,Turkish,1,0
+Queens,11373,Turkish,1,0
+Queens,11374,Turkish,1,0
+Queens,11375,Turkish,2,0
+Queens,11430,Turkish,1,0
+Queens,11004,Unknown,8,8
+Queens,11040,Unknown,3,3
+Queens,11101,Unknown,56,56
+Queens,11102,Unknown,13,13
+Queens,11103,Unknown,48,48
+Queens,11104,Unknown,26,26
+Queens,11105,Unknown,16,16
+Queens,11106,Unknown,14,14
+Queens,11354,Unknown,99,99
+Queens,11355,Unknown,27,27
+Queens,11356,Unknown,10,10
+Queens,11357,Unknown,7,7
+Queens,11358,Unknown,19,19
+Queens,11360,Unknown,2,2
+Queens,11361,Unknown,10,10
+Queens,11362,Unknown,5,5
+Queens,11363,Unknown,4,4
+Queens,11364,Unknown,9,9
+Queens,11365,Unknown,5,5
+Queens,11366,Unknown,3,3
+Queens,11367,Unknown,8,8
+Queens,11368,Unknown,31,31
+Queens,11369,Unknown,15,15
+Queens,11370,Unknown,2,2
+Queens,11371,Unknown,15,15
+Queens,11372,Unknown,23,23
+Queens,11373,Unknown,13,13
+Queens,11374,Unknown,9,9
+Queens,11375,Unknown,23,23
+Queens,11377,Unknown,17,17
+Queens,11378,Unknown,8,8
+Queens,11379,Unknown,5,5
+Queens,11385,Unknown,34,34
+Queens,11411,Unknown,3,3
+Queens,11412,Unknown,9,9
+Queens,11413,Unknown,5,5
+Queens,11414,Unknown,5,5
+Queens,11415,Unknown,2,2
+Queens,11416,Unknown,3,3
+Queens,11417,Unknown,12,12
+Queens,11418,Unknown,6,6
+Queens,11419,Unknown,11,11
+Queens,11420,Unknown,2,2
+Queens,11421,Unknown,11,11
+Queens,11422,Unknown,3,3
+Queens,11423,Unknown,7,7
+Queens,11426,Unknown,1,1
+Queens,11427,Unknown,1,1
+Queens,11428,Unknown,4,4
+Queens,11429,Unknown,1,1
+Queens,11430,Unknown,24,24
+Queens,11432,Unknown,18,18
+Queens,11433,Unknown,4,4
+Queens,11434,Unknown,9,9
+Queens,11435,Unknown,8,8
+Queens,11436,Unknown,3,3
+Queens,11691,Unknown,4,4
+Queens,11692,Unknown,2,2
+Queens,11693,Unknown,7,7
+Queens,11694,Unknown,8,8
+Queens,11697,Unknown,2,2
+Queens,11101,Vegan,1,0
+Queens,11385,Vegan,1,0
+Queens,11432,Vegan,1,0
+Queens,11004,Vegetarian,1,0
+Queens,11355,Vegetarian,1,0
+Queens,11416,Vegetarian,1,0
+Queens,11419,Vegetarian,1,0
+Queens,11422,Vegetarian,1,0
+Queens,11426,Vegetarian,2,0
+Queens,11432,Vegetarian,1,0
+Staten Island,10301,African,1,0
+Staten Island,10304,African,1,0
+Staten Island,10301,American,20,0
+Staten Island,10302,American,7,0
+Staten Island,10303,American,5,0
+Staten Island,10304,American,9,0
+Staten Island,10305,American,7,0
+Staten Island,10306,American,18,0
+Staten Island,10307,American,5,0
+Staten Island,10308,American,8,0
+Staten Island,10309,American,19,0
+Staten Island,10310,American,12,0
+Staten Island,10312,American,12,0
+Staten Island,10314,American,38,0
+Staten Island,10301,Asian/Asian Fusion,2,0
+Staten Island,10303,Asian/Asian Fusion,1,0
+Staten Island,10305,Asian/Asian Fusion,5,0
+Staten Island,10306,Asian/Asian Fusion,3,0
+Staten Island,10308,Asian/Asian Fusion,1,0
+Staten Island,10309,Asian/Asian Fusion,1,0
+Staten Island,10314,Asian/Asian Fusion,7,0
+Staten Island,10301,Bagels/Pretzels,2,0
+Staten Island,10305,Bagels/Pretzels,1,0
+Staten Island,10309,Bagels/Pretzels,3,0
+Staten Island,10314,Bagels/Pretzels,3,0
+Staten Island,10301,Bakery Products/Desserts,4,0
+Staten Island,10302,Bakery Products/Desserts,2,0
+Staten Island,10304,Bakery Products/Desserts,1,0
+Staten Island,10305,Bakery Products/Desserts,4,0
+Staten Island,10306,Bakery Products/Desserts,4,0
+Staten Island,10307,Bakery Products/Desserts,1,0
+Staten Island,10308,Bakery Products/Desserts,1,0
+Staten Island,10309,Bakery Products/Desserts,5,0
+Staten Island,10310,Bakery Products/Desserts,2,0
+Staten Island,10312,Bakery Products/Desserts,2,0
+Staten Island,10314,Bakery Products/Desserts,5,0
+Staten Island,10305,Bangladeshi,1,0
+Staten Island,10301,Barbecue,2,0
+Staten Island,10310,Barbecue,1,0
+Staten Island,10304,Bottled Beverages,1,0
+Staten Island,10308,Bottled Beverages,1,0
+Staten Island,10310,Cajun,1,0
+Staten Island,10301,Caribbean,1,0
+Staten Island,10302,Caribbean,1,0
+Staten Island,10304,Caribbean,1,0
+Staten Island,10301,Chicken,2,0
+Staten Island,10302,Chicken,2,0
+Staten Island,10303,Chicken,2,0
+Staten Island,10304,Chicken,2,0
+Staten Island,10305,Chicken,1,0
+Staten Island,10306,Chicken,3,0
+Staten Island,10308,Chicken,1,0
+Staten Island,10309,Chicken,2,0
+Staten Island,10310,Chicken,1,0
+Staten Island,10314,Chicken,5,0
+Staten Island,10301,Chinese,5,0
+Staten Island,10302,Chinese,8,0
+Staten Island,10303,Chinese,3,0
+Staten Island,10304,Chinese,6,0
+Staten Island,10305,Chinese,11,0
+Staten Island,10306,Chinese,19,0
+Staten Island,10307,Chinese,3,0
+Staten Island,10308,Chinese,5,0
+Staten Island,10309,Chinese,3,0
+Staten Island,10310,Chinese,5,0
+Staten Island,10312,Chinese,6,0
+Staten Island,10314,Chinese,18,0
+Staten Island,10301,Coffee/Tea,4,0
+Staten Island,10302,Coffee/Tea,2,0
+Staten Island,10303,Coffee/Tea,1,0
+Staten Island,10304,Coffee/Tea,4,0
+Staten Island,10305,Coffee/Tea,5,0
+Staten Island,10306,Coffee/Tea,9,0
+Staten Island,10307,Coffee/Tea,3,0
+Staten Island,10308,Coffee/Tea,1,0
+Staten Island,10309,Coffee/Tea,6,0
+Staten Island,10310,Coffee/Tea,7,0
+Staten Island,10312,Coffee/Tea,1,0
+Staten Island,10314,Coffee/Tea,14,0
+Staten Island,10314,Continental,2,0
+Staten Island,10301,Donuts,3,0
+Staten Island,10302,Donuts,1,0
+Staten Island,10303,Donuts,1,0
+Staten Island,10304,Donuts,1,0
+Staten Island,10305,Donuts,1,0
+Staten Island,10306,Donuts,6,0
+Staten Island,10307,Donuts,1,0
+Staten Island,10308,Donuts,2,0
+Staten Island,10309,Donuts,4,0
+Staten Island,10310,Donuts,1,0
+Staten Island,10312,Donuts,6,0
+Staten Island,10314,Donuts,12,0
+Staten Island,10306,Eastern European,2,0
+Staten Island,10314,Filipino,1,0
+Staten Island,10301,Frozen Desserts,1,0
+Staten Island,10303,Frozen Desserts,1,0
+Staten Island,10304,Frozen Desserts,1,0
+Staten Island,10305,Frozen Desserts,3,0
+Staten Island,10306,Frozen Desserts,8,0
+Staten Island,10307,Frozen Desserts,1,0
+Staten Island,10308,Frozen Desserts,3,0
+Staten Island,10309,Frozen Desserts,1,0
+Staten Island,10310,Frozen Desserts,2,0
+Staten Island,10312,Frozen Desserts,4,0
+Staten Island,10314,Frozen Desserts,6,0
+Staten Island,10301,Fusion,1,0
+Staten Island,10309,German,1,0
+Staten Island,10305,Greek,1,0
+Staten Island,10306,Greek,1,0
+Staten Island,10312,Greek,2,0
+Staten Island,10301,Hamburgers,2,0
+Staten Island,10302,Hamburgers,1,0
+Staten Island,10303,Hamburgers,2,0
+Staten Island,10304,Hamburgers,1,0
+Staten Island,10305,Hamburgers,1,0
+Staten Island,10306,Hamburgers,4,0
+Staten Island,10307,Hamburgers,1,0
+Staten Island,10310,Hamburgers,2,0
+Staten Island,10312,Hamburgers,2,0
+Staten Island,10314,Hamburgers,5,0
+Staten Island,10306,Hawaiian,1,0
+Staten Island,10314,Hawaiian,1,0
+Staten Island,10314,Hotdogs/Pretzels,1,0
+Staten Island,10301,Indian,2,0
+Staten Island,10303,Indian,1,0
+Staten Island,10304,Indian,2,0
+Staten Island,10305,Indian,1,0
+Staten Island,10306,Indian,1,0
+Staten Island,10308,Indian,1,0
+Staten Island,10314,Indian,1,0
+Staten Island,10302,Irish,1,0
+Staten Island,10310,Irish,1,0
+Staten Island,10312,Irish,2,0
+Staten Island,10301,Italian,4,0
+Staten Island,10302,Italian,2,0
+Staten Island,10303,Italian,1,0
+Staten Island,10304,Italian,3,0
+Staten Island,10305,Italian,12,0
+Staten Island,10306,Italian,9,0
+Staten Island,10307,Italian,4,0
+Staten Island,10308,Italian,7,0
+Staten Island,10309,Italian,7,0
+Staten Island,10310,Italian,4,0
+Staten Island,10312,Italian,8,0
+Staten Island,10314,Italian,4,0
+Staten Island,10301,Japanese,3,0
+Staten Island,10302,Japanese,3,0
+Staten Island,10303,Japanese,1,0
+Staten Island,10305,Japanese,3,0
+Staten Island,10306,Japanese,7,0
+Staten Island,10307,Japanese,1,0
+Staten Island,10308,Japanese,5,0
+Staten Island,10309,Japanese,5,0
+Staten Island,10310,Japanese,3,0
+Staten Island,10312,Japanese,7,0
+Staten Island,10314,Japanese,8,0
+Staten Island,10314,Jewish/Kosher,5,0
+Staten Island,10301,"Juice, Smoothies, Fruit Salads",1,0
+Staten Island,10302,"Juice, Smoothies, Fruit Salads",2,0
+Staten Island,10305,"Juice, Smoothies, Fruit Salads",1,0
+Staten Island,10306,"Juice, Smoothies, Fruit Salads",5,0
+Staten Island,10307,"Juice, Smoothies, Fruit Salads",1,0
+Staten Island,10309,"Juice, Smoothies, Fruit Salads",6,0
+Staten Island,10310,"Juice, Smoothies, Fruit Salads",1,0
+Staten Island,10312,"Juice, Smoothies, Fruit Salads",3,0
+Staten Island,10314,"Juice, Smoothies, Fruit Salads",3,0
+Staten Island,10303,Korean,1,0
+Staten Island,10306,Korean,3,0
+Staten Island,10314,Korean,2,0
+Staten Island,10301,Latin American,3,0
+Staten Island,10302,Latin American,2,0
+Staten Island,10303,Latin American,3,0
+Staten Island,10304,Latin American,2,0
+Staten Island,10305,Latin American,1,0
+Staten Island,10306,Latin American,1,0
+Staten Island,10314,Latin American,1,0
+Staten Island,10301,Mediterranean,1,0
+Staten Island,10302,Mediterranean,2,0
+Staten Island,10305,Mediterranean,3,0
+Staten Island,10306,Mediterranean,4,0
+Staten Island,10309,Mediterranean,1,0
+Staten Island,10310,Mediterranean,2,0
+Staten Island,10312,Mediterranean,1,0
+Staten Island,10301,Mexican,8,0
+Staten Island,10302,Mexican,17,0
+Staten Island,10304,Mexican,3,0
+Staten Island,10305,Mexican,7,0
+Staten Island,10306,Mexican,5,0
+Staten Island,10307,Mexican,1,0
+Staten Island,10308,Mexican,1,0
+Staten Island,10309,Mexican,3,0
+Staten Island,10310,Mexican,5,0
+Staten Island,10312,Mexican,1,0
+Staten Island,10314,Mexican,5,0
+Staten Island,10301,Middle Eastern,1,0
+Staten Island,10303,Middle Eastern,1,0
+Staten Island,10304,Middle Eastern,1,0
+Staten Island,10305,Middle Eastern,2,0
+Staten Island,10306,Middle Eastern,1,0
+Staten Island,10312,Middle Eastern,2,0
+Staten Island,10314,Middle Eastern,2,0
+Staten Island,10309,New American,1,0
+Staten Island,10301,Other,9,0
+Staten Island,10303,Other,1,0
+Staten Island,10304,Other,1,0
+Staten Island,10305,Other,2,0
+Staten Island,10306,Other,2,0
+Staten Island,10308,Other,3,0
+Staten Island,10309,Other,2,0
+Staten Island,10314,Other,5,0
+Staten Island,10303,Pakistani,1,0
+Staten Island,10303,Peruvian,3,0
+Staten Island,10306,Peruvian,1,0
+Staten Island,10310,Peruvian,1,0
+Staten Island,10301,Pizza,7,0
+Staten Island,10302,Pizza,8,0
+Staten Island,10303,Pizza,5,0
+Staten Island,10304,Pizza,8,0
+Staten Island,10305,Pizza,9,0
+Staten Island,10306,Pizza,14,0
+Staten Island,10307,Pizza,5,0
+Staten Island,10308,Pizza,5,0
+Staten Island,10309,Pizza,7,0
+Staten Island,10310,Pizza,5,0
+Staten Island,10312,Pizza,11,0
+Staten Island,10314,Pizza,19,0
+Staten Island,10303,Polish,1,0
+Staten Island,10305,Polish,1,0
+Staten Island,10305,Russian,1,0
+Staten Island,10301,Sandwiches,1,0
+Staten Island,10302,Sandwiches,3,0
+Staten Island,10303,Sandwiches,1,0
+Staten Island,10304,Sandwiches,1,0
+Staten Island,10306,Sandwiches,3,0
+Staten Island,10307,Sandwiches,1,0
+Staten Island,10308,Sandwiches,2,0
+Staten Island,10309,Sandwiches,1,0
+Staten Island,10312,Sandwiches,3,0
+Staten Island,10314,Sandwiches,8,0
+Staten Island,10303,Sandwiches/Salads/Mixed Buffet,1,0
+Staten Island,10305,Sandwiches/Salads/Mixed Buffet,1,0
+Staten Island,10312,Sandwiches/Salads/Mixed Buffet,2,0
+Staten Island,10314,Sandwiches/Salads/Mixed Buffet,1,0
+Staten Island,10304,Seafood,1,0
+Staten Island,10309,Seafood,1,0
+Staten Island,10314,Seafood,1,0
+Staten Island,10301,Soul Food,1,0
+Staten Island,10303,Soul Food,2,0
+Staten Island,10305,Soul Food,1,0
+Staten Island,10301,Spanish,7,0
+Staten Island,10302,Spanish,3,0
+Staten Island,10303,Spanish,1,0
+Staten Island,10304,Spanish,3,0
+Staten Island,10307,Spanish,1,0
+Staten Island,10308,Spanish,1,0
+Staten Island,10310,Spanish,2,0
+Staten Island,10314,Spanish,3,0
+Staten Island,10304,Steakhouse,1,0
+Staten Island,10314,Steakhouse,1,0
+Staten Island,10304,Tapas,1,0
+Staten Island,10301,Tex-Mex,1,0
+Staten Island,10302,Tex-Mex,1,0
+Staten Island,10304,Tex-Mex,1,0
+Staten Island,10305,Tex-Mex,1,0
+Staten Island,10306,Tex-Mex,3,0
+Staten Island,10307,Tex-Mex,1,0
+Staten Island,10312,Tex-Mex,1,0
+Staten Island,10314,Tex-Mex,5,0
+Staten Island,10301,Thai,2,0
+Staten Island,10306,Thai,1,0
+Staten Island,10310,Thai,1,0
+Staten Island,10314,Thai,3,0
+Staten Island,10302,Turkish,1,0
+Staten Island,10303,Turkish,1,0
+Staten Island,10305,Turkish,2,0
+Staten Island,10306,Turkish,1,0
+Staten Island,10312,Turkish,1,0
+Staten Island,10314,Turkish,1,0
+Staten Island,10301,Unknown,19,19
+Staten Island,10302,Unknown,16,16
+Staten Island,10303,Unknown,4,4
+Staten Island,10304,Unknown,3,3
+Staten Island,10305,Unknown,13,13
+Staten Island,10306,Unknown,16,16
+Staten Island,10307,Unknown,6,6
+Staten Island,10308,Unknown,6,6
+Staten Island,10309,Unknown,13,13
+Staten Island,10310,Unknown,10,10
+Staten Island,10312,Unknown,7,7
+Staten Island,10314,Unknown,13,13

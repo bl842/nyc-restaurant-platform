@@ -1,0 +1,82 @@
+[
+  {
+    "file": "dcwp_delivery.xlsx",
+    "url": "https://www.nyc.gov/assets/dca/downloads/xlsx/Restaurant-Delivery-App-Data-Quarterly.xlsx",
+    "resolved_url": "https://www.nyc.gov/assets/dca/downloads/xlsx/Restaurant-Delivery-App-Data-Quarterly.xlsx",
+    "retrieved_utc": "2026-10-07T04:21:08.329030+00:00",
+    "bytes": 27563,
+    "sha256": "a274864c15e4b21ad332bd8594e6f8ca65bb2d5bc0318eefe725e869643b9eed",
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "status": "ok"
+  },
+  {
+    "file": "comptroller_economy_2025.html",
+    "url": "https://comptroller.nyc.gov/reports/annual-state-of-the-citys-economy-and-finances-2025/",
+    "resolved_url": "https://comptroller.nyc.gov/reports/annual-state-of-the-citys-economy-and-finances-2025/",
+    "retrieved_utc": "2026-10-07T04:21:11.388281+00:00",
+    "bytes": 621828,
+    "sha256": "947bd7020d122d1a27097a5c40846447ace5726eadc2b801c725f01ccf720197",
+    "content_type": "text/html; charset=UTF-8",
+    "status": "ok"
+  },
+  {
+    "file": "comptroller_storefronts_2026.html",
+    "url": "https://comptroller.nyc.gov/reports/whos-minding-the-storefronts/",
+    "resolved_url": "https://comptroller.nyc.gov/reports/whos-minding-the-storefronts/",
+    "retrieved_utc": "2026-10-07T04:21:10.928480+00:00",
+    "bytes": 143019,
+    "sha256": "13e4671906aad2ea37b9967f2dfd49ec1307a95c66555e88c7f6a4375ebdd408",
+    "content_type": "text/html; charset=UTF-8",
+    "status": "ok"
+  },
+  {
+    "file": "rebny_manhattan_h1_2026.pdf",
+    "url": "https://downloads.ctfassets.net/6zi14rd5umxw/3Vr3b2g2AgkuFQBWAqLB9t/67f0279be062efb9eef66e3308d38cdb/Manhattan_Retail_Report_H1_2026__1_.pdf",
+    "resolved_url": "https://downloads.ctfassets.net/6zi14rd5umxw/3Vr3b2g2AgkuFQBWAqLB9t/67f0279be062efb9eef66e3308d38cdb/Manhattan_Retail_Report_H1_2026__1_.pdf",
+    "retrieved_utc": "2026-10-07T04:21:09.500212+00:00",
+    "bytes": 18076026,
+    "sha256": "d28cd7c4c849d8e9dfb0864b7060ba2fb96edd9bb7b2807856e39a61939fd07b",
+    "content_type": "application/pdf",
+    "status": "ok"
+  },
+  {
+    "file": "times_square_aug_2026.pdf",
+    "url": "https://cdn.prod.website-files.com/66164ec19113caaa1f66178a/6a99adcee6d25387709e7a2f_August%20%2726%20Monthly%20Economic%20Indicator%20Report.pdf",
+    "resolved_url": "https://cdn.prod.website-files.com/66164ec19113caaa1f66178a/6a99adcee6d25387709e7a2f_August%20%2726%20Monthly%20Economic%20Indicator%20Report.pdf",
+    "retrieved_utc": "2026-10-07T04:21:09.146293+00:00",
+    "bytes": 649179,
+    "sha256": "24136695fb5e9b24486529215143df71bb9873f8fb77a431a6c5b504074c5ae4",
+    "content_type": "application/pdf",
+    "status": "ok"
+  },
+  {
+    "file": "dohmh_metadata.json",
+    "url": "https://data.cityofnewyork.us/api/views/43nn-pn8j.json",
+    "resolved_url": "https://data.cityofnewyork.us/api/views/43nn-pn8j.json",
+    "retrieved_utc": "2026-10-07T04:21:09.191955+00:00",
+    "bytes": 60928,
+    "sha256": "ce9bbcee595922a43efd76afa9aeeccd6b4238d2f3eb47f7043cd57a0aed1229",
+    "content_type": "application/json; charset=utf-8",
+    "status": "ok"
+  },
+  {
+    "file": "dohmh_counts.json",
+    "url": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?%24select=count%28%2A%29+as+inspection_rows%2Ccount%28distinct+camis%29+as+distinct_camis",
+    "resolved_url": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?%24select=count%28%2A%29+as+inspection_rows%2Ccount%28distinct+camis%29+as+distinct_camis",
+    "retrieved_utc": "2026-10-07T04:21:10.820899+00:00",
+    "bytes": 56,
+    "sha256": "1e045002b03cb20e079abd0a60d7d238055265bf24dcaeeb21705b2c93c3c368",
+    "content_type": "application/json;charset=utf-8",
+    "status": "ok"
+  },
+  {
+    "file": "dohmh_restaurants.csv",
+    "url": "https://data.cityofnewyork.us/resource/43nn-pn8j.csv?%24select=camis%2Cdba%2Cboro%2Ccuisine_description%2Czipcode%2Clatitude%2Clongitude%2Cmax%28inspection_date%29+as+latest_inspection_date%2Cmax%28record_date%29+as+record_date&%24group=camis%2Cdba%2Cboro%2Ccuisine_description%2Czipcode%2Clatitude%2Clongitude&%24order=camis&%24limit=50000",
+    "resolved_url": "https://data.cityofnewyork.us/resource/43nn-pn8j.csv?%24select=camis%2Cdba%2Cboro%2Ccuisine_description%2Czipcode%2Clatitude%2Clongitude%2Cmax%28inspection_date%29+as+latest_inspection_date%2Cmax%28record_date%29+as+record_date&%24group=camis%2Cdba%2Cboro%2Ccuisine_description%2Czipcode%2Clatitude%2Clongitude&%24order=camis&%24limit=50000",
+    "retrieved_utc": "2026-10-07T04:21:24.022686+00:00",
+    "bytes": 4639265,
+    "sha256": "83218f6b647a0d41492efc6985a63ce346be3264e49abc0e45ac7ea64d0b8d6b",
+    "content_type": "text/csv; charset=UTF-8",
+    "status": "ok"
+  }
+]

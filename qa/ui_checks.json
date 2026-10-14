@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "checked": [
+    "three entry paths",
+    "cuisine and borough filtering",
+    "ZIP filter",
+    "CSV download",
+    "rent area calculation and invalid input",
+    "16 rent corridors including missing values",
+    "quarter comparison and identical-quarter zero changes",
+    "market context figures",
+    "390 and 320 px overflow",
+    "no JavaScript errors"
+  ],
+  "evidence_origin": "Retained from 7 October 2026 package",
+  "final_rerun_status": "No supported browser-control capability available. Map DOM tests are in map_checks.json.",
+  "script_and_embedded_data_unchanged": false,
+  "applicability": "Historical pre-map prototype only; not a browser pass for this modified release"
+}

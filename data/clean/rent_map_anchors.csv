@@ -1,0 +1,17 @@
+id,corridor,borough,longitude,latitude,x,y,rent,period,source_id,source_page,anchor_description,location_method
+1,Harlem (125th),Manhattan,-73.9485,40.8089,426.375,305.76,,H1 2026,S3,24,125th Street near Lenox Avenue,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+2,Upper West Side (Broadway),Manhattan,-73.982,40.7788,385.739,353.92,275.0,H1 2026,S3,24,Broadway near West 72nd Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+3,Columbus Avenue,Manhattan,-73.9775,40.7776,391.197,355.84,350.0,H1 2026,S3,24,Columbus Avenue near West 72nd Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+4,Upper East Side (86th Street),Manhattan,-73.9543,40.7786,419.339,354.24,300.0,H1 2026,S3,24,East 86th Street near Third Avenue,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+5,Madison Avenue,Manhattan,-73.969,40.7673,401.508,372.32,750.0,H1 2026,S3,24,Madison Avenue near East 65th Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+6,Third Avenue,Manhattan,-73.962,40.765,409.999,376.0,251.0,H1 2026,S3,24,Third Avenue near East 66th Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+7,Lower Fifth Avenue,Manhattan,-73.9785,40.7558,389.984,390.72,650.0,H1 2026,S3,24,Fifth Avenue near West 45th Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+8,Upper Fifth Avenue,Manhattan,-73.9745,40.7605,394.836,383.2,2500.0,H1 2026,S3,24,Fifth Avenue near West 53rd Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+9,Times Square,Manhattan,-73.9851,40.758,381.978,387.2,1328.0,H1 2026,S3,24,Times Square center; source endpoint text is inconsistent,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+10,Herald Square,Manhattan,-73.9878,40.7498,378.703,400.32,400.0,H1 2026,S3,24,Herald Square near West 34th Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+11,Flatiron (Fifth Avenue),Manhattan,-73.992,40.739,373.609,417.6,313.0,H1 2026,S3,24,Fifth Avenue near West 19th Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+12,Flatiron (Broadway),Manhattan,-73.99,40.7385,376.035,418.4,310.0,H1 2026,S3,24,Broadway near East 20th Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+13,Meatpacking,Manhattan,-74.006,40.7416,356.626,413.44,275.0,H1 2026,S3,24,West 14th Street between Ninth and Tenth Avenues,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+14,West Village (Bleecker),Manhattan,-74.003,40.734,360.265,425.6,,H1 2026,S3,24,Bleecker Street near Christopher Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+15,SoHo,Manhattan,-73.9985,40.724,365.724,441.6,500.0,H1 2026,S3,24,Broadway near Prince Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
+16,Financial District,Manhattan,-74.006,40.7105,356.626,463.2,200.0,H1 2026,S3,24,Broadway near Fulton Street,Illustrative manually placed anchor; not a surveyed corridor footprint or an NTA rent estimate
