@@ -4,7 +4,7 @@ An exploratory NYC restaurant dashboard built with Python, SQLite and browser Ja
 
 ## Interactive demo
 
-The homepage is `index.html`. It contains its data and map geometry and can be opened offline. After GitHub Pages is enabled for `main` and the repository root, the Pages settings will show the published URL. Deployment has not yet been completed.
+The homepage is `index.html`. It contains its data and map geometry and can be opened offline. The public dashboard is available at [https://bl842.github.io/nyc-restaurant-platform/](https://bl842.github.io/nyc-restaurant-platform/). GitHub Pages serves `main` from the repository root. Public access and the published map module were verified on 14 October 2026.
 
 ## Main findings and scope
 
@@ -72,6 +72,6 @@ MAP_GUIDE.md defines the spatial matching and heat measures. The map uses 262 of
 
 Supply uses unique CAMIS records and publisher cuisine categories. All facts retain their native geography and period. No verified relationship joins Manhattan retail corridors to ZIP codes or allocates citywide delivery totals to individual restaurants. Cuisine shares are supply shares, not revenue shares. The platform does not estimate restaurant profit or success probability.
 
-The prototype is an offline review artifact. Native BI workbooks, live hosting, user accounts, scheduled refresh, demand enrichment and opportunity ranking are deferred. Sponsor approval, user interviews and user acceptance results are not claimed. Proposed roles, thresholds and current-workflow assumptions require confirmation.
+The dashboard is available through GitHub Pages and can also be opened offline. Native BI workbooks, user accounts, scheduled refresh, demand enrichment and opportunity ranking are deferred. Sponsor approval, user interviews and user acceptance results are not claimed. Proposed roles, thresholds and current-workflow assumptions require confirmation.
 
 The prior browser pass is historical and does not validate the map release. New Node calculation and JSDOM behavior tests pass; real browser layout and SVG pointer panning remain unverified. See qa/map_checks.json. Install jsdom 26.1.0 to run `node verify_maps.cjs`. Run `python verify_final_release.py` for data and structure controls.
